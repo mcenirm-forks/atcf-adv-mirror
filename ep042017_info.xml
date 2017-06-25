@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>3</advisoryNumber>
+<advisoryNumber>4</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170625 10:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170625 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201706251500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 AM CDT Sun Jun 25</messageDateTimeLocalStr>
-<timeEpochSeconds>1498402800</timeEpochSeconds>
+<messageDateTimeLocal>20170625 04:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170625 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201706252100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 PM CDT Sun Jun 25</messageDateTimeLocalStr>
+<timeEpochSeconds>1498424400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>DORA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>15.0</centerLocLatitude>
-<centerLocLongitude>-101.8</centerLocLongitude>
+<centerLocLatitude>15.7</centerLocLatitude>
+<centerLocLongitude>-103</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>15.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>101.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>15.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>103.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>50</systemIntensityMph>
@@ -38,34 +38,34 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 295 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>12</systemSpeedMph>
-<systemSpeedKph>19</systemSpeedKph>
-<systemSpeedKts>10</systemSpeedKts>
+<systemDirectionOfMotion>WNW OR 300 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>14</systemSpeedMph>
+<systemSpeedKph>22</systemSpeedKph>
+<systemSpeedKts>12</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 180 MI...295 KM SW OF ACAPULCO MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 320 MI...520 KM SSE OF MANZANILLO MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 165 MI...270 KM SSW OF LAZARO CARDENAS MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 245 MI...390 KM SSE OF MANZANILLO MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Dora Advisory Number   3
+Tropical Storm Dora Advisory Number   4
 NWS National Hurricane Center Miami FL       EP042017
-1000 AM CDT Sun Jun 25 2017
+400 PM CDT Sun Jun 25 2017
 
-...DORA CONTINUES TO STRENGTHEN...
+...DORA EXPECTED TO BECOME A HURRICANE TOMORROW...
 ...HEAVY RAINS POSSIBLE ALONG THE SOUTHWESTERN COAST OF MEXICO...
 
 
-SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...15.0N 101.8W
-ABOUT 180 MI...295 KM SW OF ACAPULCO MEXICO
-ABOUT 320 MI...520 KM SSE OF MANZANILLO MEXICO
+SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...15.7N 103.0W
+ABOUT 165 MI...270 KM SSW OF LAZARO CARDENAS MEXICO
+ABOUT 245 MI...390 KM SSE OF MANZANILLO MEXICO
 MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
-PRESENT MOVEMENT...WNW OR 295 DEGREES AT 12 MPH...19 KM/H
+PRESENT MOVEMENT...WNW OR 300 DEGREES AT 14 MPH...22 KM/H
 MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
 
 
@@ -76,17 +76,16 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 AM CDT (1500 UTC), the center of Tropical Storm Dora was
-located near latitude 15.0 North, longitude 101.8 West.  Dora is
-moving toward the west-northwest near 12 mph (19 km/h), and this
+At 400 PM CDT (2100 UTC), the center of Tropical Storm Dora was
+located near latitude 15.7 North, longitude 103.0 West.  Dora is
+moving toward the west-northwest near 14 mph (22 km/h), and this
 general motion is expected to continue over the next 48 hours.  On
 the forecast track, the center of Dora is expected to move parallel
 to but remain offshore of the coast of Mexico.
 
-Satellite images indicate that the maximum sustained winds have
-increased to near 50 mph (85 km/h) with higher gusts.
-Additional strengthening is forecast during the next day or so, and
-Dora could become a hurricane on Monday.
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+Strengthening is expected during the next day or so, and Dora
+is forecast to become a hurricane on Monday.
 
 Tropical-storm-force winds extend outward up to 45 miles (75 km)
 from the center.
@@ -104,7 +103,7 @@ through Monday.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 PM CDT.
+Next complete advisory at 1000 PM CDT.
 
 $$
 Forecaster Pasch
