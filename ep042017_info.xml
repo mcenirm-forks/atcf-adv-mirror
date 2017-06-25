@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP042017</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>4</messageBinNumber>
+<advisoryNumber>1</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20170624 10:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170625 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201706250300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1000 PM CDT Sat Jun 24</messageDateTimeLocalStr>
+<timeEpochSeconds>1498359600</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>TROPICAL DEPRESSION</systemType>
+<systemName>FOUR-E</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>14.3</centerLocLatitude>
+<centerLocLongitude>-100</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>14.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>100.0W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>30</systemIntensityMph>
+<systemIntensityKph>45</systemIntensityKph>
+<systemIntensityKts>25</systemIntensityKts>
+<systemMslpMb>1006</systemMslpMb>
+<systemMslpInHg>29.71</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct5d>N/A</formationChancePct5d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>WNW OR 300 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>10</systemSpeedMph>
+<systemSpeedKph>17</systemSpeedKph>
+<systemSpeedKts>9</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 180 MI...290 KM S OF ACAPULCO MEXICO</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPEP4 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Depression Four-E Advisory Number   1
+NWS National Hurricane Center Miami FL       EP042017
+1000 PM CDT Sat Jun 24 2017
+
+...TROPICAL DEPRESSION FORMS SOUTH OF SOUTHERN MEXICO...
+...HEAVY RAINS POSSIBLE ALONG THE SOUTHWESTERN COAST OF MEXICO...
+
+
+SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...14.3N 100.0W
+ABOUT 180 MI...290 KM S OF ACAPULCO MEXICO
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...WNW OR 300 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 1000 PM CDT (0300 UTC), the center of Tropical Depression Four-E
+was located near latitude 14.3 North, longitude 100.0 West.  The
+depression is moving toward the west-northwest near 10 mph (17
+km/h), and this general motion is expected to continue through late
+Monday.  On the forecast track, the center of the depression is
+expected to move parallel to but remain offshore of the coast of
+Mexico.
+
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+Strengthening is forecast during the next 48 hours, and the
+depression is expected to become a tropical storm on Sunday.
+
+The estimated minimum central pressure is 1006 mb (29.71 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+RAINFALL:  Tropical Depression Four-E is expected to produce rain
+accumulations of 1 to 3 inches with isolated maximum amounts of 5
+inches along coastal sections of the Mexican states of Oaxaca,
+Guerrero, and Michoacan through Monday.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 AM CDT.
+
+$$
+Forecaster Berg
+
+NNNN
+</message>
+</cycloneMessage>
