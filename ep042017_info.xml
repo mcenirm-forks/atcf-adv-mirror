@@ -5,68 +5,67 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>5</advisoryNumber>
+<advisoryNumber>6</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170625 10:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170626 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201706260300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 PM CDT Sun Jun 25</messageDateTimeLocalStr>
-<timeEpochSeconds>1498446000</timeEpochSeconds>
+<messageDateTimeLocal>20170626 04:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170626 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201706260900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 AM CDT Mon Jun 26</messageDateTimeLocalStr>
+<timeEpochSeconds>1498467600</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL STORM</systemType>
+<systemType>HURRICANE</systemType>
 <systemName>DORA</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.4</centerLocLatitude>
-<centerLocLongitude>-104.3</centerLocLongitude>
+<centerLocLatitude>16.7</centerLocLatitude>
+<centerLocLongitude>-105.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>104.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>16.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>105.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>70</systemIntensityMph>
-<systemIntensityKph>110</systemIntensityKph>
-<systemIntensityKts>60</systemIntensityKts>
-<systemMslpMb>996</systemMslpMb>
-<systemMslpInHg>29.42</systemMslpInHg>
-<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<systemIntensityMph>80</systemIntensityMph>
+<systemIntensityKph>130</systemIntensityKph>
+<systemIntensityKts>70</systemIntensityKts>
+<systemMslpMb>989</systemMslpMb>
+<systemMslpInHg>29.21</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 300 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>14</systemSpeedMph>
-<systemSpeedKph>22</systemSpeedKph>
-<systemSpeedKts>12</systemSpeedKts>
+<systemDirectionOfMotion>WNW OR 295 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>13</systemSpeedMph>
+<systemSpeedKph>20</systemSpeedKph>
+<systemSpeedKts>11</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 180 MI...290 KM S OF MANZANILLO MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 290 MI...470 KM SSE OF CABO CORRIENTES MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 170 MI...275 KM SSW OF MANZANILLO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 255 MI...415 KM S OF CABO CORRIENTES MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Dora Advisory Number   5
+Hurricane Dora Advisory Number   6
 NWS National Hurricane Center Miami FL       EP042017
-1000 PM CDT Sun Jun 25 2017
+400 AM CDT Mon Jun 26 2017
 
-...DORA QUICKLY STRENGTHENING...
-...EXPECTED TO BECOME A HURRICANE SOON...
+...DORA BECOMES THE FIRST HURRICANE OF THE SEASON...
 
 
-SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...16.4N 104.3W
-ABOUT 180 MI...290 KM S OF MANZANILLO MEXICO
-ABOUT 290 MI...470 KM SSE OF CABO CORRIENTES MEXICO
-MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
-PRESENT MOVEMENT...WNW OR 300 DEGREES AT 14 MPH...22 KM/H
-MINIMUM CENTRAL PRESSURE...996 MB...29.42 INCHES
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.7N 105.3W
+ABOUT 170 MI...275 KM SSW OF MANZANILLO MEXICO
+ABOUT 255 MI...415 KM S OF CABO CORRIENTES MEXICO
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+PRESENT MOVEMENT...WNW OR 295 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...989 MB...29.21 INCHES
 
 
 WATCHES AND WARNINGS
@@ -76,30 +75,29 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 PM CDT (0300 UTC), the center of Tropical Storm Dora was
-located near latitude 16.4 North, longitude 104.3 West. Dora is
-moving toward the west-northwest near 14 mph (22 km/h) and this
+At 400 AM CDT (0900 UTC), the eye of Hurricane Dora was located
+near latitude 16.7 North, longitude 105.3 West. Dora is moving
+toward the west-northwest near 13 mph (20 km/h), and this
 general motion with some decrease in forward speed is expected
 over the next 48 hours. On the forecast track, the center of Dora
-is expected to move parallel to but remain offshore of the coast
-of southwestern Mexico.
+is expected to remain offshore of the coast of southwestern Mexico.
 
-Maximum sustained winds have increased to near 70 mph (110 km/h)
-with higher gusts.  Additional strengthening is forecast during the
-next 24 hours and Dora is expected to become a hurricane by early
-Monday. Weakening is forecast to begin Monday night or Tuesday.
+Satellite data indicate that maximum sustained winds have increased
+to near 80 mph (130 km/h) with higher gusts.  Some strengthening is
+likely today before weakening is forecast to begin on Tuesday.
 
-Tropical-storm-force winds extend outward up to 60 miles (95 km)
-from the center.
+Hurricane-force winds extend outward up to 15 miles (30 km) from the
+center and tropical-storm-force winds extend outward up to 80 miles
+(130 km).
 
-The estimated minimum central pressure is 996 mb (29.42 inches).
+The estimated minimum central pressure is 989 mb (29.21 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-RAINFALL:  Dora is expected to produce rain accumulations of 1 to 3
+RAINFALL:  Dora is expected to produce rain accumulations of 1 to 2
 inches along coastal sections of the Mexican states of Guerrero and
-Michoacan through Monday.
+Michoacan through this evening.
 
 SURF:  Swells generated by Dora are affecting portions of
 the coast of southwest Mexico.  These swells are expected to spread
@@ -111,10 +109,10 @@ Please consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 AM CDT.
+Next complete advisory at 1000 AM CDT.
 
 $$
-Forecaster Brown
+Forecaster Blake
 
 NNNN
 </message>
