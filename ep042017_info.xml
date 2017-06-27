@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>8</advisoryNumber>
+<advisoryNumber>9</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170626 03:00:00 PM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170626 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201706262100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0300 PM MDT Mon Jun 26</messageDateTimeLocalStr>
-<timeEpochSeconds>1498510800</timeEpochSeconds>
+<messageDateTimeLocal>20170626 09:00:00 PM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170627 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201706270300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0900 PM MDT Mon Jun 26</messageDateTimeLocalStr>
+<timeEpochSeconds>1498532400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>DORA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>17.8</centerLocLatitude>
-<centerLocLongitude>-107.3</centerLocLongitude>
+<centerLocLatitude>18.4</centerLocLatitude>
+<centerLocLongitude>-108.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>17.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>107.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>108.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>90</systemIntensityMph>
@@ -38,33 +38,33 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 295 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>WNW OR 300 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>13</systemSpeedMph>
 <systemSpeedKph>20</systemSpeedKph>
 <systemSpeedKts>11</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 210 MI...335 KM SSW OF CABO CORRIENTES MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 390 MI...630 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 220 MI...350 KM SW OF CABO CORRIENTES MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 325 MI...525 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Dora Advisory Number   8
+Hurricane Dora Advisory Number   9
 NWS National Hurricane Center Miami FL       EP042017
-300 PM MDT Mon Jun 26 2017
+900 PM MDT Mon Jun 26 2017
 
-...DORA MOVING AWAY FROM THE SOUTHWESTERN COAST OF MEXICO...
+...DORA MAINTAINING ITS INTENSITY FOR NOW...
 
 
-SUMMARY OF 300 PM MDT...2100 UTC...INFORMATION
+SUMMARY OF 900 PM MDT...0300 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...17.8N 107.3W
-ABOUT 210 MI...335 KM SSW OF CABO CORRIENTES MEXICO
-ABOUT 390 MI...630 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+LOCATION...18.4N 108.3W
+ABOUT 220 MI...350 KM SW OF CABO CORRIENTES MEXICO
+ABOUT 325 MI...525 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
-PRESENT MOVEMENT...WNW OR 295 DEGREES AT 13 MPH...20 KM/H
+PRESENT MOVEMENT...WNW OR 300 DEGREES AT 13 MPH...20 KM/H
 MINIMUM CENTRAL PRESSURE...981 MB...28.97 INCHES
 
 
@@ -75,20 +75,20 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 300 PM MDT (2100 UTC), the center of Hurricane Dora was located
-near latitude 17.8 North, longitude 107.3 West. Dora is moving
-toward the west-northwest near 13 mph (20 km/h), and this general
-motion with some decrease in forward speed is expected over the next
-couple days.  On the forecast track, the center of Dora will
-continue to move away from the coast of southwestern Mexico and pass
-well to the south of the Baja California peninsula on Tuesday.
+At 900 PM MDT (0300 UTC), the large eye of Hurricane Dora was
+located near latitude 18.4 North, longitude 108.3 West. Dora is
+moving toward the west-northwest near 13 mph (20 km/h) and this
+general motion with some decrease in forward speed is expected over
+the next couple of days. On the forecast track, the center of Dora
+is expected to pass over or just north of Socorro Island on
+Tuesday, and remain well south of the Baja California peninsula.
 
-Maximum sustained winds are near 90 mph (150 km/h) with higher
+Maximum sustained winds remain near 90 mph (150 km/h) with higher
 gusts. Gradual weakening is expected during the next 48 hours, and
-Dora is forecast to become a tropical storm by Tuesday night or
+Dora is forecast to become a tropical storm Tuesday night or
 Wednesday morning.
 
-Hurricane-force winds extend outward up to 25 miles (35 km) from the
+Hurricane-force winds extend outward up to 30 miles (45 km) from the
 center and tropical-storm-force winds extend outward up to 80 miles
 (130 km).
 
@@ -97,24 +97,20 @@ The estimated minimum central pressure is 981 mb (28.97 inches).
 
 HAZARDS AFFECTING LAND
 ----------------------
-RAINFALL:  Dora is expected to produce additional rain accumulations
-of up to 1 inch along coastal sections of the Mexican states of
-Guerrero and Michoacan into this evening.
-
 SURF:  Swells generated by Dora are affecting portions of the
 coast of southwest Mexico.  These swells are expected to spread
 northwestward and begin affecting portions of the coast of the
-southern Baja California peninsula on Tuesday.  These swells are
-likely to cause life-threatening surf and rip current conditions.
-Please consult products from your local weather office.
+southern Baja California peninsula by early Tuesday.  These
+swells are likely to cause life-threatening surf and rip current
+conditions. Please consult products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 900 PM MDT.
+Next complete advisory at 300 AM MDT.
 
 $$
-Forecaster Stewart
+Forecaster Brown
 
 NNNN
 </message>
