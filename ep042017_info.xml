@@ -5,65 +5,68 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>11</advisoryNumber>
+<advisoryNumber>12</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170627 09:00:00 AM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170627 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201706271500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0900 AM MDT Tue Jun 27</messageDateTimeLocalStr>
-<timeEpochSeconds>1498575600</timeEpochSeconds>
+<messageDateTimeLocal>20170627 03:00:00 PM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170627 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201706272100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0300 PM MDT Tue Jun 27</messageDateTimeLocalStr>
+<timeEpochSeconds>1498597200</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>HURRICANE</systemType>
+<systemType>TROPICAL STORM</systemType>
 <systemName>DORA</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>19.3</centerLocLatitude>
-<centerLocLongitude>-110.2</centerLocLongitude>
+<centerLocLatitude>19.6</centerLocLatitude>
+<centerLocLongitude>-111.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>19.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>110.2W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>19.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>111.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>75</systemIntensityMph>
-<systemIntensityKph>120</systemIntensityKph>
-<systemIntensityKts>65</systemIntensityKts>
-<systemMslpMb>990</systemMslpMb>
-<systemMslpInHg>29.24</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<systemIntensityMph>65</systemIntensityMph>
+<systemIntensityKph>100</systemIntensityKph>
+<systemIntensityKts>55</systemIntensityKts>
+<systemMslpMb>995</systemMslpMb>
+<systemMslpInHg>29.39</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 300 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>13</systemSpeedMph>
 <systemSpeedKph>20</systemSpeedKph>
 <systemSpeedKts>11</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 250 MI...400 KM S OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 65 MI...105 KM NNW OF SOCORRO ISLAND</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 245 MI...400 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Dora Advisory Number  11
+Tropical Storm Dora Advisory Number  12
 NWS National Hurricane Center Miami FL       EP042017
-900 AM MDT Tue Jun 27 2017
+300 PM MDT Tue Jun 27 2017
 
-...DORA CONTINUES TO WEAKEN...
+...DORA WEAKENS TO A TROPICAL STORM AS IT PASSES NORTH OF SOCORRO
+ISLAND...
 
 
-SUMMARY OF 900 AM MDT...1500 UTC...INFORMATION
+SUMMARY OF 300 PM MDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...19.3N 110.2W
-ABOUT 250 MI...400 KM S OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
-PRESENT MOVEMENT...WNW OR 300 DEGREES AT 13 MPH...20 KM/H
-MINIMUM CENTRAL PRESSURE...990 MB...29.24 INCHES
+LOCATION...19.6N 111.4W
+ABOUT 65 MI...105 KM NNW OF SOCORRO ISLAND
+ABOUT 245 MI...400 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...995 MB...29.39 INCHES
 
 
 WATCHES AND WARNINGS
@@ -73,42 +76,41 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 900 AM MDT (1500 UTC), the center of Hurricane Dora was located
-near latitude 19.3 North, longitude 110.2 West.  Dora is moving
-toward the west-northwest near 13 mph (20 km/h.  This general motion
-with some decrease in forward speed is expected today and Wednesday,
-with a turn toward the west expected by Thursday. On the forecast
-track, the center of Dora is expected to pass just north of Socorro
-Island later today, and remain well south of the Baja California
-peninsula.
+At 300 PM MDT (2100 UTC), the center of Tropical Storm Dora was
+located near latitude 19.6 North, longitude 111.4 West. Dora is
+moving toward the west-northwest near 13 mph (20 km/h) and this
+general motion is expected to continue through Wednesday night,
+with a turn toward the west expected Thursday or Thursday night.
 
-Maximum sustained winds have decreased to near 75 mph (120 km/h)
-with higher gusts.  Continued weakening is forecast during the
-next 48 hours, and Dora could become a remnant low by Thursday.
+Maximum sustained winds have decreased to near 65 mph (100 km/h)
+with higher gusts.  Rapid weakening is forecast during the next
+36 to 48 hours, and Dora is expected to become a remnant low
+Wednesday night or Thursday.
 
-Hurricane-force winds extend outward up to 15 miles (30 km) from the
-center and tropical-storm-force winds extend outward up to 45 miles
-(75 km).
+Tropical-storm-force winds extend outward up to 45 miles (75 km)
+from the center.  During the past several hours, the Mexican
+automated station on Socorro Island has reported wind gusts of
+40 mph (65 km/h).
 
-The estimated minimum central pressure is 990 mb (29.24 inches).
+The estimated minimum central pressure is 995 mb (29.39 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-SURF:  Swells generated by Dora are affecting portions of the
-coast of southwest Mexico.  These swells are expected to spread
-northwestward and begin affecting portions of the coast of the
-southern Baja California peninsula today through Wednesday.  These
-swells are likely to cause life-threatening surf and rip current
-conditions. Please consult products from your local weather office.
+SURF:  Swells generated by Dora will continue to affect portions
+of the coast of southwest Mexico through Wednesday, and also affect
+portions of the coast of the southern Baja California peninsula
+over the next couple of days. These swells are likely to cause
+life-threatening surf and rip current conditions. Please consult
+products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 300 PM MDT.
+Next complete advisory at 900 PM MDT.
 
 $$
-Forecaster Pasch
+Forecaster Beven
 
 NNNN
 </message>
