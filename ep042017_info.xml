@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>12</advisoryNumber>
+<advisoryNumber>13</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170627 03:00:00 PM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170627 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201706272100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0300 PM MDT Tue Jun 27</messageDateTimeLocalStr>
-<timeEpochSeconds>1498597200</timeEpochSeconds>
+<messageDateTimeLocal>20170627 09:00:00 PM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170628 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201706280300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0900 PM MDT Tue Jun 27</messageDateTimeLocalStr>
+<timeEpochSeconds>1498618800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>DORA</systemName>
@@ -19,54 +19,52 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>19.6</centerLocLatitude>
-<centerLocLongitude>-111.4</centerLocLongitude>
+<centerLocLatitude>19.7</centerLocLatitude>
+<centerLocLongitude>-112.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>19.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>111.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>19.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>112.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>65</systemIntensityMph>
-<systemIntensityKph>100</systemIntensityKph>
-<systemIntensityKts>55</systemIntensityKts>
-<systemMslpMb>995</systemMslpMb>
-<systemMslpInHg>29.39</systemMslpInHg>
+<systemIntensityMph>50</systemIntensityMph>
+<systemIntensityKph>85</systemIntensityKph>
+<systemIntensityKts>45</systemIntensityKts>
+<systemMslpMb>1000</systemMslpMb>
+<systemMslpInHg>29.53</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>13</systemSpeedMph>
 <systemSpeedKph>20</systemSpeedKph>
 <systemSpeedKts>11</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 65 MI...105 KM NNW OF SOCORRO ISLAND</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 245 MI...400 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 270 MI...435 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Dora Advisory Number  12
+Tropical Storm Dora Advisory Number  13
 NWS National Hurricane Center Miami FL       EP042017
-300 PM MDT Tue Jun 27 2017
+900 PM MDT Tue Jun 27 2017
 
-...DORA WEAKENS TO A TROPICAL STORM AS IT PASSES NORTH OF SOCORRO
-ISLAND...
+...DORA CONTINUES TO WEAKEN...
+...EXPECTED TO BECOME A REMNANT LOW ON WEDNESDAY...
 
 
-SUMMARY OF 300 PM MDT...2100 UTC...INFORMATION
+SUMMARY OF 900 PM MDT...0300 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...19.6N 111.4W
-ABOUT 65 MI...105 KM NNW OF SOCORRO ISLAND
-ABOUT 245 MI...400 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
-PRESENT MOVEMENT...WNW OR 290 DEGREES AT 13 MPH...20 KM/H
-MINIMUM CENTRAL PRESSURE...995 MB...29.39 INCHES
+LOCATION...19.7N 112.3W
+ABOUT 270 MI...435 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
 
 
 WATCHES AND WARNINGS
@@ -76,41 +74,39 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 300 PM MDT (2100 UTC), the center of Tropical Storm Dora was
-located near latitude 19.6 North, longitude 111.4 West. Dora is
-moving toward the west-northwest near 13 mph (20 km/h) and this
-general motion is expected to continue through Wednesday night,
-with a turn toward the west expected Thursday or Thursday night.
+At 900 PM MDT (0300 UTC), the center of Tropical Storm Dora was
+located near latitude 19.7 North, longitude 112.3 West. Dora is
+moving toward the west-northwest near 13 mph (20 km/h).  A west-
+northwestward to westward motion is expected over the next couple
+of days.
 
-Maximum sustained winds have decreased to near 65 mph (100 km/h)
-with higher gusts.  Rapid weakening is forecast during the next
-36 to 48 hours, and Dora is expected to become a remnant low
-Wednesday night or Thursday.
+Maximum sustained winds have decreased to near 50 mph (85 km/h)
+with higher gusts.  Additional weakening is forecast during the
+next couple of days, and Dora is forecast to become a remnant low
+on Wednesday.
 
 Tropical-storm-force winds extend outward up to 45 miles (75 km)
-from the center.  During the past several hours, the Mexican
-automated station on Socorro Island has reported wind gusts of
-40 mph (65 km/h).
+from the center.
 
-The estimated minimum central pressure is 995 mb (29.39 inches).
+The estimated minimum central pressure is 1000 mb (29.53 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 SURF:  Swells generated by Dora will continue to affect portions
-of the coast of southwest Mexico through Wednesday, and also affect
-portions of the coast of the southern Baja California peninsula
-over the next couple of days. These swells are likely to cause
-life-threatening surf and rip current conditions. Please consult
-products from your local weather office.
+of the coast of southwest Mexico through early Wednesday, and also
+affect portions of the coast of the southern Baja California
+peninsula over the next day or two. These swells are likely to
+cause life-threatening surf and rip current conditions. Please
+consult products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 900 PM MDT.
+Next complete advisory at 300 AM MDT.
 
 $$
-Forecaster Beven
+Forecaster Brown
 
 NNNN
 </message>
