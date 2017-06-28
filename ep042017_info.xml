@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>13</advisoryNumber>
+<advisoryNumber>14</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170627 09:00:00 PM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170628 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201706280300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0900 PM MDT Tue Jun 27</messageDateTimeLocalStr>
-<timeEpochSeconds>1498618800</timeEpochSeconds>
+<messageDateTimeLocal>20170628 03:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170628 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201706280900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0300 AM MDT Wed Jun 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1498640400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>DORA</systemName>
@@ -19,52 +19,51 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>19.7</centerLocLatitude>
-<centerLocLongitude>-112.3</centerLocLongitude>
+<centerLocLatitude>19.8</centerLocLatitude>
+<centerLocLongitude>-113.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>19.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>112.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>19.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>113.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>50</systemIntensityMph>
-<systemIntensityKph>85</systemIntensityKph>
-<systemIntensityKts>45</systemIntensityKts>
-<systemMslpMb>1000</systemMslpMb>
-<systemMslpInHg>29.53</systemMslpInHg>
+<systemIntensityMph>40</systemIntensityMph>
+<systemIntensityKph>65</systemIntensityKph>
+<systemIntensityKts>35</systemIntensityKts>
+<systemMslpMb>1005</systemMslpMb>
+<systemMslpInHg>29.68</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>13</systemSpeedMph>
-<systemSpeedKph>20</systemSpeedKph>
-<systemSpeedKts>11</systemSpeedKts>
+<systemSpeedMph>10</systemSpeedMph>
+<systemSpeedKph>17</systemSpeedKph>
+<systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 270 MI...435 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 295 MI...480 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Dora Advisory Number  13
+Tropical Storm Dora Advisory Number  14
 NWS National Hurricane Center Miami FL       EP042017
-900 PM MDT Tue Jun 27 2017
+300 AM MDT Wed Jun 28 2017
 
-...DORA CONTINUES TO WEAKEN...
-...EXPECTED TO BECOME A REMNANT LOW ON WEDNESDAY...
+...DORA FORECAST TO BECOME A REMNANT LOW LATER TODAY...
 
 
-SUMMARY OF 900 PM MDT...0300 UTC...INFORMATION
+SUMMARY OF 300 AM MDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...19.7N 112.3W
-ABOUT 270 MI...435 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
-PRESENT MOVEMENT...WNW OR 285 DEGREES AT 13 MPH...20 KM/H
-MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
+LOCATION...19.8N 113.1W
+ABOUT 295 MI...480 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
 WATCHES AND WARNINGS
@@ -74,39 +73,36 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 900 PM MDT (0300 UTC), the center of Tropical Storm Dora was
-located near latitude 19.7 North, longitude 112.3 West. Dora is
-moving toward the west-northwest near 13 mph (20 km/h).  A west-
-northwestward to westward motion is expected over the next couple
-of days.
+At 300 AM MDT (0900 UTC), the center of Tropical Storm Dora was
+located near latitude 19.8 North, longitude 113.1 West. Dora is
+moving toward the west-northwest near 10 mph (17 km/h), and this
+motion is expected to continue through Thursday.
 
-Maximum sustained winds have decreased to near 50 mph (85 km/h)
-with higher gusts.  Additional weakening is forecast during the
-next couple of days, and Dora is forecast to become a remnant low
-on Wednesday.
+Maximum sustained winds have decreased to near 40 mph (65 km/h)
+with higher gusts. Additional weakening is forecast, and Dora is
+expected to degenerate to a remnant low later today.  The remnant
+low should then dissipate by Thursday night.
 
-Tropical-storm-force winds extend outward up to 45 miles (75 km)
-from the center.
+Tropical-storm-force winds extend outward up to 35 miles (55 km)
+to the north of the center.
 
-The estimated minimum central pressure is 1000 mb (29.53 inches).
+The estimated minimum central pressure is 1005 mb (29.68 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-SURF:  Swells generated by Dora will continue to affect portions
-of the coast of southwest Mexico through early Wednesday, and also
-affect portions of the coast of the southern Baja California
-peninsula over the next day or two. These swells are likely to
+SURF:  Swells affecting the southwestern coast of the Baja
+California peninsula will gradually subside today but could still
 cause life-threatening surf and rip current conditions. Please
 consult products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 300 AM MDT.
+Next complete advisory at 900 AM MDT.
 
 $$
-Forecaster Brown
+Forecaster Berg
 
 NNNN
 </message>
