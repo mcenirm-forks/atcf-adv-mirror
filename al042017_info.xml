@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>3</advisoryNumber>
+<advisoryNumber>4</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170706 11:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170706 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707061500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM AST Thu Jul 06</messageDateTimeLocalStr>
-<timeEpochSeconds>1499353200</timeEpochSeconds>
+<messageDateTimeLocal>20170706 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170706 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707062100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Thu Jul 06</messageDateTimeLocalStr>
+<timeEpochSeconds>1499374800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>FOUR</systemName>
@@ -19,51 +19,52 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>13.2</centerLocLatitude>
-<centerLocLongitude>-42.6</centerLocLongitude>
+<centerLocLatitude>13.1</centerLocLatitude>
+<centerLocLongitude>-44.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>13.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>42.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>13.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>44.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>30</systemIntensityMph>
 <systemIntensityKph>45</systemIntensityKph>
 <systemIntensityKts>25</systemIntensityKts>
-<systemMslpMb>1008</systemMslpMb>
-<systemMslpInHg>29.77</systemMslpInHg>
+<systemMslpMb>1009</systemMslpMb>
+<systemMslpInHg>29.80</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>21</systemSpeedMph>
-<systemSpeedKph>33</systemSpeedKph>
-<systemSpeedKts>18</systemSpeedKts>
+<systemDirectionOfMotion>W OR 275 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>23</systemSpeedMph>
+<systemSpeedKph>37</systemSpeedKph>
+<systemSpeedKts>20</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1260 MI...2030 KM E OF THE LESSER ANTILLES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1110 MI...1785 KM E OF THE LESSER ANTILLES</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Four Advisory Number   3
+Tropical Depression Four Advisory Number   4
 NWS National Hurricane Center Miami FL       AL042017
-1100 AM AST Thu Jul 06 2017
+500 PM AST Thu Jul 06 2017
 
-...DEPRESSION POORLY ORGANIZED AND MOVING FASTER...
+...DEPRESSION ACCELERATING WESTWARD AND STILL NOT VERY WELL
+ORGANIZED...
 
 
-SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...13.2N 42.6W
-ABOUT 1260 MI...2030 KM E OF THE LESSER ANTILLES
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...13.1N 44.9W
+ABOUT 1110 MI...1785 KM E OF THE LESSER ANTILLES
 MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
-PRESENT MOVEMENT...WNW OR 285 DEGREES AT 21 MPH...33 KM/H
-MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
+PRESENT MOVEMENT...W OR 275 DEGREES AT 23 MPH...37 KM/H
+MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
 
 
 WATCHES AND WARNINGS
@@ -73,17 +74,18 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM AST (1500 UTC), the center of Tropical Depression Four
-was located near latitude 13.2 North, longitude 42.6 West. The
-depression is moving toward the west-northwest near 21 mph (33
-km/h). A continued west-northwestward motion with an additional
-increase in forward speed is expected over the next 48 hours.
+At 500 PM AST (2100 UTC), the center of Tropical Depression Four was
+located near latitude 13.1 North, longitude 44.9 West.  The
+depression is moving toward the west near 23 mph (37 km/h).  A
+westward to west-northwestward motion at a similar forward speed is
+expected through Saturday.
 
 Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
-Little change in strength is forecast during the next 48 hours, and
-the depression is not currently expected to become a tropical storm.
+Little change in strength is forecast during the next 48 hours.
+The depression is expected to degenerate to a remnant low by Friday
+night, but it could also open up into a tropical wave at any time.
 
-The estimated minimum central pressure is 1008 mb (29.77 inches).
+The estimated minimum central pressure is 1009 mb (29.80 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -93,10 +95,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM AST.
+Next complete advisory at 1100 PM AST.
 
 $$
-Forecaster Roberts
+Forecaster Berg
 
 NNNN
 </message>
