@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>2</advisoryNumber>
+<advisoryNumber>3</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170706 05:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170706 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707060900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM AST Thu Jul 06</messageDateTimeLocalStr>
-<timeEpochSeconds>1499331600</timeEpochSeconds>
+<messageDateTimeLocal>20170706 11:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170706 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707061500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM AST Thu Jul 06</messageDateTimeLocalStr>
+<timeEpochSeconds>1499353200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>FOUR</systemName>
@@ -20,12 +20,12 @@
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>13.2</centerLocLatitude>
-<centerLocLongitude>-40</centerLocLongitude>
+<centerLocLongitude>-42.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>13.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>40.0W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>42.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>30</systemIntensityMph>
@@ -38,32 +38,31 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>17</systemSpeedMph>
-<systemSpeedKph>28</systemSpeedKph>
-<systemSpeedKts>15</systemSpeedKts>
+<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>21</systemSpeedMph>
+<systemSpeedKph>33</systemSpeedKph>
+<systemSpeedKts>18</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1435 MI...2305 KM E OF THE LESSER ANTILLES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1260 MI...2030 KM E OF THE LESSER ANTILLES</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Four Advisory Number   2
+Tropical Depression Four Advisory Number   3
 NWS National Hurricane Center Miami FL       AL042017
-500 AM AST Thu Jul 06 2017
+1100 AM AST Thu Jul 06 2017
 
-...DEPRESSION MOVING FASTER TOWARD THE WEST-NORTHWEST OVER THE
-TROPICAL ATLANTIC...
+...DEPRESSION POORLY ORGANIZED AND MOVING FASTER...
 
 
-SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
-----------------------------------------------
-LOCATION...13.2N 40.0W
-ABOUT 1435 MI...2305 KM E OF THE LESSER ANTILLES
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...13.2N 42.6W
+ABOUT 1260 MI...2030 KM E OF THE LESSER ANTILLES
 MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
-PRESENT MOVEMENT...WNW OR 290 DEGREES AT 17 MPH...28 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 21 MPH...33 KM/H
 MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
 
 
@@ -74,10 +73,10 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM AST (0900 UTC), the center of Tropical Depression Four was
-located near latitude 13.2 North, longitude 40.0 West.  The
-depression is moving toward the west-northwest near 16 mph (26
-km/h).  A continued west-northwestward motion with an additional
+At 1100 AM AST (1500 UTC), the center of Tropical Depression Four
+was located near latitude 13.2 North, longitude 42.6 West. The
+depression is moving toward the west-northwest near 21 mph (33
+km/h). A continued west-northwestward motion with an additional
 increase in forward speed is expected over the next 48 hours.
 
 Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
@@ -94,10 +93,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM AST.
+Next complete advisory at 500 PM AST.
 
 $$
-Forecaster Pasch
+Forecaster Roberts
 
 NNNN
 </message>
