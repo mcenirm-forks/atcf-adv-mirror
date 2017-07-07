@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "4",
+  "advisoryNumber": "5",
   "atcfID": "AL042017",
-  "centerLocLatitude": "13.1",
-  "centerLocLatitudeExpanded": "13.1N",
-  "centerLocLongitude": "-44.9",
-  "centerLocLongitudeExpanded": "44.9W",
+  "centerLocLatitude": "13.4",
+  "centerLocLatitudeExpanded": "13.4N",
+  "centerLocLongitude": "-46.7",
+  "centerLocLongitudeExpanded": "46.7W",
   "event_title": "TROPICAL DEPRESSION FOUR",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -44,30 +44,30 @@
   ],
   "location": {
     "coordinates": [
-      -44.9,
-      13.1
+      -46.7,
+      13.4
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Four Advisory Number   4\nNWS National Hurricane Center Miami FL       AL042017\n500 PM AST Thu Jul 06 2017\n\n...DEPRESSION ACCELERATING WESTWARD AND STILL NOT VERY WELL\nORGANIZED...\n\n\nSUMMARY OF 500 PM AST...2100 UTC...INFORMATION\n----------------------------------------------\nLOCATION...13.1N 44.9W\nABOUT 1110 MI...1785 KM E OF THE LESSER ANTILLES\nMAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H\nPRESENT MOVEMENT...W OR 275 DEGREES AT 23 MPH...37 KM/H\nMINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 PM AST (2100 UTC), the center of Tropical Depression Four was\nlocated near latitude 13.1 North, longitude 44.9 West.  The\ndepression is moving toward the west near 23 mph (37 km/h).  A\nwestward to west-northwestward motion at a similar forward speed is\nexpected through Saturday.\n\nMaximum sustained winds are near 30 mph (45 km/h) with higher gusts.\nLittle change in strength is forecast during the next 48 hours.\nThe depression is expected to degenerate to a remnant low by Friday\nnight, but it could also open up into a tropical wave at any time.\n\nThe estimated minimum central pressure is 1009 mb (29.80 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 PM AST.\n\n$$\nForecaster Berg\n\nNNNN",
+  "message": "ZCZC MIATCPAT4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Four Advisory Number   5\nNWS National Hurricane Center Miami FL       AL042017\n1100 PM AST Thu Jul 06 2017\n\n...DEPRESSION EXPECTED TO DEGENERATE TO A REMNANT LOW OR A\nTROPICAL WAVE ON FRIDAY...\n\n\nSUMMARY OF 1100 PM AST...0300 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...13.4N 46.7W\nABOUT 985 MI...1585 KM E OF THE LESSER ANTILLES\nMAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H\nPRESENT MOVEMENT...W OR 280 DEGREES AT 23 MPH...37 KM/H\nMINIMUM CENTRAL PRESSURE...1012 MB...29.89 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 PM AST (0300 UTC), the center of Tropical Depression Four\nwas located near latitude 13.4 North, longitude 46.7 West. The\ndepression is moving toward the west near 23 mph (37 km/h) and this\nmotion is expected to continue through Saturday.\n\nMaximum sustained winds are near 30 mph (45 km/h) with higher gusts.\nSatellite wind data and surface observations indicate that the\ncirculation of the depression is becoming less defined, and the\nsystem is expected to degenerate to a remnant low or tropical wave\non Friday.\n\nThe estimated minimum central pressure is 1012 mb (29.89 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 AM AST.\n\n$$\nForecaster Beven\n\nNNNN",
   "messageBinNumber": "4",
-  "messageDateTimeLocal": "20170706 05:00:00 PM AST",
-  "messageDateTimeLocalStr": "0500 PM AST Thu Jul 06",
-  "messageDateTimeUTC": "20170706 09:00:00 PM UTC",
-  "messageDateTimeUTC24": "201707062100",
+  "messageDateTimeLocal": "20170706 11:00:00 PM AST",
+  "messageDateTimeLocalStr": "1100 PM AST Thu Jul 06",
+  "messageDateTimeUTC": "20170707 03:00:00 AM UTC",
+  "messageDateTimeUTC24": "201707070300",
   "messageType": "ROUTINE ADVISORY",
-  "systemDirectionOfMotion": "W OR 275 DEGREES",
-  "systemGeoRefPt1": "ABOUT 1110 MI...1785 KM E OF THE LESSER ANTILLES",
+  "systemDirectionOfMotion": "W OR 280 DEGREES",
+  "systemGeoRefPt1": "ABOUT 985 MI...1585 KM E OF THE LESSER ANTILLES",
   "systemIntensityKph": "45",
   "systemIntensityKts": "25",
   "systemIntensityMph": "30",
-  "systemMslpInHg": "29.80",
-  "systemMslpMb": "1009",
+  "systemMslpInHg": "29.89",
+  "systemMslpMb": "1012",
   "systemName": "FOUR",
   "systemSaffirSimpsonCategory": "N/A",
   "systemSpeedKph": "37",
   "systemSpeedKts": "20",
   "systemSpeedMph": "23",
   "systemType": "TROPICAL DEPRESSION",
-  "timeEpochSeconds": "1499374800"
+  "timeEpochSeconds": "1499396400"
 }
