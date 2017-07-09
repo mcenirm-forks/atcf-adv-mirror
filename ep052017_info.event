@@ -40,6 +40,7 @@
     "systemSpeedKts",
     "systemSpeedMph",
     "systemType",
+    "time",
     "timeEpochSeconds"
   ],
   "location": {
@@ -69,5 +70,6 @@
   "systemSpeedKts": "9",
   "systemSpeedMph": "10",
   "systemType": "HURRICANE",
+  "time": "2017-07-09 15:00:00",
   "timeEpochSeconds": "1499612400"
 }
