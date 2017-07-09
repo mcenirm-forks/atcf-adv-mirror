@@ -5,35 +5,35 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>5</advisoryNumber>
+<advisoryNumber>6</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170708 03:00:00 PM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170708 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707082100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0300 PM MDT Sat Jul 08</messageDateTimeLocalStr>
-<timeEpochSeconds>1499547600</timeEpochSeconds>
+<messageDateTimeLocal>20170708 09:00:00 PM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170709 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707090300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0900 PM MDT Sat Jul 08</messageDateTimeLocalStr>
+<timeEpochSeconds>1499569200</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL STORM</systemType>
+<systemType>HURRICANE</systemType>
 <systemName>EUGENE</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>13.7</centerLocLatitude>
-<centerLocLongitude>-113.4</centerLocLongitude>
+<centerLocLatitude>14.4</centerLocLatitude>
+<centerLocLongitude>-113.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>13.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>113.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>14.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>113.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>70</systemIntensityMph>
-<systemIntensityKph>110</systemIntensityKph>
-<systemIntensityKts>60</systemIntensityKts>
-<systemMslpMb>995</systemMslpMb>
-<systemMslpInHg>29.39</systemMslpInHg>
-<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<systemIntensityMph>80</systemIntensityMph>
+<systemIntensityKph>130</systemIntensityKph>
+<systemIntensityKts>70</systemIntensityKts>
+<systemMslpMb>990</systemMslpMb>
+<systemMslpInHg>29.24</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
@@ -43,28 +43,27 @@
 <systemSpeedKph>13</systemSpeedKph>
 <systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 675 MI...1085 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 630 MI...1020 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Eugene Advisory Number   5
+Hurricane Eugene Advisory Number   6
 NWS National Hurricane Center Miami FL       EP052017
-300 PM MDT Sat Jul 08 2017
+900 PM MDT Sat Jul 08 2017
 
-...EUGENE NEAR HURRICANE STRENGTH...
-...MOST LIKELY WILL BE ONE TONIGHT...
+...EUGENE BECOMES A HURRICANE WHILE QUICKLY INTENSIFYING...
 
 
-SUMMARY OF 300 PM MDT...2100 UTC...INFORMATION
+SUMMARY OF 900 PM MDT...0300 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...13.7N 113.4W
-ABOUT 675 MI...1085 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+LOCATION...14.4N 113.5W
+ABOUT 630 MI...1020 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
 PRESENT MOVEMENT...NW OR 320 DEGREES AT 8 MPH...13 KM/H
-MINIMUM CENTRAL PRESSURE...995 MB...29.39 INCHES
+MINIMUM CENTRAL PRESSURE...990 MB...29.24 INCHES
 
 
 WATCHES AND WARNINGS
@@ -74,19 +73,22 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 300 PM MDT (2100 UTC), the center of Tropical Storm Eugene was
-located near latitude 13.7 North, longitude 113.4 West. Eugene is
-moving toward the northwest near 8 mph (13 km/h), and this motion is
-expected to continue during the next couple of days.
+At 900 PM MDT (0300 UTC), the center of Hurricane Eugene was located
+near latitude 14.4 North, longitude 113.5 West. Eugene is moving
+toward the northwest near 8 mph (13 km/h), and this motion is
+expected to continue with some increase in forward speed during the
+next couple of days.
 
-Maximum sustained winds have increased to near 70 mph (110 km/h)
-with higher gusts.  Eugene is forecast to become a hurricane
-tonight.
+Maximum sustained winds have increased to near 80 mph (130 km/h)
+with higher gusts.  Additional strengthening is likely during the
+next 24 hours.  After that time, Eugene is expected to weaken as it
+moves over colder water.
 
-Tropical-storm-force winds extend outward up to 70 miles (110 km)
-from the center.
+Hurricane-force winds extend outward up to 25 miles (35 km) from the
+center and tropical-storm-force winds extend outward up to 80 miles
+(130 km).
 
-The estimated minimum central pressure is 995 mb (29.39 inches).
+The estimated minimum central pressure is 990 mb (29.24 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -96,10 +98,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 900 PM MDT.
+Next complete advisory at 300 AM MDT.
 
 $$
-Forecaster Avila
+Forecaster Beven
 
 NNNN
 </message>
