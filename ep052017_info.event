@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "8",
+  "advisoryNumber": "9",
   "atcfID": "EP052017",
-  "centerLocLatitude": "16.0",
-  "centerLocLatitudeExpanded": "16.0N",
-  "centerLocLongitude": "-114.6",
-  "centerLocLongitudeExpanded": "114.6W",
+  "centerLocLatitude": "16.7",
+  "centerLocLatitudeExpanded": "16.7N",
+  "centerLocLongitude": "-115.3",
+  "centerLocLongitudeExpanded": "115.3W",
   "event_title": "HURRICANE EUGENE",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -114.6,
-      16.0
+      -115.3,
+      16.7
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPEP5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Eugene Advisory Number   8\nNWS National Hurricane Center Miami FL       EP052017\n900 AM MDT Sun Jul 09 2017\n\n...EUGENE BECOMES A CATEGORY 3 MAJOR HURRICANE...\n\n\nSUMMARY OF 900 AM MDT...1500 UTC...INFORMATION\n----------------------------------------------\nLOCATION...16.0N 114.6W\nABOUT 565 MI...910 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H\nPRESENT MOVEMENT...NNW OR 330 DEGREES AT 10 MPH...17 KM/H\nMINIMUM CENTRAL PRESSURE...965 MB...28.50 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 900 AM MDT (1500 UTC), the eye of Hurricane Eugene was located\nnear latitude 16.0 North, longitude 114.6 West. Eugene is moving\ntoward the north-northwest near 10 mph (17 km/h).  The hurricane\nshould continue moving in this direction and speed during the next\ntwo days.\n\nMaximum sustained winds have increased to near 115 mph (185 km/h)\nwith higher gusts.  Eugene is a category 3 hurricane on the\nSaffir-Simpson Hurricane Wind Scale.  Some weakening should begin\non Monday.\n\nHurricane-force winds extend outward up to 35 miles (55 km) from the\ncenter and tropical-storm-force winds extend outward up to 125 miles\n(205 km).\n\nThe estimated minimum central pressure is 965 mb (28.50 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 300 PM MDT.\n\n$$\nForecaster Landsea\n\nNNNN",
+  "message": "ZCZC MIATCPEP5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Eugene Advisory Number   9\nNWS National Hurricane Center Miami FL       EP052017\n200 PM PDT Sun Jul 09 2017\n\n...EUGENE OVER OPEN WATERS WITH 115 MPH WINDS...\n\n\nSUMMARY OF 200 PM PDT...2100 UTC...INFORMATION\n----------------------------------------------\nLOCATION...16.7N 115.3W\nABOUT 555 MI...890 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H\nPRESENT MOVEMENT...NW OR 325 DEGREES AT 12 MPH...19 KM/H\nMINIMUM CENTRAL PRESSURE...965 MB...28.50 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 200 PM PDT (2100 UTC), the distinct eye of Hurricane Eugene was\nlocated near latitude 16.7 North, longitude 115.3 West. Eugene is\nmoving toward the northwest near 12 mph (19 km/h) and this motion is\nexpected to continue during the next 2 days.\n\nMaximum sustained winds remain near 115 mph (185 km/h) with higher\ngusts.  Eugene is a category 3 hurricane on the Saffir-Simpson\nHurricane Wind Scale.  Eugene could gather some additional strength\nduring the next 12 hours, but weakening should begin thereafter.\n\nHurricane-force winds extend outward up to 35 miles (55 km) from the\ncenter and tropical-storm-force winds extend outward up to 90 miles\n(150 km).\n\nThe estimated minimum central pressure is 965 mb (28.50 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 800 PM PDT.\n\n$$\nForecaster Avila\n\nNNNN",
   "messageBinNumber": "5",
-  "messageDateTimeLocal": "20170709 09:00:00 AM MDT",
-  "messageDateTimeLocalStr": "0900 AM MDT Sun Jul 09",
-  "messageDateTimeUTC": "20170709 03:00:00 PM UTC",
-  "messageDateTimeUTC24": "201707091500",
+  "messageDateTimeLocal": "20170709 02:00:00 PM PDT",
+  "messageDateTimeLocalStr": "0200 PM PDT Sun Jul 09",
+  "messageDateTimeUTC": "20170709 09:00:00 PM UTC",
+  "messageDateTimeUTC24": "201707092100",
   "messageType": "ROUTINE ADVISORY",
-  "systemDirectionOfMotion": "NNW OR 330 DEGREES",
-  "systemGeoRefPt1": "ABOUT 565 MI...910 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
+  "systemDirectionOfMotion": "NW OR 325 DEGREES",
+  "systemGeoRefPt1": "ABOUT 555 MI...890 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
   "systemIntensityKph": "185",
   "systemIntensityKts": "100",
   "systemIntensityMph": "115",
@@ -66,10 +66,10 @@
   "systemMslpMb": "965",
   "systemName": "EUGENE",
   "systemSaffirSimpsonCategory": "CATEGORY 3",
-  "systemSpeedKph": "17",
-  "systemSpeedKts": "9",
-  "systemSpeedMph": "10",
+  "systemSpeedKph": "19",
+  "systemSpeedKts": "10",
+  "systemSpeedMph": "12",
   "systemType": "HURRICANE",
-  "time": "2017-07-09 15:00:00",
-  "timeEpochSeconds": "1499612400"
+  "time": "2017-07-09 21:00:00",
+  "timeEpochSeconds": "1499634000"
 }
