@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>9</advisoryNumber>
+<advisoryNumber>10</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170709 02:00:00 PM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170709 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707092100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 PM PDT Sun Jul 09</messageDateTimeLocalStr>
-<timeEpochSeconds>1499634000</timeEpochSeconds>
+<messageDateTimeLocal>20170709 08:00:00 PM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170710 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707100300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM PDT Sun Jul 09</messageDateTimeLocalStr>
+<timeEpochSeconds>1499655600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>EUGENE</systemName>
@@ -19,51 +19,51 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.7</centerLocLatitude>
-<centerLocLongitude>-115.3</centerLocLongitude>
+<centerLocLatitude>17.6</centerLocLatitude>
+<centerLocLongitude>-115.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>115.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>17.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>115.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>115</systemIntensityMph>
-<systemIntensityKph>185</systemIntensityKph>
-<systemIntensityKts>100</systemIntensityKts>
-<systemMslpMb>965</systemMslpMb>
-<systemMslpInHg>28.50</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
+<systemIntensityMph>105</systemIntensityMph>
+<systemIntensityKph>165</systemIntensityKph>
+<systemIntensityKts>90</systemIntensityKts>
+<systemMslpMb>972</systemMslpMb>
+<systemMslpInHg>28.71</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NW OR 325 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>NW OR 320 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>12</systemSpeedMph>
 <systemSpeedKph>19</systemSpeedKph>
 <systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 555 MI...890 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 535 MI...860 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Eugene Advisory Number   9
+Hurricane Eugene Advisory Number  10
 NWS National Hurricane Center Miami FL       EP052017
-200 PM PDT Sun Jul 09 2017
+800 PM PDT Sun Jul 09 2017
 
-...EUGENE OVER OPEN WATERS WITH 115 MPH WINDS...
+...EUGENE HAS WEAKENED A LITTLE BUT STILL A CATEGORY 2 HURRICANE...
 
 
-SUMMARY OF 200 PM PDT...2100 UTC...INFORMATION
+SUMMARY OF 800 PM PDT...0300 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...16.7N 115.3W
-ABOUT 555 MI...890 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
-PRESENT MOVEMENT...NW OR 325 DEGREES AT 12 MPH...19 KM/H
-MINIMUM CENTRAL PRESSURE...965 MB...28.50 INCHES
+LOCATION...17.6N 115.9W
+ABOUT 535 MI...860 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
+PRESENT MOVEMENT...NW OR 320 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...972 MB...28.71 INCHES
 
 
 WATCHES AND WARNINGS
@@ -73,21 +73,21 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 PM PDT (2100 UTC), the distinct eye of Hurricane Eugene was
-located near latitude 16.7 North, longitude 115.3 West. Eugene is
-moving toward the northwest near 12 mph (19 km/h) and this motion is
-expected to continue during the next 2 days.
+At 800 PM PDT (0300 UTC), the center of Hurricane Eugene was located
+near latitude 17.6 North, longitude 115.9 West.  Eugene is moving
+toward the northwest near 12 mph (19 km/h) and this motion is
+expected to continue during the next couple of days.
 
-Maximum sustained winds remain near 115 mph (185 km/h) with higher
-gusts.  Eugene is a category 3 hurricane on the Saffir-Simpson
-Hurricane Wind Scale.  Eugene could gather some additional strength
-during the next 12 hours, but weakening should begin thereafter.
+Maximum sustained winds are near 105 mph (165 km/h) with higher
+gusts.  Little change in strength is expected overnight, but Eugene
+is forecast to move over cooler waters and begin to weaken more
+quickly on Monday or Monday night.
 
 Hurricane-force winds extend outward up to 35 miles (55 km) from the
-center and tropical-storm-force winds extend outward up to 90 miles
-(150 km).
+center and tropical-storm-force winds extend outward up to 105 miles
+(165 km).
 
-The estimated minimum central pressure is 965 mb (28.50 inches).
+The estimated minimum central pressure is 972 mb (28.71 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -97,10 +97,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 800 PM PDT.
+Next complete advisory at 200 AM PDT.
 
 $$
-Forecaster Avila
+Forecaster Cangialosi
 
 NNNN
 </message>
