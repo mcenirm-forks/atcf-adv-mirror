@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>14</advisoryNumber>
+<advisoryNumber>15</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170710 08:00:00 PM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170711 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707110300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 PM PDT Mon Jul 10</messageDateTimeLocalStr>
-<timeEpochSeconds>1499742000</timeEpochSeconds>
+<messageDateTimeLocal>20170711 02:00:00 AM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170711 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707110900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM PDT Tue Jul 11</messageDateTimeLocalStr>
+<timeEpochSeconds>1499763600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>EUGENE</systemName>
@@ -19,55 +19,53 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>20.2</centerLocLatitude>
-<centerLocLongitude>-118.2</centerLocLongitude>
+<centerLocLatitude>20.6</centerLocLatitude>
+<centerLocLongitude>-118.7</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>20.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>118.2W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>20.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>118.7W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>70</systemIntensityMph>
-<systemIntensityKph>110</systemIntensityKph>
-<systemIntensityKts>60</systemIntensityKts>
-<systemMslpMb>990</systemMslpMb>
-<systemMslpInHg>29.24</systemMslpInHg>
+<systemIntensityMph>65</systemIntensityMph>
+<systemIntensityKph>100</systemIntensityKph>
+<systemIntensityKts>55</systemIntensityKts>
+<systemMslpMb>995</systemMslpMb>
+<systemMslpInHg>29.39</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>NW OR 325 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>10</systemSpeedMph>
-<systemSpeedKph>17</systemSpeedKph>
-<systemSpeedKts>9</systemSpeedKts>
+<systemSpeedMph>9</systemSpeedMph>
+<systemSpeedKph>15</systemSpeedKph>
+<systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 565 MI...910 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 560 MI...900 KM SSW OF PUNTA EUGENIA MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 545 MI...880 KM SSW OF PUNTA EUGENIA MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Eugene Advisory Number  14
+Tropical Storm Eugene Advisory Number  15
 NWS National Hurricane Center Miami FL       EP052017
-800 PM PDT Mon Jul 10 2017
+200 AM PDT Tue Jul 11 2017
 
-...EUGENE WEAKENS TO A TROPICAL STORM...
-...HIGH SURF AND RIP CURRENTS LIKELY ALONG THE WEST COAST OF THE
-BAJA CALIFORNIA PENINSULA AND SOUTHERN CALIFORNIA...
+...EUGENE GRADUALLY WEAKENING OVER COLDER WATER...
+...HIGH SURF AND RIP CURRENTS EXPECTED ALONG THE WEST COAST OF
+THE BAJA CALIFORNIA PENINSULA AND SOUTHERN CALIFORNIA...
 
 
-SUMMARY OF 800 PM PDT...0300 UTC...INFORMATION
+SUMMARY OF 200 AM PDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...20.2N 118.2W
-ABOUT 565 MI...910 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-ABOUT 560 MI...900 KM SSW OF PUNTA EUGENIA MEXICO
-MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
-PRESENT MOVEMENT...NW OR 325 DEGREES AT 10 MPH...17 KM/H
-MINIMUM CENTRAL PRESSURE...990 MB...29.24 INCHES
+LOCATION...20.6N 118.7W
+ABOUT 545 MI...880 KM SSW OF PUNTA EUGENIA MEXICO
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...NW OR 325 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...995 MB...29.39 INCHES
 
 
 WATCHES AND WARNINGS
@@ -77,37 +75,37 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 PM PDT (0300 UTC), the center of Tropical Storm Eugene was
-located near latitude 20.2 North, longitude 118.2 West.  Eugene is
-moving toward the northwest near 10 mph (17 km/h), and this general
-motion is expected to continue for the next couple of days.
+At 200 AM PDT (0900 UTC), the center of Tropical Storm Eugene was
+located near latitude 20.6 North, longitude 118.7 West.  Eugene is
+moving toward the northwest near 9 mph (15 km/h), and this motion is
+expected to continue through Wednesday night.
 
-Maximum sustained winds have decreased to near 70 mph (110 km/h)
-with higher gusts.  Continued weakening is forecast during the next
-48 hours, and Eugene should degenerate into a remnant low by
-Wednesday.
+Maximum sustained winds have decreased to near 65 mph (100 km/h)
+with higher gusts.  Additional weakening is forecast during the next
+48 hours, and Eugene is expected to degenerate into a remnant low
+on Wednesday.
 
 Tropical-storm-force winds extend outward up to 105 miles (165 km)
 from the center.
 
-The estimated minimum central pressure is 990 mb (29.24 inches).
+The estimated minimum central pressure is 995 mb (29.39 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 SURF:  Swells generated by Eugene are affecting portions of the west
 coast of the Baja California peninsula and will spread northward to
-portions of southern California by tonight and Tuesday.  These
-swells are likely to cause life-threatening surf and rip current
+portions of southern California today and Wednesday.  These swells
+are likely to cause life-threatening surf and rip current
 conditions.  Please consult products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 200 AM PDT.
+Next complete advisory at 800 AM PDT.
 
 $$
-Forecaster Pasch
+Forecaster Berg
 
 NNNN
 </message>
