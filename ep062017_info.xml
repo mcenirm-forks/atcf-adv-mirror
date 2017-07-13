@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>6</advisoryNumber>
+<advisoryNumber>7</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170713 03:00:00 AM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170713 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707130900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0300 AM MDT Thu Jul 13</messageDateTimeLocalStr>
-<timeEpochSeconds>1499936400</timeEpochSeconds>
+<messageDateTimeLocal>20170713 08:00:00 AM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170713 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707131500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM PDT Thu Jul 13</messageDateTimeLocalStr>
+<timeEpochSeconds>1499958000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>FERNANDA</systemName>
@@ -20,51 +20,51 @@
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>11.7</centerLocLatitude>
-<centerLocLongitude>-114.1</centerLocLongitude>
+<centerLocLongitude>-115</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>11.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>114.1W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>115.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>50</systemIntensityMph>
-<systemIntensityKph>85</systemIntensityKph>
-<systemIntensityKts>45</systemIntensityKts>
-<systemMslpMb>1003</systemMslpMb>
-<systemMslpInHg>29.62</systemMslpInHg>
+<systemIntensityMph>65</systemIntensityMph>
+<systemIntensityKph>100</systemIntensityKph>
+<systemIntensityKts>55</systemIntensityKts>
+<systemMslpMb>1001</systemMslpMb>
+<systemMslpInHg>29.56</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 265 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>10</systemSpeedMph>
-<systemSpeedKph>17</systemSpeedKph>
-<systemSpeedKts>9</systemSpeedKts>
+<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 820 MI...1320 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 845 MI...1355 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Fernanda Advisory Number   6
+Tropical Storm Fernanda Advisory Number   7
 NWS National Hurricane Center Miami FL       EP062017
-300 AM MDT Thu Jul 13 2017
+800 AM PDT Thu Jul 13 2017
 
-...FERNANDA CONTINUES TO STRENGTHEN...
-...COULD BECOME A HURRICANE BY TONIGHT...
+...FERNANDA INTENSIFYING...
+...STILL EXPECTED TO BECOME A HURRICANE LATER TODAY...
 
 
-SUMMARY OF 300 AM MDT...0900 UTC...INFORMATION
+SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...11.7N 114.1W
-ABOUT 820 MI...1320 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
-PRESENT MOVEMENT...W OR 265 DEGREES AT 10 MPH...17 KM/H
-MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
+LOCATION...11.7N 115.0W
+ABOUT 845 MI...1355 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
 
 
 WATCHES AND WARNINGS
@@ -74,20 +74,20 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 300 AM MDT (0900 UTC), the center of Tropical Storm Fernanda was
-located near latitude 11.7 North, longitude 114.1 West.  Fernanda is
-moving toward the west near 10 mph (17 km/h), and this general
-motion is expected to continue through Friday night.
+At 800 AM PDT (1500 UTC), the center of Tropical Storm Fernanda was
+located near latitude 11.7 North, longitude 115.0 West. Fernanda is
+moving toward the west near 12 mph (19 km/h) and this motion is
+expected to continue for the next couple of days.
 
-Satellite-derived wind data indicate that maximum sustained winds
-have increased to near 50 mph (85 km/h) with higher gusts.
-Additional strengthening is expected during the next 48 hours, and
-Fernanda is forecast to become a hurricane tonight.
+Maximum sustained winds are near 65 mph (100 km/h) with higher
+gusts.  Significant strengthening is forecast over the next 48
+hours, and Fernanda is expected to become a hurricane later today
+and to be near major hurricane strength by tomorrow evening.
 
 Tropical-storm-force winds extend outward up to 45 miles (75 km)
 from the center.
 
-The estimated minimum central pressure is 1003 mb (29.62 inches).
+The estimated minimum central pressure is 1001 mb (29.56 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -97,10 +97,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 900 AM MDT.
+Next complete advisory at 200 PM PDT.
 
 $$
-Forecaster Berg
+Forecaster Zelinsky
 
 NNNN
 </message>
