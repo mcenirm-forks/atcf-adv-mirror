@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>1</advisoryNumber>
+<advisoryNumber>2</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170717 10:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170717 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707171500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 AM CDT Mon Jul 17</messageDateTimeLocalStr>
-<timeEpochSeconds>1500303600</timeEpochSeconds>
+<messageDateTimeLocal>20170717 03:00:00 PM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170717 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707172100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0300 PM MDT Mon Jul 17</messageDateTimeLocalStr>
+<timeEpochSeconds>1500325200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>SEVEN-E</systemName>
@@ -20,12 +20,12 @@
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>14.1</centerLocLatitude>
-<centerLocLongitude>-105.1</centerLocLongitude>
+<centerLocLongitude>-106.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>14.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>105.1W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>106.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -38,32 +38,31 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>6</systemSpeedMph>
-<systemSpeedKph>9</systemSpeedKph>
-<systemSpeedKts>5</systemSpeedKts>
+<systemDirectionOfMotion>W OR 275 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>8</systemSpeedMph>
+<systemSpeedKph>13</systemSpeedKph>
+<systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 340 MI...550 KM S OF MANZANILLO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 360 MI...575 KM SSW OF MANZANILLO MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Seven-E Advisory Number   1
+Tropical Depression Seven-E Advisory Number   2
 NWS National Hurricane Center Miami FL       EP072017
-1000 AM CDT Mon Jul 17 2017
+300 PM MDT Mon Jul 17 2017
 
-...TROPICAL DEPRESSION FORMS WELL SOUTH OF THE COAST OF MEXICO...
-...EXPECTED TO MOVE AWAY FROM LAND...
+...POORLY ORGANIZED DEPRESSION MOVING WESTWARD...
 
 
-SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...14.1N 105.1W
-ABOUT 340 MI...550 KM S OF MANZANILLO MEXICO
+SUMMARY OF 300 PM MDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...14.1N 106.1W
+ABOUT 360 MI...575 KM SSW OF MANZANILLO MEXICO
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...W OR 280 DEGREES AT 6 MPH...9 KM/H
+PRESENT MOVEMENT...W OR 275 DEGREES AT 8 MPH...13 KM/H
 MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
 
 
@@ -74,16 +73,16 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 AM CDT (1500 UTC), the center of Tropical Depression Seven-E
-was located near latitude 14.1 North, longitude 105.1 West. The
-depression is moving toward the west near 6 mph (9 km/h).  A
+At 300 PM MDT (2100 UTC), the center of Tropical Depression Seven-E
+was located near latitude 14.1 North, longitude 106.1 West. The
+depression is moving toward the west near 8 mph (13 km/h). A
 westward to west-northwestward motion with some increase in forward
-speed is expected during the next 48 hours.  On the forecast track,
+speed is expected during the next 48 hours. On the forecast track,
 the cyclone is expected to move away from southern Mexico.
 
 Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
 Some gradual strengthening is forecast and the depression is
-expected to become a tropical storm later today or Tuesday.
+expected to become a tropical storm tonight or Tuesday.
 
 The estimated minimum central pressure is 1007 mb (29.74 inches).
 
@@ -95,7 +94,7 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 PM CDT.
+Next complete advisory at 900 PM MDT.
 
 $$
 Forecaster Brown
