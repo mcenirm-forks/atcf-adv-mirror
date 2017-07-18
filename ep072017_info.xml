@@ -5,65 +5,65 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>3</advisoryNumber>
+<advisoryNumber>4</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170717 09:00:00 PM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170718 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707180300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0900 PM MDT Mon Jul 17</messageDateTimeLocalStr>
-<timeEpochSeconds>1500346800</timeEpochSeconds>
+<messageDateTimeLocal>20170718 03:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170718 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707180900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0300 AM MDT Tue Jul 18</messageDateTimeLocalStr>
+<timeEpochSeconds>1500368400</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL DEPRESSION</systemType>
-<systemName>SEVEN-E</systemName>
+<systemType>TROPICAL STORM</systemType>
+<systemName>GREG</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>14.3</centerLocLatitude>
-<centerLocLongitude>-106.9</centerLocLongitude>
+<centerLocLatitude>14.6</centerLocLatitude>
+<centerLocLongitude>-107.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>14.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>106.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>14.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>107.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>35</systemIntensityMph>
-<systemIntensityKph>55</systemIntensityKph>
-<systemIntensityKts>30</systemIntensityKts>
-<systemMslpMb>1007</systemMslpMb>
-<systemMslpInHg>29.74</systemMslpInHg>
+<systemIntensityMph>40</systemIntensityMph>
+<systemIntensityKph>65</systemIntensityKph>
+<systemIntensityKts>35</systemIntensityKts>
+<systemMslpMb>1006</systemMslpMb>
+<systemMslpInHg>29.71</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>9</systemSpeedMph>
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 365 MI...590 KM SSW OF MANZANILLO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 375 MI...600 KM SW OF MANZANILLO MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Seven-E Advisory Number   3
+Tropical Storm Greg Advisory Number   4
 NWS National Hurricane Center Miami FL       EP072017
-900 PM MDT Mon Jul 17 2017
+300 AM MDT Tue Jul 18 2017
 
-...DEPRESSION REMAINS POORLY ORGANIZED...
+...DEPRESSION STRENGTHENS TO TROPICAL STORM GREG...
 
 
-SUMMARY OF 900 PM MDT...0300 UTC...INFORMATION
+SUMMARY OF 300 AM MDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...14.3N 106.9W
-ABOUT 365 MI...590 KM SSW OF MANZANILLO MEXICO
-MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...W OR 280 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+LOCATION...14.6N 107.6W
+ABOUT 375 MI...600 KM SW OF MANZANILLO MEXICO
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
 
 
 WATCHES AND WARNINGS
@@ -73,18 +73,20 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 900 PM MDT (0300 UTC), the center of Tropical Depression Seven-E
-was located near latitude 14.3 North, longitude 106.9 West. The
-depression is moving toward the west near 9 mph (15 km/h).
-A westward to west-northwestward motion with a slight increase in
-forward speed is expected during the next 48 hours. On the forecast
-track, the cyclone is expected to move away from southern Mexico.
+At 300 AM MDT (0900 UTC), the center of Tropical Storm Greg was
+located near latitude 14.6 North, longitude 107.6 West. Greg is
+moving toward the west-northwest near 9 mph. A westward to
+west-northwestward motion with a slight increase in forward speed
+is expected during the next 48 hours. On the forecast track, the
+cyclone is expected to move away from southern Mexico.
 
-Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-Some gradual strengthening is forecast, and the depression is
-expected to become a tropical storm tonight or Tuesday.
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Some strengthening is forecast during the next couple of days.
 
-The estimated minimum central pressure is 1007 mb (29.74 inches).
+Tropical-storm-force winds extend outward up to 35 miles (55 km)
+from the center.
+
+The estimated minimum central pressure is 1006 mb (29.71 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -94,10 +96,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 300 AM MDT.
+Next complete advisory at 900 AM MDT.
 
 $$
-Forecaster Roberts
+Forecaster Cangialosi
 
 NNNN
 </message>

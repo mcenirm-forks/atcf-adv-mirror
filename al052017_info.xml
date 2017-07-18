@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL052017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>2A</advisoryNumber>
+<advisoryNumber>3</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170718 02:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170718 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707180600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM AST Tue Jul 18</messageDateTimeLocalStr>
-<timeEpochSeconds>1500357600</timeEpochSeconds>
+<messageDateTimeLocal>20170718 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170718 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707180900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Tue Jul 18</messageDateTimeLocalStr>
+<timeEpochSeconds>1500368400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>DON</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>11.4</centerLocLatitude>
-<centerLocLongitude>-55.4</centerLocLongitude>
+<centerLocLatitude>11.5</centerLocLatitude>
+<centerLocLongitude>-56.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>11.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>55.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>11.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>56.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>45</systemIntensityMph>
-<systemIntensityKph>75</systemIntensityKph>
-<systemIntensityKts>40</systemIntensityKts>
-<systemMslpMb>1009</systemMslpMb>
-<systemMslpInHg>29.80</systemMslpInHg>
+<systemIntensityMph>50</systemIntensityMph>
+<systemIntensityKph>85</systemIntensityKph>
+<systemIntensityKts>45</systemIntensityKts>
+<systemMslpMb>1007</systemMslpMb>
+<systemMslpInHg>29.74</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,38 +43,37 @@
 <systemSpeedKph>30</systemSpeedKph>
 <systemSpeedKts>16</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 300 MI..480 KM ESE OF BARBADOS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 430 MI...690 KM E OF GRENADA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 250 MI...405 KM ESE OF BARBADOS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 375 MI...600 KM E OF GRENADA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Don Intermediate Advisory Number 2A
+Tropical Storm Don Advisory Number   3
 NWS National Hurricane Center Miami FL       AL052017
-200 AM AST Tue Jul 18 2017
+500 AM AST Tue Jul 18 2017
 
-...DON FORECAST TO REACH THE WINDWARD ISLANDS BY TONIGHT...
-...TROPICAL STORM WATCH ISSUED FOR BONAIRE...
+...DON MOVING QUICKLY WESTWARD...
+...EXPECTED TO REACH THE WINDWARD ISLANDS BY TONIGHT...
 
 
-SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...11.4N 55.4W
-ABOUT 300 MI..480 KM ESE OF BARBADOS
-ABOUT 430 MI...690 KM E OF GRENADA
-MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+LOCATION...11.5N 56.2W
+ABOUT 250 MI...405 KM ESE OF BARBADOS
+ABOUT 375 MI...600 KM E OF GRENADA
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
 PRESENT MOVEMENT...W OR 280 DEGREES AT 18 MPH...30 KM/H
-MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of the Netherlands has issued a Tropical Storm Watch
-for Bonaire.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -103,23 +102,23 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM AST (0600 UTC), the center of Tropical Storm Don was
-located near latitude 11.4 North, longitude 55.4 West.  Don is
+At 500 AM AST (0900 UTC), the center of Tropical Storm Don was
+located near latitude 11.5 North, longitude 56.2 West. Don is
 moving toward the west near 18 mph (30 km/h), and this general
 motion, with an increase in forward speed, is expected through
 Wednesday evening.  On the forecast track, the center of Don will
 move across the Windward Islands tonight, and then move westward
 across the southeastern Caribbean Sea on Wednesday.
 
-Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
 Some strengthening is possible through tonight while Don approaches
 the Windward Islands.  Weakening is expected on Wednesday while Don
 moves across the southeastern Caribbean Sea.
 
-Tropical-storm-force winds extend outward up to 25 miles (35 km)
+Tropical-storm-force winds extend outward up to 35 miles (55 km)
 from the center.
 
-The estimated minimum central pressure is 1009 mb (29.80 inches).
+The estimated minimum central pressure is 1007 mb (29.74 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -128,18 +127,21 @@ WIND:  Tropical storm conditions are expected in the warning area
 by late afternoon and tonight.  Tropical Storm conditions are
 possible in the watch area by tonight.
 
-RAINFALL:  Don is expected to produce total rain accumulations of 2
-to 4 inches across the Windward Islands through Wednesday morning.
+RAINFALL:  Don is expected to produce total rain accumulations of
+3 to 6 inches across Barbados and the southern Windward Islands
+through Wednesday morning. These rains could produce
+life-threatening flash floods and mudslides, especially in
+mountainous areas.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next intermediate advisory at 800 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
 Forecaster Stewart
 
 NNNN
-
 </message>
 </cycloneMessage>
