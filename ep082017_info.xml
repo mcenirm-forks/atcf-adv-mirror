@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP082017</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>3</messageBinNumber>
+<advisoryNumber>1</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20170718 08:00:00 AM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170718 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707181500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM PDT Tue Jul 18</messageDateTimeLocalStr>
+<timeEpochSeconds>1500390000</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>TROPICAL DEPRESSION</systemType>
+<systemName>EIGHT-E</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>14.6</centerLocLatitude>
+<centerLocLongitude>-118.8</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>14.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>118.8W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>35</systemIntensityMph>
+<systemIntensityKph>55</systemIntensityKph>
+<systemIntensityKts>30</systemIntensityKts>
+<systemMslpMb>1007</systemMslpMb>
+<systemMslpInHg>29.74</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct5d>N/A</formationChancePct5d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>5</systemSpeedMph>
+<systemSpeedKph>7</systemSpeedKph>
+<systemSpeedKts>4</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 815 MI...1315 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPEP3 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Depression Eight-E Advisory Number   1
+NWS National Hurricane Center Miami FL       EP082017
+800 AM PDT Tue Jul 18 2017
+
+...ANOTHER TROPICAL DEPRESSION FORMS IN THE EASTERN PACIFIC...
+
+
+SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...14.6N 118.8W
+ABOUT 815 MI...1315 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 800 AM PDT (1500 UTC), the center of Tropical Depression Eight-E
+was located near latitude 14.6 North, longitude 118.8 West. The
+depression is moving toward the west near 5 mph (7 km/h). A
+turn toward the southwest is expected later today, and a slow
+southwestward motion is expected to continue through early Thursday.
+
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Slight strengthening is possible and the depression could become a
+tropical storm during the next day or so.
+
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+None
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 200 PM PDT.
+
+$$
+Forecaster Brown
+
+NNNN
+</message>
+</cycloneMessage>
