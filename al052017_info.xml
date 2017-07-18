@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL052017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>2</advisoryNumber>
+<advisoryNumber>2A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170717 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170718 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707180300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Mon Jul 17</messageDateTimeLocalStr>
-<timeEpochSeconds>1500346800</timeEpochSeconds>
+<messageDateTimeLocal>20170718 02:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170718 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707180600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM AST Tue Jul 18</messageDateTimeLocalStr>
+<timeEpochSeconds>1500357600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>DON</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>11.3</centerLocLatitude>
-<centerLocLongitude>-54.6</centerLocLongitude>
+<centerLocLatitude>11.4</centerLocLatitude>
+<centerLocLongitude>-55.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>11.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>54.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>11.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>55.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>45</systemIntensityMph>
@@ -43,28 +43,27 @@
 <systemSpeedKph>30</systemSpeedKph>
 <systemSpeedKts>16</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 355 MI...570 KM ESE OF BARBADOS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 485 MI...780 KM E OF GRENADA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 300 MI..480 KM ESE OF BARBADOS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 430 MI...690 KM E OF GRENADA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Don Advisory Number   2
+Tropical Storm Don Intermediate Advisory Number 2A
 NWS National Hurricane Center Miami FL       AL052017
-1100 PM AST Mon Jul 17 2017
+200 AM AST Tue Jul 18 2017
 
-...DON EXPECTED TO REACH THE WINDWARD ISLANDS ON TUESDAY...
-...TROPICAL STORM WARNING ISSUED FOR ST. VINCENT AND THE
-GRENADINES...
+...DON FORECAST TO REACH THE WINDWARD ISLANDS BY TONIGHT...
+...TROPICAL STORM WATCH ISSUED FOR BONAIRE...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...11.3N 54.6W
-ABOUT 355 MI...570 KM ESE OF BARBADOS
-ABOUT 485 MI...780 KM E OF GRENADA
+SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...11.4N 55.4W
+ABOUT 300 MI..480 KM ESE OF BARBADOS
+ABOUT 430 MI...690 KM E OF GRENADA
 MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
 PRESENT MOVEMENT...W OR 280 DEGREES AT 18 MPH...30 KM/H
 MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
@@ -74,8 +73,8 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of Barbados has upgraded the Tropical Storm Watch for
-St. Vincent and the Grenadines to a Tropical Storm Warning.
+The government of the Netherlands has issued a Tropical Storm Watch
+for Bonaire.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -86,6 +85,7 @@ A Tropical Storm Warning is in effect for...
 A Tropical Storm Watch is in effect for...
 * Barbados
 * St. Lucia
+* Bonaire
 
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area, in this case in the
@@ -94,8 +94,8 @@ next 24 hours.
 A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, in this case in the next 24 hours.
 
-Interests in Trinidad and Tobago, Aruba, Bonaire, and Curacao should
-monitor the progress of Don.
+Interests in Trinidad and Tobago, Aruba, and Curacao should monitor
+the progress of Don.
 
 For storm information specific to your area, please monitor
 products issued by your national meteorological service.
@@ -103,18 +103,18 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the center of Tropical Storm Don was
-located near latitude 11.3 North, longitude 54.6 West.  Don is
+At 200 AM AST (0600 UTC), the center of Tropical Storm Don was
+located near latitude 11.4 North, longitude 55.4 West.  Don is
 moving toward the west near 18 mph (30 km/h), and this general
 motion, with an increase in forward speed, is expected through
 Wednesday evening.  On the forecast track, the center of Don will
-move across the Windward Islands late Tuesday and then westward
+move across the Windward Islands tonight, and then move westward
 across the southeastern Caribbean Sea on Wednesday.
 
 Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
-Some strengthening is possible through Tuesday while Don approaches
-the Windward Islands.  Weakening is expected on Wednesday when Don
-moves through the southeastern Caribbean Sea.
+Some strengthening is possible through tonight while Don approaches
+the Windward Islands.  Weakening is expected on Wednesday while Don
+moves across the southeastern Caribbean Sea.
 
 Tropical-storm-force winds extend outward up to 25 miles (35 km)
 from the center.
@@ -125,8 +125,8 @@ The estimated minimum central pressure is 1009 mb (29.80 inches).
 HAZARDS AFFECTING LAND
 ----------------------
 WIND:  Tropical storm conditions are expected in the warning area
-by late Tuesday and Tuesday night.  Tropical Storm conditions are
-possible in the watch area Tuesday and Tuesday night.
+by late afternoon and tonight.  Tropical Storm conditions are
+possible in the watch area by tonight.
 
 RAINFALL:  Don is expected to produce total rain accumulations of 2
 to 4 inches across the Windward Islands through Wednesday morning.
@@ -134,12 +134,12 @@ to 4 inches across the Windward Islands through Wednesday morning.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 AM AST.
 Next complete advisory at 500 AM AST.
 
 $$
-Forecaster Berg
+Forecaster Stewart
 
 NNNN
+
 </message>
 </cycloneMessage>
