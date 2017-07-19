@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>9</advisoryNumber>
+<advisoryNumber>10</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170719 09:00:00 AM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170719 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707191500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0900 AM MDT Wed Jul 19</messageDateTimeLocalStr>
-<timeEpochSeconds>1500476400</timeEpochSeconds>
+<messageDateTimeLocal>20170719 03:00:00 PM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170719 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707192100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0300 PM MDT Wed Jul 19</messageDateTimeLocalStr>
+<timeEpochSeconds>1500498000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>GREG</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>14.2</centerLocLatitude>
-<centerLocLongitude>-112</centerLocLongitude>
+<centerLocLatitude>14.3</centerLocLatitude>
+<centerLocLongitude>-112.7</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>14.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>112.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>14.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>112.7W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>45</systemIntensityMph>
@@ -43,24 +43,24 @@
 <systemSpeedKph>17</systemSpeedKph>
 <systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 615 MI...990 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 620 MI...1000 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Greg Advisory Number   9
+Tropical Storm Greg Advisory Number  10
 NWS National Hurricane Center Miami FL       EP072017
-900 AM MDT Wed Jul 19 2017
+300 PM MDT Wed Jul 19 2017
 
-...GREG EXPECTED TO STRENGTHEN OVER THE COUPLE OF DAYS...
+...GREG CONTINUES WESTWARD WITH NO CHANGE IN STRENGTH...
 
 
-SUMMARY OF 900 AM MDT...1500 UTC...INFORMATION
+SUMMARY OF 300 PM MDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...14.2N 112.0W
-ABOUT 615 MI...990 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+LOCATION...14.3N 112.7W
+ABOUT 620 MI...1000 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
 PRESENT MOVEMENT...W OR 270 DEGREES AT 10 MPH...17 KM/H
 MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
@@ -73,16 +73,16 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 900 AM MDT (1500 UTC), the center of Tropical Storm Greg was
-located near latitude 14.2 North, longitude 112.0 West. Greg is
+At 300 PM MDT (2100 UTC), the center of Tropical Storm Greg was
+located near latitude 14.3 North, longitude 112.7 West. Greg is
 moving toward the west near 10 mph (17 km/h). A turn toward the
-west-northwest with an increase in forward speed is expected by
-Thursday.
+west-northwest with some increase in forward speed is expected
+over the next day or two.
 
 Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
-Strengthening is expected during the next couple of days.
+Some strengthening is forecast during the next 48 hours.
 
-Tropical-storm-force winds extend outward up to 35 miles (55 km)
+Tropical-storm-force winds extend outward up to 60 miles (95 km)
 from the center.
 
 The estimated minimum central pressure is 1005 mb (29.68 inches).
@@ -95,7 +95,7 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 300 PM MDT.
+Next complete advisory at 900 PM MDT.
 
 $$
 Forecaster Brown
