@@ -3,86 +3,83 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL052017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>5A</advisoryNumber>
+<advisoryNumber>6</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170718 08:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170719 12:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707190000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 PM AST Tue Jul 18</messageDateTimeLocalStr>
-<timeEpochSeconds>1500422400</timeEpochSeconds>
+<messageDateTimeLocal>20170718 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170719 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707190300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Tue Jul 18</messageDateTimeLocalStr>
+<timeEpochSeconds>1500433200</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL STORM</systemType>
+<systemType>REMNANTS OF</systemType>
 <systemName>DON</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>11.9</centerLocLatitude>
-<centerLocLongitude>-61.4</centerLocLongitude>
+<centerLocLongitude>-62.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>11.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>61.4W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>62.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
 <systemIntensityKph>65</systemIntensityKph>
 <systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1011</systemMslpMb>
-<systemMslpInHg>29.85</systemMslpInHg>
+<systemMslpMb>1012</systemMslpMb>
+<systemMslpInHg>29.89</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>W OR 275 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>23</systemSpeedMph>
-<systemSpeedKph>37</systemSpeedKph>
-<systemSpeedKts>20</systemSpeedKts>
+<systemSpeedMph>25</systemSpeedMph>
+<systemSpeedKph>41</systemSpeedKph>
+<systemSpeedKts>22</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 25 MI...40 KM SE OF GRENADA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 100 MI...155 KM S OF ST. VINCENT</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 55 MI...90 KM WSW OF GRENADA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Don Intermediate Advisory Number 5A
+Remnants Of Don Advisory Number   6
 NWS National Hurricane Center Miami FL       AL052017
-800 PM AST Tue Jul 18 2017
+1100 PM AST Tue Jul 18 2017
 
-...DON ACCELERATING WESTWARD AS IT APPROACHES GRENADA...
+...DON DEGENERATES TO AN OPEN WAVE OVER THE FAR SOUTHEASTERN
+CARIBBEAN SEA...
+...THIS IS THE LAST ADVISORY...
 
 
-SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
-----------------------------------------------
-LOCATION...11.9N 61.4W
-ABOUT 25 MI...40 KM SE OF GRENADA
-ABOUT 100 MI...155 KM S OF ST. VINCENT
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...11.9N 62.5W
+ABOUT 55 MI...90 KM WSW OF GRENADA
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...W OR 275 DEGREES AT 23 MPH...37 KM/H
-MINIMUM CENTRAL PRESSURE...1011 MB...29.85 INCHES
+PRESENT MOVEMENT...W OR 275 DEGREES AT 25 MPH...41 KM/H
+MINIMUM CENTRAL PRESSURE...1012 MB...29.89 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of the Netherlands has discontinued the Tropical
-Storm Watch for Bonaire.
+The government of Trinidad and Tobago has discontinued the Tropical
+Storm Warning for Grenada.  The government of Barbados has
+discontinued the Tropical Storm Warning for St. Vincent and the
+Grenadines.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
-A Tropical Storm Warning is in effect for...
-* Grenada
-* St. Vincent and the Grenadines
-
-Interests in Trinidad and Tobago, Bonaire, Curacao, and Aruba should
-continue to monitor the progress of Don.
+There are no coastal watches and warnings in effect.
 
 For storm information specific to your area, please monitor
 products issued by your national meteorological service.
@@ -90,46 +87,47 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 PM AST (0000 UTC), the center of Tropical Storm Don was
-located near latitude 11.9 North, longitude 61.4 West.  Don is
-moving toward the west near 23 mph (37 km/h).  This general motion
-is expected through Wednesday.  On the forecast track, the center of
-Don will move across the Windward Islands within the next few hours,
-and then move westward across the southeastern Caribbean Sea late
-tonight and Wednesday.
+Data from an Air Force Reserve reconnaissance aircraft indicate
+that Don no longer has a center of circulation.  At 1100 PM AST
+(0300 UTC), the remnants of Don were located near latitude 11.9
+North, longitude 62.5 West.  The remnants are moving quickly toward
+the west near 25 mph (41 km/h), and this motion is expected to
+continue during the next couple of days.
 
-Maximum sustained winds are near 40 mph (65 km/h) with higher
-gusts.  Little change in strength is forecast during the next 24
-hours.  The system is forecast to degenerate into a trough of low
-pressure tonight or Wednesday.
+The aircraft data indicate that maximum sustained winds are near 40
+mph (65 km/h) with higher gusts.  These winds are occurring over
+the waters of the far southeastern Caribbean Sea.
 
-Tropical-storm-force winds extend outward up to 35 miles (55 km)
-from the center.
+Tropical-storm-force winds extend outward up to 45 miles (75 km)
+to the north of the center.
 
-The estimated minimum central pressure is 1011 mb (29.85 inches).
+The estimated minimum central pressure is 1012 mb (29.89 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-WIND:  Tropical storm conditions are expected to spread across the
-Windward Islands within the warning area during the next several
-hours.
+WIND:  Gusts to tropical storm force in squalls are still possible
+across the Windward Islands overnight.
 
-RAINFALL:  Don is expected to produce total rain accumulations of
-3 to 6 inches, with isolated higher amounts, across Trinidad and
-Tobago and the southern Windward Islands through Wednesday.  These
-rains could produce life-threatening flash floods and mudslides,
-especially in mountainous areas.
+RAINFALL:  The remnants of Don are expected to produce total rain
+accumulations of 3 to 6 inches, with isolated higher amounts, across
+Trinidad and Tobago, the southern Windward Islands, and northeastern
+Venezuela through Wednesday.  These rains could produce
+life-threatening flash floods and mudslides, especially in
+mountainous areas.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM AST.
+This is the last public advisory issued by the National Hurricane
+Center on this system.  Additional information on this system can be
+found in High Seas Forecasts issued by the National Weather Service,
+under AWIPS header NFDHSFAT1, WMO header FZNT01 KWBC, and available
+on the Web at http://www.opc.ncep.noaa.gov/shtml/NFDHSFAT1.shtml.
 
 $$
 Forecaster Berg
 
 NNNN
-
 </message>
 </cycloneMessage>
