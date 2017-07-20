@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>8</advisoryNumber>
+<advisoryNumber>9</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170720 02:00:00 AM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170720 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707200900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM PDT Thu Jul 20</messageDateTimeLocalStr>
-<timeEpochSeconds>1500541200</timeEpochSeconds>
+<messageDateTimeLocal>20170720 08:00:00 AM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170720 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707201500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM PDT Thu Jul 20</messageDateTimeLocalStr>
+<timeEpochSeconds>1500562800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>EIGHT-E</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>13.7</centerLocLatitude>
-<centerLocLongitude>-122.6</centerLocLongitude>
+<centerLocLatitude>13.4</centerLocLatitude>
+<centerLocLongitude>-123.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>13.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>122.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>13.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>123.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>30</systemIntensityMph>
@@ -43,24 +43,25 @@
 <systemSpeedKph>9</systemSpeedKph>
 <systemSpeedKts>5</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1045 MI...1685 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1085 MI...1745 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Eight-E Advisory Number   8
+Tropical Depression Eight-E Advisory Number   9
 NWS National Hurricane Center Miami FL       EP082017
-200 AM PDT Thu Jul 20 2017
+800 AM PDT Thu Jul 20 2017
 
-...DEPRESSION REMAINS WEAK...
+...DEPRESSION EXPECTED TO BECOME A REMNANT LOW DURING THE NEXT DAY
+OR TWO...
 
 
-SUMMARY OF 200 AM PDT...0900 UTC...INFORMATION
+SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...13.7N 122.6W
-ABOUT 1045 MI...1685 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+LOCATION...13.4N 123.1W
+ABOUT 1085 MI...1745 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
 PRESENT MOVEMENT...WSW OR 245 DEGREES AT 6 MPH...9 KM/H
 MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
@@ -73,14 +74,15 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM PDT (0900 UTC), the center of Tropical Depression Eight-E
-was located near latitude 13.7 North, longitude 122.6 West. The
-depression is moving toward the west-southwest near 6 mph (9 km/h).
-A turn toward the southwest or south-southwest with a decrease in
-forward speed is expected by Friday.
+At 800 AM PDT (1500 UTC), the center of Tropical Depression Eight-E
+was located near latitude 13.4 North, longitude 123.1 West. The
+depression is moving toward the west-southwest near 6 mph (9 km/h),
+and a slow motion toward the southwest is expected during the next
+couple of days.
 
 Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
-The depression is forecast to become a remnant low by this weekend.
+The depression is forecast to become a remnant low Friday or Friday
+night.
 
 The estimated minimum central pressure is 1009 mb (29.80 inches).
 
@@ -92,10 +94,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 800 AM PDT.
+Next complete advisory at 200 PM PDT.
 
 $$
-Forecaster Zelinsky
+Forecaster Beven
 
 NNNN
 </message>
