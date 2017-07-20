@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>6</advisoryNumber>
+<advisoryNumber>7</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170719 02:00:00 PM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170719 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707192100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 PM PDT Wed Jul 19</messageDateTimeLocalStr>
-<timeEpochSeconds>1500498000</timeEpochSeconds>
+<messageDateTimeLocal>20170719 08:00:00 PM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170720 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707200300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM PDT Wed Jul 19</messageDateTimeLocalStr>
+<timeEpochSeconds>1500519600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>EIGHT-E</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>14.1</centerLocLatitude>
-<centerLocLongitude>-121.7</centerLocLongitude>
+<centerLocLatitude>13.9</centerLocLatitude>
+<centerLocLongitude>-122.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>14.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>121.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>13.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>122.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>30</systemIntensityMph>
@@ -38,31 +38,31 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WSW OR 240 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>WSW OR 245 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>6</systemSpeedMph>
 <systemSpeedKph>9</systemSpeedKph>
 <systemSpeedKts>5</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 980 MI...1580 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1015 MI...1635 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Eight-E Advisory Number   6
+Tropical Depression Eight-E Advisory Number   7
 NWS National Hurricane Center Miami FL       EP082017
-200 PM PDT Wed Jul 19 2017
+800 PM PDT Wed Jul 19 2017
 
-...DEPRESSION REMAINS WEAK AND POORLY ORGANIZED...
+...DEPRESSION FORECAST TO BECOME A REMNANT LOW IN A DAY OR TWO...
 
 
-SUMMARY OF 200 PM PDT...2100 UTC...INFORMATION
+SUMMARY OF 800 PM PDT...0300 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...14.1N 121.7W
-ABOUT 980 MI...1580 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+LOCATION...13.9N 122.2W
+ABOUT 1015 MI...1635 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
-PRESENT MOVEMENT...WSW OR 240 DEGREES AT 6 MPH...9 KM/H
+PRESENT MOVEMENT...WSW OR 245 DEGREES AT 6 MPH...9 KM/H
 MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
 
 
@@ -73,15 +73,15 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 PM PDT (2100 UTC), the center of Tropical Depression Eight-E
-was located near latitude 14.1 North, longitude 121.7 West. The
-depression is moving toward the west-southwest near 6 mph (9 km/h),
-and a slow motion toward the southwest or south-southwest is
-expected during the next couple of days.
+At 800 PM PDT (0300 UTC), the center of Tropical Depression Eight-E
+was located near latitude 13.9 North, longitude 122.2 West.  The
+depression is moving toward the west-southwest near 6 mph (9 km/h).
+A slow motion toward the southwest and then south is expected
+during the next couple of days.
 
-Maximum sustained winds have decreased to near 30 mph (45 km/h) with
-higher gusts. Little change in strength is forecast during the next
-48 hours.
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+Little change in strength is forecast during the next 48 hours, and
+the depression is expected to become a remnant low in a day or two.
 
 The estimated minimum central pressure is 1009 mb (29.80 inches).
 
@@ -93,10 +93,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 800 PM PDT.
+Next complete advisory at 200 AM PDT.
 
 $$
-Forecaster Blake
+Forecaster Berg
 
 NNNN
 </message>

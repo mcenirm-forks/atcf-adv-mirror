@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "6",
+  "advisoryNumber": "7",
   "atcfID": "EP082017",
-  "centerLocLatitude": "14.1",
-  "centerLocLatitudeExpanded": "14.1N",
-  "centerLocLongitude": "-121.7",
-  "centerLocLongitudeExpanded": "121.7W",
+  "centerLocLatitude": "13.9",
+  "centerLocLatitudeExpanded": "13.9N",
+  "centerLocLongitude": "-122.2",
+  "centerLocLongitudeExpanded": "122.2W",
   "event_title": "TROPICAL DEPRESSION EIGHT-E",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -121.7,
-      14.1
+      -122.2,
+      13.9
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPEP3 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Eight-E Advisory Number   6\nNWS National Hurricane Center Miami FL       EP082017\n200 PM PDT Wed Jul 19 2017\n\n...DEPRESSION REMAINS WEAK AND POORLY ORGANIZED...\n\n\nSUMMARY OF 200 PM PDT...2100 UTC...INFORMATION\n----------------------------------------------\nLOCATION...14.1N 121.7W\nABOUT 980 MI...1580 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H\nPRESENT MOVEMENT...WSW OR 240 DEGREES AT 6 MPH...9 KM/H\nMINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 200 PM PDT (2100 UTC), the center of Tropical Depression Eight-E\nwas located near latitude 14.1 North, longitude 121.7 West. The\ndepression is moving toward the west-southwest near 6 mph (9 km/h),\nand a slow motion toward the southwest or south-southwest is\nexpected during the next couple of days.\n\nMaximum sustained winds have decreased to near 30 mph (45 km/h) with\nhigher gusts. Little change in strength is forecast during the next\n48 hours.\n\nThe estimated minimum central pressure is 1009 mb (29.80 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 800 PM PDT.\n\n$$\nForecaster Blake\n\nNNNN",
+  "message": "ZCZC MIATCPEP3 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Eight-E Advisory Number   7\nNWS National Hurricane Center Miami FL       EP082017\n800 PM PDT Wed Jul 19 2017\n\n...DEPRESSION FORECAST TO BECOME A REMNANT LOW IN A DAY OR TWO...\n\n\nSUMMARY OF 800 PM PDT...0300 UTC...INFORMATION\n----------------------------------------------\nLOCATION...13.9N 122.2W\nABOUT 1015 MI...1635 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H\nPRESENT MOVEMENT...WSW OR 245 DEGREES AT 6 MPH...9 KM/H\nMINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 800 PM PDT (0300 UTC), the center of Tropical Depression Eight-E\nwas located near latitude 13.9 North, longitude 122.2 West.  The\ndepression is moving toward the west-southwest near 6 mph (9 km/h).\nA slow motion toward the southwest and then south is expected\nduring the next couple of days.\n\nMaximum sustained winds are near 30 mph (45 km/h) with higher gusts.\nLittle change in strength is forecast during the next 48 hours, and\nthe depression is expected to become a remnant low in a day or two.\n\nThe estimated minimum central pressure is 1009 mb (29.80 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 200 AM PDT.\n\n$$\nForecaster Berg\n\nNNNN",
   "messageBinNumber": "3",
-  "messageDateTimeLocal": "20170719 02:00:00 PM PDT",
-  "messageDateTimeLocalStr": "0200 PM PDT Wed Jul 19",
-  "messageDateTimeUTC": "20170719 09:00:00 PM UTC",
-  "messageDateTimeUTC24": "201707192100",
+  "messageDateTimeLocal": "20170719 08:00:00 PM PDT",
+  "messageDateTimeLocalStr": "0800 PM PDT Wed Jul 19",
+  "messageDateTimeUTC": "20170720 03:00:00 AM UTC",
+  "messageDateTimeUTC24": "201707200300",
   "messageType": "ROUTINE ADVISORY",
-  "systemDirectionOfMotion": "WSW OR 240 DEGREES",
-  "systemGeoRefPt1": "ABOUT 980 MI...1580 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
+  "systemDirectionOfMotion": "WSW OR 245 DEGREES",
+  "systemGeoRefPt1": "ABOUT 1015 MI...1635 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
   "systemIntensityKph": "45",
   "systemIntensityKts": "25",
   "systemIntensityMph": "30",
@@ -70,6 +70,6 @@
   "systemSpeedKts": "5",
   "systemSpeedMph": "6",
   "systemType": "TROPICAL DEPRESSION",
-  "time": "2017-07-19 21:00:00",
-  "timeEpochSeconds": "1500498000"
+  "time": "2017-07-20 03:00:00",
+  "timeEpochSeconds": "1500519600"
 }
