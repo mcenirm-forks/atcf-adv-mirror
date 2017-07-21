@@ -1,23 +1,23 @@
 {
   "cycloneMessage": {
-    "advisoryNumber": "15",
+    "advisoryNumber": "16",
     "atcfID": "EP072017",
-    "centerLocLatitude": "14.3",
-    "centerLocLatitudeExpanded": "14.3N",
-    "centerLocLongitude": "-117.4",
-    "centerLocLongitudeExpanded": "117.4W",
+    "centerLocLatitude": "14.5",
+    "centerLocLatitudeExpanded": "14.5N",
+    "centerLocLongitude": "-118.3",
+    "centerLocLongitudeExpanded": "118.3W",
     "formationChancePct48h": "N/A",
     "formationChancePct5d": "N/A",
     "issuingUnit": "NWS NATIONAL HURRICANE CENTER MIAMI FL",
-    "message": "ZCZC MIATCPEP2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Greg Advisory Number  15\nNWS National Hurricane Center Miami FL       EP072017\n800 PM PDT Thu Jul 20 2017\n\n...STATUS QUO WITH GREG AS IT CONTINUES WESTWARD WITH 50-MPH\nWINDS...\n\n\nSUMMARY OF 800 PM PDT...0300 UTC...INFORMATION\n----------------------------------------------\nLOCATION...14.3N 117.4W\nABOUT 770 MI...1240 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H\nPRESENT MOVEMENT...W OR 275 DEGREES AT 10 MPH...17 KM/H\nMINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 800 PM PDT (0300 UTC), the center of Tropical Storm Greg was\nlocated near latitude 14.3 North, longitude 117.4 West.  Greg is\nmoving toward the west near 10 mph (17 km/h).  A westward or\nwest-northwestward motion at a slightly faster forward speed is\nexpected over the next couple of days.\n\nMaximum sustained winds are near 50 mph (85 km/h) with higher gusts.\nSome strengthening is forecast during the next 48 hours, and Greg\ncould become a hurricane by Saturday.\n\nTropical-storm-force winds extend outward up to 60 miles (95 km)\nfrom the center.\n\nThe estimated minimum central pressure is 1003 mb (29.62 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 200 AM PDT.\n\n$$\nForecaster Berg\n\nNNNN",
+    "message": "ZCZC MIATCPEP2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Greg Advisory Number  16\nNWS National Hurricane Center Miami FL       EP072017\n200 AM PDT Fri Jul 21 2017\n\n...GREG HEADING WEST WITH NO CHANGE IN STRENGTH...\n\n\nSUMMARY OF 200 AM PDT...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...14.5N 118.3W\nABOUT 800 MI...1285 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H\nPRESENT MOVEMENT...W OR 280 DEGREES AT 10 MPH...17 KM/H\nMINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 200 AM PDT (0900 UTC), the center of Tropical Storm Greg was\nlocated near latitude 14.5 North, longitude 118.3 West.  Greg is\nmoving toward the west near 10 mph (17 km/h).  A continued westward\nto west-northwestward motion with a slight increase in forward speed\nis expected through the weekend.\n\nMaximum sustained winds are near 50 mph (85 km/h) with higher gusts.\nSome strengthening is forecast during the next 48 hours, and Greg is\nforecast to be near hurricane strength by Sunday.\n\nTropical-storm-force winds extend outward up to 60 miles (95 km)\nfrom the center.\n\nThe estimated minimum central pressure is 1003 mb (29.62 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 800 AM PDT.\n\n$$\nForecaster Zelinsky\n\nNNNN",
     "messageBinNumber": "2",
-    "messageDateTimeLocal": "20170720 08:00:00 PM PDT",
-    "messageDateTimeLocalStr": "0800 PM PDT Thu Jul 20",
-    "messageDateTimeUTC": "20170721 03:00:00 AM UTC",
-    "messageDateTimeUTC24": "201707210300",
+    "messageDateTimeLocal": "20170721 02:00:00 AM PDT",
+    "messageDateTimeLocalStr": "0200 AM PDT Fri Jul 21",
+    "messageDateTimeUTC": "20170721 09:00:00 AM UTC",
+    "messageDateTimeUTC24": "201707210900",
     "messageType": "ROUTINE ADVISORY",
-    "systemDirectionOfMotion": "W OR 275 DEGREES",
-    "systemGeoRefPt1": "ABOUT 770 MI...1240 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
+    "systemDirectionOfMotion": "W OR 280 DEGREES",
+    "systemGeoRefPt1": "ABOUT 800 MI...1285 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
     "systemIntensityKph": "85",
     "systemIntensityKts": "45",
     "systemIntensityMph": "50",
@@ -29,6 +29,6 @@
     "systemSpeedKts": "9",
     "systemSpeedMph": "10",
     "systemType": "TROPICAL STORM",
-    "timeEpochSeconds": "1500606000"
+    "timeEpochSeconds": "1500627600"
   }
 }
