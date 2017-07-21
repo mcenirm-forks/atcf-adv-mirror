@@ -1,24 +1,24 @@
 {
   "cycloneMessage": {
-    "advisoryNumber": "1",
+    "advisoryNumber": "2",
     "atcfID": "EP092017",
     "centerLocLatitude": "9.0",
     "centerLocLatitudeExpanded": "9.0N",
-    "centerLocLongitude": "-93.5",
-    "centerLocLongitudeExpanded": "93.5W",
+    "centerLocLongitude": "-94.7",
+    "centerLocLongitudeExpanded": "94.7W",
     "formationChancePct48h": "N/A",
     "formationChancePct5d": "N/A",
     "issuingUnit": "NWS NATIONAL HURRICANE CENTER MIAMI FL",
-    "message": "ZCZC MIATCPEP4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Nine-E Advisory Number   1\nNWS National Hurricane Center Miami FL       EP092017\n1000 AM CDT Fri Jul 21 2017\n\n...AND YET ANOTHER DEPRESSION FORMS IN THE EASTERN PACIFIC...\n\n\nSUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...9.0N 93.5W\nABOUT 505 MI...815 KM SSE OF PUERTO ANGEL MEXICO\nABOUT 695 MI...1120 KM SE OF ACAPULCO MEXICO\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...W OR 280 DEGREES AT 14 MPH...22 KM/H\nMINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1000 AM CDT (1500 UTC), the center of the recently formed\nTropical Depression Nine-E was located near latitude 9.0 North,\nlongitude 93.5 West. The depression is moving toward the west near\n14 mph (22 km/h), and this motion is expected to continue during\nthe next 2 days.  This track will keep the core of the cyclone\nwell south of the coast of Mexico.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nSome strengthening is forecast during the next 48 hours, and the\ndepression is likely to become a tropical storm later today or\nSaturday.\n\nThe estimated minimum central pressure is 1008 mb (29.77 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 400 PM CDT.\n\n$$\nForecaster Avila\n\nNNNN",
+    "message": "ZCZC MIATCPEP4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Nine-E Advisory Number   2\nNWS National Hurricane Center Miami FL       EP092017\n400 PM CDT Fri Jul 21 2017\n\n...DEPRESSION WILL LIKELY BECOME A HURRICANE OVER THE WEEKEND...\n...NO THREAT TO MEXICO AT THIS TIME...\n\n\nSUMMARY OF 400 PM CDT...2100 UTC...INFORMATION\n----------------------------------------------\nLOCATION...9.0N 94.7W\nABOUT 480 MI...770 KM SSE OF PUERTO ANGEL MEXICO\nABOUT 650 MI...1045 KM SSE OF ACAPULCO MEXICO\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...W OR 280 DEGREES AT 14 MPH...22 KM/H\nMINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 400 PM CDT (2100 UTC), the center of Tropical Depression Nine-E\nwas located near latitude 9.0 North, longitude 94.7 West. The\ndepression is moving toward the west near 14 mph (22 km/h), and a\ngradual turn to the west-northwest is expected over the weekend.\n\nMaximum sustained winds remain near 35 mph (55 km/h) with higher\ngusts. Strengthening is forecast and the depression is expected to\nreach hurricane status later this weekend.\n\nThe estimated minimum central pressure is 1008 mb (29.77 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1000 PM CDT.\n\n$$\nForecaster Avila\n\nNNNN",
     "messageBinNumber": "4",
-    "messageDateTimeLocal": "20170721 10:00:00 AM CDT",
-    "messageDateTimeLocalStr": "1000 AM CDT Fri Jul 21",
-    "messageDateTimeUTC": "20170721 03:00:00 PM UTC",
-    "messageDateTimeUTC24": "201707211500",
+    "messageDateTimeLocal": "20170721 04:00:00 PM CDT",
+    "messageDateTimeLocalStr": "0400 PM CDT Fri Jul 21",
+    "messageDateTimeUTC": "20170721 09:00:00 PM UTC",
+    "messageDateTimeUTC24": "201707212100",
     "messageType": "ROUTINE ADVISORY",
     "systemDirectionOfMotion": "W OR 280 DEGREES",
-    "systemGeoRefPt1": "ABOUT 505 MI...815 KM SSE OF PUERTO ANGEL MEXICO",
-    "systemGeoRefPt2": "ABOUT 695 MI...1120 KM SE OF ACAPULCO MEXICO",
+    "systemGeoRefPt1": "ABOUT 480 MI...770 KM SSE OF PUERTO ANGEL MEXICO",
+    "systemGeoRefPt2": "ABOUT 650 MI...1045 KM SSE OF ACAPULCO MEXICO",
     "systemIntensityKph": "55",
     "systemIntensityKts": "30",
     "systemIntensityMph": "35",
@@ -30,6 +30,6 @@
     "systemSpeedKts": "12",
     "systemSpeedMph": "14",
     "systemType": "TROPICAL DEPRESSION",
-    "timeEpochSeconds": "1500649200"
+    "timeEpochSeconds": "1500670800"
   }
 }
