@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP062017</atcfID>
+<issuingUnit>NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>1</messageBinNumber>
+<advisoryNumber>37</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20170720 05:00:00 PM HST</messageDateTimeLocal>
+<messageDateTimeUTC>20170721 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707210300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM HST Thu Jul 20</messageDateTimeLocalStr>
+<timeEpochSeconds>1500606000</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>TROPICAL STORM</systemType>
+<systemName>FERNANDA</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>18.4</centerLocLatitude>
+<centerLocLongitude>-141.4</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>18.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>141.4W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>50</systemIntensityMph>
+<systemIntensityKph>85</systemIntensityKph>
+<systemIntensityKts>45</systemIntensityKts>
+<systemMslpMb>1000</systemMslpMb>
+<systemMslpInHg>29.53</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct5d>N/A</formationChancePct5d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 900 MI...1445 KM E OF HILO HAWAII</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 1090 MI...1755 KM E OF HONOLULU HAWAII</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC HFOTCPCP1 ALL
+TTAA00 PHFO DDHHMM
+ 
+BULLETIN
+Tropical Storm Fernanda Advisory Number  37
+NWS Central Pacific Hurricane Center Honolulu HI   EP062017
+500 PM HST Thu Jul 20 2017
+ 
+...FERNANDA CONTINUES TO WEAKEN IN THE CENTRAL PACIFIC...
+ 
+ 
+SUMMARY OF 500 PM HST...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...18.4N 141.4W
+ABOUT 900 MI...1445 KM E OF HILO HAWAII
+ABOUT 1090 MI...1755 KM E OF HONOLULU HAWAII
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 500 PM HST (0300 UTC), the center of Tropical Storm Fernanda was
+located near latitude 18.4 North, longitude 141.4 West. Fernanda is
+moving toward the west near 12 mph (19 km/h), and a general motion
+toward the west-northwest is expected during the next couple of
+days.
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+Additional weakening is forecast during the next 48 hours, and
+Fernanda is expected to become a tropical depression on Friday. 
+ 
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center.
+ 
+The estimated minimum central pressure is 1000 mb (29.53 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM HST.
+ 
+$$
+Forecaster Kodama
+ 
+NNNN
+ 
+
+</message>
+</cycloneMessage>
