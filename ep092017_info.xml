@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>3</advisoryNumber>
+<advisoryNumber>4</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170721 10:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170722 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707220300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 PM CDT Fri Jul 21</messageDateTimeLocalStr>
-<timeEpochSeconds>1500692400</timeEpochSeconds>
+<messageDateTimeLocal>20170722 04:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170722 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707220900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 AM CDT Sat Jul 22</messageDateTimeLocalStr>
+<timeEpochSeconds>1500714000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>NINE-E</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>9.4</centerLocLatitude>
-<centerLocLongitude>-95.7</centerLocLongitude>
+<centerLocLatitude>9.6</centerLocLatitude>
+<centerLocLongitude>-96.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>9.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>95.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>9.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>96.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -38,34 +38,33 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>14</systemSpeedMph>
-<systemSpeedKph>22</systemSpeedKph>
-<systemSpeedKts>12</systemSpeedKts>
+<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>13</systemSpeedMph>
+<systemSpeedKph>20</systemSpeedKph>
+<systemSpeedKts>11</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 440 MI...705 KM S OF PUERTO ANGEL MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 590 MI...950 KM SSE OF ACAPULCO MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 420 MI...680 KM S OF PUERTO ANGEL MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 550 MI...885 KM SSE OF ACAPULCO MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Nine-E Advisory Number   3
+Tropical Depression Nine-E Advisory Number   4
 NWS National Hurricane Center Miami FL       EP092017
-1000 PM CDT Fri Jul 21 2017
+400 AM CDT Sat Jul 22 2017
 
-...DEPRESSION NEAR TROPICAL STORM STRENGTH...
-...FORECAST TO STRENGTHEN OVER THE WEEKEND...
+...DEPRESSION EXPECTED TO BECOME A TROPICAL STORM LATER TODAY...
 
 
-SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...9.4N 95.7W
-ABOUT 440 MI...705 KM S OF PUERTO ANGEL MEXICO
-ABOUT 590 MI...950 KM SSE OF ACAPULCO MEXICO
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...9.6N 96.6W
+ABOUT 420 MI...680 KM S OF PUERTO ANGEL MEXICO
+ABOUT 550 MI...885 KM SSE OF ACAPULCO MEXICO
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...W OR 280 DEGREES AT 14 MPH...22 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 13 MPH...20 KM/H
 MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
 
 
@@ -76,16 +75,15 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 PM CDT (0300 UTC), the center of Tropical Depression Nine-E
-was located near latitude 9.4 North, longitude 95.7 West.  The
-depression is moving toward the west near 14 mph (22 km/h).  A turn
-toward the west-northwest is expected on Saturday, and a motion
-toward the northwest is expected on Sunday.
+At 400 AM CDT (0900 UTC), the center of Tropical Depression Nine-E
+was located near latitude 9.6 North, longitude 96.6 West.  The
+depression is moving toward the west-northwest near 13 mph (20
+km/h).  A turn toward the northwest is expected later today.
 
 Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-Strengthening is forecast and the depression is expected to become
-a tropical storm later tonight and reach hurricane status later this
-weekend.
+Some strengthening is forecast during the next 48 hours.  The
+depression is forecast to become a tropical storm later today, and
+it could become a hurricane by the end of the weekend.
 
 The estimated minimum central pressure is 1006 mb (29.71 inches).
 
@@ -97,10 +95,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 AM CDT.
+Next complete advisory at 1000 AM CDT.
 
 $$
-Forecaster Beven
+Forecaster Zelinsky
 
 NNNN
 </message>
