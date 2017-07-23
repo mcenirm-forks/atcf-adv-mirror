@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>2</advisoryNumber>
+<advisoryNumber>3</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170722 03:00:00 PM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170722 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707222100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0300 PM MDT Sat Jul 22</messageDateTimeLocalStr>
-<timeEpochSeconds>1500757200</timeEpochSeconds>
+<messageDateTimeLocal>20170722 09:00:00 PM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170723 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707230300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0900 PM MDT Sat Jul 22</messageDateTimeLocalStr>
+<timeEpochSeconds>1500778800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>TEN-E</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>14.4</centerLocLatitude>
-<centerLocLongitude>-113.5</centerLocLongitude>
+<centerLocLatitude>14.6</centerLocLatitude>
+<centerLocLongitude>-114.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>14.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>113.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>14.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>114.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -38,31 +38,32 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>7</systemSpeedMph>
-<systemSpeedKph>11</systemSpeedKph>
-<systemSpeedKts>6</systemSpeedKts>
+<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>8</systemSpeedMph>
+<systemSpeedKph>13</systemSpeedKph>
+<systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 630 MI...1020 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 640 MI...1025 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Ten-E Advisory Number   2
+Tropical Depression Ten-E Advisory Number   3
 NWS National Hurricane Center Miami FL       EP102017
-300 PM MDT Sat Jul 22 2017
+900 PM MDT Sat Jul 22 2017
 
-...TROPICAL DEPRESSION NOT WELL ORGANIZED...
+...TROPICAL DEPRESSION EXPECTED TO BECOME A TROPICAL STORM ON
+SUNDAY...
 
 
-SUMMARY OF 300 PM MDT...2100 UTC...INFORMATION
+SUMMARY OF 900 PM MDT...0300 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...14.4N 113.5W
-ABOUT 630 MI...1020 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+LOCATION...14.6N 114.2W
+ABOUT 640 MI...1025 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...W OR 270 DEGREES AT 7 MPH...11 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 8 MPH...13 KM/H
 MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
 
 
@@ -73,14 +74,15 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 300 PM MDT (2100 UTC), the center of Tropical Depression Ten-E
-was located near latitude 14.4 North, longitude 113.5 West. The
-depression is moving toward the west near 7 mph (11 km/h), and this
-motion is expected to continue during the next couple of days.
+At 900 PM MDT (0300 UTC), the center of Tropical Depression Ten-E
+was located near latitude 14.6 North, longitude 114.2 West. The
+depression is moving toward the west near 8 mph (13 km/h) and this
+general motion is expected to continue with some decrease in
+forward speed during the next couple of days.
 
 Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-Some strengthening is forecast and the depression could become
-a tropical storm on Sunday.
+Slow strengthening is forecast during the next 48 hours, and the
+depression is expected to become a tropical storm on Sunday.
 
 The estimated minimum central pressure is 1006 mb (29.71 inches).
 
@@ -92,10 +94,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 900 PM MDT.
+Next complete advisory at 300 AM MDT.
 
 $$
-Forecaster Blake
+Forecaster Beven
 
 NNNN
 </message>

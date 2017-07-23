@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "2",
+  "advisoryNumber": "3",
   "atcfID": "EP102017",
-  "centerLocLatitude": "14.4",
-  "centerLocLatitudeExpanded": "14.4N",
-  "centerLocLongitude": "-113.5",
-  "centerLocLongitudeExpanded": "113.5W",
+  "centerLocLatitude": "14.6",
+  "centerLocLatitudeExpanded": "14.6N",
+  "centerLocLongitude": "-114.2",
+  "centerLocLongitudeExpanded": "114.2W",
   "event_title": "TROPICAL DEPRESSION TEN-E",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -113.5,
-      14.4
+      -114.2,
+      14.6
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPEP5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Ten-E Advisory Number   2\nNWS National Hurricane Center Miami FL       EP102017\n300 PM MDT Sat Jul 22 2017\n\n...TROPICAL DEPRESSION NOT WELL ORGANIZED...\n\n\nSUMMARY OF 300 PM MDT...2100 UTC...INFORMATION\n----------------------------------------------\nLOCATION...14.4N 113.5W\nABOUT 630 MI...1020 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...W OR 270 DEGREES AT 7 MPH...11 KM/H\nMINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 300 PM MDT (2100 UTC), the center of Tropical Depression Ten-E\nwas located near latitude 14.4 North, longitude 113.5 West. The\ndepression is moving toward the west near 7 mph (11 km/h), and this\nmotion is expected to continue during the next couple of days.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nSome strengthening is forecast and the depression could become\na tropical storm on Sunday.\n\nThe estimated minimum central pressure is 1006 mb (29.71 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 900 PM MDT.\n\n$$\nForecaster Blake\n\nNNNN",
+  "message": "ZCZC MIATCPEP5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Ten-E Advisory Number   3\nNWS National Hurricane Center Miami FL       EP102017\n900 PM MDT Sat Jul 22 2017\n\n...TROPICAL DEPRESSION EXPECTED TO BECOME A TROPICAL STORM ON\nSUNDAY...\n\n\nSUMMARY OF 900 PM MDT...0300 UTC...INFORMATION\n----------------------------------------------\nLOCATION...14.6N 114.2W\nABOUT 640 MI...1025 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...W OR 280 DEGREES AT 8 MPH...13 KM/H\nMINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 900 PM MDT (0300 UTC), the center of Tropical Depression Ten-E\nwas located near latitude 14.6 North, longitude 114.2 West. The\ndepression is moving toward the west near 8 mph (13 km/h) and this\ngeneral motion is expected to continue with some decrease in\nforward speed during the next couple of days.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nSlow strengthening is forecast during the next 48 hours, and the\ndepression is expected to become a tropical storm on Sunday.\n\nThe estimated minimum central pressure is 1006 mb (29.71 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 300 AM MDT.\n\n$$\nForecaster Beven\n\nNNNN",
   "messageBinNumber": "5",
-  "messageDateTimeLocal": "20170722 03:00:00 PM MDT",
-  "messageDateTimeLocalStr": "0300 PM MDT Sat Jul 22",
-  "messageDateTimeUTC": "20170722 09:00:00 PM UTC",
-  "messageDateTimeUTC24": "201707222100",
+  "messageDateTimeLocal": "20170722 09:00:00 PM MDT",
+  "messageDateTimeLocalStr": "0900 PM MDT Sat Jul 22",
+  "messageDateTimeUTC": "20170723 03:00:00 AM UTC",
+  "messageDateTimeUTC24": "201707230300",
   "messageType": "ROUTINE ADVISORY",
-  "systemDirectionOfMotion": "W OR 270 DEGREES",
-  "systemGeoRefPt1": "ABOUT 630 MI...1020 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
+  "systemDirectionOfMotion": "W OR 280 DEGREES",
+  "systemGeoRefPt1": "ABOUT 640 MI...1025 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
   "systemIntensityKph": "55",
   "systemIntensityKts": "30",
   "systemIntensityMph": "35",
@@ -66,10 +66,10 @@
   "systemMslpMb": "1006",
   "systemName": "TEN-E",
   "systemSaffirSimpsonCategory": "N/A",
-  "systemSpeedKph": "11",
-  "systemSpeedKts": "6",
-  "systemSpeedMph": "7",
+  "systemSpeedKph": "13",
+  "systemSpeedKts": "7",
+  "systemSpeedMph": "8",
   "systemType": "TROPICAL DEPRESSION",
-  "time": "2017-07-22 21:00:00",
-  "timeEpochSeconds": "1500757200"
+  "time": "2017-07-23 03:00:00",
+  "timeEpochSeconds": "1500778800"
 }
