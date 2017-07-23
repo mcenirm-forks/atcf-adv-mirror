@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>25</advisoryNumber>
+<advisoryNumber>26</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170723 08:00:00 AM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170723 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707231500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 AM PDT Sun Jul 23</messageDateTimeLocalStr>
-<timeEpochSeconds>1500822000</timeEpochSeconds>
+<messageDateTimeLocal>20170723 02:00:00 PM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170723 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707232100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM PDT Sun Jul 23</messageDateTimeLocalStr>
+<timeEpochSeconds>1500843600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>GREG</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>14.3</centerLocLatitude>
-<centerLocLongitude>-129</centerLocLongitude>
+<centerLocLatitude>14.4</centerLocLatitude>
+<centerLocLongitude>-130.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>14.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>129.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>14.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>130.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>50</systemIntensityMph>
@@ -43,24 +43,24 @@
 <systemSpeedKph>22</systemSpeedKph>
 <systemSpeedKts>12</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1380 MI...2225 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1445 MI...2325 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Greg Advisory Number  25
+Tropical Storm Greg Advisory Number  26
 NWS National Hurricane Center Miami FL       EP072017
-800 AM PDT Sun Jul 23 2017
+200 PM PDT Sun Jul 23 2017
 
-...GREG MOVING WEST INTO A DRY AIR MASS...
+...GREG GROWS A LITTLE BUT STILL PRODUCING 50-MPH WINDS...
 
 
-SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
+SUMMARY OF 200 PM PDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...14.3N 129.0W
-ABOUT 1380 MI...2225 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+LOCATION...14.4N 130.1W
+ABOUT 1445 MI...2325 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
 PRESENT MOVEMENT...W OR 270 DEGREES AT 14 MPH...22 KM/H
 MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
@@ -73,18 +73,18 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 AM PDT (1500 UTC), the center of Tropical Storm Greg was
-located near latitude 14.3 North, longitude 129.0 West.  Greg is
+At 200 PM PDT (2100 UTC), the center of Tropical Storm Greg was
+located near latitude 14.4 North, longitude 130.1 West.  Greg is
 moving toward the west near 14 mph (22 km/h), and this general
 motion is expected to continue through Monday.  A turn toward the
-west-northwest at a slower forward speed is possibly by Monday
-night.
+west-northwest at a slower forward speed is expected Monday night
+and Tuesday.
 
 Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
-Little change in strength is anticipated through tonight, but some
-weakening is likely to occur Monday and Monday night.
+Little change in strength is forecast through Monday, but some
+weakening is likely Monday night and Tuesday.
 
-Tropical-storm-force winds extend outward up to 60 miles (95 km)
+Tropical-storm-force winds extend outward up to 105 miles (165 km)
 from the center.
 
 The estimated minimum central pressure is 1001 mb (29.56 inches).
@@ -97,7 +97,7 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 200 PM PDT.
+Next complete advisory at 800 PM PDT.
 
 $$
 Forecaster Berg
