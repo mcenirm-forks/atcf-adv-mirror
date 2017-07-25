@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>15</advisoryNumber>
+<advisoryNumber>16</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170724 10:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170725 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707250300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 PM CDT Mon Jul 24</messageDateTimeLocalStr>
-<timeEpochSeconds>1500951600</timeEpochSeconds>
+<messageDateTimeLocal>20170725 03:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170725 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707250900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0300 AM MDT Tue Jul 25</messageDateTimeLocalStr>
+<timeEpochSeconds>1500973200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>HILARY</systemName>
@@ -19,54 +19,54 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>15.0</centerLocLatitude>
-<centerLocLongitude>-105.7</centerLocLongitude>
+<centerLocLatitude>15.3</centerLocLatitude>
+<centerLocLongitude>-106.7</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>15.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>105.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>15.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>106.7W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>100</systemIntensityMph>
-<systemIntensityKph>155</systemIntensityKph>
-<systemIntensityKts>85</systemIntensityKts>
-<systemMslpMb>982</systemMslpMb>
-<systemMslpInHg>29.00</systemMslpInHg>
+<systemIntensityMph>105</systemIntensityMph>
+<systemIntensityKph>165</systemIntensityKph>
+<systemIntensityKts>90</systemIntensityKts>
+<systemMslpMb>975</systemMslpMb>
+<systemMslpInHg>28.80</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 300 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>9</systemSpeedMph>
-<systemSpeedKph>15</systemSpeedKph>
-<systemSpeedKts>8</systemSpeedKts>
+<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>10</systemSpeedMph>
+<systemSpeedKph>17</systemSpeedKph>
+<systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 290 MI...470 KM SSW OF MANZANILLO MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 610 MI...980 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 360 MI...575 KM S OF CABO CORRIENTES MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 565 MI...910 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Hilary Advisory Number  15
+Hurricane Hilary Advisory Number  16
 NWS National Hurricane Center Miami FL       EP092017
-1000 PM CDT Mon Jul 24 2017
+300 AM MDT Tue Jul 25 2017
 
-...HILARY CONTINUES TO QUICKLY INTENSIFY...
-...EXPECTED TO BECOME A MAJOR HURRICANE ON TUESDAY...
+...HILARY CONTINUES TO STRENGTHEN...
+...LIKELY TO BECOME A MAJOR HURRICANE LATER TODAY...
 
 
-SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...15.0N 105.7W
-ABOUT 290 MI...470 KM SSW OF MANZANILLO MEXICO
-ABOUT 610 MI...980 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...100 MPH...155 KM/H
-PRESENT MOVEMENT...WNW OR 300 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...982 MB...29.00 INCHES
+SUMMARY OF 300 AM MDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...15.3N 106.7W
+ABOUT 360 MI...575 KM S OF CABO CORRIENTES MEXICO
+ABOUT 565 MI...910 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...975 MB...28.80 INCHES
 
 
 WATCHES AND WARNINGS
@@ -76,22 +76,22 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 PM CDT (0300 UTC), the center of Hurricane Hilary was
-located near latitude 15.0 North, longitude 105.7 West. Hilary is
-moving toward the west-northwest near 9 mph (15 km/h), and this
+At 300 AM MDT (0900 UTC), the center of Hurricane Hilary was located
+near latitude 15.3 North, longitude 106.7 West.  Hilary is moving
+toward the west-northwest near 10 mph (17 km/h), and this
 general motion with some increase in forward speed is expected over
 the next 48 hours.
 
-Maximum sustained winds have increased to near 100 mph (155 km/h)
-with higher gusts. Additional strengthening is expected during the
-next 48 hours, and Hilary is forecast to become a major hurricane
-on Tuesday.
+Maximum sustained winds have increased to near 105 mph (165 km/h)
+with higher gusts.  Continued strengthening is forecast over the
+next day or so, and Hilary will likely become a major hurricane
+later today.
 
 Hurricane-force winds extend outward up to 15 miles (30 km) from the
 center and tropical-storm-force winds extend outward up to 70 miles
 (110 km).
 
-The estimated minimum central pressure is 982 mb (29.00 inches).
+The estimated minimum central pressure is 975 mb (28.80 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -101,10 +101,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 AM CDT.
+Next complete advisory at 900 AM MDT.
 
 $$
-Forecaster Stewart
+Forecaster Pasch
 
 NNNN
 </message>
