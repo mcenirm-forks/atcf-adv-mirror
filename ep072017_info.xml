@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>32</advisoryNumber>
+<advisoryNumber>33</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170725 02:00:00 AM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170725 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707250900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM PDT Tue Jul 25</messageDateTimeLocalStr>
-<timeEpochSeconds>1500973200</timeEpochSeconds>
+<messageDateTimeLocal>20170725 08:00:00 AM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170725 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707251500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM PDT Tue Jul 25</messageDateTimeLocalStr>
+<timeEpochSeconds>1500994800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>GREG</systemName>
@@ -19,53 +19,51 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>15.2</centerLocLatitude>
-<centerLocLongitude>-135.7</centerLocLongitude>
+<centerLocLatitude>15.4</centerLocLatitude>
+<centerLocLongitude>-136.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>15.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>135.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>15.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>136.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>45</systemIntensityMph>
-<systemIntensityKph>75</systemIntensityKph>
-<systemIntensityKts>40</systemIntensityKts>
-<systemMslpMb>1003</systemMslpMb>
-<systemMslpInHg>29.62</systemMslpInHg>
+<systemIntensityMph>40</systemIntensityMph>
+<systemIntensityKph>65</systemIntensityKph>
+<systemIntensityKts>35</systemIntensityKts>
+<systemMslpMb>1005</systemMslpMb>
+<systemMslpInHg>29.68</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>WNW OR 295 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>9</systemSpeedMph>
-<systemSpeedKph>15</systemSpeedKph>
-<systemSpeedKts>8</systemSpeedKts>
+<systemSpeedMph>10</systemSpeedMph>
+<systemSpeedKph>17</systemSpeedKph>
+<systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1345 MI...2165 KM E OF SOUTH POINT HAWAII</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 1765 MI...2835 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 1270 MI...2045 KM E OF SOUTH POINT HAWAII</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Greg Advisory Number  32
+Tropical Storm Greg Advisory Number  33
 NWS National Hurricane Center Miami FL       EP072017
-200 AM PDT Tue Jul 25 2017
+800 AM PDT Tue Jul 25 2017
 
-...GREG EXPECTED TO WEAKEN OVER THE NEXT DAY OR TWO...
+...GREG WEAKENS A LITTLE...
 
 
-SUMMARY OF 200 AM PDT...0900 UTC...INFORMATION
+SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...15.2N 135.7W
-ABOUT 1345 MI...2165 KM E OF SOUTH POINT HAWAII
-ABOUT 1765 MI...2835 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
-PRESENT MOVEMENT...WNW OR 295 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
+LOCATION...15.4N 136.8W
+ABOUT 1270 MI...2045 KM E OF SOUTH POINT HAWAII
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...WNW OR 295 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
 WATCHES AND WARNINGS
@@ -75,20 +73,21 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM PDT (0900 UTC), the center of Tropical Storm Greg was
-located near latitude 15.2 North, longitude 135.7 West.  Greg is
-moving toward the west-northwest near 9 mph (15 km/h).  A turn
-toward the northwest is expected later today, followed by a gradual
-turn toward the west by Wednesday night.
+At 800 AM PDT (1500 UTC), the center of Tropical Storm Greg was
+located near latitude 15.4 North, longitude 136.8 West.  Greg is
+moving toward the west-northwest near 10 mph (17 km/h), and this
+general motion is expected to continue through Wednesday.  A turn
+toward west is forecast by early Thursday.
 
-Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
-Some weakening is forecast during the next 48 hours, and Greg
-is expected to become a tropical depression on Wednesday.
+Maximum sustained winds have decreased to near 40 mph (65 km/h)
+with higher gusts.  Some weakening is forecast during the next 48
+hours.  Greg is forecast to be a tropical depression by late
+Wednesday and then should degenerate into a remnant low by Thursday.
 
 Tropical-storm-force winds extend outward up to 70 miles (110 km)
 from the center.
 
-The estimated minimum central pressure is 1003 mb (29.62 inches).
+The estimated minimum central pressure is 1005 mb (29.68 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -98,10 +97,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 800 AM PDT.
+Next complete advisory at 200 PM PDT.
 
 $$
-Forecaster Beven
+Forecaster Berg
 
 NNNN
 </message>
