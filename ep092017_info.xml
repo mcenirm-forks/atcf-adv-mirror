@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>19</advisoryNumber>
+<advisoryNumber>20</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170725 09:00:00 PM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170726 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707260300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0900 PM MDT Tue Jul 25</messageDateTimeLocalStr>
-<timeEpochSeconds>1501038000</timeEpochSeconds>
+<messageDateTimeLocal>20170726 03:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170726 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707260900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0300 AM MDT Wed Jul 26</messageDateTimeLocalStr>
+<timeEpochSeconds>1501059600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>HILARY</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.0</centerLocLatitude>
-<centerLocLongitude>-109.8</centerLocLongitude>
+<centerLocLatitude>16.3</centerLocLatitude>
+<centerLocLongitude>-111</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>109.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>16.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>111.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>105</systemIntensityMph>
@@ -43,24 +43,24 @@
 <systemSpeedKph>19</systemSpeedKph>
 <systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 475 MI...765 KM S OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 460 MI...740 KM S OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Hilary Advisory Number  19
+Hurricane Hilary Advisory Number  20
 NWS National Hurricane Center Miami FL       EP092017
-900 PM MDT Tue Jul 25 2017
+300 AM MDT Wed Jul 26 2017
 
-...HILARY MOVING WEST-NORTHWESTWARD OVER THE OPEN PACIFIC...
+...HILARY MOVING WEST-NORTHWESTWARD SOUTH OF SOCORRO ISLAND...
 
 
-SUMMARY OF 900 PM MDT...0300 UTC...INFORMATION
+SUMMARY OF 300 AM MDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...16.0N 109.8W
-ABOUT 475 MI...765 KM S OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+LOCATION...16.3N 111.0W
+ABOUT 460 MI...740 KM S OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
 PRESENT MOVEMENT...WNW OR 285 DEGREES AT 12 MPH...19 KM/H
 MINIMUM CENTRAL PRESSURE...973 MB...28.74 INCHES
@@ -73,14 +73,14 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 900 PM MDT (0300 UTC), the center of Hurricane Hilary was located
-near latitude 16.0 North, longitude 109.8 West. Hilary is moving
+At 300 AM MDT (0900 UTC), the center of Hurricane Hilary was located
+near latitude 16.3 North, longitude 111.0 West. Hilary is moving
 toward the west-northwest near 12 mph (19 km/h), and this general
 motion is expected to continue for the next couple of days.
 
 Maximum sustained winds are near 105 mph (165 km/h) with higher
-gusts.  Little change in strength is forecast during the next 48
-hours.
+gusts.  Some strengthening is possible today, and afterwards, Hilary
+is expected to gradually weaken tonight through Friday.
 
 Hurricane-force winds extend outward up to 15 miles (30 km) from the
 center and tropical-storm-force winds extend outward up to 90 miles
@@ -96,10 +96,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 300 AM MDT.
+Next complete advisory at 900 AM MDT.
 
 $$
-Forecaster Stewart
+Forecaster Beven
 
 NNNN
 </message>
