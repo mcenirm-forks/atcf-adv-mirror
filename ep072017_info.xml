@@ -2,16 +2,16 @@
 <cycloneMessage>
 <!-- System Advisory Meta Information -->
 <atcfID>EP072017</atcfID>
-<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<issuingUnit>NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>36</advisoryNumber>
+<advisoryNumber>37</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170726 02:00:00 AM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170726 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707260900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM PDT Wed Jul 26</messageDateTimeLocalStr>
-<timeEpochSeconds>1501059600</timeEpochSeconds>
+<messageDateTimeLocal>20170726 05:00:00 AM HST</messageDateTimeLocal>
+<messageDateTimeUTC>20170726 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707261500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM HST Wed Jul 26</messageDateTimeLocalStr>
+<timeEpochSeconds>1501081200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>GREG</systemName>
@@ -19,18 +19,18 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>17.8</centerLocLatitude>
-<centerLocLongitude>-139.5</centerLocLongitude>
+<centerLocLatitude>18.1</centerLocLatitude>
+<centerLocLongitude>-141</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>17.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>139.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>141.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>35</systemIntensityMph>
-<systemIntensityKph>55</systemIntensityKph>
-<systemIntensityKts>30</systemIntensityKts>
+<systemIntensityMph>30</systemIntensityMph>
+<systemIntensityKph>45</systemIntensityKph>
+<systemIntensityKts>25</systemIntensityKts>
 <systemMslpMb>1006</systemMslpMb>
 <systemMslpInHg>29.71</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
@@ -38,32 +38,32 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NW OR 305 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>13</systemSpeedMph>
-<systemSpeedKph>20</systemSpeedKph>
-<systemSpeedKts>11</systemSpeedKts>
+<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1065 MI...1715 KM E OF SOUTH POINT HAWAII</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 965 MI...1550 KM E OF SOUTH POINT HAWAII</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
-ZCZC MIATCPEP2 ALL
-TTAA00 KNHC DDHHMM
+ZCZC HFOTCPCP2 ALL
+TTAA00 PHFO DDHHMM
 
 BULLETIN
-Tropical Depression Greg Advisory Number  36
-NWS National Hurricane Center Miami FL       EP072017
-200 AM PDT Wed Jul 26 2017
+Tropical Depression Greg Advisory Number  37
+NWS Central Pacific Hurricane Center Honolulu HI   EP072017
+Issued By NWS National Hurricane Center Miami FL
+500 AM HST Wed Jul 26 2017
 
-...POORLY ORGANIZED GREG MOVING NORTHWESTWARD TOWARD THE CENTRAL
-PACIFIC...
+...GREG FORECAST TO BECOME A REMNANT LOW LATER TODAY...
 
 
-SUMMARY OF 200 AM PDT...0900 UTC...INFORMATION
+SUMMARY OF 500 AM HST...1500 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...17.8N 139.5W
-ABOUT 1065 MI...1715 KM E OF SOUTH POINT HAWAII
-MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...NW OR 305 DEGREES AT 13 MPH...20 KM/H
+LOCATION...18.1N 141.0W
+ABOUT 965 MI...1550 KM E OF SOUTH POINT HAWAII
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 12 MPH...19 KM/H
 MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
 
 
@@ -74,16 +74,13 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM PDT (0900 UTC), the center of Tropical Depression Greg was
-located near latitude 17.8 North, longitude 139.5 West. The
-depression is moving toward the northwest near 13 mph (20 km/h), and
-this general motion is forecast to continue through today.  A
-gradual turn toward the west-northwest and then the west is expected
-tonight and on Thursday.
+At 500 AM HST (1500 UTC), the center of Tropical Depression Greg was
+located near latitude 18.1 North, longitude 141.0 West.  The
+depression is moving toward the west near 12 mph (19 km/h), and this
+motion is expected to continue today and Thursday.
 
-Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-Slow weakening is expected during the next couple of days, and Greg
-is forecast to degenerate into a remnant low by Wednesday night.
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+Greg is forecast to become a remnant low later today.
 
 The estimated minimum central pressure is 1006 mb (29.71 inches).
 
@@ -95,10 +92,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 800 AM PDT.
+Next complete advisory at 1100 AM HST.
 
 $$
-Forecaster Beven
+Forecaster Avila
 
 NNNN
 </message>

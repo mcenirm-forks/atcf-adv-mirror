@@ -5,35 +5,35 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>16</advisoryNumber>
+<advisoryNumber>17</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170726 02:00:00 AM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170726 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707260900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM PDT Wed Jul 26</messageDateTimeLocalStr>
-<timeEpochSeconds>1501059600</timeEpochSeconds>
+<messageDateTimeLocal>20170726 08:00:00 AM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170726 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707261500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM PDT Wed Jul 26</messageDateTimeLocalStr>
+<timeEpochSeconds>1501081200</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>HURRICANE</systemType>
+<systemType>TROPICAL STORM</systemType>
 <systemName>IRWIN</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>15.7</centerLocLatitude>
-<centerLocLongitude>-121.5</centerLocLongitude>
+<centerLocLatitude>15.6</centerLocLatitude>
+<centerLocLongitude>-122.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>15.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>121.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>15.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>122.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>80</systemIntensityMph>
-<systemIntensityKph>130</systemIntensityKph>
-<systemIntensityKts>70</systemIntensityKts>
-<systemMslpMb>987</systemMslpMb>
-<systemMslpInHg>29.15</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<systemIntensityMph>65</systemIntensityMph>
+<systemIntensityKph>100</systemIntensityKph>
+<systemIntensityKts>55</systemIntensityKts>
+<systemMslpMb>994</systemMslpMb>
+<systemMslpInHg>29.36</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
@@ -43,27 +43,27 @@
 <systemSpeedKph>11</systemSpeedKph>
 <systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 905 MI...1455 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 940 MI...1515 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irwin Advisory Number  16
+Tropical Storm Irwin Advisory Number  17
 NWS National Hurricane Center Miami FL       EP102017
-200 AM PDT Wed Jul 26 2017
+800 AM PDT Wed Jul 26 2017
 
-...IRWIN WEAKER...MOVING WEST-SOUTHWESTWARD...
+...IRWIN WEAKENS TO A TROPICAL STORM...
 
 
-SUMMARY OF 200 AM PDT...0900 UTC...INFORMATION
+SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...15.7N 121.5W
-ABOUT 905 MI...1455 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+LOCATION...15.6N 122.1W
+ABOUT 940 MI...1515 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
 PRESENT MOVEMENT...WSW OR 255 DEGREES AT 7 MPH...11 KM/H
-MINIMUM CENTRAL PRESSURE...987 MB...29.15 INCHES
+MINIMUM CENTRAL PRESSURE...994 MB...29.36 INCHES
 
 
 WATCHES AND WARNINGS
@@ -73,21 +73,19 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM PDT (0900 UTC), the center of Hurricane Irwin was located
-near latitude 15.7 North, longitude 121.5 West. Irwin is moving
-toward the west-southwest near 7 mph (11 km/h). This general motion
-is expected to continue during the next couple of days with a
-gradual decrease in forward speed.
+At 800 AM PDT (1500 UTC), the center of Tropical Storm Irwin was
+located near latitude 15.6 North, longitude 122.1 West.  Irwin is
+moving toward the west-southwest near 7 mph (11 km/h), and this
+general motion is expected to continue during the next 48 hours.
 
-Maximum sustained winds have decreased to near 80 mph (130 km/h)
-with higher gusts.  Gradual weakening is expected during the next
-few days.
+Maximum sustained winds have decreased to near 65 mph (100 km/h)
+with higher gusts.  Some weakening is possible today, but no
+significant change in strength is anticipated thereafter.
 
-Hurricane-force winds extend outward up to 15 miles (30 km) from the
-center and tropical-storm-force winds extend outward up to 70 miles
-(110 km).
+Tropical-storm-force winds extend outward up to 70 miles (110 km)
+from the center.
 
-The estimated minimum central pressure is 987 mb (29.15 inches).
+The estimated minimum central pressure is 994 mb (29.36 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -97,10 +95,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 800 AM PDT.
+Next complete advisory at 200 PM PDT.
 
 $$
-Forecaster Roberts
+Forecaster Avila
 
 NNNN
 </message>
