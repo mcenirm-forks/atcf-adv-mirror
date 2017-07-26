@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP072017</atcfID>
+<issuingUnit>NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>2</messageBinNumber>
+<advisoryNumber>38</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20170726 11:00:00 AM HST</messageDateTimeLocal>
+<messageDateTimeUTC>20170726 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707262100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM HST Wed Jul 26</messageDateTimeLocalStr>
+<timeEpochSeconds>1501102800</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>POST-TROPICAL CYCLONE</systemType>
+<systemName>GREG</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>18.4</centerLocLatitude>
+<centerLocLongitude>-142</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>18.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>142.0W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>30</systemIntensityMph>
+<systemIntensityKph>45</systemIntensityKph>
+<systemIntensityKts>25</systemIntensityKts>
+<systemMslpMb>1007</systemMslpMb>
+<systemMslpInHg>29.74</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct5d>N/A</formationChancePct5d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>9</systemSpeedMph>
+<systemSpeedKph>15</systemSpeedKph>
+<systemSpeedKts>8</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 895 MI...1445 KM E OF SOUTH POINT HAWAII</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC HFOTCPCP2 ALL
+TTAA00 PHFO DDHHMM
+ 
+BULLETIN
+Post-Tropical Cyclone Greg Advisory Number  38
+NWS Central Pacific Hurricane Center Honolulu HI   EP072017
+1100 AM HST Wed Jul 26 2017
+ 
+...GREG SPUTTERS INTO THE CENTRAL PACIFIC AND BECOMES A REMNANT
+LOW...
+ 
+ 
+SUMMARY OF 1100 AM HST...2100 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...18.4N 142.0W
+ABOUT 895 MI...1445 KM E OF SOUTH POINT HAWAII
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 1100 AM HST (2100 UTC), the center of Post-Tropical Cyclone Greg
+was located near latitude 18.4 North, longitude 142.0 West. The
+post-tropical cyclone is moving toward the west-northwest near 9 mph
+(15 km/h) and this motion is expected to continue for the next 48
+hours.
+ 
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+The remnant low is expected to dissipate by Friday night.
+
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+This is the last public advisory issued by the Central Pacific
+Hurricane Center on Greg. For additional information on this
+system, see High Seas Forecasts issued by the National Weather
+Service under AWIPS header HFOHSFNP and WMO header FZPN40 PHFO.
+ 
+$$
+Forecaster R Ballard
+ 
+NNNN
+</message>
+</cycloneMessage>
