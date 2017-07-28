@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>28</advisoryNumber>
+<advisoryNumber>29</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170728 02:00:00 AM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170728 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707280900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM PDT Fri Jul 28</messageDateTimeLocalStr>
-<timeEpochSeconds>1501232400</timeEpochSeconds>
+<messageDateTimeLocal>20170728 08:00:00 AM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170728 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707281500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM PDT Fri Jul 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1501254000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HILARY</systemName>
@@ -19,51 +19,52 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>18.7</centerLocLatitude>
-<centerLocLongitude>-117.9</centerLocLongitude>
+<centerLocLatitude>19.2</centerLocLatitude>
+<centerLocLongitude>-118.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>18.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>117.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>19.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>118.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>70</systemIntensityMph>
-<systemIntensityKph>110</systemIntensityKph>
-<systemIntensityKts>60</systemIntensityKts>
-<systemMslpMb>992</systemMslpMb>
-<systemMslpInHg>29.30</systemMslpInHg>
+<systemIntensityMph>65</systemIntensityMph>
+<systemIntensityKph>100</systemIntensityKph>
+<systemIntensityKts>55</systemIntensityKts>
+<systemMslpMb>996</systemMslpMb>
+<systemMslpInHg>29.42</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 300 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>NW OR 305 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>8</systemSpeedMph>
 <systemSpeedKph>13</systemSpeedKph>
 <systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 590 MI...955 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 605 MI...970 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Hilary Advisory Number  28
+Tropical Storm Hilary Advisory Number  29
 NWS National Hurricane Center Miami FL       EP092017
-200 AM PDT Fri Jul 28 2017
+800 AM PDT Fri Jul 28 2017
 
-...HILARY MOVING WEST-NORTHWESTWARD AND EXPECTED TO WEAKEN...
+...HILARY MOVING OVER COOLER WATER...
+...CONTINUES TO WEAKEN...
 
 
-SUMMARY OF 200 AM PDT...0900 UTC...INFORMATION
+SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...18.7N 117.9W
-ABOUT 590 MI...955 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
-PRESENT MOVEMENT...WNW OR 300 DEGREES AT 8 MPH...13 KM/H
-MINIMUM CENTRAL PRESSURE...992 MB...29.30 INCHES
+LOCATION...19.2N 118.4W
+ABOUT 605 MI...970 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 8 MPH...13 KM/H
+MINIMUM CENTRAL PRESSURE...996 MB...29.42 INCHES
 
 
 WATCHES AND WARNINGS
@@ -73,20 +74,20 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM PDT (0900 UTC), the center of Tropical Storm Hilary was
-located near latitude 18.7 North, longitude 117.9 West. Hilary is
-moving toward the west-northwest near 8 mph (13 km/h) and this
-general motion is expected to continue with some increase in
-forward speed during the next couple of days.
+At 800 AM PDT (1500 UTC), the center of Tropical Storm Hilary was
+located near latitude 19.2 North, longitude 118.4 West. Hilary is
+moving toward the northwest near 8 mph (13 km/h), and this general
+motion with a slight increase in forward speed is expected during
+the next couple of days.
 
-Maximum sustained winds are near 70 mph (110 km/h) with higher
-gusts.  Weakening is forecast during the next 48 hours as Hilary
-moves over cooler water.
+Maximum sustained winds have decreased to near 65 mph (100 km/h)
+with higher gusts.  Steady weakening is forecast through the
+weekend.
 
 Tropical-storm-force winds extend outward up to 105 miles (165 km)
 from the center.
 
-The estimated minimum central pressure is 992 mb (29.30 inches).
+The estimated minimum central pressure is 996 mb (29.42 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -96,10 +97,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 800 AM PDT.
+Next complete advisory at 200 PM PDT.
 
 $$
-Forecaster Beven
+Forecaster Zelinsky
 
 NNNN
 </message>
