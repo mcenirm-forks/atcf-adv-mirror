@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>29</advisoryNumber>
+<advisoryNumber>30</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170728 08:00:00 AM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170728 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707281500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 AM PDT Fri Jul 28</messageDateTimeLocalStr>
-<timeEpochSeconds>1501254000</timeEpochSeconds>
+<messageDateTimeLocal>20170728 02:00:00 PM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170728 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707282100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM PDT Fri Jul 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1501275600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HILARY</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>19.2</centerLocLatitude>
-<centerLocLongitude>-118.4</centerLocLongitude>
+<centerLocLatitude>19.7</centerLocLatitude>
+<centerLocLongitude>-119.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>19.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>118.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>19.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>119.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>65</systemIntensityMph>
@@ -39,31 +39,30 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>NW OR 305 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>8</systemSpeedMph>
-<systemSpeedKph>13</systemSpeedKph>
-<systemSpeedKts>7</systemSpeedKts>
+<systemSpeedMph>9</systemSpeedMph>
+<systemSpeedKph>15</systemSpeedKph>
+<systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 605 MI...970 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 640 MI...1025 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Hilary Advisory Number  29
+Tropical Storm Hilary Advisory Number  30
 NWS National Hurricane Center Miami FL       EP092017
-800 AM PDT Fri Jul 28 2017
+200 PM PDT Fri Jul 28 2017
 
-...HILARY MOVING OVER COOLER WATER...
-...CONTINUES TO WEAKEN...
+...HILARY CONTINUES NORTHWESTWARD...
 
 
-SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
+SUMMARY OF 200 PM PDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...19.2N 118.4W
-ABOUT 605 MI...970 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+LOCATION...19.7N 119.2W
+ABOUT 640 MI...1025 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
-PRESENT MOVEMENT...NW OR 305 DEGREES AT 8 MPH...13 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 9 MPH...15 KM/H
 MINIMUM CENTRAL PRESSURE...996 MB...29.42 INCHES
 
 
@@ -74,15 +73,14 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 AM PDT (1500 UTC), the center of Tropical Storm Hilary was
-located near latitude 19.2 North, longitude 118.4 West. Hilary is
-moving toward the northwest near 8 mph (13 km/h), and this general
-motion with a slight increase in forward speed is expected during
-the next couple of days.
+At 200 PM PDT (2100 UTC), the center of Tropical Storm Hilary was
+located near latitude 19.7 North, longitude 119.2 West. Hilary is
+moving toward the northwest near 9 mph (15 km/h).  A west-northwest
+to northwest motion with an increase in forward speed is expected
+through the weekend.
 
-Maximum sustained winds have decreased to near 65 mph (100 km/h)
-with higher gusts.  Steady weakening is forecast through the
-weekend.
+Maximum sustained winds are near 65 mph (100 km/h) with higher
+gusts.  Gradual weakening is expected for the next several days.
 
 Tropical-storm-force winds extend outward up to 105 miles (165 km)
 from the center.
@@ -97,7 +95,7 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 200 PM PDT.
+Next complete advisory at 800 PM PDT.
 
 $$
 Forecaster Zelinsky
