@@ -1,23 +1,23 @@
 {
   "cycloneMessage": {
-    "advisoryNumber": "32",
+    "advisoryNumber": "33",
     "atcfID": "EP092017",
-    "centerLocLatitude": "20.7",
-    "centerLocLatitudeExpanded": "20.7N",
-    "centerLocLongitude": "-120.8",
-    "centerLocLongitudeExpanded": "120.8W",
+    "centerLocLatitude": "21.4",
+    "centerLocLatitudeExpanded": "21.4N",
+    "centerLocLongitude": "-121.5",
+    "centerLocLongitudeExpanded": "121.5W",
     "formationChancePct48h": "N/A",
     "formationChancePct5d": "N/A",
     "issuingUnit": "NWS NATIONAL HURRICANE CENTER MIAMI FL",
-    "message": "ZCZC MIATCPEP4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Hilary Advisory Number  32\nNWS National Hurricane Center Miami FL       EP092017\n200 AM PDT Sat Jul 29 2017\n\n...HILARY BEGINNING TO MOVE OVER COOLER WATER...\n\n\nSUMMARY OF 200 AM PDT...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...20.7N 120.8W\nABOUT 715 MI...1150 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H\nPRESENT MOVEMENT...NW OR 305 DEGREES AT 10 MPH...17 KM/H\nMINIMUM CENTRAL PRESSURE...996 MB...29.42 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 200 AM PDT (0900 UTC), the center of Tropical Storm Hilary was\nlocated near latitude 20.7 North, longitude 120.8 West. Hilary is\nmoving toward the northwest near 10 mph (17 km/h) and this motion is\nexpected to continue through Saturday. A gradual turn toward the\nwest-northwest is expected on Sunday.\n\nMaximum sustained winds have decreased to near 65 mph (100 km/h)\nwith higher gusts.  Additional weakening is forecast as the cyclone\nmoves over colder water, and Hilary is expected to weaken to a\ndepression on Sunday and degenerate to a remnant low on Sunday\nnight.\n\nTropical-storm-force winds extend outward up to 70 miles (110 km)\nfrom the center.\n\nThe estimated minimum central pressure is 996 mb (29.42 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 800 AM PDT.\n\n$$\nForecaster Beven\n\nNNNN",
+    "message": "ZCZC MIATCPEP4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Hilary Advisory Number  33\nNWS National Hurricane Center Miami FL       EP092017\n800 AM PDT Sat Jul 29 2017\n\n...HILARY STILL INTACT FOR NOW BUT WEAKENING EXPECTED SOON...\n\n\nSUMMARY OF 800 AM PDT...1500 UTC...INFORMATION\n----------------------------------------------\nLOCATION...21.4N 121.5W\nABOUT 750 MI...1205 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H\nPRESENT MOVEMENT...NW OR 305 DEGREES AT 10 MPH...17 KM/H\nMINIMUM CENTRAL PRESSURE...996 MB...29.42 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 800 AM PDT (1500 UTC), the center of Tropical Storm Hilary was\nlocated near latitude 21.4 North, longitude 121.5 West. Hilary is\nmoving toward the northwest near 10 mph (17 km/h).  This general\nheading with an increase in forward speed is expected during the\nnext several days.\n\nMaximum sustained winds are near 65 mph (100 km/h) with higher\ngusts.  Hilary is forecast to weaken and become a remnant low by\nMonday.\n\nTropical-storm-force winds extend outward up to 70 miles (110 km)\nfrom the center.\n\nThe estimated minimum central pressure is 996 mb (29.42 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 200 PM PDT.\n\n$$\nForecaster Zelinsky\n\nNNNN",
     "messageBinNumber": "4",
-    "messageDateTimeLocal": "20170729 02:00:00 AM PDT",
-    "messageDateTimeLocalStr": "0200 AM PDT Sat Jul 29",
-    "messageDateTimeUTC": "20170729 09:00:00 AM UTC",
-    "messageDateTimeUTC24": "201707290900",
+    "messageDateTimeLocal": "20170729 08:00:00 AM PDT",
+    "messageDateTimeLocalStr": "0800 AM PDT Sat Jul 29",
+    "messageDateTimeUTC": "20170729 03:00:00 PM UTC",
+    "messageDateTimeUTC24": "201707291500",
     "messageType": "ROUTINE ADVISORY",
     "systemDirectionOfMotion": "NW OR 305 DEGREES",
-    "systemGeoRefPt1": "ABOUT 715 MI...1150 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
+    "systemGeoRefPt1": "ABOUT 750 MI...1205 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
     "systemIntensityKph": "100",
     "systemIntensityKts": "55",
     "systemIntensityMph": "65",
@@ -29,6 +29,6 @@
     "systemSpeedKts": "9",
     "systemSpeedMph": "10",
     "systemType": "TROPICAL STORM",
-    "timeEpochSeconds": "1501318800"
+    "timeEpochSeconds": "1501340400"
   }
 }
