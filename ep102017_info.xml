@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>29</advisoryNumber>
+<advisoryNumber>30</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170729 08:00:00 AM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170729 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707291500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 AM PDT Sat Jul 29</messageDateTimeLocalStr>
-<timeEpochSeconds>1501340400</timeEpochSeconds>
+<messageDateTimeLocal>20170729 02:00:00 PM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170729 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707292100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM PDT Sat Jul 29</messageDateTimeLocalStr>
+<timeEpochSeconds>1501362000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>IRWIN</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>15.1</centerLocLatitude>
-<centerLocLongitude>-124.9</centerLocLongitude>
+<centerLocLatitude>15.6</centerLocLatitude>
+<centerLocLongitude>-124.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>15.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>124.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>15.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>124.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>60</systemIntensityMph>
@@ -39,30 +39,30 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>N OR 360 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>2</systemSpeedMph>
-<systemSpeedKph>4</systemSpeedKph>
-<systemSpeedKts>2</systemSpeedKts>
+<systemSpeedMph>7</systemSpeedMph>
+<systemSpeedKph>11</systemSpeedKph>
+<systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1115 MI...1795 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1075 MI...1730 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Irwin Advisory Number  29
+Tropical Storm Irwin Advisory Number  30
 NWS National Hurricane Center Miami FL       EP102017
-800 AM PDT Sat Jul 29 2017
+200 PM PDT Sat Jul 29 2017
 
-...IRWIN HAS BARELY MOVED SINCE YESTERDAY...
+...IRWIN MOVING NORTHWARD...
 
 
-SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
+SUMMARY OF 200 PM PDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...15.1N 124.9W
-ABOUT 1115 MI...1795 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+LOCATION...15.6N 124.5W
+ABOUT 1075 MI...1730 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
-PRESENT MOVEMENT...N OR 360 DEGREES AT 2 MPH...4 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 7 MPH...11 KM/H
 MINIMUM CENTRAL PRESSURE...998 MB...29.47 INCHES
 
 
@@ -73,15 +73,15 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 AM PDT (1500 UTC), the center of Tropical Storm Irwin was
-located near latitude 15.1 North, longitude 124.9 West. Irwin
-appears to be moving toward the north near 2 mph (4 km/h), and
-a gradual turn toward the north-northwest with an increase in
-forward speed is expected to begin on Sunday.
+At 200 PM PDT (2100 UTC), the center of Tropical Storm Irwin was
+located near latitude 15.6 North, longitude 124.5 West. Irwin is
+moving toward the north near 7 mph (11 km/h). A turn to the
+north-northwest with an increase in forward speed is expected
+tonight.
 
-Maximum sustained winds remain near 60 mph (95 km/h) with higher
-gusts. Some fluctuations in intensity are likely today, but
-a gradual weakening should begin on Sunday.
+Maximum sustained winds are near 60 mph (95 km/h) with higher gusts.
+No important change in intensity is expected during the next 12
+hours or so. Gradual weakening should begin thereafter.
 
 Tropical-storm-force winds extend outward up to 70 miles (110 km)
 from the center.
@@ -96,7 +96,7 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 200 PM PDT.
+Next complete advisory at 800 PM PDT.
 
 $$
 Forecaster Avila
