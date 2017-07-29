@@ -1,23 +1,23 @@
 {
   "cycloneMessage": {
-    "advisoryNumber": "27",
+    "advisoryNumber": "28",
     "atcfID": "EP102017",
-    "centerLocLatitude": "14.8",
-    "centerLocLatitudeExpanded": "14.8N",
-    "centerLocLongitude": "-124.7",
-    "centerLocLongitudeExpanded": "124.7W",
+    "centerLocLatitude": "14.9",
+    "centerLocLatitudeExpanded": "14.9N",
+    "centerLocLongitude": "-124.9",
+    "centerLocLongitudeExpanded": "124.9W",
     "formationChancePct48h": "N/A",
     "formationChancePct5d": "N/A",
     "issuingUnit": "NWS NATIONAL HURRICANE CENTER MIAMI FL",
-    "message": "ZCZC MIATCPEP5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Irwin Advisory Number  27\nNWS National Hurricane Center Miami FL       EP102017\n800 PM PDT Fri Jul 28 2017\n\n...IRWIN NEARLY STATIONARY TO THE SOUTHWEST OF HILARY...\n...EXPECTED TO ACCELERATE NORTHWARD THIS WEEKEND...\n\n\nSUMMARY OF 800 PM PDT...0300 UTC...INFORMATION\n----------------------------------------------\nLOCATION...14.8N 124.7W\nABOUT 1115 MI...1795 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H\nPRESENT MOVEMENT...N OR 360 DEGREES AT 1 MPH...2 KM/H\nMINIMUM CENTRAL PRESSURE...998 MB...29.47 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 800 PM PDT (0300 UTC), the center of Tropical Storm Irwin was\nlocated near latitude 14.8 North, longitude 124.7 West.  Irwin has\nbeen meandering for much of the day but now appears to drifting\ntoward the north.  Irwin is forecast to move faster toward the north\non Saturday and then turn north-northwestward on Sunday.\n\nMaximum sustained winds are near 60 mph (95 km/h) with higher gusts.\nFluctuations in intensity are possible through Saturday, but Irwin\nshould begin to weaken by Sunday.\n\nTropical-storm-force winds extend outward up to 70 miles (110 km)\nfrom the center.\n\nThe estimated minimum central pressure is 998 mb (29.47 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 200 AM PDT.\n\n$$\nForecaster Berg\n\nNNNN",
+    "message": "ZCZC MIATCPEP5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Irwin Advisory Number  28\nNWS National Hurricane Center Miami FL       EP102017\n200 AM PDT Sat Jul 29 2017\n\n...IRWIN REMAINS NEARLY STATIONARY TO THE SOUTHWEST OF HILARY...\n...EXPECTED TO ACCELERATE NORTHWARD OVER THE WEEKEND...\n\n\nSUMMARY OF 200 AM PDT...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...14.9N 124.9W\nABOUT 1125 MI...1810 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H\nPRESENT MOVEMENT...NW OR 305 DEGREES AT 1 MPH...2 KM/H\nMINIMUM CENTRAL PRESSURE...998 MB...29.47 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 200 AM PDT (0900 UTC), the center of Tropical Storm Irwin was\nlocated near latitude 14.9 North, longitude 124.9 West. Irwin is\ndrifting toward the northwest.  A turn toward the north and an\nincrease in forward speed are expected later today, and a turn\ntoward the north-northwest is expected on Sunday.\n\nMaximum sustained winds are near 60 mph (95 km/h) with higher gusts.\nSome strengthening is possible today.  Irwin is then expected to\nweaken beginning tonight or on Sunday.\n\nTropical-storm-force winds extend outward up to 70 miles (110 km)\nfrom the center.\n\nThe estimated minimum central pressure is 998 mb (29.47 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 800 AM PDT.\n\n$$\nForecaster Beven\n\nNNNN",
     "messageBinNumber": "5",
-    "messageDateTimeLocal": "20170728 08:00:00 PM PDT",
-    "messageDateTimeLocalStr": "0800 PM PDT Fri Jul 28",
-    "messageDateTimeUTC": "20170729 03:00:00 AM UTC",
-    "messageDateTimeUTC24": "201707290300",
+    "messageDateTimeLocal": "20170729 02:00:00 AM PDT",
+    "messageDateTimeLocalStr": "0200 AM PDT Sat Jul 29",
+    "messageDateTimeUTC": "20170729 09:00:00 AM UTC",
+    "messageDateTimeUTC24": "201707290900",
     "messageType": "ROUTINE ADVISORY",
-    "systemDirectionOfMotion": "N OR 360 DEGREES",
-    "systemGeoRefPt1": "ABOUT 1115 MI...1795 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
+    "systemDirectionOfMotion": "NW OR 305 DEGREES",
+    "systemGeoRefPt1": "ABOUT 1125 MI...1810 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
     "systemIntensityKph": "95",
     "systemIntensityKts": "50",
     "systemIntensityMph": "60",
@@ -29,6 +29,6 @@
     "systemSpeedKts": "1",
     "systemSpeedMph": "1",
     "systemType": "TROPICAL STORM",
-    "timeEpochSeconds": "1501297200"
+    "timeEpochSeconds": "1501318800"
   }
 }
