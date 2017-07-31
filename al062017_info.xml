@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL062017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>3</advisoryNumber>
+<advisoryNumber>3A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170731 11:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170731 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201707311500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM EDT Mon Jul 31</messageDateTimeLocalStr>
-<timeEpochSeconds>1501513200</timeEpochSeconds>
+<messageDateTimeLocal>20170731 02:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170731 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201707311800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM EDT Mon Jul 31</messageDateTimeLocalStr>
+<timeEpochSeconds>1501524000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>EMILY</systemName>
@@ -20,66 +20,69 @@
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>27.6</centerLocLatitude>
-<centerLocLongitude>-82.8</centerLocLongitude>
+<centerLocLongitude>-82.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>27.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>82.8W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>82.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>45</systemIntensityMph>
-<systemIntensityKph>75</systemIntensityKph>
-<systemIntensityKts>40</systemIntensityKts>
-<systemMslpMb>1005</systemMslpMb>
-<systemMslpInHg>29.68</systemMslpInHg>
+<systemIntensityMph>40</systemIntensityMph>
+<systemIntensityKph>65</systemIntensityKph>
+<systemIntensityKts>35</systemIntensityKts>
+<systemMslpMb>1006</systemMslpMb>
+<systemMslpInHg>29.71</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>E OR 90 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>9</systemSpeedMph>
-<systemSpeedKph>15</systemSpeedKph>
-<systemSpeedKts>8</systemSpeedKts>
+<systemDirectionOfMotion>E OR 85 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>10</systemSpeedMph>
+<systemSpeedKph>17</systemSpeedKph>
+<systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 35 MI...55 KM SW OF TAMPA FLORIDA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 30 MI...45 KM NW OF SARASOTA FLORIDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 30 MI...50 KM SE OF TAMPA FLORIDA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 35 MI...55 KM SW OF BARTOW FLORIDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
-TTAA00 KNHC DDHHMM
+TTAA00 KNHC DDHHMM CCA
 
 BULLETIN
-Tropical Storm Emily Advisory Number   3
+Tropical Storm Emily Intermediate Advisory Number 3A...Corrected
 NWS National Hurricane Center Miami FL       AL062017
-1100 AM EDT Mon Jul 31 2017
+200 PM EDT Mon Jul 31 2017
 
-...EMILY APPROACHING THE MOUTH OF TAMPA BAY...
+Corrected intensity in Discussion Section
+
+...EMILY LOCATED INLAND OVER WEST-CENTRAL FLORIDA...
 ...HEAVY RAINFALL EXPECTED OVER THE CENTRAL AND SOUTHERN FLORIDA
 PENINSULA...
 
 
-SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...27.6N 82.8W
-ABOUT 35 MI...55 KM SW OF TAMPA FLORIDA
-ABOUT 30 MI...45 KM NW OF SARASOTA FLORIDA
-MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
-PRESENT MOVEMENT...E OR 90 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...27.6N 82.2W
+ABOUT 30 MI...50 KM SE OF TAMPA FLORIDA
+ABOUT 35 MI...55 KM SW OF BARTOW FLORIDA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...E OR 85 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The Tropical Storm Warning has been discontinued from Anclote River
+southward to Englewood.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Tropical Storm Warning is in effect for...
-* Anclote River to Bonita Beach Florida
+* Englewood to Bonita Beach Florida
 
 A Tropical Storm Warning means that tropical storm conditions are
 likely within the warning area, in this case within the next few
@@ -92,25 +95,28 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM EDT (1500 UTC), the center of Tropical Storm Emily was
-located near latitude 27.6 North, longitude 82.8 West. Emily is
-moving toward the east near 9 mph (15 km/h), and this general motion
-is expected to continue today.  A turn toward the northeast with an
-increase in forward speed are expected by tonight and Tuesday. On
-the forecast track, the center of Emily is expected to move inland
-over the the west-central Florida peninsula this afternoon, and move
-across central Florida through tonight.  Emily is forecast to move
-offshore of the east-central Florida coast Tuesday morning.
+At 200 PM EDT (1800 UTC), the center of Tropical Storm Emily was
+located near latitude 27.6 North, longitude 82.2 West. Emily is
+moving toward the east near 10 mph (17 km/h), and this general
+motion is expected to continue this afternoon.  A turn toward the
+northeast with an increase in forward speed are expected by tonight
+and Tuesday.  On the forecast track, the center of Emily will
+continue to move farther inland over the west-central Florida
+peninsula this afternoon, and move across central Florida through
+tonight. Emily is forecast to move offshore of the east-central
+Florida coast Tuesday morning.
 
-Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
-Little change in strength is forecast until landfall occurs this
-afternoon.  Emily is expected to weaken to a tropical depression
-while it moves across the Florida peninsula later today and tonight.
+Maximum sustained winds have decreased to near 40 mph (65 km/h)
+with higher gusts. Emily is expected to weaken to a tropical
+depression while it moves across the Florida peninsula this
+afternoon and tonight.
 
-Tropical-storm-force winds extend outward up to 60 miles (95 km)
-from the center.
+Tropical-storm-force winds extend outward up to 60 miles (95 km),
+mainly southeast through south of the center. A wind gust to 38 mph
+was recently observed in Punta Gorda, Florida.
 
-The estimated minimum central pressure is 1005 mb (29.68 inches).
+The estimated minimum central pressure based on nearby surface
+observations is 1006 mb (29.71 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -120,9 +126,7 @@ RAINFALL:  Emily is expected to produce total rain accumulations of
 Florida between the Tampa Bay area and Naples, with isolated amounts
 up to 8 inches possible. Elsewhere across central and south Florida,
 1 to 2 inches of rain is expected with localized amounts of up to 4
-inches possible. Reports from amateur radio operators indicate that
-street and road flooding has already been occurring in Manatee and
-Sarasota Counties near the Myakka River.
+inches possible.
 
 WIND:  Tropical storm conditions are likely within the warning area
 through this afternoon.
@@ -134,12 +138,12 @@ possible over the coastal waters of southwestern Florida.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 PM EDT.
 Next complete advisory at 500 PM EDT.
 
 $$
 Forecaster Stewart
 
 NNNN
+
 </message>
 </cycloneMessage>
