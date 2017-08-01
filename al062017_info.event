@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "6",
+  "advisoryNumber": "7",
   "atcfID": "AL062017",
-  "centerLocLatitude": "28.3",
-  "centerLocLatitudeExpanded": "28.3N",
-  "centerLocLongitude": "-80.1",
-  "centerLocLongitudeExpanded": "80.1W",
+  "centerLocLatitude": "29.3",
+  "centerLocLatitudeExpanded": "29.3N",
+  "centerLocLongitude": "-78.9",
+  "centerLocLongitudeExpanded": "78.9W",
   "event_title": "TROPICAL DEPRESSION EMILY",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -80.1,
-      28.3
+      -78.9,
+      29.3
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT1 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Emily Advisory Number   6\nNWS National Hurricane Center Miami FL       AL062017\n500 AM EDT Tue Aug 01 2017\n\n...POORLY ORGANIZED EMILY MOVES OVER THE WESTERN ATLANTIC...\n\n\nSUMMARY OF 500 AM EDT...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...28.3N 80.1W\nABOUT 50 MI...85 KM NNE OF VERO BEACH FLORIDA\nMAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H\nPRESENT MOVEMENT...ENE OR 65 DEGREES AT 12 MPH...19 KM/H\nMINIMUM CENTRAL PRESSURE...1011 MB...29.86 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 AM EDT (0900 UTC), the center of Tropical Depression Emily\nwas located near latitude 28.3 North, longitude 80.1 West. The\ndepression is moving toward the east-northeast near 12 mph (19\nkm/h). A turn toward the northeast with an increase in forward speed\nis expected today.  On the forecast track, the center of Emily will\nmove away from the east-central coast of Florida today and remain\nwell off the southeast U.S. coast during the next couple of days.\n\nMaximum sustained winds are near 30 mph (45 km/h) with higher gusts.\nSome slight strengthening is possible during the day or so, but\nEmily is also forecast to lose its tropical characteristics within a\nday or two.\n\nThe estimated minimum central pressure is 1011 mb (29.86 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nRAINFALL:  Emily is expected to produce additional rainfall of 1 to\n2 inches with isolated amounts up to 4 inches across portions of\ncentral and southern Florida.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 AM EDT.\n\n$$\nForecaster Brown\n\nNNNN",
+  "message": "ZCZC MIATCPAT1 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Emily Advisory Number   7\nNWS National Hurricane Center Miami FL       AL062017\n1100 AM EDT Tue Aug 01 2017\n\n...TROPICAL DEPRESSION EMILY MOVING AWAY FROM THE UNITED STATES...\n\n\nSUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...29.3N 78.9W\nABOUT 120 MI...195 KM ENE OF CAPE CANAVERAL FLORIDA\nMAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H\nPRESENT MOVEMENT...NE OR 50 DEGREES AT 14 MPH...22 KM/H\nMINIMUM CENTRAL PRESSURE...1011 MB...29.86 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 AM EDT (1500 UTC), the center of Tropical Depression Emily\nwas located near latitude 29.3 North, longitude 78.9 West. The\ndepression is moving toward the northeast near 14 mph (22 km/h), and\nthis general motion is expected to continue for the next couple of\ndays. On the forecast track, the center of Emily will continue to\nmove away from Florida today and remain well off the southeastern\nU.S. coast.\n\nMaximum sustained winds are near 30 mph (45 km/h) with higher gusts.\nSome slight strengthening is possible during the next day or so, but\nEmily is also forecast to lose its tropical characteristics within a\nday or two.\n\nThe estimated minimum central pressure is 1011 mb (29.86 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 PM EDT.\n\n$$\nForecaster Stewart\n\nNNNN",
   "messageBinNumber": "1",
-  "messageDateTimeLocal": "20170801 05:00:00 AM EDT",
-  "messageDateTimeLocalStr": "0500 AM EDT Tue Aug 01",
-  "messageDateTimeUTC": "20170801 09:00:00 AM UTC",
-  "messageDateTimeUTC24": "201708010900",
+  "messageDateTimeLocal": "20170801 11:00:00 AM EDT",
+  "messageDateTimeLocalStr": "1100 AM EDT Tue Aug 01",
+  "messageDateTimeUTC": "20170801 03:00:00 PM UTC",
+  "messageDateTimeUTC24": "201708011500",
   "messageType": "ROUTINE ADVISORY",
-  "systemDirectionOfMotion": "ENE OR 65 DEGREES",
-  "systemGeoRefPt1": "ABOUT 50 MI...85 KM NNE OF VERO BEACH FLORIDA",
+  "systemDirectionOfMotion": "NE OR 50 DEGREES",
+  "systemGeoRefPt1": "ABOUT 120 MI...195 KM ENE OF CAPE CANAVERAL FLORIDA",
   "systemIntensityKph": "45",
   "systemIntensityKts": "25",
   "systemIntensityMph": "30",
@@ -66,10 +66,10 @@
   "systemMslpMb": "1011",
   "systemName": "EMILY",
   "systemSaffirSimpsonCategory": "N/A",
-  "systemSpeedKph": "19",
-  "systemSpeedKts": "10",
-  "systemSpeedMph": "12",
+  "systemSpeedKph": "22",
+  "systemSpeedKts": "12",
+  "systemSpeedMph": "14",
   "systemType": "TROPICAL DEPRESSION",
-  "time": "2017-08-01 09:00:00",
-  "timeEpochSeconds": "1501578000"
+  "time": "2017-08-01 15:00:00",
+  "timeEpochSeconds": "1501599600"
 }
