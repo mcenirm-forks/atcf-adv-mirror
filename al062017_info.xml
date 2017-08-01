@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>5</advisoryNumber>
+<advisoryNumber>6</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170731 11:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170801 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708010300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM EDT Mon Jul 31</messageDateTimeLocalStr>
-<timeEpochSeconds>1501556400</timeEpochSeconds>
+<messageDateTimeLocal>20170801 05:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170801 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708010900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM EDT Tue Aug 01</messageDateTimeLocalStr>
+<timeEpochSeconds>1501578000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>EMILY</systemName>
@@ -19,53 +19,51 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>27.5</centerLocLatitude>
-<centerLocLongitude>-81</centerLocLongitude>
+<centerLocLatitude>28.3</centerLocLatitude>
+<centerLocLongitude>-80.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>27.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>81.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>28.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>80.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>30</systemIntensityMph>
 <systemIntensityKph>45</systemIntensityKph>
 <systemIntensityKts>25</systemIntensityKts>
-<systemMslpMb>1010</systemMslpMb>
-<systemMslpInHg>29.83</systemMslpInHg>
+<systemMslpMb>1011</systemMslpMb>
+<systemMslpInHg>29.86</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>E OR 95 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>9</systemSpeedMph>
-<systemSpeedKph>15</systemSpeedKph>
-<systemSpeedKts>8</systemSpeedKts>
+<systemDirectionOfMotion>ENE OR 65 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 35 MI...60 KM W OF VERO BEACH FLORIDA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 50 MI...85 KM NNE OF VERO BEACH FLORIDA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Emily Advisory Number   5
+Tropical Depression Emily Advisory Number   6
 NWS National Hurricane Center Miami FL       AL062017
-1100 PM EDT Mon Jul 31 2017
+500 AM EDT Tue Aug 01 2017
 
-...EMILY MOVING EASTWARD ACROSS CENTRAL FLORIDA JUST NORTH OF LAKE
-OKEECHOBEE...
-...HEAVY RAINFALL STILL POSSIBLE ACROSS SOUTHERN FLORIDA...
+...POORLY ORGANIZED EMILY MOVES OVER THE WESTERN ATLANTIC...
 
 
-SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...27.5N 81.0W
-ABOUT 35 MI...60 KM W OF VERO BEACH FLORIDA
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...28.3N 80.1W
+ABOUT 50 MI...85 KM NNE OF VERO BEACH FLORIDA
 MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
-PRESENT MOVEMENT...E OR 95 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...1010 MB...29.83 INCHES
+PRESENT MOVEMENT...ENE OR 65 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...1011 MB...29.86 INCHES
 
 
 WATCHES AND WARNINGS
@@ -75,37 +73,35 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM EDT (0300 UTC), the center of Tropical Depression Emily
-was located near latitude 27.5 North, longitude 81.0 West.  Emily is
-moving toward the east near 9 mph (15 km/h).  A turn toward the
-northeast with an increase in forward speed is expected early
-Tuesday.  On the forecast track, the center of Emily will move
-offshore of the east-central Florida coast Tuesday morning and then
-accelerate northeastward over the western Atlantic through
-Wednesday.
+At 500 AM EDT (0900 UTC), the center of Tropical Depression Emily
+was located near latitude 28.3 North, longitude 80.1 West. The
+depression is moving toward the east-northeast near 12 mph (19
+km/h). A turn toward the northeast with an increase in forward speed
+is expected today.  On the forecast track, the center of Emily will
+move away from the east-central coast of Florida today and remain
+well off the southeast U.S. coast during the next couple of days.
 
-Maximum sustained winds have decreased to near 30 mph (45 km/h) with
-higher gusts.  Some strengthening is possible once Emily moves over
-the Atlantic Ocean, but it could also become an extratropical low at
-some point during the next couple of days.
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+Some slight strengthening is possible during the day or so, but
+Emily is also forecast to lose its tropical characteristics within a
+day or two.
 
-The estimated minimum central pressure based on surface observations
-is 1010 mb (29.83 inches).
+The estimated minimum central pressure is 1011 mb (29.86 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 RAINFALL:  Emily is expected to produce additional rainfall of 1 to
-2 inches across southern Florida and the Florida Keys, with isolated
-storm totals up to 8 inches possible.
+2 inches with isolated amounts up to 4 inches across portions of
+central and southern Florida.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM EDT.
+Next complete advisory at 1100 AM EDT.
 
 $$
-Forecaster Berg
+Forecaster Brown
 
 NNNN
 </message>

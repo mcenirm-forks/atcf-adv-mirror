@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>39</advisoryNumber>
+<advisoryNumber>40</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170731 08:00:00 PM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170801 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708010300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 PM PDT Mon Jul 31</messageDateTimeLocalStr>
-<timeEpochSeconds>1501556400</timeEpochSeconds>
+<messageDateTimeLocal>20170801 02:00:00 AM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170801 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708010900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM PDT Tue Aug 01</messageDateTimeLocalStr>
+<timeEpochSeconds>1501578000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>IRWIN</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>23.8</centerLocLatitude>
-<centerLocLongitude>-128.3</centerLocLongitude>
+<centerLocLatitude>24.9</centerLocLatitude>
+<centerLocLongitude>-128.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>23.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>128.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>24.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>128.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>45</systemIntensityMph>
@@ -43,24 +43,24 @@
 <systemSpeedKph>20</systemSpeedKph>
 <systemSpeedKts>11</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1165 MI...1880 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1200 MI...1930 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Irwin Advisory Number  39
+Tropical Storm Irwin Advisory Number  40
 NWS National Hurricane Center Miami FL       EP102017
-800 PM PDT Mon Jul 31 2017
+200 AM PDT Tue Aug 01 2017
 
-...IRWIN STILL HANGING ON AS A TROPICAL CYCLONE...
+...IRWIN EXPECTED TO BECOME A REMNANT LOW BY TONIGHT...
 
 
-SUMMARY OF 800 PM PDT...0300 UTC...INFORMATION
+SUMMARY OF 200 AM PDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...23.8N 128.3W
-ABOUT 1165 MI...1880 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+LOCATION...24.9N 128.8W
+ABOUT 1200 MI...1930 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
 PRESENT MOVEMENT...NNW OR 335 DEGREES AT 13 MPH...20 KM/H
 MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
@@ -73,17 +73,17 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 PM PDT (0300 UTC), the center of Tropical Storm Irwin was
-located near latitude 23.8 North, longitude 128.3 West. Irwin is
+At 200 AM PDT (0900 UTC), the center of Tropical Storm Irwin was
+located near latitude 24.9 North, longitude 128.8 West. Irwin is
 moving toward the north-northwest near 13 mph (20 km/h), and this
-motion is expected to continue overnight. A slower motion toward the
-northwest should begin late on Tuesday.
+motion is expected to continue this morning. A slower motion toward
+the northwest should begin later today.
 
 Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
-Irwin is forecast to gradually weaken and degenerate into a remnant
-low on Tuesday.
+Weakening is forecast during the next couple of days, and Irwin
+is expected to degenerate into a remnant low later today or tonight.
 
-Tropical-storm-force winds extend outward up to 45 miles (75 km)
+Tropical-storm-force winds extend outward up to 35 miles (55 km)
 from the center.
 
 The estimated minimum central pressure is 1007 mb (29.74 inches).
@@ -96,10 +96,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 200 AM PDT.
+Next complete advisory at 800 AM PDT.
 
 $$
-Forecaster Blake
+Forecaster Brown
 
 NNNN
 </message>
