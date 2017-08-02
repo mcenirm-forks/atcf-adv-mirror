@@ -5,66 +5,66 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>8</advisoryNumber>
+<advisoryNumber>9</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170801 05:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170801 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708012100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM EDT Tue Aug 01</messageDateTimeLocalStr>
-<timeEpochSeconds>1501621200</timeEpochSeconds>
+<messageDateTimeLocal>20170801 11:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170802 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708020300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM EDT Tue Aug 01</messageDateTimeLocalStr>
+<timeEpochSeconds>1501642800</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL DEPRESSION</systemType>
+<systemType>POST-TROPICAL CYCLONE</systemType>
 <systemName>EMILY</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>30.3</centerLocLatitude>
-<centerLocLongitude>-77.7</centerLocLongitude>
+<centerLocLatitude>30.9</centerLocLatitude>
+<centerLocLongitude>-78</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>30.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>77.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>30.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>78.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
 <systemIntensityKph>55</systemIntensityKph>
 <systemIntensityKts>30</systemIntensityKts>
-<systemMslpMb>1010</systemMslpMb>
-<systemMslpInHg>29.83</systemMslpInHg>
+<systemMslpMb>1012</systemMslpMb>
+<systemMslpInHg>29.89</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NE OR 50 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>15</systemSpeedMph>
-<systemSpeedKph>24</systemSpeedKph>
-<systemSpeedKts>13</systemSpeedKts>
+<systemDirectionOfMotion>NNE OR 20 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>9</systemSpeedMph>
+<systemSpeedKph>15</systemSpeedKph>
+<systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 220 MI...350 KM NE OF CAPE CANAVERAL FLORIDA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 235 MI...375 KM NE OF CAPE CANAVERAL FLORIDA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Emily Advisory Number   8
+Post-Tropical Cyclone Emily Advisory Number   9
 NWS National Hurricane Center Miami FL       AL062017
-500 PM EDT Tue Aug 01 2017
+1100 PM EDT Tue Aug 01 2017
 
-...EMILY CONTINUES TO MOVE AWAY FROM THE UNITED STATES...
-...EXPECTED TO BECOME POST-TROPICAL LATER TONIGHT OR WEDNESDAY...
+...EMILY BECOMES POST-TROPICAL...
+...THIS IS THE LAST ADVISORY...
 
 
-SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
-----------------------------------------------
-LOCATION...30.3N 77.7W
-ABOUT 220 MI...350 KM NE OF CAPE CANAVERAL FLORIDA
+SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...30.9N 78.0W
+ABOUT 235 MI...375 KM NE OF CAPE CANAVERAL FLORIDA
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...NE OR 50 DEGREES AT 15 MPH...24 KM/H
-MINIMUM CENTRAL PRESSURE...1010 MB...29.83 INCHES
+PRESENT MOVEMENT...NNE OR 20 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...1012 MB...29.89 INCHES
 
 
 WATCHES AND WARNINGS
@@ -74,20 +74,16 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM EDT (2100 UTC), the center of Tropical Depression Emily
-was located near latitude 30.3 North, longitude 77.7 West. The
-depression is moving toward the northeast near 15 mph (24 km/h),
-and this general motion is expected to continue for the next couple
-of days. On the forecast track, the center of Emily will continue to
-move away from Florida tonight and remain well off the southeast
-U.S. coast.
+At 1100 PM EDT (0300 UTC), the center of Post-Tropical Cyclone Emily
+was located near latitude 30.9 North, longitude 78.0 West. The
+post-tropical cyclone is moving toward the north-northeast near 9
+mph (15 km/h), and a faster motion toward the northeast is forecast
+for the next couple of days.
 
 Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-Little change in strength is forecast during the next 48 hours, but
-Emily is also forecast to lose its tropical characteristics later
-tonight or on Wednesday when it interacts with a frontal system.
+The cyclone should weaken gradually over the next day or two.
 
-The estimated minimum central pressure is 1010 mb (29.83 inches).
+The estimated minimum central pressure is 1012 mb (29.89 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -97,10 +93,14 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM EDT.
+This is the last public advisory issued by the National Hurricane
+Center on this system. Additional information on this system can be
+found in High Seas Forecasts issued by the National Weather Service,
+under AWIPS header NFDHSFAT1, WMO header FZNT01 KWBC, and available
+on the Web at http://www.opc.ncep.noaa.gov/shtml/NFDHSFAT1.shtml.
 
 $$
-Forecaster Stewart
+Forecaster Blake
 
 NNNN
 </message>
