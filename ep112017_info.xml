@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>2</advisoryNumber>
+<advisoryNumber>3</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170804 03:00:00 PM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170804 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708042100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0300 PM MDT Fri Aug 04</messageDateTimeLocalStr>
-<timeEpochSeconds>1501880400</timeEpochSeconds>
+<messageDateTimeLocal>20170804 09:00:00 PM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170805 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708050300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0900 PM MDT Fri Aug 04</messageDateTimeLocalStr>
+<timeEpochSeconds>1501902000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>ELEVEN-E</systemName>
@@ -19,51 +19,51 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>18.0</centerLocLatitude>
-<centerLocLongitude>-110.2</centerLocLongitude>
+<centerLocLatitude>18.6</centerLocLatitude>
+<centerLocLongitude>-111</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>18.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>110.2W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>111.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
 <systemIntensityKph>55</systemIntensityKph>
 <systemIntensityKts>30</systemIntensityKts>
-<systemMslpMb>1007</systemMslpMb>
-<systemMslpInHg>29.74</systemMslpInHg>
+<systemMslpMb>1005</systemMslpMb>
+<systemMslpInHg>29.68</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>WNW OR 300 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>14</systemSpeedMph>
-<systemSpeedKph>22</systemSpeedKph>
-<systemSpeedKts>12</systemSpeedKts>
+<systemSpeedMph>13</systemSpeedMph>
+<systemSpeedKph>20</systemSpeedKph>
+<systemSpeedKts>11</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 340 MI...545 KM S OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 305 MI...490 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Eleven-E Advisory Number   2
+Tropical Depression Eleven-E Advisory Number   3
 NWS National Hurricane Center Miami FL       EP112017
-300 PM MDT Fri Aug 04 2017
+900 PM MDT Fri Aug 04 2017
 
-...DEPRESSION REMAINS STRONGLY SHEARED...
+...CENTER OF DEPRESSION NEARING SOCORRO ISLAND...
 
 
-SUMMARY OF 300 PM MDT...2100 UTC...INFORMATION
+SUMMARY OF 900 PM MDT...0300 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...18.0N 110.2W
-ABOUT 340 MI...545 KM S OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+LOCATION...18.6N 111.0W
+ABOUT 305 MI...490 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...WNW OR 300 DEGREES AT 14 MPH...22 KM/H
-MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+PRESENT MOVEMENT...WNW OR 300 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
 WATCHES AND WARNINGS
@@ -73,17 +73,17 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 300 PM MDT (2100 UTC), the center of Tropical Depression Eleven-E
-was located near latitude 18.0 North, longitude 110.2 West. The
-depression is moving toward the west-northwest near 14 mph (22
-km/h).  A continued west-northwest or northwest motion with a
-decrease in forward speed is forecast for the next few days.
+At 900 PM MDT (0300 UTC), the center of Tropical Depression Eleven-E
+was located near latitude 18.6 North, longitude 111.0 West. The
+depression is moving toward the west-northwest near 13 mph
+(20 km/h). The tropical depression should slow its forward speed
+and turn toward the northwest during the next day or two.
 
 Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-Some weakening is forecast during the next 48 hours and the
-depression is expected become a remnant low by Sunday.
+Some weakening is forecast and the system should become a remnant
+low by Sunday.
 
-The estimated minimum central pressure is 1007 mb (29.74 inches).
+The estimated minimum central pressure is 1005 mb (29.68 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -93,10 +93,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 900 PM MDT.
+Next complete advisory at 300 AM MDT.
 
 $$
-Forecaster Zelinsky
+Forecaster Landsea
 
 NNNN
 </message>
