@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "4",
+  "advisoryNumber": "5",
   "atcfID": "EP112017",
-  "centerLocLatitude": "19.2",
-  "centerLocLatitudeExpanded": "19.2N",
-  "centerLocLongitude": "-111.4",
-  "centerLocLongitudeExpanded": "111.4W",
+  "centerLocLatitude": "19.6",
+  "centerLocLatitudeExpanded": "19.6N",
+  "centerLocLongitude": "-111.3",
+  "centerLocLongitudeExpanded": "111.3W",
   "event_title": "TROPICAL DEPRESSION ELEVEN-E",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -111.4,
-      19.2
+      -111.3,
+      19.6
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPEP1 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Eleven-E Advisory Number   4\nNWS National Hurricane Center Miami FL       EP112017\n300 AM MDT Sat Aug 05 2017\n\n...DEPRESSION CROSSED SOCORRO ISLAND MEXICO...\n...FORECAST TO BECOME A REMNANT LOW LATER TODAY...\n\n\nSUMMARY OF 300 AM MDT...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...19.2N 111.4W\nABOUT 40 MI...60 KM NW OF SOCORRO ISLAND\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...NW OR 315 DEGREES AT 9 MPH...15 KM/H\nMINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 300 AM MDT (0900 UTC), the center of Tropical Depression Eleven-E\nwas located near latitude 19.2 North, longitude 111.4 West. The\ndepression is moving toward the northwest near 9 mph (15 km/h), and\nthis motion is expected to continue until Sunday.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nWeakening is forecast, and the depression is expected to become\na remnant low later today.\n\nThe estimated minimum central pressure is 1004 mb (29.65 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 900 AM MDT.\n\n$$\nForecaster Avila\n\nNNNN",
+  "message": "ZCZC MIATCPEP1 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Eleven-E Advisory Number   5\nNWS National Hurricane Center Miami FL       EP112017\n900 AM MDT Sat Aug 05 2017\n\n...DEPRESSION MOVING AWAY FROM SOCORRO ISLAND...\n...EXPECTED TO BECOME A REMNANT LOW LATER TODAY...\n\n\nSUMMARY OF 900 AM MDT...1500 UTC...INFORMATION\n----------------------------------------------\nLOCATION...19.6N 111.3W\nABOUT 60 MI...95 KM NNW OF SOCORRO ISLAND\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...NW OR 325 DEGREES AT 7 MPH...11 KM/H\nMINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 900 AM MDT (1500 UTC), the center of Tropical Depression Eleven-E\nwas located near latitude 19.5 North, longitude 111.4 West. The\ndepression is moving toward the northwest near 7 mph (11 km/h).  A\ncontinued northwest motion with a decrease in forward speed is\nexpected until the system dissipates early next week.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nThe depression is forecast to become a remnant low later today.\n\nThe estimated minimum central pressure is 1004 mb (29.65 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 300 PM MDT.\n\n$$\nForecaster Zelinsky\n\nNNNN",
   "messageBinNumber": "1",
-  "messageDateTimeLocal": "20170805 03:00:00 AM MDT",
-  "messageDateTimeLocalStr": "0300 AM MDT Sat Aug 05",
-  "messageDateTimeUTC": "20170805 09:00:00 AM UTC",
-  "messageDateTimeUTC24": "201708050900",
+  "messageDateTimeLocal": "20170805 09:00:00 AM MDT",
+  "messageDateTimeLocalStr": "0900 AM MDT Sat Aug 05",
+  "messageDateTimeUTC": "20170805 03:00:00 PM UTC",
+  "messageDateTimeUTC24": "201708051500",
   "messageType": "ROUTINE ADVISORY",
-  "systemDirectionOfMotion": "NW OR 315 DEGREES",
-  "systemGeoRefPt1": "ABOUT 40 MI...60 KM NW OF SOCORRO ISLAND",
+  "systemDirectionOfMotion": "NW OR 325 DEGREES",
+  "systemGeoRefPt1": "ABOUT 60 MI...95 KM NNW OF SOCORRO ISLAND",
   "systemIntensityKph": "55",
   "systemIntensityKts": "30",
   "systemIntensityMph": "35",
@@ -66,10 +66,10 @@
   "systemMslpMb": "1004",
   "systemName": "ELEVEN-E",
   "systemSaffirSimpsonCategory": "N/A",
-  "systemSpeedKph": "15",
-  "systemSpeedKts": "8",
-  "systemSpeedMph": "9",
+  "systemSpeedKph": "11",
+  "systemSpeedKts": "6",
+  "systemSpeedMph": "7",
   "systemType": "TROPICAL DEPRESSION",
-  "time": "2017-08-05 09:00:00",
-  "timeEpochSeconds": "1501923600"
+  "time": "2017-08-05 15:00:00",
+  "timeEpochSeconds": "1501945200"
 }
