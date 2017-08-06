@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL072017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>1</advisoryNumber>
+<advisoryNumber>1A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170806 05:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170806 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708062100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM EDT Sun Aug 06</messageDateTimeLocalStr>
-<timeEpochSeconds>1502053200</timeEpochSeconds>
+<messageDateTimeLocal>20170806 08:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170807 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708070000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM EDT Sun Aug 06</messageDateTimeLocalStr>
+<timeEpochSeconds>1502064000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>POTENTIAL TROPICAL CYCLONE</systemType>
 <systemName>SEVEN</systemName>
@@ -19,22 +19,22 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>15.6</centerLocLatitude>
-<centerLocLongitude>-82</centerLocLongitude>
+<centerLocLatitude>16.1</centerLocLatitude>
+<centerLocLongitude>-82.7</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>15.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>82.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>16.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>82.7W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
 <systemIntensityKph>55</systemIntensityKph>
 <systemIntensityKts>30</systemIntensityKts>
-<systemMslpMb>1008</systemMslpMb>
-<systemMslpInHg>29.77</systemMslpInHg>
+<systemMslpMb>1007</systemMslpMb>
+<systemMslpInHg>29.74</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
-<formationChancePct48h>80</formationChancePct48h>
+<formationChancePct48h>90</formationChancePct48h>
 <formationChancePct5d>90</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
@@ -43,41 +43,36 @@
 <systemSpeedKph>19</systemSpeedKph>
 <systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 90 MI...145 KM ENE OF CABO GRACIAS A DIOS ON NIC/HON BORDER</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 460 MI...745 KM ESE OF CHETUMAL MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 85 MI...135 KM NNE OF CABO GRACIAS A DIOS ON NIC/HON BORDER</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 405 MI...650 KM ESE OF CHETUMAL MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Potential Tropical Cyclone Seven Advisory Number   1
+Potential Tropical Cyclone Seven Intermediate Advisory Number 1A
 NWS National Hurricane Center Miami FL       AL072017
-500 PM EDT Sun Aug 06 2017
+800 PM EDT Sun Aug 06 2017
 
-...TROPICAL STORM WARNINGS AND WATCHES ISSUED FOR THE YUCATAN
-PENINSULA AND BELIZE...
+...DISTURBANCE EXPECTED TO BECOME A TROPICAL STORM OVERNIGHT...
 
 
-SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...15.6N 82.0W
-ABOUT 90 MI...145 KM ENE OF CABO GRACIAS A DIOS ON NIC/HON BORDER
-ABOUT 460 MI...745 KM ESE OF CHETUMAL MEXICO
+LOCATION...16.1N 82.7W
+ABOUT 85 MI...135 KM NNE OF CABO GRACIAS A DIOS ON NIC/HON BORDER
+ABOUT 405 MI...650 KM ESE OF CHETUMAL MEXICO
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
 PRESENT MOVEMENT...WNW OR 290 DEGREES AT 12 MPH...19 KM/H
-MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of Mexico has issued a Tropical Storm Warning from
-Chetumal northward and around the Yucatan Peninsula to Campeche.
-
-The government of Belize has issued a Tropical Storm Watch from
-Belize City northward.
+None
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -103,24 +98,25 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM EDT (2100 UTC), the disturbance was centered near latitude
-15.6 North, longitude 82.0 West.  The system is moving toward the
+At 800 PM EDT (0000 UTC), the disturbance was centered near latitude
+16.1 North, longitude 82.7 West.  The system is moving toward the
 west-northwest near 12 mph (19 km/h) and this general motion is
 expected to continue over the next 48 hours.  On the forecast track,
-the center will move across the Yucatan Peninsula late Monday and
-Tuesday.
+the center will pass north of Honduras tonight and early Monday,
+then approach the east coast of the Yucatan peninsula Monday
+afternoon.  The system is forecast to move across Yucatan Peninsula
+Monday night and Tuesday.
 
 Maximum sustained winds are near 35 mph (55 km/h) with higher
-gusts, and an increase in strength is forecast during the next
-day or so.
+gusts, and an increase in strength is forecast during the next day
+or so.
 
-Upper-level winds are expected to become more conducive for
-development, and the disturbance is likely to become a tropical
-cyclone overnight.
-* Formation chance through 48 hours...high...80 percent
+Upper-level winds are becoming more conducive for development, and
+the disturbance is likely to become a tropical cyclone overnight.
+* Formation chance through 48 hours...high...90 percent
 * Formation chance through 5 days...high...90 percent
 
-The estimated minimum central pressure is 1008 mb (29.77 inches).
+The estimated minimum central pressure is 1007 mb (29.74 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -138,12 +134,12 @@ afternoon or evening.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 PM EDT.
 Next complete advisory at 1100 PM EDT.
 
 $$
-Forecaster Pasch
+Forecaster Brown/Zelinsky
 
 NNNN
+
 </message>
 </cycloneMessage>
