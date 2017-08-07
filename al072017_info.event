@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "4",
+  "advisoryNumber": "4A",
   "atcfID": "AL072017",
-  "centerLocLatitude": "17.7",
-  "centerLocLatitudeExpanded": "17.7N",
-  "centerLocLongitude": "-85.1",
-  "centerLocLongitudeExpanded": "85.1W",
+  "centerLocLatitude": "18.0",
+  "centerLocLatitudeExpanded": "18.0N",
+  "centerLocLongitude": "-85.4",
+  "centerLocLongitudeExpanded": "85.4W",
   "event_title": "TROPICAL STORM FRANKLIN",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -46,21 +46,21 @@
   ],
   "location": {
     "coordinates": [
-      -85.1,
-      17.7
+      -85.4,
+      18.0
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Franklin Advisory Number   4\nNWS National Hurricane Center Miami FL       AL072017\n1000 AM CDT Mon Aug 07 2017\n\n...FRANKLIN CONTINUES TO GRADUALLY STRENGTHEN...\n\n\nSUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...17.7N 85.1W\nABOUT 205 MI...330 KM E OF BELIZE CITY\nABOUT 215 MI...350 KM ESE OF CHETUMAL MEXICO\nMAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H\nPRESENT MOVEMENT...WNW OR 300 DEGREES AT 14 MPH...22 KM/H\nMINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Hurricane Watch is in effect for...\n* The coast of Mexico from Chetumal to Punta Allen\n\nA Tropical Storm Warning is in effect for...\n* Belize City northward to the border of Mexico\n* The coast of Mexico from Chetumal to Campeche\n\nA Tropical Storm Watch is in effect for...\n* The coast of Mexico from Campeche to Sabancuy\n\nA Hurricane Watch means that hurricane conditions are possible\nwithin the watch area, in this case within the next 24 hours.\n\nA Tropical Storm Warning means that tropical storm conditions are\nexpected somewhere within the warning area, in this case within\n24 hours.\n\nA Tropical Storm Watch means that tropical storm conditions are\npossible within the watch area.\n\nInterests elsewhere around the Bay of Campeche should monitor the\nprogress of this system.\n\nFor storm information specific to your area, please monitor\nproducts issued by your national meteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1000 AM CDT (1500 UTC), the center of Tropical Storm Franklin was\nlocated near latitude 17.7 North, longitude 85.1 West.  Franklin is\nmoving toward the west-northwest near 14 mph (22 km/h), and this\ngeneral motion is expected to continue over the next 48 hours.  On\nthe forecast track, the center of Franklin will be near the east\ncoast of the Yucatan peninsula by this evening.  Franklin is then\nexpected to move across the Yucatan Peninsula tonight and on\nTuesday.\n\nMaximum sustained winds are near 60 mph (95 km/h) with higher gusts.\nStrengthening is forecast until the center reaches the east coast\nof the Yucatan peninsula, and Franklin could be near hurricane\nstrength by the time landfall occurs this evening or tonight.  Some\nweakening is likely while the system moves across the Yucatan\nPeninsula on Tuesday.\n\nTropical-storm-force winds extend outward up to 140 miles (220 km)\nfrom the center.\n\nThe estimated minimum central pressure is 999 mb (29.50 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nRAINFALL:  Rainfall amounts of 3 to 6 inches, with isolated amounts\nof around 12 inches, are possible across the Yucatan Peninsula of\nMexico and Belize through Wednesday, with the highest amounts over\nthe Mexican state of Quintana Roo.  These rains could produce\nlife-threatening flash floods.\n\nWIND:  Hurricane conditions are possible in the Hurricane Watch\narea by this evening.  Tropical Storm conditions are expected to\nbegin in portions of the warning area this afternoon or evening.\nTropical Storm conditions are possible in the watch area in Mexico\non Tuesday.\n\nSTORM SURGE:  A dangerous storm surge will raise water levels by\nas much as 2 to 4 feet above normal tide levels along the immediate\ncoast near and to the north of where the center makes landfall.\nNear the coast, the surge will be accompanied by large and\ndestructive waves.\n\n\nNEXT ADVISORY\n-------------\nNext intermediate advisory at 100 PM CDT.\nNext complete advisory at 400 PM CDT.\n\n$$\nForecaster Pasch\n\nNNNN",
+  "message": "ZCZC MIATCPAT2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Franklin Intermediate Advisory Number 4A\nNWS National Hurricane Center Miami FL       AL072017\n100 PM CDT Mon Aug 07 2017\n\n...FRANKLIN EXPECTED TO STRENGTHEN SOME MORE BEFORE LANDFALL...\n\n\nSUMMARY OF 100 PM CDT...1800 UTC...INFORMATION\n----------------------------------------------\nLOCATION...18.0N 85.4W\nABOUT 185 MI...300 KM E OF BELIZE CITY\nABOUT 195 MI...310 KM E OF CHETUMAL MEXICO\nMAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H\nPRESENT MOVEMENT...WNW OR 300 DEGREES AT 13 MPH...20 KM/H\nMINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Hurricane Watch is in effect for...\n* The coast of Mexico from Chetumal to Punta Allen\n\nA Tropical Storm Warning is in effect for...\n* Belize City northward to the border of Mexico\n* The coast of Mexico from Chetumal to Campeche\n\nA Tropical Storm Watch is in effect for...\n* The coast of Mexico from Campeche to Sabancuy\n\nA Hurricane Watch means that hurricane conditions are possible\nwithin the watch area, in this case within the next 24 hours.\n\nA Tropical Storm Warning means that tropical storm conditions are\nexpected somewhere within the warning area, in this case within\n24 hours.\n\nA Tropical Storm Watch means that tropical storm conditions are\npossible within the watch area.\n\nInterests elsewhere around the Bay of Campeche should monitor the\nprogress of this system.\n\nFor storm information specific to your area, please monitor\nproducts issued by your national meteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 100 PM CDT (1800 UTC), the center of Tropical Storm Franklin was\nlocated near latitude 18.0 North, longitude 85.4 West.  Franklin is\nmoving toward the west-northwest near 13 mph (20 km/h), and this\ngeneral motion is expected to continue over the next 48 hours.  On\nthe forecast track, the center of Franklin will be near the east\ncoast of the Yucatan peninsula by this evening.  Franklin is then\nexpected to move across the Yucatan Peninsula tonight and on\nTuesday.\n\nMaximum sustained winds are near 60 mph (95 km/h) with higher\ngusts.  Strengthening is forecast until the center reaches the east\ncoast of the Yucatan peninsula, and Franklin could be near hurricane\nstrength by the time landfall occurs this evening or tonight.  Some\nweakening is likely while the system moves across the Yucatan\nPeninsula on Tuesday.\n\nTropical-storm-force winds extend outward up to 140 miles (220 km)\nfrom the center.\n\nThe minimum central pressure reported by an Air Force Hurricane\nHunter aircraft is 999 mb (29.50 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nRAINFALL:  Rainfall amounts of 3 to 6 inches, with isolated amounts\nof around 12 inches, are possible across the Yucatan Peninsula of\nMexico and Belize through Wednesday, with the highest amounts over\nthe Mexican state of Quintana Roo.  These rains could produce\nlife-threatening flash floods.\n\nWIND:  Hurricane conditions are possible in the Hurricane Watch\narea by this evening.  Tropical storm conditions are expected to\nbegin in portions of the warning area this afternoon or evening.\nTropical storm conditions are possible in the watch area in Mexico\non Tuesday.\n\nSTORM SURGE:  A dangerous storm surge will raise water levels by\nas much as 2 to 4 feet above normal tide levels along the immediate\ncoast near and to the north of where the center makes landfall.\nNear the coast, the surge will be accompanied by large and\ndestructive waves.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 400 PM CDT.\n\n$$\nForecaster Pasch\n\nNNNN",
   "messageBinNumber": "2",
-  "messageDateTimeLocal": "20170807 10:00:00 AM CDT",
-  "messageDateTimeLocalStr": "1000 AM CDT Mon Aug 07",
-  "messageDateTimeUTC": "20170807 03:00:00 PM UTC",
-  "messageDateTimeUTC24": "201708071500",
-  "messageType": "ROUTINE ADVISORY",
+  "messageDateTimeLocal": "20170807 01:00:00 PM CDT",
+  "messageDateTimeLocalStr": "0100 PM CDT Mon Aug 07",
+  "messageDateTimeUTC": "20170807 06:00:00 PM UTC",
+  "messageDateTimeUTC24": "201708071800",
+  "messageType": "INTERMEDIATE ADVISORY",
   "systemDirectionOfMotion": "WNW OR 300 DEGREES",
-  "systemGeoRefPt1": "ABOUT 205 MI...330 KM E OF BELIZE CITY",
-  "systemGeoRefPt2": "ABOUT 215 MI...350 KM ESE OF CHETUMAL MEXICO",
+  "systemGeoRefPt1": "ABOUT 185 MI...300 KM E OF BELIZE CITY",
+  "systemGeoRefPt2": "ABOUT 195 MI...310 KM E OF CHETUMAL MEXICO",
   "systemIntensityKph": "95",
   "systemIntensityKts": "50",
   "systemIntensityMph": "60",
@@ -68,10 +68,10 @@
   "systemMslpMb": "999",
   "systemName": "FRANKLIN",
   "systemSaffirSimpsonCategory": "N/A",
-  "systemSpeedKph": "22",
-  "systemSpeedKts": "12",
-  "systemSpeedMph": "14",
+  "systemSpeedKph": "20",
+  "systemSpeedKts": "11",
+  "systemSpeedMph": "13",
   "systemType": "TROPICAL STORM",
-  "time": "2017-08-07 15:00:00",
-  "timeEpochSeconds": "1502118000"
+  "time": "2017-08-07 18:00:00",
+  "timeEpochSeconds": "1502128800"
 }
