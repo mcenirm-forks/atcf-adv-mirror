@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL072017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>6A</advisoryNumber>
+<advisoryNumber>7</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170808 01:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170808 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708080600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0100 AM CDT Tue Aug 08</messageDateTimeLocalStr>
-<timeEpochSeconds>1502172000</timeEpochSeconds>
+<messageDateTimeLocal>20170808 04:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170808 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708080900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 AM CDT Tue Aug 08</messageDateTimeLocalStr>
+<timeEpochSeconds>1502182800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>FRANKLIN</systemName>
@@ -19,55 +19,55 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>19.1</centerLocLatitude>
-<centerLocLongitude>-88</centerLocLongitude>
+<centerLocLatitude>19.3</centerLocLatitude>
+<centerLocLongitude>-88.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>19.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>88.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>19.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>88.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>60</systemIntensityMph>
-<systemIntensityKph>95</systemIntensityKph>
-<systemIntensityKts>50</systemIntensityKts>
-<systemMslpMb>996</systemMslpMb>
-<systemMslpInHg>29.41</systemMslpInHg>
+<systemIntensityMph>50</systemIntensityMph>
+<systemIntensityKph>85</systemIntensityKph>
+<systemIntensityKts>45</systemIntensityKts>
+<systemMslpMb>998</systemMslpMb>
+<systemMslpInHg>29.47</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 295 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>14</systemSpeedMph>
 <systemSpeedKph>22</systemSpeedKph>
 <systemSpeedKts>12</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 45 MI...75 KM NNE OF CHETUMAL MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 170 MI...275 KM ESE OF CAMPECHE MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 55 MI...90 KM NNW OF CHETUMAL MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 135 MI...220 KM ESE OF CAMPECHE MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Franklin Intermediate Advisory Number 6A
+Tropical Storm Franklin Advisory Number   7
 NWS National Hurricane Center Miami FL       AL072017
-100 AM CDT Tue Aug 08 2017
+400 AM CDT Tue Aug 08 2017
 
-...FRANKLIN MOVING FARTHER INLAND OVER THE YUCATAN PENINSULA...
+...FRANKLIN WEAKENS OVER THE INTERIOR OF THE YUCATAN PENINSULA...
 ...HEAVY RAINS AND FLASH FLOODING POSSIBLE ACROSS THE YUCATAN
-PENINSULA AND BELIZE...
+PENINSULA AND SOUTHEASTERN MEXICO...
 
 
-SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...19.1N 88.0W
-ABOUT 45 MI...75 KM NNE OF CHETUMAL MEXICO
-ABOUT 170 MI...275 KM ESE OF CAMPECHE MEXICO
-MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
-PRESENT MOVEMENT...WNW OR 295 DEGREES AT 14 MPH...22 KM/H
-MINIMUM CENTRAL PRESSURE...996 MB...29.41 INCHES
+LOCATION...19.3N 88.5W
+ABOUT 55 MI...90 KM NNW OF CHETUMAL MEXICO
+ABOUT 135 MI...220 KM ESE OF CAMPECHE MEXICO
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...998 MB...29.47 INCHES
 
 
 WATCHES AND WARNINGS
@@ -103,57 +103,65 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 100 AM CDT (0600 UTC), the center of Tropical Storm Franklin was
-located by the Belize City Doppler weather radar to be near latitude
-19.1 North, longitude 88.0 West. Franklin is moving toward the
-west-northwest near 14 mph (22 km/h).  A west-northwestward to
+At 400 AM CDT (0900 UTC), the center of Tropical Storm Franklin
+was located by the Belize Weather Service Doppler radar to be near
+latitude 19.3 North, longitude 88.5 West. Franklin is moving toward
+the west-northwest near 14 mph (22 km/h).  A west-northwestward to
 westward motion is expected during the next couple of days.  On the
-forecast track, the center of Franklin will move across the Yucatan
-peninsula through today, and emerge over the Bay of Campeche
-tonight.  Franklin will then continue westward across the Bay of
+forecast track, the center of Franklin will continue to move across
+the Yucatan peninsula through today, and emerge over the Bay of
+Campeche tonight. Franklin will then move westward across the Bay of
 Campeche on Wednesday.
 
-Maximum sustained winds are near 60 mph (95 km/h) with higher
-gusts. Weakening is expected while Franklin moves across the Yucatan
-peninsula today.  Restrengthening is forecast to begin tonight and
-Wednesday while Franklin moves over the Bay of Campeche.
+Maximum sustained winds have decreased to near 50 mph (85 km/h) with
+higher gusts. Weakening is expected while Franklin moves across the
+Yucatan peninsula today.  Restrengthening is forecast to begin
+tonight and Wednesday while Franklin moves over the Bay of Campeche.
 
 Tropical-storm-force winds extend outward up to 140 miles (220 km)
-from the center.
+from the center. Wind gusts to 47 mph (76 km/h) in squalls have been
+measured during the past couple of hours by NOAA Buoy 42056,
+located more than 200 miles east-northeast of Franklin's center.
 
-The estimated minimum central pressure is 996 mb (29.41 inches).
+The estimated minimum central pressure is 998 mb (29.47 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 RAINFALL:  Rainfall amounts of 3 to 6 inches, with isolated amounts
-of around 12 inches, are possible across the Yucatan peninsula of
+of around 12 inches, are possible across the Yucatan Peninsula of
 Mexico and Belize through Wednesday, with the highest amounts over
-the Mexican state of Quintana Roo.  These rains could produce
-life-threatening flash floods.
+the Mexican state of Quintana Roo.  In addition, Franklin is
+expected to bring 4 to 8 inches of rainfall with isolated amounts
+up to 15 inches through Thursday to northern Veracruz, Puebla,
+Tlaxcala, Hidalgo, and eastern San Louis Potosi in eastern Mexico.
+These rains will be capable of producing life-threatening flash
+floods and mudslides.
 
-WIND:  Tropical storm conditions are likely occurring over portions
-of the east coast of the Yucatan peninsula and should spread
-westward across the remainder of the warning area today.  Hurricane
-or tropical storm conditions are possible within the hurricane watch
-area by late Wednesday.  Tropical storm conditions are possible
-within the tropical storm watch area tonight and Wednesday.
+WIND:  Tropical storm conditions are likely still occurring over
+portions of the east coast of the Yucatan peninsula. These
+conditions should spread westward across the remainder of the
+warning area today and diminish along the east coast of the Yucatan
+peninsula later this morning. Hurricane or tropical storm conditions
+are possible within the hurricane watch area by late Wednesday.
+Tropical storm conditions are possible within the tropical storm
+watch area tonight and Wednesday.
 
-STORM SURGE:  A dangerous storm surge will raise water levels by
-as much as 2 feet above normal tide levels along the east coast of
-the Yucatan peninsula early this morning.  The surge will be
+STORM SURGE:  A storm surge will raise water levels by as much
+as 1 foot above normal tide levels along the east coast of the
+Yucatan peninsula early this morning.  The surge will be
 accompanied by large and destructive waves. Water levels are
 expected to diminish after sunrise.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 AM CDT.
+Next intermediate advisory at 700 AM CDT.
+Next complete advisory at 1000 AM CDT.
 
 $$
-Forecaster Stewart/Landsea
+Forecaster Stewart
 
 NNNN
-
 </message>
 </cycloneMessage>
