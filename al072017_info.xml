@@ -3,79 +3,78 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL072017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>15A</advisoryNumber>
+<advisoryNumber>16</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170810 07:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170810 12:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708101200</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0700 AM CDT Thu Aug 10</messageDateTimeLocalStr>
-<timeEpochSeconds>1502366400</timeEpochSeconds>
+<messageDateTimeLocal>20170810 10:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170810 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708101500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1000 AM CDT Thu Aug 10</messageDateTimeLocalStr>
+<timeEpochSeconds>1502377200</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL STORM</systemType>
+<systemType>REMNANTS OF</systemType>
 <systemName>FRANKLIN</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>19.8</centerLocLatitude>
-<centerLocLongitude>-98.3</centerLocLongitude>
+<centerLocLatitude>19.7</centerLocLatitude>
+<centerLocLongitude>-99.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>19.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>98.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>19.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>99.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>40</systemIntensityMph>
-<systemIntensityKph>65</systemIntensityKph>
-<systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>997</systemMslpMb>
-<systemMslpInHg>29.44</systemMslpInHg>
+<systemIntensityMph>30</systemIntensityMph>
+<systemIntensityKph>45</systemIntensityKph>
+<systemIntensityKts>25</systemIntensityKts>
+<systemMslpMb>1000</systemMslpMb>
+<systemMslpInHg>29.53</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>W OR 260 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>15</systemSpeedMph>
-<systemSpeedKph>24</systemSpeedKph>
-<systemSpeedKts>13</systemSpeedKts>
+<systemSpeedMph>20</systemSpeedMph>
+<systemSpeedKph>31</systemSpeedKph>
+<systemSpeedKts>17</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 60 MI...95 KM ENE OF MEXICO CITY MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 20 MI...35 KM NNW OF MEXICO CITY MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Franklin Intermediate Advisory Number 15A
+Remnants Of Franklin Advisory Number  16
 NWS National Hurricane Center Miami FL       AL072017
-700 AM CDT Thu Aug 10 2017
+1000 AM CDT Thu Aug 10 2017
 
-...FRANKLIN CONTINUES TO WEAKEN OVER MEXICO...
+...FRANKLIN DISSIPATES OVER MEXICO...
 
 
-SUMMARY OF 700 AM CDT...1200 UTC...INFORMATION
-----------------------------------------------
-LOCATION...19.8N 98.3W
-ABOUT 60 MI...95 KM ENE OF MEXICO CITY MEXICO
-MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...W OR 260 DEGREES AT 15 MPH...24 KM/H
-MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
+SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...19.7N 99.2W
+ABOUT 20 MI...35 KM NNW OF MEXICO CITY MEXICO
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...W OR 260 DEGREES AT 20 MPH...31 KM/H
+MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The government of Mexico has discontinued all warnings.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
-A Tropical Storm Warning is in effect for...
-* The coast of Mexico from Cabo Rojo to Roca Partida
+There are no coastal watches and warnings in effect.
 
 For storm information specific to your area, please monitor
 products issued by your national meteorological service.
@@ -83,41 +82,32 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 700 AM CDT (1200 UTC), the center of Tropical Storm Franklin was
-located near latitude 19.8 North, longitude 98.3 West.  Franklin is
-moving a little south of west near 15 mph (24 km/h) and this motion
-is expected to continue today.  On the forecast track, the center of
-Franklin should continue to move over Mexico today.
+At 1000 AM CDT (1500 UTC), the remnants of Franklin were located
+near latitude 19.7 North, longitude 99.2 West. The remnants are
+moving toward the west near 20 mph (31 km/h) and this motion is
+expected to continue today.
 
-Maximum sustained winds have decreased to near 40 mph (65 km/h)
-with higher gusts.  Additional weakening is expected as Franklin
-moves over Mexico, and the cyclone is likely to dissipate later
-today.
+Maximum sustained winds have decreased to near 30 mph (45 km/h) with
+higher gusts.  Additional weakening is expected during the next day
+or so.
 
-Tropical-storm-force winds extend outward up to 115 miles (185 km)
-mainly to the northeast of the center.
-
-The estimated minimum central pressure is 997 mb (29.44 inches).
+The estimated minimum central pressure is 1000 mb (29.53 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-RAINFALL: Franklin is expected to produce total rainfall
-accumulations of 4 to 8 inches with isolated maximum amounts of 15
-inches possible across the Mexican states of northern Veracruz,
-Puebla, Tlaxacala, eastern Guanajuato, Hidalgo, Queretaro and
-eastern San Luis Potosi in eastern Mexico.  These rains are capable
-of producing life-threatening flash floods and mudslides.
-
-WIND:  Tropical storm conditions may still be occurring in
-portions of the Tropical Storm Warning area in eastern Mexico
-during the next few hours.  These conditions will subside later
-this morning.
+RAINFALL: The remnants of Franklin are expected to produce total
+rainfall accumulations of 4 to 8 inches with isolated maximum
+amounts of 15 inches possible across the Mexican states of northern
+Veracruz, Puebla, Tlaxacala, eastern Guanajuato, Hidalgo, Queretaro
+and eastern San Luis Potosi in eastern Mexico.  These rains are
+capable of producing life-threatening flash floods and mudslides.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1000 AM CDT.
+This is the last public advisory issued by the National Hurricane
+Center on this system.
 
 $$
 Forecaster Pasch
