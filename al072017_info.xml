@@ -3,97 +3,85 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL072017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>14A</advisoryNumber>
+<advisoryNumber>15</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170810 01:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170810 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708100600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0100 AM CDT Thu Aug 10</messageDateTimeLocalStr>
-<timeEpochSeconds>1502344800</timeEpochSeconds>
+<messageDateTimeLocal>20170810 04:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170810 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708100900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 AM CDT Thu Aug 10</messageDateTimeLocalStr>
+<timeEpochSeconds>1502355600</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>HURRICANE</systemType>
+<systemType>TROPICAL STORM</systemType>
 <systemName>FRANKLIN</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>20.0</centerLocLatitude>
-<centerLocLongitude>-96.7</centerLocLongitude>
+<centerLocLatitude>19.9</centerLocLatitude>
+<centerLocLongitude>-97.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>20.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>96.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>19.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>97.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>85</systemIntensityMph>
-<systemIntensityKph>140</systemIntensityKph>
-<systemIntensityKts>75</systemIntensityKts>
-<systemMslpMb>988</systemMslpMb>
-<systemMslpInHg>29.18</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<systemIntensityMph>70</systemIntensityMph>
+<systemIntensityKph>110</systemIntensityKph>
+<systemIntensityKts>60</systemIntensityKts>
+<systemMslpMb>992</systemMslpMb>
+<systemMslpInHg>29.30</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>W OR 260 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>13</systemSpeedMph>
-<systemSpeedKph>20</systemSpeedKph>
-<systemSpeedKts>11</systemSpeedKts>
+<systemSpeedMph>15</systemSpeedMph>
+<systemSpeedKph>24</systemSpeedKph>
+<systemSpeedKts>13</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 80 MI...130 KM SE OF TUXPAN MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 70 MI...115 KM NNW OF VERACRUZ MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 75 MI...125 KM S OF TUXPAN MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 105 MI...165 KM WNW OF VERACRUZ MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Franklin Intermediate Advisory Number 14A
+Tropical Storm Franklin Advisory Number  15
 NWS National Hurricane Center Miami FL       AL072017
-100 AM CDT Thu Aug 10 2017
+400 AM CDT Thu Aug 10 2017
 
-...FRANKLIN MAKES LANDFALL ON THE COAST OF MEXICO AS A CATEGORY ONE
-HURRICANE...
+...FRANKLIN WEAKENS TO A TROPICAL STORM AS IT MOVES FARTHER INLAND
+OVER EASTERN MEXICO...
 
 
-SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...20.0N 96.7W
-ABOUT 80 MI...130 KM SE OF TUXPAN MEXICO
-ABOUT 70 MI...115 KM NNW OF VERACRUZ MEXICO
-MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
-PRESENT MOVEMENT...W OR 260 DEGREES AT 13 MPH...20 KM/H
-MINIMUM CENTRAL PRESSURE...988 MB...29.18 INCHES
+LOCATION...19.9N 97.6W
+ABOUT 75 MI...125 KM S OF TUXPAN MEXICO
+ABOUT 105 MI...165 KM WNW OF VERACRUZ MEXICO
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...W OR 260 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...992 MB...29.30 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The Government of Mexico has discontinued the Hurricane Warning and
+the Hurricane Watch for the coast of eastern Mexico.  The
+Government of Mexico has also discontinued the Tropical Storm
+Warning north of Cabo Rojo and east of Roca Partida.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
-A Hurricane Warning is in effect for...
-* The coast of Mexico from Puerto de Veracruz to Cabo Rojo
-
-A Hurricane Watch is in effect for...
-* The coast of Mexico north of Cabo Rojo to Rio Panuco
-
 A Tropical Storm Warning is in effect for...
-* The coast of Mexico south of Puerto de Veracruz to Puerto Dos
-Bocas
-* The coast of Mexico north of Cabo Rojo to Barra del Tordo
-
-A Hurricane Warning means that hurricane conditions are expected
-somewhere within the warning area.  Preparations to protect life and
-property should be rushed to completion.
-
-A Hurricane Watch means that hurricane conditions are possible
-within the watch area.
+* The coast of Mexico from Cabo Rojo to Roca Partida
 
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area.
@@ -104,62 +92,48 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 100 AM CDT (0600 UTC), the center of Hurricane Franklin was
-located near latitude 20.0 North, longitude 96.7 West. Franklin is
-moving a little south of west near 13 mph (20 km/h), and this
-general motion is expected to continue during the next day or so.
-During the past hour, the center of Franklin made landfall in the
-Mexican state of Veracruz near the town of Lechuguillas.  The center
-is expected to move farther inland during the next several hours.
+At 400 AM CDT (0900 UTC), the center of Tropical Storm Franklin was
+located near latitude 19.9 North, longitude 97.6 West. Franklin is
+moving a little south of west near 15 mph (24 km/h) and this motion
+is expected to continue today.  On the forecast track, the center
+of Franklin should continue to move across eastern Mexico today.
 
-Reports from an Air Force Reserve Hurricane Hunter aircraft indicate
-that the maximum sustained winds are near 85 mph (140 km/h) with
-higher gusts.  Rapid weakening is forecast as the hurricane moves
-farther inland.
+Maximum sustained winds have decreased to near 70 mph (110 km/h)
+with higher gusts.  Additional rapid weakening is expected as
+Franklin moves across eastern Mexico, and the cyclone is likely to
+dissipate late Thursday or early Friday.
 
-Hurricane-force winds extend outward up to 35 miles (55 km) from
-the center and tropical-storm-force winds extend outward up to 150
-miles (240 km).
+Tropical-storm-force winds extend outward up to 115 miles (185 km)
+mainly to the northeast of the center.
 
-The minimum central pressure estimated from the Hurricane Hunter
-aircraft data is 988 mb (29.18 inches).
+The estimated minimum central pressure is 992 mb (29.30 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-RAINFALL:  Rainfall totals of 4 to 8 inches with isolated maximum
-amounts of 15 inches are possible across the Mexican states of
-Tabasco, northern Veracruz, northern Puebla, Tlaxacala, Hidalgo,
-Queretar and eastern San Luis Potosi in eastern Mexico.  These rains
-will be capable of producing life-threatening flash floods and
-mudslides.
+RAINFALL: Franklin is expected to produce total rainfall
+accumulations of 4 to 8 inches with isolated maximum of 15 inches
+possible across the Mexican states of northern Veracruz, Puebla,
+Tlaxacala, eastern Guanajuato, Hidalgo, Queretaro and eastern San
+Luis Potosi in eastern Mexico.  These rains are capable of producing
+life-threatening flash floods and mudslides.
 
-WIND:  Hurricane conditions are occurring on the coast within
-the Hurricane Warning area. Preparations to protect life and
-property should be rushed to completion.
+WIND:  Tropical storm conditions are expected across the Tropical
+Storm Warning area in eastern Mexico during the next several hours.
 
-Tropical storm conditions are expected across portions of the
-Tropical Storm Warning area along the southern shore of the Bay of
-Campeche through early Thursday.  Hurricane conditions are possible
-within the Hurricane Watch area for the next few hours.
-Tropical storm conditions are expected within the Tropical Storm
-Warning area in eastern Mexico during the next several hours.
-
-STORM SURGE:  A dangerous storm surge will raise water levels by
-as much as 4 to 6 feet above normal tide levels along the
-immediate coast near and to the north of where the center makes
-landfall in the Hurricane Warning area.  Near the coast, the
-surge will be accompanied by large and destructive waves.
+STORM SURGE:  A dangerous storm surge along the coast in the
+Tropical Storm Warning area should subside today.  Near the coast,
+the surge will be accompanied by large and destructive waves.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 AM CDT.
+Next intermediate advisory at 700 AM CDT.
+Next complete advisory at 1000 AM CDT.
 
 $$
 Forecaster Beven
 
 NNNN
-
 </message>
 </cycloneMessage>
