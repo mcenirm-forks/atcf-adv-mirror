@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL072017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>13</advisoryNumber>
+<advisoryNumber>13A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170809 04:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170809 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708092100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0400 PM CDT Wed Aug 09</messageDateTimeLocalStr>
-<timeEpochSeconds>1502312400</timeEpochSeconds>
+<messageDateTimeLocal>20170809 07:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170810 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708100000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0700 PM CDT Wed Aug 09</messageDateTimeLocalStr>
+<timeEpochSeconds>1502323200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>FRANKLIN</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>20.1</centerLocLatitude>
-<centerLocLongitude>-94.9</centerLocLongitude>
+<centerLocLatitude>20.2</centerLocLatitude>
+<centerLocLongitude>-95.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>20.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>94.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>20.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>95.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>75</systemIntensityMph>
-<systemIntensityKph>120</systemIntensityKph>
-<systemIntensityKts>65</systemIntensityKts>
-<systemMslpMb>984</systemMslpMb>
-<systemMslpInHg>29.06</systemMslpInHg>
+<systemIntensityMph>85</systemIntensityMph>
+<systemIntensityKph>140</systemIntensityKph>
+<systemIntensityKts>75</systemIntensityKts>
+<systemMslpMb>983</systemMslpMb>
+<systemMslpInHg>29.03</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,30 +43,31 @@
 <systemSpeedKph>19</systemSpeedKph>
 <systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 175 MI...280 KM ESE OF TUXPAN MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 105 MI...170 KM NE OF VERACRUZ MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 135 MI...220 KM ESE OF TUXPAN MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 90 MI...140 KM NE OF VERACRUZ MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Franklin Advisory Number  13
+Hurricane Franklin Intermediate Advisory Number 13A
 NWS National Hurricane Center Miami FL       AL072017
-400 PM CDT Wed Aug 09 2017
+700 PM CDT Wed Aug 09 2017
 
-...FRANKLIN BECOMES THE FIRST HURRICANE OF THE 2017 ATLANTIC
-SEASON...
+...STRENGTHENING HURRICANE FRANKLIN HEADING FOR THE COAST OF
+MEXICO...
+...WEATHER SHOULD BEGIN TO DETERIORATE SOON...
 
 
-SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...20.1N 94.9W
-ABOUT 175 MI...280 KM ESE OF TUXPAN MEXICO
-ABOUT 105 MI...170 KM NE OF VERACRUZ MEXICO
-MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
+LOCATION...20.2N 95.4W
+ABOUT 135 MI...220 KM ESE OF TUXPAN MEXICO
+ABOUT 90 MI...140 KM NE OF VERACRUZ MEXICO
+MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
 PRESENT MOVEMENT...W OR 270 DEGREES AT 12 MPH...19 KM/H
-MINIMUM CENTRAL PRESSURE...984 MB...29.06 INCHES
+MINIMUM CENTRAL PRESSURE...983 MB...29.03 INCHES
 
 
 WATCHES AND WARNINGS
@@ -84,8 +85,9 @@ A Hurricane Watch is in effect for...
 * The coast of Mexico north of Cabo Rojo to Rio Panuco
 
 A Tropical Storm Warning is in effect for...
-* The coast of Mexico east of Puerto de Veracruz to Puerto Dos Bocas
-* The coast of Mexico north of Tuxpan to Barra del Tordo
+* The coast of Mexico south of Puerto de Veracruz to Puerto Dos
+Bocas
+* The coast of Mexico north of Cabo Rojo to Barra del Tordo
 
 A Hurricane Warning means that hurricane conditions are expected
 somewhere within the warning area.  Preparations to protect life and
@@ -97,29 +99,32 @@ within the watch area.
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area.
 
-For storm information specific to your area, please monitor
-products issued by your national meteorological service.
+For storm information specific to your area, please monitor products
+issued by your national meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 400 PM CDT (2100 UTC), the center of Hurricane Franklin was
-located near latitude 20.1 North, longitude 94.9 West.  Franklin is
-moving toward the west near 12 mph (19 km/h), and this general
+At 700 PM CDT (0000 UTC), the center of Hurricane Franklin was
+located near latitude 20.2 North, longitude 95.4 West.  Franklin
+is moving toward the west near 12 mph (19 km/h), and this general
 motion is expected to continue for the next day or so.  On the
 forecast track, the center of Franklin is expected to cross the
-coast in the Mexican state of Veracruz tonight or early Thursday.
+coast of the Mexican state of Veracruz later tonight or early
+Thursday.
 
-Maximum sustained winds have increased to near 75 mph (120 km/h)
-with higher gusts.  Some additional strengthening is expected until
-the center crosses the coast.  Rapid weakening is expected after
-landfall in Mexico.
+An Air Force plane is approaching the hurricane and preliminary
+reports indicate that the maximum sustained winds have increased
+to near 85 mph (140 km/h) with higher gusts. Some additional
+strengthening is expected until the center crosses the coast.  Rapid
+weakening is expected after landfall in Mexico.
 
-Hurricane-force winds extend outward up to 35 miles (55 km) from the
-center and tropical-storm-force winds extend outward up to 140 miles
-(220 km).
+Hurricane-force winds extend outward up to 35 miles (55 km) from
+the center and tropical-storm-force winds extend outward up to 140
+miles (220 km).
 
-The estimated minimum central pressure is 984 mb (29.06 inches).
+The estimated minimum central pressure just reported by an Air Force
+plane was 983 mb (29.03 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -151,12 +156,12 @@ surge will be accompanied by large and destructive waves.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 700 PM CDT.
 Next complete advisory at 1000 PM CDT.
 
 $$
-Forecaster Pasch
+Forecaster Avila
 
 NNNN
+
 </message>
 </cycloneMessage>
