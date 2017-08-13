@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>4</advisoryNumber>
+<advisoryNumber>5</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170812 03:00:00 PM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170812 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708122100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0300 PM MDT Sat Aug 12</messageDateTimeLocalStr>
-<timeEpochSeconds>1502571600</timeEpochSeconds>
+<messageDateTimeLocal>20170812 09:00:00 PM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170813 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708130300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0900 PM MDT Sat Aug 12</messageDateTimeLocalStr>
+<timeEpochSeconds>1502593200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>JOVA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>20.4</centerLocLatitude>
-<centerLocLongitude>-113.1</centerLocLongitude>
+<centerLocLatitude>20.6</centerLocLatitude>
+<centerLocLongitude>-114.7</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>20.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>113.1W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>20.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>114.7W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -39,30 +39,30 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>14</systemSpeedMph>
-<systemSpeedKph>22</systemSpeedKph>
-<systemSpeedKts>12</systemSpeedKts>
+<systemSpeedMph>15</systemSpeedMph>
+<systemSpeedKph>24</systemSpeedKph>
+<systemSpeedKts>13</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 175 MI...285 KM NW OF SOCORRO ISLAND</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 270 MI...435 KM WNW OF SOCORRO ISLAND</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Jova Advisory Number   4
+Tropical Depression Jova Advisory Number   5
 NWS National Hurricane Center Miami FL       EP122017
-300 PM MDT Sat Aug 12 2017
+900 PM MDT Sat Aug 12 2017
 
-...JOVA NOW A TROPICAL DEPRESSION...
+...JOVA EXPECTED TO BECOME A REMNANT LOW ON SUNDAY...
 
 
-SUMMARY OF 300 PM MDT...2100 UTC...INFORMATION
+SUMMARY OF 900 PM MDT...0300 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...20.4N 113.1W
-ABOUT 175 MI...285 KM NW OF SOCORRO ISLAND
+LOCATION...20.6N 114.7W
+ABOUT 270 MI...435 KM WNW OF SOCORRO ISLAND
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...W OR 280 DEGREES AT 14 MPH...22 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 15 MPH...24 KM/H
 MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
@@ -73,14 +73,15 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 300 PM MDT (2100 UTC), the center of Tropical Depression Jova was
-located near latitude 20.4 North, longitude 113.1 West.  The
-depression is moving toward the west near 14 mph (22 km/h), and this
-motion is forecast to continue for the next couple of days.
+At 900 PM MDT (0300 UTC), the center of Tropical Depression Jova was
+located near latitude 20.6 North, longitude 114.7 West. Jova is
+moving toward the west near 15 mph (24 km/h), and this motion is
+forecast to continue for the next couple of days with some decrease
+in forward speed.
 
-Maximum sustained winds have decreased to near 35 mph (55 km/h)
-with higher gusts.  Additional weakening is expected, and Jova will
-likely become a remnant low by Monday.
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Gradual weakening is expected, and Jova is forecast to become a
+remnant low on Sunday.
 
 The estimated minimum central pressure is 1005 mb (29.68 inches).
 
@@ -92,10 +93,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 900 PM MDT.
+Next complete advisory at 300 AM MDT.
 
 $$
-Forecaster Zelinsky
+Forecaster Blake
 
 NNNN
 </message>
