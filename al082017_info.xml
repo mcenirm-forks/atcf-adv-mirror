@@ -5,32 +5,32 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>3</advisoryNumber>
+<advisoryNumber>4</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170813 11:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170813 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708131500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM EDT Sun Aug 13</messageDateTimeLocalStr>
-<timeEpochSeconds>1502636400</timeEpochSeconds>
+<messageDateTimeLocal>20170813 05:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170813 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708132100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM EDT Sun Aug 13</messageDateTimeLocalStr>
+<timeEpochSeconds>1502658000</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL DEPRESSION</systemType>
-<systemName>EIGHT</systemName>
+<systemType>TROPICAL STORM</systemType>
+<systemName>GERT</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>27.4</centerLocLatitude>
-<centerLocLongitude>-71.5</centerLocLongitude>
+<centerLocLatitude>28.1</centerLocLatitude>
+<centerLocLongitude>-71.7</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>27.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>71.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>28.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>71.7W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>35</systemIntensityMph>
-<systemIntensityKph>55</systemIntensityKph>
-<systemIntensityKts>30</systemIntensityKts>
+<systemIntensityMph>40</systemIntensityMph>
+<systemIntensityKph>65</systemIntensityKph>
+<systemIntensityKts>35</systemIntensityKts>
 <systemMslpMb>1011</systemMslpMb>
 <systemMslpInHg>29.86</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
@@ -39,31 +39,30 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>NNW OR 335 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>13</systemSpeedMph>
-<systemSpeedKph>20</systemSpeedKph>
-<systemSpeedKts>11</systemSpeedKts>
+<systemSpeedMph>10</systemSpeedMph>
+<systemSpeedKph>17</systemSpeedKph>
+<systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 525 MI...845 KM SW OF BERMUDA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 505 MI...810 KM WSW OF BERMUDA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Eight Advisory Number   3
+Tropical Storm Gert Advisory Number   4
 NWS National Hurricane Center Miami FL       AL082017
-1100 AM EDT Sun Aug 13 2017
+500 PM EDT Sun Aug 13 2017
 
-...DEPRESSION FORECAST TO BECOME A TROPICAL STORM LATER TODAY OR
-TONIGHT...
+...DEPRESSION STRENGTHENS TO TROPICAL STORM GERT...
 
 
-SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...27.4N 71.5W
-ABOUT 525 MI...845 KM SW OF BERMUDA
-MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...NNW OR 335 DEGREES AT 13 MPH...20 KM/H
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...28.1N 71.7W
+ABOUT 505 MI...810 KM WSW OF BERMUDA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...NNW OR 335 DEGREES AT 10 MPH...17 KM/H
 MINIMUM CENTRAL PRESSURE...1011 MB...29.86 INCHES
 
 
@@ -74,20 +73,21 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM EDT (1500 UTC), the center of Tropical Depression Eight
-was located near latitude 27.4 North, longitude 71.5 West. The
-depression is moving toward the north-northwest near 13 mph (20
-km/h) and this general motion is expected to continue through today.
-A turn toward the north is forecast to occur tonight, followed by a
-turn toward the north-northeast on Monday.
+At 500 PM EDT (2100 UTC), the center of Tropical Storm Gert was
+located near latitude 28.1 North, longitude 71.7 West. Gert is
+moving toward the north-northwest near 10 mph (17 km/h). A turn
+toward the north is forecast to occur tonight, followed by a turn
+toward the north-northeast by Monday night.
 
-Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-Gradual strengthening is expected during the next 48 hours, and the
-depression is forecast to become a tropical storm later today or
-tonight.
+Maximum sustained winds have increased to near 40 mph (65 km/h) with
+higher gusts.  Slow strengthening is forecast during the next day
+or two.
 
-The minimum central pressure estimated from reports from a NOAA buoy
-is 1011 mb (29.86 inches).
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+northeast of the center.
+
+The estimated minimum central pressure is 1011 mb (29.86 inches).
+
 
 HAZARDS AFFECTING LAND
 ----------------------
@@ -96,10 +96,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM EDT.
+Next complete advisory at 1100 PM EDT.
 
 $$
-Forecaster Brown
+Forecaster Cangialosi
 
 NNNN
 </message>
