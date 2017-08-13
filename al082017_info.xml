@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>1</advisoryNumber>
+<advisoryNumber>2</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170812 11:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170813 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708130300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM EDT Sat Aug 12</messageDateTimeLocalStr>
-<timeEpochSeconds>1502593200</timeEpochSeconds>
+<messageDateTimeLocal>20170813 05:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170813 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708130900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM EDT Sun Aug 13</messageDateTimeLocalStr>
+<timeEpochSeconds>1502614800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>EIGHT</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>25.3</centerLocLatitude>
-<centerLocLongitude>-70.3</centerLocLongitude>
+<centerLocLatitude>26.5</centerLocLatitude>
+<centerLocLongitude>-70.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>25.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>70.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>26.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>70.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -38,32 +38,34 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNW OR 330 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>13</systemSpeedMph>
-<systemSpeedKph>20</systemSpeedKph>
-<systemSpeedKts>11</systemSpeedKts>
+<systemDirectionOfMotion>NNW OR 335 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>14</systemSpeedMph>
+<systemSpeedKph>22</systemSpeedKph>
+<systemSpeedKts>12</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 260 MI...415 KM NE OF THE SOUTHEASTERN BAHAMAS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 310 MI...500 KM NNE OF THE SOUTHEASTERN BAHAMAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 545 MI...875 KM SW OF BERMUDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Eight Advisory Number   1
+Tropical Depression Eight Advisory Number   2
 NWS National Hurricane Center Miami FL       AL082017
-1100 PM EDT Sat Aug 12 2017
+500 AM EDT Sun Aug 13 2017
 
-...DEPRESSION FORMS OVER THE WESTERN ATLANTIC...
+...DEPRESSION EXPECTED TO BECOME A TROPICAL STORM LATER TODAY...
 ...FORECAST TO REMAIN EAST OF THE UNITED STATES...
 
 
-SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...25.3N 70.3W
-ABOUT 260 MI...415 KM NE OF THE SOUTHEASTERN BAHAMAS
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...26.5N 70.9W
+ABOUT 310 MI...500 KM NNE OF THE SOUTHEASTERN BAHAMAS
+ABOUT 545 MI...875 KM SW OF BERMUDA
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...NNW OR 330 DEGREES AT 13 MPH...20 KM/H
+PRESENT MOVEMENT...NNW OR 335 DEGREES AT 14 MPH...22 KM/H
 MINIMUM CENTRAL PRESSURE...1011 MB...29.86 INCHES
 
 
@@ -74,17 +76,16 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM EDT (0300 UTC), the center of Tropical Depression Eight
-was located near latitude 25.3 North, longitude 70.3 West. The
-depression is moving toward the north-northwest near 13 mph (20
-km/h) and this general motion is expected to continue through
-Sunday.  A turn toward the north is forecast on Sunday night,
-followed by a turn toward the north-northeast on Monday.
+At 500 AM EDT (0900 UTC), the center of Tropical Depression Eight
+was located near latitude 26.5 North, longitude 70.9 West. The
+depression is moving toward the north-northwest near 14 mph (22
+km/h) and this general motion is expected to continue through today.
+A turn toward the north is forecast to occur tonight, followed by a
+turn toward the north-northeast on Monday.
 
 Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
 Gradual strengthening is forecast during the next 48 hours, and the
-depression is expected to become a tropical storm later tonight or
-on Sunday.
+depression is expected to become a tropical storm later today.
 
 The estimated minimum central pressure is 1011 mb (29.86 inches).
 
@@ -96,10 +97,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM EDT.
+Next complete advisory at 1100 AM EDT.
 
 $$
-Forecaster Brown
+Forecaster Stewart
 
 NNNN
 </message>
