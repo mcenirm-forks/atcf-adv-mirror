@@ -1,11 +1,11 @@
 {
-  "advisoryNumber": "8",
+  "advisoryNumber": "9",
   "atcfID": "EP122017",
-  "centerLocLatitude": "20.4",
-  "centerLocLatitudeExpanded": "20.4N",
-  "centerLocLongitude": "-118.5",
-  "centerLocLongitudeExpanded": "118.5W",
-  "event_title": "TROPICAL DEPRESSION JOVA",
+  "centerLocLatitude": "20.5",
+  "centerLocLatitudeExpanded": "20.5N",
+  "centerLocLongitude": "-119.7",
+  "centerLocLongitudeExpanded": "119.7W",
+  "event_title": "POST-TROPICAL CYCLONE JOVA",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
   "formationChancePct5d": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -118.5,
-      20.4
+      -119.7,
+      20.5
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPEP2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Jova Advisory Number   8\nNWS National Hurricane Center Miami FL       EP122017\n200 PM PDT Sun Aug 13 2017\n\n...JOVA EXPECTED TO BECOME A REMNANT LOW TONIGHT...\n\n\nSUMMARY OF 200 PM PDT...2100 UTC...INFORMATION\n----------------------------------------------\nLOCATION...20.4N 118.5W\nABOUT 580 MI...930 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H\nPRESENT MOVEMENT...W OR 270 DEGREES AT 14 MPH...22 KM/H\nMINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 200 PM PDT (2100 UTC), the center of Tropical Depression Jova was\nlocated near latitude 20.4 North, longitude 118.5 West. The\ndepression is moving toward the west near 14 mph (22 km/h).  A\nwestward to west-southwestward motion with some decrease in forward\nspeed is expected over the next couple of days.\n\nSatellite data indicate that maximum sustained winds have decreased\nto near 30 mph (45 km/h) with higher gusts. Gradual weakening is\nforecast, and Jova is expected to become a remnant low tonight.\n\nThe estimated minimum central pressure is 1006 mb (29.71 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 800 PM PDT.\n\n$$\nForecaster Brown\n\nNNNN",
+  "message": "ZCZC MIATCPEP2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nPost-Tropical Cyclone Jova Advisory Number   9\nNWS National Hurricane Center Miami FL       EP122017\n800 PM PDT Sun Aug 13 2017\n\n...JOVA BECOMES A REMNANT LOW...\n...THIS IS THE LAST ADVISORY...\n\n\nSUMMARY OF 800 PM PDT...0300 UTC...INFORMATION\n----------------------------------------------\nLOCATION...20.5N 119.7W\nABOUT 650 MI...1045 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H\nPRESENT MOVEMENT...W OR 270 DEGREES AT 14 MPH...22 KM/H\nMINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 800 PM PDT (0300 UTC), the center of Post-Tropical Cyclone Jova\nwas located near latitude 20.5 North, longitude 119.7 West. The\npost-tropical cyclone is moving toward the west near 14 mph (22\nkm/h), and a westward to west-southwestward motion with a slight\ndecrease in forward speed is expected over the next couple of days.\n\nMaximum sustained winds are near 30 mph (45 km/h) with higher gusts.\nSlow weakening is forecast over the next few days.\n\nThe estimated minimum central pressure is 1006 mb (29.71 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nThis is the last public advisory issued by the National Hurricane\nCenter on this system.  For additional information on the remnant\nlow please see High Seas Forecasts issued by the National Weather\nService, under AWIPS header NFDHSFEPI, WMO header FZPN02 KWBC, and\non the web at http://www.opc.ncep.noaa.gov/shtml/NFDHSFEPI.shtml.\n\n\n$$\nForecaster Pasch\n\nNNNN",
   "messageBinNumber": "2",
-  "messageDateTimeLocal": "20170813 02:00:00 PM PDT",
-  "messageDateTimeLocalStr": "0200 PM PDT Sun Aug 13",
-  "messageDateTimeUTC": "20170813 09:00:00 PM UTC",
-  "messageDateTimeUTC24": "201708132100",
+  "messageDateTimeLocal": "20170813 08:00:00 PM PDT",
+  "messageDateTimeLocalStr": "0800 PM PDT Sun Aug 13",
+  "messageDateTimeUTC": "20170814 03:00:00 AM UTC",
+  "messageDateTimeUTC24": "201708140300",
   "messageType": "ROUTINE ADVISORY",
   "systemDirectionOfMotion": "W OR 270 DEGREES",
-  "systemGeoRefPt1": "ABOUT 580 MI...930 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
+  "systemGeoRefPt1": "ABOUT 650 MI...1045 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
   "systemIntensityKph": "45",
   "systemIntensityKts": "25",
   "systemIntensityMph": "30",
@@ -69,7 +69,7 @@
   "systemSpeedKph": "22",
   "systemSpeedKts": "12",
   "systemSpeedMph": "14",
-  "systemType": "TROPICAL DEPRESSION",
-  "time": "2017-08-13 21:00:00",
-  "timeEpochSeconds": "1502658000"
+  "systemType": "POST-TROPICAL CYCLONE",
+  "time": "2017-08-14 03:00:00",
+  "timeEpochSeconds": "1502679600"
 }
