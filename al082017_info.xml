@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>6</advisoryNumber>
+<advisoryNumber>7</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170814 05:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170814 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708140900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM EDT Mon Aug 14</messageDateTimeLocalStr>
-<timeEpochSeconds>1502701200</timeEpochSeconds>
+<messageDateTimeLocal>20170814 11:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170814 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708141500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM EDT Mon Aug 14</messageDateTimeLocalStr>
+<timeEpochSeconds>1502722800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>GERT</systemName>
@@ -19,52 +19,53 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>29.7</centerLocLatitude>
+<centerLocLatitude>30.3</centerLocLatitude>
 <centerLocLongitude>-72.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>29.7N</centerLocLatitudeExpanded>
+<centerLocLatitudeExpanded>30.3N</centerLocLatitudeExpanded>
 <centerLocLongitudeExpanded>72.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>45</systemIntensityMph>
-<systemIntensityKph>75</systemIntensityKph>
-<systemIntensityKts>40</systemIntensityKts>
-<systemMslpMb>1009</systemMslpMb>
-<systemMslpInHg>29.80</systemMslpInHg>
+<systemIntensityMph>60</systemIntensityMph>
+<systemIntensityKph>95</systemIntensityKph>
+<systemIntensityKts>50</systemIntensityKts>
+<systemMslpMb>1002</systemMslpMb>
+<systemMslpInHg>29.59</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNW OR 345 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>9</systemSpeedMph>
-<systemSpeedKph>15</systemSpeedKph>
-<systemSpeedKts>8</systemSpeedKts>
+<systemDirectionOfMotion>N OR 360 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>8</systemSpeedMph>
+<systemSpeedKph>13</systemSpeedKph>
+<systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 475 MI...760 KM WSW OF BERMUDA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 460 MI...735 KM WSW OF BERMUDA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Gert Advisory Number   6
+Tropical Storm Gert Advisory Number   7
 NWS National Hurricane Center Miami FL       AL082017
-500 AM EDT Mon Aug 14 2017
+1100 AM EDT Mon Aug 14 2017
 
-...GERT MOVING NORTH-NORTHWESTWARD OVER THE WESTERN ATLANTIC WELL
-AWAY FROM LAND...
+...GERT GETS A LITTLE STRONGER...
+...SWELLS EXPECTED TO BEGIN AFFECTING PORTIONS OF THE U.S. EAST
+COAST LATER TODAY...
 
 
-SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
-----------------------------------------------
-LOCATION...29.7N 72.2W
-ABOUT 475 MI...760 KM WSW OF BERMUDA
-MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
-PRESENT MOVEMENT...NNW OR 345 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
+SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...30.3N 72.2W
+ABOUT 460 MI...735 KM WSW OF BERMUDA
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 8 MPH...13 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
 
 
 WATCHES AND WARNINGS
@@ -74,35 +75,36 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM EDT (0900 UTC), the center of Tropical Storm Gert was
-located near latitude 29.7 North, longitude 72.2 West. Gert is
-moving toward the north-northwest near 9 mph (15 km/h).  A turn
-toward the north is forecast to occur later this morning, followed
-by a turn toward the north-northeast by tonight.  On the forecast
-track, Gert is expected to pass about midway between the United
-States east coast and Bermuda on Tuesday.
+At 1100 AM EDT (1500 UTC), the center of Tropical Storm Gert was
+located near latitude 30.3 North, longitude 72.2 West. Gert is
+moving toward the north near 8 mph (13 km/h).  A gradual turn toward
+the northeast with an increase in forward speed is forecast for the
+next 48 h.
 
-Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
-Some strengthening is forecast during the next 48 hours, and Gert
-could become a hurricane by Wednesday.
+Maximum sustained winds have increased to near 60 mph (95 km/h)
+with higher gusts.  Additional strengthening is forecast and Gert
+is expected to become a hurricane by tomorrow night.
 
 Tropical-storm-force winds extend outward up to 90 miles (150 km)
 from the center.
 
-The estimated minimum central pressure is 1009 mb (29.80 inches).
+The estimated minimum central pressure is 1002 mb (29.59 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-None.
+SURF:  Swells generated by Gert will begin to affect portions
+of the coast of North Carolina and Virginia later today.  These
+swells are likely to cause life-threatening surf and rip current
+conditions.  Please consult products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM EDT.
+Next complete advisory at 500 PM EDT.
 
 $$
-Forecaster Stewart
+Forecaster Zelinsky
 
 NNNN
 </message>
