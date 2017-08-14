@@ -1,23 +1,23 @@
 {
   "cycloneMessage": {
-    "advisoryNumber": "5",
+    "advisoryNumber": "6",
     "atcfID": "AL082017",
-    "centerLocLatitude": "28.8",
-    "centerLocLatitudeExpanded": "28.8N",
-    "centerLocLongitude": "-71.9",
-    "centerLocLongitudeExpanded": "71.9W",
+    "centerLocLatitude": "29.7",
+    "centerLocLatitudeExpanded": "29.7N",
+    "centerLocLongitude": "-72.2",
+    "centerLocLongitudeExpanded": "72.2W",
     "formationChancePct48h": "N/A",
     "formationChancePct5d": "N/A",
     "issuingUnit": "NWS NATIONAL HURRICANE CENTER MIAMI FL",
-    "message": "ZCZC MIATCPAT3 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Gert Advisory Number   5\nNWS National Hurricane Center Miami FL       AL082017\n1100 PM EDT Sun Aug 13 2017\n\n...GERT BECOMING BETTER ORGANIZED OVER THE WESTERN ATLANTIC...\n\n\nSUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...28.8N 71.9W\nABOUT 485 MI...785 KM WSW OF BERMUDA\nMAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H\nPRESENT MOVEMENT...NNW OR 345 DEGREES AT 9 MPH...15 KM/H\nMINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 PM EDT (0300 UTC), the center of Tropical Storm Gert was\nlocated near latitude 28.8 North, longitude 71.9 West.  Gert is\nmoving toward the north-northwest near 9 mph (15 km/h).  A turn\ntoward the north is forecast to occur overnight, followed by a turn\ntoward the north-northeast by Monday night.\n\nMaximum sustained winds are increased to near 45 mph (75 km/h) with\nhigher gusts.  Some strengthening is forecast during the next 48\nhours, and Gert could become a hurricane by Wednesday.\n\nTropical-storm-force winds extend outward up to 90 miles (150 km)\nfrom the center.\n\nThe estimated minimum central pressure is 1009 mb (29.80 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 AM EDT.\n\n$$\nForecaster Blake\n\nNNNN",
+    "message": "ZCZC MIATCPAT3 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Gert Advisory Number   6\nNWS National Hurricane Center Miami FL       AL082017\n500 AM EDT Mon Aug 14 2017\n\n...GERT MOVING NORTH-NORTHWESTWARD OVER THE WESTERN ATLANTIC WELL\nAWAY FROM LAND...\n\n\nSUMMARY OF 500 AM EDT...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...29.7N 72.2W\nABOUT 475 MI...760 KM WSW OF BERMUDA\nMAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H\nPRESENT MOVEMENT...NNW OR 345 DEGREES AT 9 MPH...15 KM/H\nMINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 AM EDT (0900 UTC), the center of Tropical Storm Gert was\nlocated near latitude 29.7 North, longitude 72.2 West. Gert is\nmoving toward the north-northwest near 9 mph (15 km/h).  A turn\ntoward the north is forecast to occur later this morning, followed\nby a turn toward the north-northeast by tonight.  On the forecast\ntrack, Gert is expected to pass about midway between the United\nStates east coast and Bermuda on Tuesday.\n\nMaximum sustained winds are near 45 mph (75 km/h) with higher gusts.\nSome strengthening is forecast during the next 48 hours, and Gert\ncould become a hurricane by Wednesday.\n\nTropical-storm-force winds extend outward up to 90 miles (150 km)\nfrom the center.\n\nThe estimated minimum central pressure is 1009 mb (29.80 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 AM EDT.\n\n$$\nForecaster Stewart\n\nNNNN",
     "messageBinNumber": "3",
-    "messageDateTimeLocal": "20170813 11:00:00 PM EDT",
-    "messageDateTimeLocalStr": "1100 PM EDT Sun Aug 13",
-    "messageDateTimeUTC": "20170814 03:00:00 AM UTC",
-    "messageDateTimeUTC24": "201708140300",
+    "messageDateTimeLocal": "20170814 05:00:00 AM EDT",
+    "messageDateTimeLocalStr": "0500 AM EDT Mon Aug 14",
+    "messageDateTimeUTC": "20170814 09:00:00 AM UTC",
+    "messageDateTimeUTC24": "201708140900",
     "messageType": "ROUTINE ADVISORY",
     "systemDirectionOfMotion": "NNW OR 345 DEGREES",
-    "systemGeoRefPt1": "ABOUT 485 MI...785 KM WSW OF BERMUDA",
+    "systemGeoRefPt1": "ABOUT 475 MI...760 KM WSW OF BERMUDA",
     "systemIntensityKph": "75",
     "systemIntensityKts": "40",
     "systemIntensityMph": "45",
@@ -29,6 +29,6 @@
     "systemSpeedKts": "8",
     "systemSpeedMph": "9",
     "systemType": "TROPICAL STORM",
-    "timeEpochSeconds": "1502679600"
+    "timeEpochSeconds": "1502701200"
   }
 }
