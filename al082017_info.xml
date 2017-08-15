@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>11</advisoryNumber>
+<advisoryNumber>12</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170815 11:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170815 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708151500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM EDT Tue Aug 15</messageDateTimeLocalStr>
-<timeEpochSeconds>1502809200</timeEpochSeconds>
+<messageDateTimeLocal>20170815 05:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170815 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708152100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM EDT Tue Aug 15</messageDateTimeLocalStr>
+<timeEpochSeconds>1502830800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>GERT</systemName>
@@ -19,51 +19,52 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>32.8</centerLocLatitude>
-<centerLocLongitude>-72</centerLocLongitude>
+<centerLocLatitude>33.7</centerLocLatitude>
+<centerLocLongitude>-71.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>32.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>72.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>33.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>71.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>75</systemIntensityMph>
-<systemIntensityKph>120</systemIntensityKph>
-<systemIntensityKts>65</systemIntensityKts>
-<systemMslpMb>986</systemMslpMb>
-<systemMslpInHg>29.12</systemMslpInHg>
+<systemIntensityMph>80</systemIntensityMph>
+<systemIntensityKph>130</systemIntensityKph>
+<systemIntensityKts>70</systemIntensityKts>
+<systemMslpMb>981</systemMslpMb>
+<systemMslpInHg>28.97</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNE OR 15 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>10</systemSpeedMph>
-<systemSpeedKph>17</systemSpeedKph>
-<systemSpeedKts>9</systemSpeedKts>
+<systemDirectionOfMotion>NNE OR 20 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 420 MI...675 KM W OF BERMUDA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 385 MI...615 KM WNW OF BERMUDA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Gert Advisory Number  11
+Hurricane Gert Advisory Number  12
 NWS National Hurricane Center Miami FL       AL082017
-1100 AM EDT Tue Aug 15 2017
+500 PM EDT Tue Aug 15 2017
 
-...GERT BEGINS ITS TURN TOWARD THE NORTHEAST...
+...GERT A LITTLE STRONGER AND MOVING FASTER TOWARD THE
+NORTH-NORTHEAST...
 
 
-SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...32.8N 72.0W
-ABOUT 420 MI...675 KM W OF BERMUDA
-MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
-PRESENT MOVEMENT...NNE OR 15 DEGREES AT 10 MPH...17 KM/H
-MINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...33.7N 71.2W
+ABOUT 385 MI...615 KM WNW OF BERMUDA
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+PRESENT MOVEMENT...NNE OR 20 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...981 MB...28.97 INCHES
 
 
 WATCHES AND WARNINGS
@@ -73,39 +74,41 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM EDT (1500 UTC), the center of Hurricane Gert was located
-near latitude 32.8 North, longitude 72.0 West.  Gert is moving
-toward the north-northeast near 10 mph (17 km/h).  A gradual turn
-toward the northeast with an increase in forward speed is expected
-through the next couple of days.
+At 500 PM EDT (2100 UTC), the center of Hurricane Gert was located
+near latitude 33.7 North, longitude 71.2 West.  Gert is moving
+toward the north-northeast near 12 mph (19 km/h), and it is
+expected to accelerate northeastward over the northwestern Atlantic
+Ocean during the next couple of days.
 
-Maximum sustained winds are near 75 mph (120 km/h) with higher
-gusts.  The hurricane is forecast to become a little stronger during
-the next day or so.
+Maximum sustained winds have increased to near 80 mph (130 km/h)
+with higher gusts.  Some additional strengthening is expected
+during the next day or so.  Weakening should begin by Thursday when
+Gert moves over colder water.
 
 Hurricane-force winds extend outward up to 25 miles (35 km) from the
-center and tropical-storm-force winds extend outward up to 105 miles
-(165 km).
+center, and tropical-storm-force winds extend outward up to 115
+miles (185 km).
 
-The estimated minimum central pressure is 986 mb (29.12 inches).
+The estimated minimum central pressure is 981 mb (28.97 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 SURF:  Swells generated by Gert will spread northward along the
 east coast of the United States from North Carolina northward to
-Long Island during the next couple of days.  Swells are also
-expected to affect Bermuda during the next couple of days.  These
-swells are likely to cause life-threatening surf and rip current
-conditions.  Please consult products from your local weather office.
+Long Island during the next couple of days, with the first impacts
+expected tonight.  Swells are also expected to affect Bermuda
+during the next couple of days.  These swells are likely to cause
+life-threatening surf and rip current conditions.  Please consult
+products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM EDT.
+Next complete advisory at 1100 PM EDT.
 
 $$
-Forecaster Zelinsky
+Forecaster Berg
 
 NNNN
 </message>
