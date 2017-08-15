@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>9</advisoryNumber>
+<advisoryNumber>10</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170814 11:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170815 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708150300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM EDT Mon Aug 14</messageDateTimeLocalStr>
-<timeEpochSeconds>1502766000</timeEpochSeconds>
+<messageDateTimeLocal>20170815 05:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170815 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708150900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM EDT Tue Aug 15</messageDateTimeLocalStr>
+<timeEpochSeconds>1502787600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>GERT</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>31.2</centerLocLatitude>
-<centerLocLongitude>-72.3</centerLocLongitude>
+<centerLocLatitude>31.8</centerLocLatitude>
+<centerLocLongitude>-72.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>31.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>72.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>31.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>72.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>75</systemIntensityMph>
@@ -39,30 +39,30 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>N OR 360 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>8</systemSpeedMph>
-<systemSpeedKph>13</systemSpeedKph>
-<systemSpeedKts>7</systemSpeedKts>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 445 MI...720 KM W OF BERMUDA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 450 MI...725 KM W OF BERMUDA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Gert Advisory Number   9
+Hurricane Gert Advisory Number  10
 NWS National Hurricane Center Miami FL       AL082017
-1100 PM EDT Mon Aug 14 2017
+500 AM EDT Tue Aug 15 2017
 
-...GERT BECOMES THE SECOND HURRICANE OF THE 2017 SEASON...
+...GERT EXPECTED TO TURN TOWARD THE NORTHEAST LATER TODAY...
 
 
-SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...31.2N 72.3W
-ABOUT 445 MI...720 KM W OF BERMUDA
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...31.8N 72.5W
+ABOUT 450 MI...725 KM W OF BERMUDA
 MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
-PRESENT MOVEMENT...N OR 360 DEGREES AT 8 MPH...13 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 12 MPH...19 KM/H
 MINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES
 
 
@@ -73,14 +73,14 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM EDT (0300 UTC), the center of Hurricane Gert was located
-near latitude 31.2 North, longitude 72.3 West. Gert is moving toward
-the north near 8 mph (13 km/h). A turn toward the northeast with an
-increase in forward speed is expected late Tuesday or Tuesday night
+At 500 AM EDT (0900 UTC), the center of Hurricane Gert was located
+near latitude 31.8 North, longitude 72.5 West. Gert is moving toward
+the north near 12 mph (19 km/h).  A turn toward the northeast with
+an increase in forward speed is expected later today.
 
-Maximum sustained winds have increased to near 75 mph (120 km/h)
-with higher gusts.  Some strengthening is forecast during the next
-48 hours.
+Maximum sustained winds remain near 75 mph (120 km/h) with higher
+gusts.  Gert has the opportunity to gather some strength later
+today or Wednesday.
 
 Hurricane-force winds extend outward up to 25 miles (35 km) from the
 center and tropical-storm-force winds extend outward up to 105 miles
@@ -101,10 +101,10 @@ conditions.  Please consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM EDT.
+Next complete advisory at 1100 AM EDT.
 
 $$
-Forecaster Blake
+Forecaster Avila
 
 NNNN
 </message>
