@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>15</advisoryNumber>
+<advisoryNumber>16</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170816 11:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170816 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708161500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM AST Wed Aug 16</messageDateTimeLocalStr>
-<timeEpochSeconds>1502895600</timeEpochSeconds>
+<messageDateTimeLocal>20170816 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170816 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708162100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Wed Aug 16</messageDateTimeLocalStr>
+<timeEpochSeconds>1502917200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>GERT</systemName>
@@ -19,53 +19,54 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>37.4</centerLocLatitude>
-<centerLocLongitude>-65.7</centerLocLongitude>
+<centerLocLatitude>38.7</centerLocLatitude>
+<centerLocLongitude>-62.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>37.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>65.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>38.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>62.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>90</systemIntensityMph>
-<systemIntensityKph>150</systemIntensityKph>
-<systemIntensityKts>80</systemIntensityKts>
-<systemMslpMb>975</systemMslpMb>
-<systemMslpInHg>28.80</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<systemIntensityMph>100</systemIntensityMph>
+<systemIntensityKph>155</systemIntensityKph>
+<systemIntensityKts>85</systemIntensityKts>
+<systemMslpMb>970</systemMslpMb>
+<systemMslpInHg>28.65</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>NE OR 55 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>25</systemSpeedMph>
-<systemSpeedKph>41</systemSpeedKph>
-<systemSpeedKts>22</systemSpeedKts>
+<systemSpeedMph>31</systemSpeedMph>
+<systemSpeedKph>50</systemSpeedKph>
+<systemSpeedKts>27</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 355 MI...575 KM N OF BERMUDA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 510 MI...820 KM SSW OF HALIFAX NOVA SCOTIA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 410 MI...665 KM S OF HALIFAX NOVA SCOTIA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 725 MI...1170 KM SW OF CAPE RACE NEWFOUNDLAND</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Gert Advisory Number  15
+Hurricane Gert Advisory Number  16
 NWS National Hurricane Center Miami FL       AL082017
-1100 AM AST Wed Aug 16 2017
+500 PM AST Wed Aug 16 2017
 
-...GERT ACCELERATING NORTHEASTWARD OVER THE NORTHWESTERN ATLANTIC...
+...GERT BECOMES A CATEGORY 2 HURRICANE OVER THE NORTHWESTERN
+ATLANTIC...
 
 
-SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...37.4N 65.7W
-ABOUT 355 MI...575 KM N OF BERMUDA
-ABOUT 510 MI...820 KM SSW OF HALIFAX NOVA SCOTIA
-MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
-PRESENT MOVEMENT...NE OR 55 DEGREES AT 25 MPH...41 KM/H
-MINIMUM CENTRAL PRESSURE...975 MB...28.80 INCHES
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...38.7N 62.4W
+ABOUT 410 MI...665 KM S OF HALIFAX NOVA SCOTIA
+ABOUT 725 MI...1170 KM SW OF CAPE RACE NEWFOUNDLAND
+MAXIMUM SUSTAINED WINDS...100 MPH...155 KM/H
+PRESENT MOVEMENT...NE OR 55 DEGREES AT 31 MPH...50 KM/H
+MINIMUM CENTRAL PRESSURE...970 MB...28.65 INCHES
 
 
 WATCHES AND WARNINGS
@@ -75,22 +76,23 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM AST (1500 UTC), the center of Hurricane Gert was located
-near latitude 37.4 North, longitude 65.7 West.  Gert is accelerating
-toward the northeast near 25 mph (41 km/h).  An even faster motion
-toward the northeast or east-northeast is expected through early
-Friday.
+At 500 PM AST (2100 UTC), the center of Hurricane Gert was located
+near latitude 38.7 North, longitude 62.4 West.  Gert is moving
+quickly toward the northeast near 31 mph (50 km/h).  An even faster
+motion toward the east-northeast is expected through Thursday,
+followed by some deceleration and a turn toward the northeast
+Thursday night and Friday.
 
-Maximum sustained winds are near 90 mph (150 km/h) with higher
-gusts.  Some strengthening is possible later today or tonight, but
-Gert is likely to begin weakening on Thursday.  Gert should become
-an extratropical low by Thursday night.
+Maximum sustained winds have increased to near 100 mph (155 km/h)
+with higher gusts.  Little change in strength is expected through
+tonight, but weakening is forecast to begin on Thursday.  Gert
+should become an extratropical low by early Friday.
 
 Hurricane-force winds extend outward up to 35 miles (55 km) from the
-center, and tropical-storm-force winds extend outward up to 125
-miles (205 km).
+center, and tropical-storm-force winds extend outward up to 140
+miles (220 km).
 
-The estimated minimum central pressure is 975 mb (28.80 inches).
+The estimated minimum central pressure is 970 mb (28.65 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -106,7 +108,7 @@ weather forecast office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM AST.
+Next complete advisory at 1100 PM AST.
 
 $$
 Forecaster Berg
