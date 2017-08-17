@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>17</advisoryNumber>
+<advisoryNumber>18</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170816 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170817 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708170300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Wed Aug 16</messageDateTimeLocalStr>
-<timeEpochSeconds>1502938800</timeEpochSeconds>
+<messageDateTimeLocal>20170817 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170817 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708170900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Thu Aug 17</messageDateTimeLocalStr>
+<timeEpochSeconds>1502960400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>GERT</systemName>
@@ -19,54 +19,53 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>40.1</centerLocLatitude>
-<centerLocLongitude>-58.4</centerLocLongitude>
+<centerLocLatitude>41.7</centerLocLatitude>
+<centerLocLongitude>-54</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>40.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>58.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>41.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>54.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>105</systemIntensityMph>
-<systemIntensityKph>165</systemIntensityKph>
-<systemIntensityKts>90</systemIntensityKts>
-<systemMslpMb>967</systemMslpMb>
-<systemMslpInHg>28.56</systemMslpInHg>
+<systemIntensityMph>100</systemIntensityMph>
+<systemIntensityKph>155</systemIntensityKph>
+<systemIntensityKts>85</systemIntensityKts>
+<systemMslpMb>968</systemMslpMb>
+<systemMslpInHg>28.59</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>ENE OR 65 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>37</systemSpeedMph>
-<systemSpeedKph>59</systemSpeedKph>
-<systemSpeedKts>32</systemSpeedKts>
+<systemSpeedMph>39</systemSpeedMph>
+<systemSpeedKph>63</systemSpeedKph>
+<systemSpeedKts>34</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 410 MI...655 KM SE OF HALIFAX NOVA SCOTIA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 525 MI...850 KM SSW OF CAPE RACE NEWFOUNDLAND</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 350 MI...560 KM S OF CAPE RACE NEWFOUNDLAND</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 525 MI...840 KM ESE OF HALIFAX NOVA SCOTIA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Gert Advisory Number  17
+Hurricane Gert Advisory Number  18
 NWS National Hurricane Center Miami FL       AL082017
-1100 PM AST Wed Aug 16 2017
+500 AM AST Thu Aug 17 2017
 
-...GERT A LITTLE STRONGER BUT LIKELY TO BEGIN WEAKENING SOON OVER
-COLDER WATERS...
+...GERT BEGINS TO WEAKEN AS IT RACES TOWARD COLDER WATERS...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...40.1N 58.4W
-ABOUT 410 MI...655 KM SE OF HALIFAX NOVA SCOTIA
-ABOUT 525 MI...850 KM SSW OF CAPE RACE NEWFOUNDLAND
-MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
-PRESENT MOVEMENT...ENE OR 65 DEGREES AT 37 MPH...59 KM/H
-MINIMUM CENTRAL PRESSURE...967 MB...28.56 INCHES
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...41.7N 54.0W
+ABOUT 350 MI...560 KM S OF CAPE RACE NEWFOUNDLAND
+ABOUT 525 MI...840 KM ESE OF HALIFAX NOVA SCOTIA
+MAXIMUM SUSTAINED WINDS...100 MPH...155 KM/H
+PRESENT MOVEMENT...ENE OR 65 DEGREES AT 39 MPH...63 KM/H
+MINIMUM CENTRAL PRESSURE...968 MB...28.59 INCHES
 
 
 WATCHES AND WARNINGS
@@ -76,40 +75,38 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the center of Hurricane Gert was located
-near latitude 40.1 North, longitude 58.4 West.  Gert is moving
-rapidly toward the east-northeast near 37 mph (59 km/h).  An even
-faster motion toward the east-northeast is expected through
-Thursday, followed by some deceleration and a turn toward the
-northeast Thursday night and Friday.
+At 500 AM AST (0900 UTC), the center of Hurricane Gert was located
+near latitude 41.7 North, longitude 54.0 West. Gert is moving
+rapidly toward the east-northeast near 39 mph (63 km/h) and this
+motion is expected to continue today.  A slower northeastward to
+east-northeastward motion is expected on Friday.
 
-Maximum sustained winds are near 105 mph (165 km/h) with higher
-gusts.  A weakening trend is forecast to begin Thursday morning, and
-Gert is likely to lose its tropical characteristics by Friday.
+Maximum sustained winds have decreased to near 100 mph (155 km/h)
+with higher gusts.  Continued weakening is forecast, and Gert is
+likely to lose its tropical characteristics by tonight.
 
 Hurricane-force winds extend outward up to 35 miles (55 km) from the
-center and tropical-storm-force winds extend outward up to 140 miles
-(220 km).
+center and tropical-storm-force winds extend outward up to 175 miles
+(280 km).
 
-The estimated minimum central pressure is 967 mb (28.56 inches).
+The estimated minimum central pressure is 968 mb (28.59 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-SURF:  Swells generated by Gert will affect the east coast of
-the United States from Virginia northward to New England and
-Atlantic Canada through Thursday.  Swells are also expected to
-continue to affect Bermuda through tonight.  These swells are likely
-to cause life-threatening surf and rip current conditions.  Please
-consult products from your local weather forecast office.
+SURF:  Swells generated by Gert will continue to affect the coast
+of the northeastern United States and Atlantic Canada through
+tonight.  These swells are likely to cause life-threatening surf and
+rip current conditions.  Please consult products from your local
+weather forecast office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
-Forecaster Pasch
+Forecaster Cangialosi
 
 NNNN
 </message>
