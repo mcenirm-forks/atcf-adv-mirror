@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>18</advisoryNumber>
+<advisoryNumber>19</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170817 05:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170817 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708170900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM AST Thu Aug 17</messageDateTimeLocalStr>
-<timeEpochSeconds>1502960400</timeEpochSeconds>
+<messageDateTimeLocal>20170817 11:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170817 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708171500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM AST Thu Aug 17</messageDateTimeLocalStr>
+<timeEpochSeconds>1502982000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>GERT</systemName>
@@ -19,53 +19,54 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>41.7</centerLocLatitude>
-<centerLocLongitude>-54</centerLocLongitude>
+<centerLocLatitude>43.2</centerLocLatitude>
+<centerLocLongitude>-50</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>41.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>54.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>43.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>50.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>100</systemIntensityMph>
-<systemIntensityKph>155</systemIntensityKph>
-<systemIntensityKts>85</systemIntensityKts>
-<systemMslpMb>968</systemMslpMb>
-<systemMslpInHg>28.59</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
+<systemIntensityMph>80</systemIntensityMph>
+<systemIntensityKph>130</systemIntensityKph>
+<systemIntensityKts>70</systemIntensityKts>
+<systemMslpMb>975</systemMslpMb>
+<systemMslpInHg>28.80</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>ENE OR 65 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>39</systemSpeedMph>
-<systemSpeedKph>63</systemSpeedKph>
-<systemSpeedKts>34</systemSpeedKts>
+<systemDirectionOfMotion>ENE OR 60 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>40</systemSpeedMph>
+<systemSpeedKph>65</systemSpeedKph>
+<systemSpeedKts>35</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 350 MI...560 KM S OF CAPE RACE NEWFOUNDLAND</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 525 MI...840 KM ESE OF HALIFAX NOVA SCOTIA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 685 MI...1100 KM E OF HALIFAX NOVA SCOTIA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 285 MI...460 KM SSE OF CAPE RACE NEWFOUNDLAND</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Gert Advisory Number  18
+Hurricane Gert Advisory Number  19
 NWS National Hurricane Center Miami FL       AL082017
-500 AM AST Thu Aug 17 2017
+1100 AM AST Thu Aug 17 2017
 
-...GERT BEGINS TO WEAKEN AS IT RACES TOWARD COLDER WATERS...
+...GERT RACING TOWARD THE NORTHEAST...
+...EXPECTED TO BECOME POST-TROPICAL LATER TODAY...
 
 
-SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
-----------------------------------------------
-LOCATION...41.7N 54.0W
-ABOUT 350 MI...560 KM S OF CAPE RACE NEWFOUNDLAND
-ABOUT 525 MI...840 KM ESE OF HALIFAX NOVA SCOTIA
-MAXIMUM SUSTAINED WINDS...100 MPH...155 KM/H
-PRESENT MOVEMENT...ENE OR 65 DEGREES AT 39 MPH...63 KM/H
-MINIMUM CENTRAL PRESSURE...968 MB...28.59 INCHES
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...43.2N 50.0W
+ABOUT 685 MI...1100 KM E OF HALIFAX NOVA SCOTIA
+ABOUT 285 MI...460 KM SSE OF CAPE RACE NEWFOUNDLAND
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+PRESENT MOVEMENT...ENE OR 60 DEGREES AT 40 MPH...65 KM/H
+MINIMUM CENTRAL PRESSURE...975 MB...28.80 INCHES
 
 
 WATCHES AND WARNINGS
@@ -75,21 +76,21 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM AST (0900 UTC), the center of Hurricane Gert was located
-near latitude 41.7 North, longitude 54.0 West. Gert is moving
-rapidly toward the east-northeast near 39 mph (63 km/h) and this
-motion is expected to continue today.  A slower northeastward to
-east-northeastward motion is expected on Friday.
+At 1100 AM AST (1500 UTC), the center of Hurricane Gert was located
+near latitude 43.2 North, longitude 50.0 West. Gert is moving toward
+the east-northeast near 40 mph (65 km/h), and this general motion is
+expected to continue for the next day or so.
 
-Maximum sustained winds have decreased to near 100 mph (155 km/h)
-with higher gusts.  Continued weakening is forecast, and Gert is
-likely to lose its tropical characteristics by tonight.
+Maximum sustained winds have decreased to near 80 mph (130 km/h)
+with higher gusts.  Additional weakening is forecast during the next
+48 hours. Gert is forecast to become a post-tropical cyclone later
+today.
 
 Hurricane-force winds extend outward up to 35 miles (55 km) from the
 center and tropical-storm-force winds extend outward up to 175 miles
 (280 km).
 
-The estimated minimum central pressure is 968 mb (28.59 inches).
+The estimated minimum central pressure is 975 mb (28.80 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -103,10 +104,10 @@ weather forecast office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM AST.
+Next complete advisory at 500 PM AST.
 
 $$
-Forecaster Cangialosi
+Forecaster Zelinsky
 
 NNNN
 </message>
