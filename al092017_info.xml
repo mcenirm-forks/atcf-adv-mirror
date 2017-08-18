@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>3A</advisoryNumber>
+<advisoryNumber>4</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170818 02:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170818 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708180600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM AST Fri Aug 18</messageDateTimeLocalStr>
-<timeEpochSeconds>1503036000</timeEpochSeconds>
+<messageDateTimeLocal>20170818 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170818 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708180900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Fri Aug 18</messageDateTimeLocalStr>
+<timeEpochSeconds>1503046800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HARVEY</systemName>
@@ -19,54 +19,53 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>13.0</centerLocLatitude>
-<centerLocLongitude>-58.1</centerLocLongitude>
+<centerLocLatitude>13.1</centerLocLatitude>
+<centerLocLongitude>-59.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>13.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>58.1W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>13.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>59.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
 <systemIntensityKph>65</systemIntensityKph>
 <systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1005</systemMslpMb>
-<systemMslpInHg>29.68</systemMslpInHg>
+<systemMslpMb>1004</systemMslpMb>
+<systemMslpInHg>29.65</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>17</systemSpeedMph>
-<systemSpeedKph>28</systemSpeedKph>
-<systemSpeedKts>15</systemSpeedKts>
+<systemSpeedMph>18</systemSpeedMph>
+<systemSpeedKph>30</systemSpeedKph>
+<systemSpeedKts>16</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 95 MI...155 KM E OF BARBADOS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 200 MI...325 KM ESE OF ST. LUCIA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 30 MI...45 KM ESE OF BARBADOS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 135 MI...220 KM ESE OF ST. LUCIA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Harvey Intermediate Advisory Number 3A
+Tropical Storm Harvey Advisory Number   4
 NWS National Hurricane Center Miami FL       AL092017
-200 AM AST Fri Aug 18 2017
+500 AM AST Fri Aug 18 2017
 
-...WEATHER DETERIORATING IN THE WINDWARD ISLANDS AS HARVEY
-APPROACHES...
+...HARVEY DRENCHING THE WINDWARD ISLANDS...
 
 
-SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...13.0N 58.1W
-ABOUT 95 MI...155 KM E OF BARBADOS
-ABOUT 200 MI...325 KM ESE OF ST. LUCIA
+LOCATION...13.1N 59.1W
+ABOUT 30 MI...45 KM ESE OF BARBADOS
+ABOUT 135 MI...220 KM ESE OF ST. LUCIA
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...W OR 270 DEGREES AT 17 MPH...28 KM/H
-MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+PRESENT MOVEMENT...W OR 270 DEGREES AT 18 MPH...30 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
 
 
 WATCHES AND WARNINGS
@@ -86,34 +85,28 @@ A Tropical Storm Warning is in effect for...
 A Tropical Storm Watch is in effect for...
 * Dominica
 
-A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area, in this case within
-6 to 18 hours.
-
-A Tropical Storm Watch means that tropical storm conditions are
-possible within the watch area, in this case within 6 to 18 hours.
-
-For storm information specific to your area, please monitor products
-issued by your national meteorological service.
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM AST (0600 UTC), the center of Tropical Storm Harvey was
-located near latitude 13.0 North, longitude 58.1 West.  Harvey is
-moving toward the west near 17 mph (28 km/h), and a continued
+At 500 AM AST (0900 UTC), the center of Tropical Storm Harvey was
+located near latitude 13.1 North, longitude 59.1 West. Harvey is
+moving toward the west near 18 mph (30 km/h), and a continued
 westward motion with a slight increase in forward speed is expected
 over the next couple of days.  On the forecast track, Harvey should
 move through the Windward Islands and into the eastern Caribbean Sea
 later today.
 
 Maximum sustained winds remain near 40 mph (65 km/h) with higher
-gusts. Slow strengthening is possible during the next 48 hours.
+gusts. Some slight strengthening is possible during the next 48
+hours.
 
 Tropical-storm-force winds extend outward up to 60 miles (95 km)
 mainly to the north of the center.
 
-The estimated minimum central pressure is 1005 mb (29.68 inches).
+The estimated minimum central pressure is 1004 mb (29.65 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -123,20 +116,20 @@ Lesser Antilles within the warning area later this morning, making
 outside preparations difficult or dangerous.  Tropical storm
 conditions are possible in the watch area later today.
 
-RAINFALL:  Harvey is expected to produce rainfall totals of
-2 to 4 inches across portions of the Windward Islands from
-Martinique southward to Grenada.   These rains could cause
-life-threatening flash floods and mudslides.
+RAINFALL:  Harvey is expected to produce rainfall totals of 2 to 4
+inches across portions of the Windward Islands from Martinique
+southward to Grenada.   These rains could cause life-threatening
+flash floods and mudslides.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next intermediate advisory at 800 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
 Forecaster Avila
 
 NNNN
-
 </message>
 </cycloneMessage>
