@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>2</advisoryNumber>
+<advisoryNumber>2A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170817 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170817 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708172100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Thu Aug 17</messageDateTimeLocalStr>
-<timeEpochSeconds>1503003600</timeEpochSeconds>
+<messageDateTimeLocal>20170817 08:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170818 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708180000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM AST Thu Aug 17</messageDateTimeLocalStr>
+<timeEpochSeconds>1503014400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HARVEY</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>13.0</centerLocLatitude>
-<centerLocLongitude>-55.8</centerLocLongitude>
+<centerLocLatitude>12.9</centerLocLatitude>
+<centerLocLongitude>-56.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>13.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>55.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>12.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>56.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
 <systemIntensityKph>65</systemIntensityKph>
 <systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1004</systemMslpMb>
-<systemMslpInHg>29.65</systemMslpInHg>
+<systemMslpMb>1005</systemMslpMb>
+<systemMslpInHg>29.68</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,30 +43,29 @@
 <systemSpeedKph>30</systemSpeedKph>
 <systemSpeedKts>16</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 250 MI...400 KM E OF BARBADOS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 355 MI...570 KM E OF ST. LUCIA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 205 MI...325 KM E OF BARBADOS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 310 MI...495 KM E OF ST. LUCIA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Harvey Advisory Number   2
+Tropical Storm Harvey Intermediate Advisory Number 2A
 NWS National Hurricane Center Miami FL       AL092017
-500 PM AST Thu Aug 17 2017
+800 PM AST Thu Aug 17 2017
 
-...HURRICANE HUNTER FINDS THAT THE DISTURBANCE HAS BECOME
-TROPICAL STORM HARVEY...
+...HARVEY HEADED FOR THE WINDWARD ISLANDS...
 
 
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...13.0N 55.8W
-ABOUT 250 MI...400 KM E OF BARBADOS
-ABOUT 355 MI...570 KM E OF ST. LUCIA
+LOCATION...12.9N 56.5W
+ABOUT 205 MI...325 KM E OF BARBADOS
+ABOUT 310 MI...495 KM E OF ST. LUCIA
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
 PRESENT MOVEMENT...W OR 270 DEGREES AT 18 MPH...30 KM/H
-MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
 WATCHES AND WARNINGS
@@ -88,10 +87,10 @@ A Tropical Storm Watch is in effect for...
 
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area, in this case within
-24-36 hours.
+24 hours.
 
 A Tropical Storm Watch means that tropical storm conditions are
-possible within the watch area, in this case within 24-36 hours.
+possible within the watch area, in this case within 24 hours.
 
 For storm information specific to your area, please monitor
 products issued by your national meteorological service.
@@ -99,22 +98,23 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM AST (2100 UTC), the center of Tropical Storm Harvey was
-located near latitude 13.0 North, longitude 55.8 West. Harvey is
+At 800 PM AST (0000 UTC), the center of Tropical Storm Harvey was
+located near latitude 12.9 North, longitude 56.5 West.  Harvey is
 moving toward the west near 18 mph (30 km/h), and this motion is
 expected to continue for the next couple of days.  On the forecast
 track, Harvey should move through the Windward Islands and into the
 eastern Caribbean Sea on Friday.
 
-Reports from an Air Force Reserve Hurricane Hunter Aircraft indicate
-that maximum sustained winds are near 40 mph (65 km/h) with higher
-gusts.  Slow strengthening is possible during the next 48 hours.
+Reports from an Air Force Reserve Hurricane Hunter Aircraft
+indicate that maximum sustained winds are near 40 mph (65 km/h) with
+higher gusts.  Slow strengthening is possible during the next 48
+hours.
 
-Tropical-storm-force winds extend outward up to 35 miles (55 km)
-to the north of the center.
+Tropical-storm-force winds extend outward up to 35 miles (55 km) to
+the north of the center.
 
-The minimum central pressure estimated from the Hurricane Hunter
-data is 1004 mb (29.65 inches).
+The latest minimum central pressure reported by the Hurricane Hunter
+aircraft is 1005 mb (29.68 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -132,11 +132,10 @@ life-threatening flash floods and mudslides.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 PM AST.
 Next complete advisory at 1100 PM AST.
 
 $$
-Forecaster Beven
+Forecaster Pasch
 
 NNNN
 </message>
