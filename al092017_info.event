@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "4A",
+  "advisoryNumber": "5",
   "atcfID": "AL092017",
-  "centerLocLatitude": "13.0",
-  "centerLocLatitudeExpanded": "13.0N",
-  "centerLocLongitude": "-60.3",
-  "centerLocLongitudeExpanded": "60.3W",
+  "centerLocLatitude": "13.1",
+  "centerLocLatitudeExpanded": "13.1N",
+  "centerLocLongitude": "-61.3",
+  "centerLocLongitudeExpanded": "61.3W",
   "event_title": "TROPICAL STORM HARVEY",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -46,21 +46,21 @@
   ],
   "location": {
     "coordinates": [
-      -60.3,
-      13.0
+      -61.3,
+      13.1
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Harvey Intermediate Advisory Number 4A\nNWS National Hurricane Center Miami FL       AL092017\n800 AM AST Fri Aug 18 2017\n\n...CENTER OF HARVEY BETWEEN BARBADOS AND THE WINDWARD ISLANDS...\n\n\nSUMMARY OF 800 AM AST...1200 UTC...INFORMATION\n----------------------------------------------\nLOCATION...13.0N 60.3W\nABOUT 55 MI...90 KM W OF BARBADOS\nABOUT 60 MI...95 KM ESE OF ST. LUCIA\nMAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H\nPRESENT MOVEMENT...W OR 270 DEGREES AT 18 MPH...30 KM/H\nMINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nThe Government of Barbados has discontinued the Tropical Storm\nWarning for Barbados.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Tropical Storm Warning is in effect for...\n* Martinique\n* St. Lucia\n* St. Vincent and the Grenadines\n\nA Tropical Storm Watch is in effect for...\n* Dominica\n\nFor storm information specific to your area, please monitor\nproducts issued by your national meteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 800 AM AST (1200 UTC), the center of Tropical Storm Harvey was\nlocated near latitude 13.0 North, longitude 60.3 West. Harvey is\nmoving toward the west near 18 mph (30 km/h), and a continued\nwestward motion with a slight increase in forward speed is expected\nover the next couple of days.  On the forecast track, Harvey should\nmove through the Windward Islands and into the eastern Caribbean Sea\nthis morning.\n\nMaximum sustained winds remain near 40 mph (65 km/h) with higher\ngusts. Some slight strengthening is possible during the next 48\nhours.\n\nTropical-storm-force winds extend outward up to 60 miles (95 km)\nmainly to the north of the center.\n\nThe minimum central pressure estimated from Air Force Reserve\nHurricane Hunter aircraft data is 1005 mb (29.68 inches).  The\nGrantley Adams International Airport on Barbados recently reported a\npressure of 1006 mb (29.71 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nWIND:  Tropical storm conditions are spreading through the warning\narea at this time, making outside preparations difficult or\ndangerous.  Tropical storm conditions are possible in the watch area\ntoday.\n\nRAINFALL:  Harvey is expected to produce rainfall totals of 2 to 4\ninches across portions of the Windward Islands from Martinique\nsouthward to Grenada.   These rains could cause life-threatening\nflash floods and mudslides.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 AM AST.\n\n$$\nForecaster Beven\n\nNNNN",
+  "message": "ZCZC MIATCPAT4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Harvey Advisory Number   5\nNWS National Hurricane Center Miami FL       AL092017\n1100 AM AST Fri Aug 18 2017\n\n...HARVEY MOVING THROUGH THE WINDWARD ISLANDS...\n\n\nSUMMARY OF 1100 AM AST...1500 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...13.1N 61.3W\nABOUT 15 MI...25 KM SSW OF ST. VINCENT\nABOUT 50 MI...85 KM SSW OF ST. LUCIA\nMAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H\nPRESENT MOVEMENT...W OR 270 DEGREES AT 21 MPH...33 KM/H\nMINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Tropical Storm Warning is in effect for...\n* Martinique\n* St. Lucia\n* St. Vincent and the Grenadines\n\nA Tropical Storm Watch is in effect for...\n* Dominica\n\nInterests elsewhere in the eastern and central Caribbean Sea should\nmonitor the progress of Harvey.\n\nFor storm information specific to your area, please monitor\nproducts issued by your national meteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 AM AST (1500 UTC), the center of Tropical Storm Harvey was\nlocated near latitude 13.1 North, longitude 61.3 West. Harvey is\nmoving toward the west near 21 mph (33 km/h) and this general motion\nis expected to continue for the next couple of days.  On the\nforecast track, the center of Harvey will move through the Windward\nIslands and into the eastern Caribbean Sea today and move into the\ncentral Caribbean Sea on Saturday.\n\nMaximum sustained winds are near 40 mph (65 km/h) with higher gusts.\nSlow strengthening is forecast during the next 48 hours.\n\nTropical-storm-force winds extend outward up to 70 miles (110 km)\nfrom the center.  Fort-de-France, Martinique, recently reported a\nwind gust of 44 mph (70 km/h), while Hewanorra International\nAirport on St. Lucia recently reported a wind gust of 43 mph\n(69 km/h).\n\nThe minimum central pressure estimated from Air Force Reserve\nHurricane Hunter aircraft data and surface observations is 1005 mb\n(29.68 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nWIND:  Tropical storm conditions are occurring in the warning area\nat this time. Tropical storm conditions are possible in the watch\narea today.\n\nRAINFALL:  Harvey is expected to produce additional rainfall totals\nof 1 to 2 inches with locally higher amounts across parts of the\nLeeward and Windward Islands from Guadeloupe southward to Grenada.\nThese additional rains could cause life-threatening flash floods and\nmudslides.\n\n\nNEXT ADVISORY\n-------------\nNext intermediate advisory at 200 PM AST.\nNext complete advisory at 500 PM AST.\n\n$$\nForecaster Beven\n\nNNNN",
   "messageBinNumber": "4",
-  "messageDateTimeLocal": "20170818 08:00:00 AM AST",
-  "messageDateTimeLocalStr": "0800 AM AST Fri Aug 18",
-  "messageDateTimeUTC": "20170818 12:00:00 PM UTC",
-  "messageDateTimeUTC24": "201708181200",
-  "messageType": "INTERMEDIATE ADVISORY",
+  "messageDateTimeLocal": "20170818 11:00:00 AM AST",
+  "messageDateTimeLocalStr": "1100 AM AST Fri Aug 18",
+  "messageDateTimeUTC": "20170818 03:00:00 PM UTC",
+  "messageDateTimeUTC24": "201708181500",
+  "messageType": "ROUTINE ADVISORY",
   "systemDirectionOfMotion": "W OR 270 DEGREES",
-  "systemGeoRefPt1": "ABOUT 55 MI...90 KM W OF BARBADOS",
-  "systemGeoRefPt2": "ABOUT 60 MI...95 KM ESE OF ST. LUCIA",
+  "systemGeoRefPt1": "ABOUT 15 MI...25 KM SSW OF ST. VINCENT",
+  "systemGeoRefPt2": "ABOUT 50 MI...85 KM SSW OF ST. LUCIA",
   "systemIntensityKph": "65",
   "systemIntensityKts": "35",
   "systemIntensityMph": "40",
@@ -68,10 +68,10 @@
   "systemMslpMb": "1005",
   "systemName": "HARVEY",
   "systemSaffirSimpsonCategory": "N/A",
-  "systemSpeedKph": "30",
-  "systemSpeedKts": "16",
-  "systemSpeedMph": "18",
+  "systemSpeedKph": "33",
+  "systemSpeedKts": "18",
+  "systemSpeedMph": "21",
   "systemType": "TROPICAL STORM",
-  "time": "2017-08-18 12:00:00",
-  "timeEpochSeconds": "1503057600"
+  "time": "2017-08-18 15:00:00",
+  "timeEpochSeconds": "1503068400"
 }
