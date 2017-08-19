@@ -5,7 +5,7 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>4</advisoryNumber>
+<advisoryNumber>4...CORRRECTED</advisoryNumber>
 <!-- System Date/Time Information -->
 <messageDateTimeLocal>20170819 02:00:00 AM PDT</messageDateTimeLocal>
 <messageDateTimeUTC>20170819 09:00:00 AM UTC</messageDateTimeUTC>
@@ -47,12 +47,14 @@
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP3 ALL
-TTAA00 KNHC DDHHMM
+TTAA00 KNHC DDHHMM CCA
 
 BULLETIN
-Tropical Storm Kenneth Advisory Number   4
+Tropical Storm Kenneth Advisory Number   4...CORRRECTED
 NWS National Hurricane Center Miami FL       EP132017
 200 AM PDT Sat Aug 19 2017
+
+CORRECTED STORM NAME IN DISCUSSION SECTION
 
 ...TROPICAL STORM KENNETH FORECAST TO STRENGTHEN OVER THE PACIFIC
 WATERS...
@@ -81,7 +83,7 @@ motion should continue during the weekend.
 
 Maximum sustained winds remain near 40 mph (65 km/h) with higher
 gusts. Some strengthening is forecast during the next 48 hours, and
-Harvey could become a hurricane on Sunday.
+Kenneth could become a hurricane on Sunday.
 
 Tropical-storm-force winds extend outward up to 45 miles (75 km)
 from the center.
