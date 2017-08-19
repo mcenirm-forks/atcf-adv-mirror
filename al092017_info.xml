@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>6</advisoryNumber>
+<advisoryNumber>7</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170818 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170818 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708182100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Fri Aug 18</messageDateTimeLocalStr>
-<timeEpochSeconds>1503090000</timeEpochSeconds>
+<messageDateTimeLocal>20170818 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170819 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708190300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Fri Aug 18</messageDateTimeLocalStr>
+<timeEpochSeconds>1503111600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HARVEY</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>13.4</centerLocLatitude>
-<centerLocLongitude>-62.9</centerLocLongitude>
+<centerLocLatitude>13.7</centerLocLatitude>
+<centerLocLongitude>-64.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>13.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>62.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>13.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>64.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
@@ -39,32 +39,32 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>W OR 275 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>21</systemSpeedMph>
-<systemSpeedKph>33</systemSpeedKph>
-<systemSpeedKts>18</systemSpeedKts>
+<systemSpeedMph>18</systemSpeedMph>
+<systemSpeedKph>30</systemSpeedKph>
+<systemSpeedKts>16</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 130 MI...210 KM WSW OF ST. LUCIA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 405 MI...650 KM SSE OF SAN JUAN PUERTO RICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 280 MI...450 KM S OF ST. CROIX</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 345 MI...555 KM ENE OF CURACAO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Harvey Advisory Number   6
+Tropical Storm Harvey Advisory Number   7
 NWS National Hurricane Center Miami FL       AL092017
-500 PM AST Fri Aug 18 2017
+1100 PM AST Fri Aug 18 2017
 
-...HARVEY MOVING THROUGH THE EASTERN CARIBBEAN SEA...
+...HARVEY CONTINUES WESTWARD OVER THE EASTERN CARIBBEAN SEA...
 
 
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
-----------------------------------------------
-LOCATION...13.4N 62.9W
-ABOUT 130 MI...210 KM WSW OF ST. LUCIA
-ABOUT 405 MI...650 KM SSE OF SAN JUAN PUERTO RICO
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...13.7N 64.1W
+ABOUT 280 MI...450 KM S OF ST. CROIX
+ABOUT 345 MI...555 KM ENE OF CURACAO
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...W OR 275 DEGREES AT 21 MPH...33 KM/H
+PRESENT MOVEMENT...W OR 275 DEGREES AT 18 MPH...30 KM/H
 MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
@@ -73,42 +73,42 @@ WATCHES AND WARNINGS
 There are no coastal watches or warnings in effect.
 
 Interests in the Caribbean Sea and the adjacent land areas of
-eastern Central American and northern South America should monitor
+eastern Central America and northern South America should monitor
 the progress of Harvey.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM AST (2100 UTC), the center of Tropical Storm Harvey was
-located near latitude 13.4 North, longitude 62.9 West. Harvey is
-moving toward the west near 21 mph (33 km/h) and this general motion
-is expected to continue for the next couple of days.  On the
-forecast track, the center of Harvey will move through the eastern
-Caribbean Sea tonight and through the central Caribbean Sea
-Saturday and Saturday night.
+At 1100 PM AST (0300 UTC), the center of Tropical Storm Harvey was
+located near latitude 13.7 North, longitude 64.1 West.  Harvey is
+moving toward the west near 18 mph (30 km/h).  An even faster
+motion toward the west is expected during the next couple of days.
+On the forecast track, the center of Harvey will move across the
+eastern and central Caribbean Sea over the weekend.
 
 Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
 Slow strengthening is forecast during the next 48 hours.
 
 Tropical-storm-force winds extend outward up to 70 miles (110 km)
-mainly to the north of the center.
+to the north of the center.
 
 The estimated minimum central pressure is 1005 mb (29.68 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-RAINFALL: Locally heavy rains could occur tonight over portions of
+RAINFALL:  Locally heavy rains could occur tonight over portions of
 the Windward Islands and the offshore islands of northern Venezuela.
 Locally heavy rains could also occur over Aruba, Bonaire, and
 Curacao on Saturday.
 
+
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM AST.
+Next complete advisory at 500 AM AST.
 
 $$
-Forecaster Beven
+Forecaster Berg
 
 NNNN
 </message>
