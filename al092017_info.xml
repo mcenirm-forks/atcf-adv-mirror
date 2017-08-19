@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>8</advisoryNumber>
+<advisoryNumber>9</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170819 05:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170819 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708190900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM AST Sat Aug 19</messageDateTimeLocalStr>
-<timeEpochSeconds>1503133200</timeEpochSeconds>
+<messageDateTimeLocal>20170819 11:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170819 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708191500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM AST Sat Aug 19</messageDateTimeLocalStr>
+<timeEpochSeconds>1503154800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HARVEY</systemName>
@@ -19,94 +19,100 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>13.8</centerLocLatitude>
-<centerLocLongitude>-65.9</centerLocLongitude>
+<centerLocLatitude>13.9</centerLocLatitude>
+<centerLocLongitude>-68.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>13.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>65.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>13.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>68.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
 <systemIntensityKph>65</systemIntensityKph>
 <systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1005</systemMslpMb>
-<systemMslpInHg>29.68</systemMslpInHg>
+<systemMslpMb>1007</systemMslpMb>
+<systemMslpInHg>29.74</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>W OR 275 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>21</systemSpeedMph>
-<systemSpeedKph>33</systemSpeedKph>
-<systemSpeedKts>18</systemSpeedKts>
+<systemSpeedMph>22</systemSpeedMph>
+<systemSpeedKph>35</systemSpeedKph>
+<systemSpeedKts>19</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 280 MI...450 KM SSW OF ST. CROIX</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 235 MI...375 KM ENE OF CURACAO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 125 MI...205 KM NNE OF CURACAO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 1010 MI...1630 KM E OF CABO GRACIAS A DIOS ON NIC/HON BORDER</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Harvey Advisory Number   8
+Tropical Storm Harvey Advisory Number   9
 NWS National Hurricane Center Miami FL       AL092017
-500 AM AST Sat Aug 19 2017
+1100 AM AST Sat Aug 19 2017
 
-...HEAVY RAINFALL THREAT TODAY IN THE ABC ISLANDS FROM HARVEY...
+...HARVEY STILL A TROPICAL STORM BUT LESS ORGANIZED THAN
+YESTERDAY...
 
 
-SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
-----------------------------------------------
-LOCATION...13.8N 65.9W
-ABOUT 280 MI...450 KM SSW OF ST. CROIX
-ABOUT 235 MI...375 KM ENE OF CURACAO
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...13.9N 68.1W
+ABOUT 125 MI...205 KM NNE OF CURACAO
+ABOUT 1010 MI...1630 KM E OF CABO GRACIAS A DIOS ON NIC/HON BORDER
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...W OR 275 DEGREES AT 21 MPH...33 KM/H
-MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+PRESENT MOVEMENT...W OR 275 DEGREES AT 22 MPH...35 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 There are no coastal watches or warnings in effect.
 
-Interests in the Caribbean Sea and the adjacent land areas of
-eastern Central America and northern South America should monitor
-the progress of Harvey.
+Interests in the central and western Caribbean Sea, northern
+Nicaragua, northern Honduras, Belize, and the Yucatan Peninsula of
+Mexico should monitor the progress of Harvey.  Watches may be
+required for portions of these areas later today.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM AST (0900 UTC), the center of Tropical Storm Harvey was
-located near latitude 13.8 North, longitude 65.9 West. Harvey is
-moving toward the west near 21 mph (33 km/h), and this general
-motion is expected for the next couple of days. On the forecast
-track, the center of Harvey will move across the eastern and central
+At 1100 AM AST (1500 UTC), the center of Tropical Storm Harvey was
+located near latitude 13.9 North, longitude 68.1 West. Harvey is
+moving toward the west near 22 mph (35 km/h) and this general motion
+is expected to continue through Sunday.  A turn toward the
+west-northwest is expected Sunday night or Monday.  On the forecast
+track, the center of Harvey will move across the central and western
 Caribbean Sea over the weekend.
 
-Maximum sustained winds remain near 40 mph (65 km/h) with higher
-gusts. Some strengthening is forecast during the next 48 hours.
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Satellite imagery and reports from an Air Force Reserve Hurricane
+Hunter aircraft indicate that Harvey is currently poorly organized,
+and only slow strengthening is expected during the next 48 hours.
 
-Tropical-storm-force winds extend outward up to 70 miles (110 km),
-primarily to the north of the center.
+Tropical-storm-force winds extend outward up to 70 miles (110 km)
+mainly to the northwest of the center.
 
-The estimated minimum central pressure is 1005 mb (29.68 inches).
+The estimated minimum central pressure based on Hurricane Hunter
+data and data from NOAA buoy 42059 is 1007 mb (29.74 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 RAINFALL:  Locally heavy rain could occur today over Aruba, Bonaire,
-Curacao and the offshore islands of northern Venezuela.
+and Curacao.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM AST.
+Next complete advisory at 500 PM AST.
 
 $$
-Forecaster Blake
+Forecaster Beven
 
 NNNN
 </message>
