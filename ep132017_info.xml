@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>6</advisoryNumber>
+<advisoryNumber>7</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170819 02:00:00 PM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170819 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708192100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 PM PDT Sat Aug 19</messageDateTimeLocalStr>
-<timeEpochSeconds>1503176400</timeEpochSeconds>
+<messageDateTimeLocal>20170819 08:00:00 PM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170820 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708200300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM PDT Sat Aug 19</messageDateTimeLocalStr>
+<timeEpochSeconds>1503198000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>KENNETH</systemName>
@@ -19,52 +19,51 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>15.9</centerLocLatitude>
-<centerLocLongitude>-123.8</centerLocLongitude>
+<centerLocLatitude>16.2</centerLocLatitude>
+<centerLocLongitude>-125.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>15.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>123.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>16.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>125.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>65</systemIntensityMph>
-<systemIntensityKph>100</systemIntensityKph>
-<systemIntensityKts>55</systemIntensityKts>
-<systemMslpMb>997</systemMslpMb>
-<systemMslpInHg>29.44</systemMslpInHg>
+<systemIntensityMph>70</systemIntensityMph>
+<systemIntensityKph>110</systemIntensityKph>
+<systemIntensityKts>60</systemIntensityKts>
+<systemMslpMb>996</systemMslpMb>
+<systemMslpInHg>29.42</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>18</systemSpeedMph>
-<systemSpeedKph>30</systemSpeedKph>
-<systemSpeedKts>16</systemSpeedKts>
+<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>17</systemSpeedMph>
+<systemSpeedKph>28</systemSpeedKph>
+<systemSpeedKts>15</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1025 MI...1650 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1105 MI...1775 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Kenneth Advisory Number   6
+Tropical Storm Kenneth Advisory Number   7
 NWS National Hurricane Center Miami FL       EP132017
-200 PM PDT Sat Aug 19 2017
+800 PM PDT Sat Aug 19 2017
 
-...KENNETH IS STRENGTHENING QUICKLY...EXPECTED TO BECOME A
-HURRICANE TONIGHT...
+...KENNETH FORECAST TO BECOME A HURRICANE LATER TONIGHT...
 
 
-SUMMARY OF 200 PM PDT...2100 UTC...INFORMATION
+SUMMARY OF 800 PM PDT...0300 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...15.9N 123.8W
-ABOUT 1025 MI...1650 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
-PRESENT MOVEMENT...WNW OR 285 DEGREES AT 18 MPH...30 KM/H
-MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
+LOCATION...16.2N 125.3W
+ABOUT 1105 MI...1775 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 17 MPH...28 KM/H
+MINIMUM CENTRAL PRESSURE...996 MB...29.42 INCHES
 
 
 WATCHES AND WARNINGS
@@ -74,20 +73,20 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 PM PDT (2100 UTC), the center of Tropical Storm Kenneth was
-located near latitude 15.9 North, longitude 123.8 West. Kenneth is
-moving toward the west-northwest near 18 mph (30 km/h). A
-slower west-northwest to northwest motion is expected over the next
-couple of days.
+At 800 PM PDT (0300 UTC), the center of Tropical Storm Kenneth was
+located near latitude 16.2 North, longitude 125.3 West. Kenneth is
+moving toward the west near 17 mph (28 km/h).  A slower
+west-northwestward motion is expected Sunday, and a gradual turn
+toward the northwest is forecast on Monday.
 
-Maximum sustained winds have increased to near 65 mph (100 km/h)
+Maximum sustained winds have increased to near 70 mph (110 km/h)
 with higher gusts.  Additional strengthening is expected, and
-Kenneth is forecast to become a hurricane tonight.
+Kenneth is forecast to become a hurricane later tonight.
 
-Tropical-storm-force winds extend outward up to 60 miles (95 km)
+Tropical-storm-force winds extend outward up to 70 miles (110 km)
 from the center.
 
-The estimated minimum central pressure is 997 mb (29.44 inches).
+The estimated minimum central pressure is 996 mb (29.42 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -97,10 +96,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 800 PM PDT.
+Next complete advisory at 200 AM PDT.
 
 $$
-Forecaster Cangialosi
+Forecaster Roberts
 
 NNNN
 </message>
