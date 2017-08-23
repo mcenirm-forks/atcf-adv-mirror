@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>12A</advisoryNumber>
+<advisoryNumber>13</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170823 01:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170823 06:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708231800</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0100 PM CDT Wed Aug 23</messageDateTimeLocalStr>
-<timeEpochSeconds>1503511200</timeEpochSeconds>
+<messageDateTimeLocal>20170823 04:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170823 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708232100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 PM CDT Wed Aug 23</messageDateTimeLocalStr>
+<timeEpochSeconds>1503522000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>HARVEY</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>21.5</centerLocLatitude>
-<centerLocLongitude>-92.5</centerLocLongitude>
+<centerLocLatitude>21.6</centerLocLatitude>
+<centerLocLongitude>-92.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>21.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>92.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>21.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>92.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -38,34 +38,33 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>STATIONARY</systemDirectionOfMotion>
-<systemSpeedMph>0</systemSpeedMph>
-<systemSpeedKph>0</systemSpeedKph>
-<systemSpeedKts>0</systemSpeedKts>
+<systemDirectionOfMotion>NW OR 320 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>2</systemSpeedMph>
+<systemSpeedKph>4</systemSpeedKph>
+<systemSpeedKts>2</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 535 MI...860 KM SSE OF PORT OCONNOR TEXAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 470 MI...755 KM SE OF PORT MANSFIELD TEXAS</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 525 MI...845 KM SSE OF PORT OCONNOR TEXAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 460 MI...740 KM SE OF PORT MANSFIELD TEXAS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Harvey Intermediate Advisory Number 12A
+Tropical Depression Harvey Advisory Number  13
 NWS National Hurricane Center Miami FL       AL092017
-100 PM CDT Wed Aug 23 2017
+400 PM CDT Wed Aug 23 2017
 
-...HARVEY MOVING LITTLE BUT EXPECTED TO RESUME A NORTHWESTWARD
-COURSE SOON...
+...HARVEY EXPECTED TO STRENGTHEN AS IT HEADS FOR THE TEXAS COAST...
 
 
-SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...21.5N 92.5W
-ABOUT 535 MI...860 KM SSE OF PORT OCONNOR TEXAS
-ABOUT 470 MI...755 KM SE OF PORT MANSFIELD TEXAS
+LOCATION...21.6N 92.6W
+ABOUT 525 MI...845 KM SSE OF PORT OCONNOR TEXAS
+ABOUT 460 MI...740 KM SE OF PORT MANSFIELD TEXAS
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...STATIONARY
+PRESENT MOVEMENT...NW OR 320 DEGREES AT 2 MPH...4 KM/H
 MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
@@ -103,26 +102,25 @@ dangerous.
 A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, generally within 48 hours.
 
-Interests in southwestern Louisiana should monitor the progress of
-this system for possible watches this afternoon.
+Interests in southwestern Louisiana should continue to monitor the
+progress of this system.
 
-For storm information specific to your area in the United
-States, including possible inland watches and warnings, please
-monitor products issued by your local National Weather Service
-forecast office. For storm information specific to your area outside
-the United States, please monitor products issued by your national
+For storm information specific to your area in the United States,
+including possible inland watches and warnings, please monitor
+products issued by your local National Weather Service forecast
+office. For storm information specific to your area outside the
+United States, please monitor products issued by your national
 meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 100 PM CDT (1800 UTC), the center of Tropical Depression Harvey
-was located near latitude 21.5 North, longitude 92.5 West.  The
-depression has been nearly stationary for the past few hours, but
-is expected to resume a motion toward the northwest near 9 mph
-(15 km/h) later today.  A track toward the northwest or
-north-northwest is expected for the next 48 hours.  On the forecast
-track, Harvey should be approaching the Texas coast late Friday.
+At 400 PM CDT (2100 UTC), the center of Tropical Depression Harvey
+was located near latitude 21.6 North, longitude 92.6 West. The
+depression is moving toward the northwest near 2 mph (4 km/h).
+A track toward the northwest or north-northwest at a faster forward
+speed is expected for the next 48 hours.  On the forecast track,
+Harvey should be approaching the Texas coast late Friday.
 
 Maximum sustained winds are near 35 mph (55 km/h) with higher
 gusts.  Some strengthening is forecast during the next 48 hours, and
@@ -133,7 +131,7 @@ The estimated minimum central pressure is 1005 mb (29.68 inches).
 
 HAZARDS AFFECTING LAND
 ----------------------
-RAINFALL: Harvey is expected to produce total rain accumulations of
+RAINFALL:  Harvey is expected to produce total rain accumulations of
 10 to 15 inches with isolated maximum amounts of 20 inches over the
 middle and upper Texas coast and southwest Louisiana through next
 Tuesday, with heavy rainfall beginning as early as Friday morning.
@@ -142,21 +140,21 @@ Harvey is also expected to produce total rain accumulations of 3 to
 rest of the lower Mississippi Valley. Rainfall from Harvey could
 cause life-threatening flooding.
 
-STORM SURGE: The combination of a dangerous storm surge and the tide
-will cause normally dry areas near the coast to be flooded by rising
-waters moving inland from the shoreline.  The water is expected to
-reach the following heights above ground if the peak surge occurs at
-the time of high tide...
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water is
+expected to reach the following heights above ground if the peak
+surge occurs at the time of high tide...
 
 Port Mansfield to High Island...4 to 6 ft
 
 The deepest water will occur along the immediate coast near and to
 the northeast of the landfall location, where the surge will be
-accompanied by large and destructive waves.  Surge-related
-flooding depends on the relative timing of the surge and the tidal
-cycle, and can vary greatly over short distances.  For information
-specific to your area, please see products issued by your local
-National Weather Service forecast office.
+accompanied by large and destructive waves.  Surge-related flooding
+depends on the relative timing of the surge and the tidal cycle, and
+can vary greatly over short distances.  For information specific to
+your area, please see products issued by your local National Weather
+Service forecast office.
 
 WIND:  Hurricane conditions are possible within the hurricane watch
 area by late Friday, with tropical storm conditions possible by
@@ -170,12 +168,12 @@ Please consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 PM CDT.
+Next intermediate advisory at 700 PM CDT.
+Next complete advisory at 1000 PM CDT.
 
 $$
 Forecaster Pasch
 
 NNNN
-
 </message>
 </cycloneMessage>
