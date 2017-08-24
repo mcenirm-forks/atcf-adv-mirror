@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>14</advisoryNumber>
+<advisoryNumber>14A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170823 11:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170824 04:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708240300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 PM CDT Wed Aug 23</messageDateTimeLocalStr>
-<timeEpochSeconds>1503543600</timeEpochSeconds>
+<messageDateTimeLocal>20170824 01:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170824 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708240600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0100 AM CDT Thu Aug 24</messageDateTimeLocalStr>
+<timeEpochSeconds>1503554400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HARVEY</systemName>
@@ -19,54 +19,53 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>22.0</centerLocLatitude>
+<centerLocLatitude>22.6</centerLocLatitude>
 <centerLocLongitude>-92.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>21.9N</centerLocLatitudeExpanded>
+<centerLocLatitudeExpanded>22.6N</centerLocLatitudeExpanded>
 <centerLocLongitudeExpanded>92.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>40</systemIntensityMph>
-<systemIntensityKph>65</systemIntensityKph>
-<systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1002</systemMslpMb>
-<systemMslpInHg>29.59</systemMslpInHg>
+<systemIntensityMph>45</systemIntensityMph>
+<systemIntensityKph>70</systemIntensityKph>
+<systemIntensityKts>40</systemIntensityKts>
+<systemMslpMb>1001</systemMslpMb>
+<systemMslpInHg>29.56</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>NW OR 325 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>2</systemSpeedMph>
-<systemSpeedKph>4</systemSpeedKph>
-<systemSpeedKts>2</systemSpeedKts>
+<systemSpeedMph>7</systemSpeedMph>
+<systemSpeedKph>11</systemSpeedKph>
+<systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 500 MI...810 KM SSE OF PORT OCONNOR TEXAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 440 MI...705 KM SE OF PORT MANSFIELD TEXAS</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 465 MI...740 KM SSE OF PORT OCONNOR TEXAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 410 MI...660 KM SE OF PORT MANSFIELD TEXAS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Harvey Advisory Number  14
+Tropical Storm Harvey Intermediate Advisory Number 14A
 NWS National Hurricane Center Miami FL       AL092017
-1000 PM CDT Wed Aug 23 2017
+100 AM CDT Thu Aug 24 2017
 
-...HARVEY DRIFTING ERRATICALLY NORTHWESTWARD AS A TROPICAL
-DEPRESSION...
+...AIR FORCE AND NOAA PLANES FIND HARVEY A LITTLE STRONGER...
 
 
-SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...21.9N 92.6W
-ABOUT 510 MI...815 KM SSE OF PORT OCONNOR TEXAS
-ABOUT 445 MI...715 KM SE OF PORT MANSFIELD TEXAS
-MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...NW OR 325 DEGREES AT 2 MPH...4 KM/H
-MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...22.6N 92.6W
+ABOUT 465 MI...740 KM SSE OF PORT OCONNOR TEXAS
+ABOUT 410 MI...660 KM SE OF PORT MANSFIELD TEXAS
+MAXIMUM SUSTAINED WINDS...45 MPH...70 KM/H
+PRESENT MOVEMENT...NW OR 325 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
 
 
 WATCHES AND WARNINGS
@@ -104,35 +103,38 @@ A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, generally within 48 hours.
 
 Warnings will likely be required for portions of the watch area
-Thursday morning.  In addition, interests in southwestern
-Louisiana should continue to monitor the progress of this system.
+this morning.  In addition, interests in southwestern Louisiana
+should continue to monitor the progress of this system.
 
-For storm information specific to your area in the United
-States, including possible inland watches and warnings, please
-monitor products issued by your local National Weather Service
-forecast office. For storm information specific to your area outside
-the United States, please monitor products issued by your national
+For storm information specific to your area in the United States,
+including possible inland watches and warnings, please monitor
+products issued by your local National Weather Service forecast
+office. For storm information specific to your area outside the
+United States, please monitor products issued by your national
 meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 PM CDT (0300 UTC), the center of Tropical Depression Harvey
-was located near latitude 21.9 North, longitude 92.6 West. The
-depression is moving toward the northwest near 2 mph (4 km/h). A
-track toward the northwest or north-northwest at a faster forward
-speed is expected for the next 48 hours.  On the forecast track,
-Harvey should be approaching the Texas coast late Friday or Friday
-night.
+At 100 AM CDT (0600 UTC), the center of Tropical Storm Harvey
+was located by NOAA and Air Force reconnaissance planes near
+latitude 22.6 North, longitude 92.6 West. Harvey is now moving
+toward the northwest near 7 mph (11 km/h). A track toward the
+northwest or north-northwest at a faster forward speed is expected
+for the next 48 hours.  On the forecast track, Harvey should be
+approaching the Texas coast on Friday.
 
-Reports from an Air Force Reserve Hurricane Hunter aircraft indicate
-that maximum sustained winds remain near 35 mph (55 km/h) with
-higher gusts.  Some strengthening is forecast during the next
-48 hours, and Harvey could become a tropical storm later tonight or
-Thursday and a hurricane Friday or Friday night.
+Reports from an Air Force Reserve Hurricane Hunter aircraft
+indicate that the maximum sustained winds have increased to near 45
+mph (70 km/h) with higher gusts.  Some additional strengthening is
+forecast during the next 48 hours, and Harvey could become a
+a hurricane on Friday.
 
-The latest minimum central pressure reported by the Hurricane Hunter
-is 1002 mb (29.59 inches).
+Tropical-storm-force winds extend outward up to 100 miles (160 km)
+to the northeast of the center.
+
+The latest minimum central pressure reported by Air Force and
+NOAA Hurricane Hurricane Hunter planes was 1001 mb (29.56 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -174,12 +176,12 @@ Please consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 100 AM CDT.
 Next complete advisory at 400 AM CDT.
 
 $$
-Forecaster Beven
+Forecaster Avila
 
 NNNN
+
 </message>
 </cycloneMessage>
