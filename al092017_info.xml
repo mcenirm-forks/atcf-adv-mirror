@@ -7,19 +7,19 @@
 <messageBinNumber>4</messageBinNumber>
 <advisoryNumber>14</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170823 10:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170824 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeLocal>20170823 11:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170824 04:00:00 AM UTC</messageDateTimeUTC>
 <messageDateTimeUTC24>201708240300</messageDateTimeUTC24>
 <messageDateTimeLocalStr>1000 PM CDT Wed Aug 23</messageDateTimeLocalStr>
 <timeEpochSeconds>1503543600</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL DEPRESSION</systemType>
+<systemType>TROPICAL STORM</systemType>
 <systemName>HARVEY</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>21.9</centerLocLatitude>
+<centerLocLatitude>22.0</centerLocLatitude>
 <centerLocLongitude>-92.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
@@ -28,9 +28,9 @@
 <centerLocLongitudeExpanded>92.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>35</systemIntensityMph>
-<systemIntensityKph>55</systemIntensityKph>
-<systemIntensityKts>30</systemIntensityKts>
+<systemIntensityMph>40</systemIntensityMph>
+<systemIntensityKph>65</systemIntensityKph>
+<systemIntensityKts>35</systemIntensityKts>
 <systemMslpMb>1002</systemMslpMb>
 <systemMslpInHg>29.59</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
@@ -43,8 +43,8 @@
 <systemSpeedKph>4</systemSpeedKph>
 <systemSpeedKts>2</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 510 MI...815 KM SSE OF PORT OCONNOR TEXAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 445 MI...715 KM SE OF PORT MANSFIELD TEXAS</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 500 MI...810 KM SSE OF PORT OCONNOR TEXAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 440 MI...705 KM SE OF PORT MANSFIELD TEXAS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
