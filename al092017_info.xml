@@ -48,12 +48,14 @@
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
-TTAA00 KNHC DDHHMM
+TTAA00 KNHC DDHHMM CCA
 
 BULLETIN
-Hurricane Harvey Advisory Number  19
+Hurricane Harvey Advisory Number  19...Corrected
 NWS National Hurricane Center Miami FL       AL092017
 1000 PM CDT Thu Aug 24 2017
+
+Corrected for time of next intermediate advisory
 
 ...HARVEY EXPECTED TO STRENGTHEN AS IT MOVES TOWARDS THE TEXAS
 COAST...
@@ -210,7 +212,7 @@ middle and upper Texas coast on Friday.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisories at 1200 AM CDT and 200 AM CDT.
+Next intermediate advisory at 100 AM CDT.
 Next complete advisory at 400 AM CDT.
 
 $$
