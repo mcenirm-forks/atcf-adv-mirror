@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>21</advisoryNumber>
+<advisoryNumber>21A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170825 10:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170825 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708251500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 AM CDT Fri Aug 25</messageDateTimeLocalStr>
-<timeEpochSeconds>1503673200</timeEpochSeconds>
+<messageDateTimeLocal>20170825 01:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170825 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708251800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0100 PM CDT Fri Aug 25</messageDateTimeLocalStr>
+<timeEpochSeconds>1503684000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>HARVEY</systemName>
@@ -19,64 +19,61 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>26.7</centerLocLatitude>
-<centerLocLongitude>-96</centerLocLongitude>
+<centerLocLatitude>27.1</centerLocLatitude>
+<centerLocLongitude>-96.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>26.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>96.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>27.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>96.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>110</systemIntensityMph>
 <systemIntensityKph>175</systemIntensityKph>
 <systemIntensityKts>95</systemIntensityKts>
-<systemMslpMb>947</systemMslpMb>
-<systemMslpInHg>27.97</systemMslpInHg>
+<systemMslpMb>945</systemMslpMb>
+<systemMslpInHg>27.91</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NW OR 315 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>NW OR 325 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>10</systemSpeedMph>
 <systemSpeedKph>17</systemSpeedKph>
 <systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 115 MI...185 KM SE OF CORPUS CHRISTI TEXAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 120 MI...195 KM SSE OF PORT OCONNOR TEXAS</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 85 MI...140 KM ESE OF CORPUS CHRISTI TEXAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 90 MI...145 KM S OF PORT OCONNOR TEXAS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Harvey Advisory Number  21
+Hurricane Harvey Intermediate Advisory Number 21A
 NWS National Hurricane Center Miami FL       AL092017
-1000 AM CDT Fri Aug 25 2017
+100 PM CDT Fri Aug 25 2017
 
-...OUTER RAINBAND FROM HARVEY SWIPING THE LOWER AND MIDDLE TEXAS
-COASTS...
-...CATASTROPHIC FLOODING EXPECTED ACROSS PORTIONS OF SOUTHERN AND
-SOUTHEASTERN TEXAS...
+...WEATHER CONDITIONS DETERIORATING AND WATER LEVELS RISING ALONG
+THE TEXAS COAST...
 
 
-SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...26.7N 96.0W
-ABOUT 115 MI...185 KM SE OF CORPUS CHRISTI TEXAS
-ABOUT 120 MI...195 KM SSE OF PORT OCONNOR TEXAS
+SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...27.1N 96.3W
+ABOUT 85 MI...140 KM ESE OF CORPUS CHRISTI TEXAS
+ABOUT 90 MI...145 KM S OF PORT OCONNOR TEXAS
 MAXIMUM SUSTAINED WINDS...110 MPH...175 KM/H
-PRESENT MOVEMENT...NW OR 315 DEGREES AT 10 MPH...17 KM/H
-MINIMUM CENTRAL PRESSURE...947 MB...27.97 INCHES
+PRESENT MOVEMENT...NW OR 325 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...945 MB...27.91 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Hurricane Watch south of Port Mansfield Texas to the Mouth of
-the Rio Grande has been discontinued.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -118,38 +115,39 @@ coastline in the indicated locations.
 Interests in southwestern Louisiana should continue to monitor the
 progress of this system.
 
-For storm information specific to your area in the United
-States, including possible inland watches and warnings, please
-monitor products issued by your local National Weather Service
-forecast office. For storm information specific to your area outside
-the United States, please monitor products issued by your national
+For storm information specific to your area in the United States,
+including possible inland watches and warnings, please monitor
+products issued by your local National Weather Service forecast
+office. For storm information specific to your area outside the
+United States, please monitor products issued by your national
 meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 AM CDT (1500 UTC), the eye of Hurricane Harvey was located
-by an Air Force Reserve Hurricane Hunter aircraft and NOAA Doppler
-radar near latitude 26.7 North, longitude 96.0 West. Harvey is
-moving toward the northwest near 10 mph (17 km/h), but its forward
-speed is expected to decrease significantly during the next couple
-of days. On the forecast track, Harvey will make landfall on the
-middle Texas coast tonight or early Saturday. Harvey is then likely
-to meander near or just inland of the middle Texas coast through the
-weekend.
+At 100 PM CDT (1800 UTC), the eye of Hurricane Harvey was located by
+a NOAA Hurricane Hunter aircraft and NOAA Doppler radar near
+latitude 27.1 North, longitude 96.3 West. Harvey is moving toward
+the northwest near 10 mph (17 km/h), but its forward speed is
+expected to decrease significantly during the next couple of days.
+On the forecast track, Harvey will make landfall on the middle Texas
+coast tonight or early Saturday. Harvey is then likely to meander
+near or just inland of the middle Texas coast through the weekend.
 
 Maximum sustained winds are near 110 mph (175 km/h) with higher
 gusts. Some strengthening is possible, and Harvey is forecast to
 become a major hurricane before it reaches the middle Texas coast.
 
-Hurricane-force winds extend outward up to 35 miles (55 km) from the
-center, and tropical-storm-force winds extend outward up to 140
-miles (220 km).  A buoy located about 40 miles east of South Padre
-Island recently reported sustained winds of 42 mph (68 km/h) and a
-gust to 54 mph (86 km/h).
+Hurricane-force winds extend outward up to 35 miles (55 km) from
+the center, and tropical-storm-force winds extend outward up to 140
+miles (220 km).  A wind gust of 56 mph was recently reported at the
+Corpus Christi Naval Air Station.  In addition, a wind gust of 53
+mph was reported at Port Aransas, and a gust to 51 mph was measured
+at the Bob Hall Pier near Corpus Christi.  A sustained wind of 56
+mph and a gust to 69 mph were measured by NOAA buoy 42020.
 
-The minimum central pressure based on data from the Air Force plane
-is 947 mb (27.97 inches).
+The minimum central pressure based on data from the NOAA plane
+is 945 mb (27.91 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -185,12 +183,11 @@ your area, please see products issued by your local National Weather
 Service forecast office.
 
 WIND:  All last-minute preparations should be rushed to completion
-since tropical storm conditions are likely just beginning in
-portions of the hurricane and tropical storm warning areas.
-Hurricane conditions are likely to begin within the hurricane
-warning area later today or tonight.  Tropical storm conditions are
-likely to persist along portions of the coast through at least
-Sunday.
+since tropical storm conditions are now occurring in portions of the
+hurricane and tropical storm warning areas.  Hurricane conditions
+are likely to begin within the hurricane warning area later today or
+tonight.  Tropical storm conditions are likely to persist along
+portions of the coast through at least Sunday.
 
 SURF:  Swells generated by Harvey are affecting the Texas,
 Louisiana, and northeast Mexico coasts.  These swells are likely to
@@ -203,12 +200,12 @@ Saturday near the middle and upper Texas coast.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 100 PM CDT.
 Next complete advisory at 400 PM CDT.
 
 $$
 Forecaster Berg
 
 NNNN
+
 </message>
 </cycloneMessage>
