@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>23A</advisoryNumber>
+<advisoryNumber>24</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170826 01:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170826 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708260600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0100 AM CDT Sat Aug 26</messageDateTimeLocalStr>
-<timeEpochSeconds>1503727200</timeEpochSeconds>
+<messageDateTimeLocal>20170826 04:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170826 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708260900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 AM CDT Sat Aug 26</messageDateTimeLocalStr>
+<timeEpochSeconds>1503738000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>HARVEY</systemName>
@@ -19,21 +19,21 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>28.2</centerLocLatitude>
-<centerLocLongitude>-97</centerLocLongitude>
+<centerLocLatitude>28.5</centerLocLatitude>
+<centerLocLongitude>-97.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>28.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>97.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>28.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>97.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>125</systemIntensityMph>
-<systemIntensityKph>205</systemIntensityKph>
-<systemIntensityKts>110</systemIntensityKts>
-<systemMslpMb>942</systemMslpMb>
-<systemMslpInHg>27.82</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
+<systemIntensityMph>100</systemIntensityMph>
+<systemIntensityKph>155</systemIntensityKph>
+<systemIntensityKts>85</systemIntensityKts>
+<systemMslpMb>963</systemMslpMb>
+<systemMslpInHg>28.44</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
@@ -43,48 +43,52 @@
 <systemSpeedKph>9</systemSpeedKph>
 <systemSpeedKts>5</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 5 MI...10 KM N OF ROCKPORT TEXAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 45 MI...75 KM S OF VICTORIA TEXAS</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 30 MI...50 KM SW OF VICTORIA TEXAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 105 MI...170 KM SE OF SAN ANTONIO TEXAS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Harvey Intermediate Advisory Number 23A
+Hurricane Harvey Advisory Number  24
 NWS National Hurricane Center Miami FL       AL092017
-100 AM CDT Sat Aug 26 2017
+400 AM CDT Sat Aug 26 2017
 
-...HARVEY MAKES A SECOND LANDFALL ON THE NORTHEASTERN SHORE OF
-COPANO BAY...
+...HARVEY MOVING SLOWLY INLAND OVER SOUTH TEXAS...
+...CATASTROPHIC FLOODING EXPECTED OVER THE NEXT FEW DAYS DUE TO
+HEAVY RAINFALL...
 
 
-SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...28.2N 97.0W
-ABOUT 5 MI...10 KM N OF ROCKPORT TEXAS
-ABOUT 45 MI...75 KM S OF VICTORIA TEXAS
-MAXIMUM SUSTAINED WINDS...125 MPH...205 KM/H
+LOCATION...28.5N 97.2W
+ABOUT 30 MI...50 KM SW OF VICTORIA TEXAS
+ABOUT 105 MI...170 KM SE OF SAN ANTONIO TEXAS
+MAXIMUM SUSTAINED WINDS...100 MPH...155 KM/H
 PRESENT MOVEMENT...NW OR 325 DEGREES AT 6 MPH...9 KM/H
-MINIMUM CENTRAL PRESSURE...942 MB...27.82 INCHES
+MINIMUM CENTRAL PRESSURE...963 MB...28.44 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The Hurricane Warning and Storm Surge Warning have been
+discontinued south of Baffin Bay.  The Hurricane Warning north of
+Port O'Connor to Sargent has been changed to a Tropical Storm
+Warning.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Storm Surge Warning is in effect for...
-* Port Mansfield to High Island Texas
+* Baffin Bay to High Island Texas
 
 A Hurricane Warning is in effect for...
-* Port Mansfield to Sargent Texas
+* Baffin Bay to Port O'Connor Texas
 
 A Tropical Storm Warning is in effect for...
-* North of Sargent to High Island Texas
+* North of Port O'Connor to High Island Texas
 
 A Storm Surge Warning means there is a danger of life-threatening
 inundation from rising water moving inland from the coastline in the
@@ -96,6 +100,9 @@ A Hurricane Warning means that hurricane conditions are expected
 somewhere within the warning area. Preparations to protect life and
 property should already be complete.
 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning.
+
 Interests in southwestern Louisiana should continue to monitor the
 progress of this system.
 
@@ -106,32 +113,25 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 100 AM CDT (0600 UTC), the eye of Hurricane Harvey was located
-near latitude 28.2 North, longitude 97.0 West. Harvey has made a
-second landfall along the northeastern shore of Copano Bay, Texas.
-Harvey is moving toward the northwest near 6 mph (9 km/h).  The
-hurricane is expected to slow down further during the next day or
-so, and it will meander over southeastern Texas through the middle
-of next week.
+At 400 AM CDT (0900 UTC), the eye of Hurricane Harvey was located
+by NOAA Doppler radar near latitude 28.5 North, longitude 97.2 West.
+Harvey is moving toward the northwest near 6 mph (9 km/h).  Harvey
+is expected to slow down through the day and meander over
+southeastern Texas through the middle of next week.
 
-Maximum sustained winds have decreased to near 125 mph (205 km/h)
-with higher gusts.  Harvey is a category 3 hurricane on the
-Saffir-Simpson Hurricane Wind Scale.  Additional weakening is
-forecast during the next 48 hours while the center of Harvey is over
-southeastern Texas.
+Doppler radar data indicate that maximum sustained winds have
+decreased to near 100 mph (155 km/h) with higher gusts.  Additional
+weakening is forecast, and Harvey is likely to become a tropical
+storm later today.
 
-Hurricane-force winds extend outward up to 40 miles (65 km) from
-the center, and tropical-storm-force winds extend outward up to 140
-miles (220 km).  A Texas Coastal Ocean Observing Network station at
-the Aransas Wildlife Refuge recently measured sustained hurricane-
-force winds of 74 mph (119 km/h) and a wind gust to 98 mph (157
-km/h).
+Hurricane-force winds extend outward up to 35 miles (55 km) from the
+center, and tropical-storm-force winds extend outward up to 140
+miles (220 km).
 
-A National Ocean Service tide gauge at Port Lavaca, Texas, recently
-reported a water level of 5.9 ft above Mean Higher High Water.
+The estimated minimum central pressure is 963 mb (28.44 inches).
 
-The estimated minimum central pressure is 942 mb (27.82 inches).
-
+Almost 10 inches of rain have already been reported at a few
+locations in southeastern Texas.
 
 HAZARDS AFFECTING LAND
 ----------------------
@@ -149,11 +149,10 @@ rising waters moving inland from the shoreline.  The water is
 expected to reach the following heights above ground if the peak
 surge occurs at the time of high tide...
 
-Port Aransas to Port O'Connor...9 to 13 ft
+Port Aransas to Port O'Connor...6 to 12 ft
 Port O'Connor to Sargent...6 to 9 ft
-N Entrance Padre Island Natl Seashore to Port Aransas...5 to 8 ft
 Sargent to Jamaica Beach...4 to 6 ft
-Port Mansfield to N Entrance Padre Island Natl Seashore...3 to 5 ft
+Baffin Bay to Port Aransas...3 to 6 ft
 Jamaica Beach to High Island...2 to 4 ft
 Mouth of the Rio Grande to Port Mansfield...1 to 3 ft
 High Island to Morgan City...1 to 3 ft
@@ -166,31 +165,31 @@ can vary greatly over short distances.  For information specific to
 your area, please see products issued by your local National Weather
 Service forecast office.
 
-WIND:  Hurricane conditions are occuring along portions of the
-middle Texas coast within the hurricane warning area and are
-spreading inland as the eye continues to move farther onshore.
-Tropical storm conditions are occurring in other portions of the
-hurricane and tropical storm warning areas.  Tropical storm
-conditions are likely to persist along portions of the coast through
-at least Sunday.
+WIND:  Hurricane conditions are occuring inland from the coast
+within Harvey's eyewall, and hurricane-force winds, especially in
+gusts, are still possible near the middle Texas coast for the next
+several hours.  Tropical storm conditions are occurring in other
+portions of the hurricane and tropical storm warning areas.
+Tropical storm conditions are likely to persist along portions of
+the coast through at least Sunday.
 
 SURF:  Swells generated by Harvey are affecting the Texas,
 Louisiana, and northeast Mexico coasts.  These swells are likely to
 cause life-threatening surf and rip current conditions. Please
 consult products from your local weather office.
 
-TORNADOES:  Tornadoes are possible through Saturday near the middle
+TORNADOES:  Tornadoes are possible today and tonight near the middle
 and upper Texas coast into far southwest Louisiana.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 AM CDT.
+Next intermediate advisory at 700 AM CDT.
+Next complete advisory at 1000 AM CDT.
 
 $$
 Forecaster Berg
 
 NNNN
-
 </message>
 </cycloneMessage>
