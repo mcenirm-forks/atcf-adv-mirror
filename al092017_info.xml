@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>26</advisoryNumber>
+<advisoryNumber>26A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170826 04:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170826 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708262100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0400 PM CDT Sat Aug 26</messageDateTimeLocalStr>
-<timeEpochSeconds>1503781200</timeEpochSeconds>
+<messageDateTimeLocal>20170826 07:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170827 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708270000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0700 PM CDT Sat Aug 26</messageDateTimeLocalStr>
+<timeEpochSeconds>1503792000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HARVEY</systemName>
@@ -19,54 +19,54 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>29.1</centerLocLatitude>
-<centerLocLongitude>-97.6</centerLocLongitude>
+<centerLocLatitude>29.2</centerLocLatitude>
+<centerLocLongitude>-97.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>29.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>97.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>29.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>97.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>65</systemIntensityMph>
-<systemIntensityKph>100</systemIntensityKph>
-<systemIntensityKts>55</systemIntensityKts>
-<systemMslpMb>990</systemMslpMb>
-<systemMslpInHg>29.24</systemMslpInHg>
+<systemIntensityMph>60</systemIntensityMph>
+<systemIntensityKph>95</systemIntensityKph>
+<systemIntensityKts>50</systemIntensityKts>
+<systemMslpMb>992</systemMslpMb>
+<systemMslpInHg>29.29</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>STATIONARY</systemDirectionOfMotion>
-<systemSpeedMph>0</systemSpeedMph>
-<systemSpeedKph>0</systemSpeedKph>
-<systemSpeedKts>0</systemSpeedKts>
+<systemDirectionOfMotion></systemDirectionOfMotion>
+<systemSpeedMph></systemSpeedMph>
+<systemSpeedKph></systemSpeedKph>
+<systemSpeedKts></systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 45 MI...70 KM WNW OF VICTORIA TEXAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 60 MI...95 KM ESE OF SAN ANTONIO TEXAS</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 40 MI...65 KM NW OF VICTORIA TEXAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 70 MI...115 KM ESE OF SAN ANTONIO TEXAS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Harvey Advisory Number  26
+Tropical Storm Harvey Intermediate Advisory Number 26A
 NWS National Hurricane Center Miami FL       AL092017
-400 PM CDT Sat Aug 26 2017
+700 PM CDT Sat Aug 26 2017
 
-...TROPICAL STORM HARVEY BARELY MOVING...
+...TROPICAL STORM HARVEY DRIFTING EAST-NORTHEASTWARD...
 ...TORRENTIAL RAINS WILL CONTINUE...
 
 
-SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...29.1N 97.6W
-ABOUT 45 MI...70 KM WNW OF VICTORIA TEXAS
-ABOUT 60 MI...95 KM ESE OF SAN ANTONIO TEXAS
-MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
-PRESENT MOVEMENT...STATIONARY
-MINIMUM CENTRAL PRESSURE...990 MB...29.24 INCHES
+LOCATION...29.2N 97.4W
+ABOUT 40 MI...65 KM NW OF VICTORIA TEXAS
+ABOUT 70 MI...115 KM ESE OF SAN ANTONIO TEXAS
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...ENE OR 060 DEGREES AT 2 MPH
+MINIMUM CENTRAL PRESSURE...992 MB...29.29 INCHES
 
 
 WATCHES AND WARNINGS
@@ -96,19 +96,22 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 400 PM CDT (2100 UTC), the center of Tropical Storm Harvey was
-located by Doppler radar near latitude 29.1 North, longitude 97.6
-West. Harvey has been nearly stationary and little motion is
-anticipated during the next few days.
+At 700 PM CDT (0000 UTC), the center of Tropical Storm Harvey was
+located by Doppler radar near latitude 29.2 North, longitude 97.4
+West. Harvey has been drifting east-northeastward for the past few
+hours.  Little additional motion is anticipated during the next few
+days.
 
-Maximum sustained winds have decreased to near 65 mph (100 km/h)
-with higher gusts.  Additional weakening is expected during the
-next day or two.
+Maximum sustained winds have decreased to near 60 mph (95 km/h)
+with higher gusts.  Additional weakening is expected during the next
+day or two.
 
 Tropical-storm-force winds extend outward up to 115 miles (185 km)
-from the center.
+from the center.  San Marcos Regional Airport recently reported
+sustained winds of 40 mph (65 km/h) and a wind gust of 53 mph
+(85 km/h).
 
-The estimated minimum central pressure is 990 mb (29.24 inches).
+The estimated minimum central pressure is 992 mb (29.29 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -158,12 +161,12 @@ middle and upper Texas coast into far southwest Louisiana.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 700 PM CDT.
 Next complete advisory at 1000 PM CDT.
 
 $$
-Forecaster Avila
+Forecaster Beven
 
 NNNN
+
 </message>
 </cycloneMessage>
