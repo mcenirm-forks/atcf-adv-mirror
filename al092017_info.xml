@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>29</advisoryNumber>
+<advisoryNumber>29A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170827 10:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170827 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708271500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 AM CDT Sun Aug 27</messageDateTimeLocalStr>
-<timeEpochSeconds>1503846000</timeEpochSeconds>
+<messageDateTimeLocal>20170827 01:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170827 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708271800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0100 PM CDT Sun Aug 27</messageDateTimeLocalStr>
+<timeEpochSeconds>1503856800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HARVEY</systemName>
@@ -20,12 +20,12 @@
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>29.0</centerLocLatitude>
-<centerLocLongitude>-97.4</centerLocLongitude>
+<centerLocLongitude>-97.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>29.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>97.4W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>97.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
@@ -38,37 +38,33 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>SSE OR 160 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>SE OR 145 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>2</systemSpeedMph>
 <systemSpeedKph>4</systemSpeedKph>
 <systemSpeedKts>2</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 35 MI...55 KM WNW OF VICTORIA TEXAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 70 MI...115 KM ESE OF SAN ANTONIO TEXAS</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 25 MI...35 KM NW OF VICTORIA TEXAS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Harvey Advisory Number  29
+Tropical Storm Harvey Intermediate Advisory Number 29A
 NWS National Hurricane Center Miami FL       AL092017
-1000 AM CDT Sun Aug 27 2017
+100 PM CDT Sun Aug 27 2017
 
-...FLASH FLOOD EMERGENCIES IN PARTS OF SOUTHEASTERN TEXAS INCLUDING
-GREATER HOUSTON...
+...UNPRECEDENTED FLOODING OCCURING OVER SOUTHEASTERN TEXAS...
 ...DO NOT ATTEMPT TO TRAVEL IN THE AFFECTED AREA IF YOU ARE IN A
-SAFE PLACE...
-...DO NOT DRIVE INTO FLOODED ROADWAYS...
+SAFE PLACE AND DO NOT DRIVE INTO FLOODED ROADWAYS...
 
 
-SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...29.0N 97.4W
-ABOUT 35 MI...55 KM WNW OF VICTORIA TEXAS
-ABOUT 70 MI...115 KM ESE OF SAN ANTONIO TEXAS
+SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...29.0N 97.2W
+ABOUT 25 MI...35 KM NW OF VICTORIA TEXAS
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...SSE OR 160 DEGREES AT 2 MPH...4 KM/H
+PRESENT MOVEMENT...SE OR 145 DEGREES AT 2 MPH...4 KM/H
 MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
 
 
@@ -76,8 +72,7 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Storm Surge Warning for the coast of Texas has been
-discontinued.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -97,15 +92,16 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 AM CDT (1500 UTC), the center of Tropical Storm Harvey was
-located near latitude 29.0 North, longitude 97.4 West. Harvey is
-moving toward the south-southeast near 2 mph (4 km/h), and a
-slow southeastward to east-southeastward motion is expected over the
-next couple of days.  On the forecast track, the center will move
-very near the coast of southeastern Texas.
+At 100 PM CDT (1800 UTC), the center of Tropical Storm Harvey was
+located near latitude 29.0 North, longitude 97.2 West. Harvey is
+moving toward the southeast near 2 mph (4 km/h), and a slow
+southeastward to east-southeastward motion is expected over the next
+couple of days.  On the forecast track, the center will move very
+near the coast of southeastern Texas on Monday.
 
-Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
-Little change in strength is forecast during the next 48 hours.
+Maximum sustained winds are near 40 mph (65 km/h) with higher
+gusts. Little change in strength is forecast during the next 48
+hours.
 
 Tropical-storm-force winds extend outward up to 175 miles (280 km)
 primarily over water to the east and northeast of the center.
@@ -127,10 +123,10 @@ ROADWAYS.  Please see warnings and other products issued by your
 local National Weather Service office for additional information on
 this dire and life-threatening situation.
 
-Elsewhere, Harvey is expected to produce total rain accumulations of
-5 to 15 inches farther south toward the lower Texas coast, farther
-west toward the Texas Hill Country, and farther east through
-southwest and central Louisiana.
+Elsewhere, Harvey is expected to produce total rain accumulations
+of 5 to 15 inches farther south toward the lower Texas coast,
+farther west toward the Texas Hill Country, and farther east
+through southwest and central Louisiana.
 
 A list of rainfall observations compiled by the NOAA Weather
 Prediction Center can be found at:
@@ -153,7 +149,7 @@ greatly over short distances.  For information specific to your
 area, please see products issued by your local National Weather
 Service forecast office.
 
-WIND:   Tropical storm conditions are occurring in an area near the
+WIND:  Tropical storm conditions are occurring in an area near the
 center and over portions of the tropical storm warning area along
 the coast.  Tropical storm conditions are likely to persist in
 areas of onshore flow within the warning area during the next day
@@ -170,12 +166,12 @@ the middle and upper Texas coast into southwest Louisiana.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 100 PM CDT.
 Next complete advisory at 400 PM CDT.
 
 $$
 Forecaster Brown
 
 NNNN
+
 </message>
 </cycloneMessage>
