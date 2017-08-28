@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>30A</advisoryNumber>
+<advisoryNumber>31</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170827 07:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170828 12:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708280000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0700 PM CDT Sun Aug 27</messageDateTimeLocalStr>
-<timeEpochSeconds>1503878400</timeEpochSeconds>
+<messageDateTimeLocal>20170827 10:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170828 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708280300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1000 PM CDT Sun Aug 27</messageDateTimeLocalStr>
+<timeEpochSeconds>1503889200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HARVEY</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>28.9</centerLocLatitude>
-<centerLocLongitude>-96.8</centerLocLongitude>
+<centerLocLatitude>28.8</centerLocLatitude>
+<centerLocLongitude>-96.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>28.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>96.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>28.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>96.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
@@ -38,33 +38,35 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>SE OR 130 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>ESE OR 120 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>3</systemSpeedMph>
 <systemSpeedKph>6</systemSpeedKph>
 <systemSpeedKts>3</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 10 MI...15 KM NE OF VICTORIA TEXAS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 20 MI...30 KM E OF VICTORIA TEXAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 30 MI...50 KM NNW OF PORT OCONNOR TEXAS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Harvey Intermediate Advisory Number 30A
+Tropical Storm Harvey Advisory Number  31
 NWS National Hurricane Center Miami FL       AL092017
-700 PM CDT Sun Aug 27 2017
+1000 PM CDT Sun Aug 27 2017
 
-...UNPRECEDENTED FLOODING CONTINUES OVER SOUTHEASTERN TEXAS...
-...DO NOT ATTEMPT TO TRAVEL IN THE AFFECTED AREAS IF YOU ARE IN A
-SAFE PLACE AND DO NOT DRIVE INTO FLOODED ROADWAYS...
+...LIFE-THREATENING FLOODING CONTINUES OVER SOUTHEASTERN TEXAS...
+...DO NOT ATTEMPT TO TRAVEL IN THE AFFECTED AREAS IF YOU ARE IN
+A SAFE PLACE AND DO NOT DRIVE INTO FLOODED ROADWAYS...
 
 
-SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
-----------------------------------------------
-LOCATION...28.9N 96.8W
-ABOUT 10 MI...15 KM NE OF VICTORIA TEXAS
+SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...28.8N 96.6W
+ABOUT 20 MI...30 KM E OF VICTORIA TEXAS
+ABOUT 30 MI...50 KM NNW OF PORT OCONNOR TEXAS
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...SE OR 130 DEGREES AT 3 MPH...6 KM/H
+PRESENT MOVEMENT...ESE OR 120 DEGREES AT 3 MPH...6 KM/H
 MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
 
 
@@ -72,21 +74,23 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The Tropical Storm Warning has been extended from Port O'Connor
+southward to Mesquite Bay and from Sargent northeastward to High
+Island.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Tropical Storm Warning is in effect for...
-* Port O'Connor to Sargent Texas
-
-A Tropical Storm Watch is in effect for...
-* North of Sargent to San Luis Pass Texas
+* Mesquite Bay to High Island
 
 Catastrophic and life-threatening flooding continues in southeastern
 Texas, and flash flood emergencies are in effect for portions of
 this area.  Please see warnings and other products issued by your
 local National Weather Service office for additional information on
 this life-threatening situation.
+
+Interests elsewhere along the upper Texas coast and in southwestern
+Louisiana should continue to monitor the progress of Harvey.
 
 For storm information specific to your area, including possible
 inland watches and warnings, please monitor products issued by your
@@ -95,18 +99,18 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 700 PM CDT (0000 UTC), the center of Tropical Storm Harvey was
-located inland near latitude 28.9 North, longitude 96.8 West. Harvey
-is moving toward the southeast near 3 mph (4 km/h), and a slow
-southeastward motion is expected over the next couple of days. On
-the forecast track, the center of Harvey is forecast to move off the
-middle Texas coast on Monday and meander just offshore through
-Monday night.
+At 1000 PM CDT (0300 UTC), the center of Tropical Storm Harvey was
+located inland near latitude 28.8 North, longitude 96.6 West. Harvey
+is moving toward the east-southeast near 3 mph (6 km/h) and this
+slow east-southeastward to southeastward motion is expected to
+continue through Monday.  A slow northeastward motion is expected to
+begin on Tuesday. On the forecast track, the center of Harvey is
+forecast to move off the middle Texas coast on Monday and meander
+just offshore through Tuesday.
 
-Maximum sustained winds are near 40 mph (65 km/h) with higher
-gusts.  Little change in strength is forecast during the next 24
-hours.  Some slight restrengthening is possible after the center
-moves off the coast on Monday night and Tuesday.
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Some slight restrengthening is possible after the center moves off
+the coast late Monday and Tuesday.
 
 Tropical-storm-force winds extend outward up to 140 miles (220 km)
 primarily over water to the east of the center.
@@ -118,7 +122,7 @@ HAZARDS AFFECTING LAND
 ----------------------
 RAINFALL:  Harvey is expected to produce additional rainfall
 accumulations of 15 to 25 inches through Friday over the upper Texas
-coast and into southwestern Louisiana. Isolated storm totals may
+coast and into southwestern Louisiana.  Isolated storm totals may
 reach 50 inches over the upper Texas coast, including the Houston/
 Galveston metropolitan area.  These rains are currently producing
 catastrophic and life-threatening flooding, and flash flood
@@ -155,9 +159,8 @@ Service forecast office.
 WIND:  Tropical storm conditions are occurring in an area near the
 center of Harvey and in portions of the tropical storm warning area
 along the coast.  Tropical storm conditions are likely to persist in
-areas of onshore flow within the warning area during the next day or
-so.  Tropical storm conditions are possible within the watch area by
-Monday night.
+areas of onshore winds within the warning area during the next
+couple of days.
 
 SURF:  Swells generated by Harvey are affecting the coasts of Texas
 and Louisiana.  These swells are likely to cause life-threatening
@@ -170,12 +173,12 @@ upper Texas coast and into far southwest Louisiana.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1000 PM CDT.
+Next intermediate advisory at 100 AM CDT.
+Next complete advisory at 400 AM CDT.
 
 $$
 Forecaster Brennan
 
 NNNN
-
 </message>
 </cycloneMessage>

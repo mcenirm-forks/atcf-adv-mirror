@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "1A",
+  "advisoryNumber": "2",
   "atcfID": "AL102017",
-  "centerLocLatitude": "30.9",
-  "centerLocLatitudeExpanded": "30.9N",
-  "centerLocLongitude": "-80.3",
-  "centerLocLongitudeExpanded": "80.3W",
+  "centerLocLatitude": "30.5",
+  "centerLocLatitudeExpanded": "30.5N",
+  "centerLocLongitude": "-80.8",
+  "centerLocLongitudeExpanded": "80.8W",
   "event_title": "POTENTIAL TROPICAL CYCLONE TEN",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "90",
@@ -46,21 +46,21 @@
   ],
   "location": {
     "coordinates": [
-      -80.3,
-      30.9
+      -80.8,
+      30.5
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nPotential Tropical Cyclone Ten Intermediate Advisory Number 1A\nNWS National Hurricane Center Miami FL       AL102017\n800 PM EDT Sun Aug 27 2017\n\n...DISTURBANCE NEARLY STATIONARY OFF THE SOUTHEAST U.S. COAST...\n\n\nSUMMARY OF 800 PM EDT...0000 UTC...INFORMATION\n----------------------------------------------\nLOCATION...30.9N 80.3W\nABOUT 135 MI...220 KM SSW OF CHARLESTON SOUTH CAROLINA\nABOUT 270 MI...435 KM SSW OF WILMINGTON NORTH CAROLINA\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...STATIONARY\nMINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Tropical Storm Watch is in effect for...\n* South Santee River to Duck\n* Albemarle Sound\n* Pamlico Sound\n\nA Tropical Storm Watch means that tropical storm conditions are\npossible within the watch area, in this case within the next 24 to\n48 hours.\n\nFor storm information specific to your area, including possible\ninland watches and warnings, please monitor products issued by your\nlocal National Weather Service forecast office.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 800 PM EDT (0000 UTC), the disturbance was centered near latitude\n30.9 North, longitude 80.3 West.  The system is currently\nstationary.  A slow northward motion is expected overnight and\nMonday, followed by a faster northeastward motion Monday night and\nTuesday. On the forecast track, the system will move slowly offshore\nof the South Carolina coast tonight and Monday, and then move along\nor near the northeastern coast of South Carolina and the North\nCarolina coast Monday night and Tuesday.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nSome strengthening is forecast during the next 48 hours, and the\nsystem is expected to become a tropical storm later tonight or\nMonday.  The disturbance is expected to become post-tropical on\nTuesday.\n\nSatellite and radar data indicate that the associated showers and\nthunderstorms continue to be well organized, but the center of\ncirculation is not yet well defined.  Only a slight increase in the\ndefinition of the circulation would lead to the formation of a\ntropical cyclone.\n* Formation chance through 48 hours...high...90 percent\n* Formation chance through 5 days...high...90 percent\n\nThe estimated minimum central pressure based on buoy data is 1007\nmb (29.74 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nWIND:  Tropical storm conditions are possible within the watch\narea Monday night through Tuesday.\n\nRAINFALL:  The system is expected to produce total rain\naccumulations of 2 to 4 inches along the South Carolina, North\nCarolina, and southeast Virginia coasts, with isolated possible\nmaximum amounts of 6 inches.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 PM EDT.\n\n$$\nForecaster Cangialosi\n\nNNNN",
+  "message": "ZCZC MIATCPAT5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nPotential Tropical Cyclone Ten Advisory Number   2\nNWS National Hurricane Center Miami FL       AL102017\n1100 PM EDT Sun Aug 27 2017\n\n...DISTURBANCE EXPECTED TO MEANDER OFF THE SOUTHEAST U.S. COAST\nTHROUGH MONDAY...\n\n\nSUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...30.5N 80.8W\nABOUT 165 MI...270 KM SSW OF CHARLESTON SOUTH CAROLINA\nABOUT 310 MI...500 KM SW OF WILMINGTON NORTH CAROLINA\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...STATIONARY\nMINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Tropical Storm Watch is in effect for...\n* South Santee River to Duck\n* Albemarle Sound\n* Pamlico Sound\n\nA Tropical Storm Watch means that tropical storm conditions are\npossible within the watch area, in this case within the next 24 to\n36 hours.\n\nFor storm information specific to your area, including possible\ninland watches and warnings, please monitor products issued by your\nlocal National Weather Service forecast office.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 PM EDT (0300 UTC), the disturbance was centered near\nlatitude 30.5 North, longitude 80.8 West. The system is currently\nstationary.  A slow and erratic motion is forecast through early\nMonday, followed by a faster northeastward motion Monday night and\nTuesday.  On the forecast track, the system will move near the\nGeorgia and South Carolina coasts tonight and Monday and move along\nthe North Carolina coast Monday night and Tuesday.\n\nMaximum sustained winds remain near 35 mph (55 km/h) with higher\ngusts.  Some strengthening is forecast during the next 48 hours, and\nthe system is expected to become a tropical storm on Monday.  The\ncyclone is forecast to become post-tropical on Tuesday.\n\nA wind gust of 43 mph (69 km/h) has recently been reported at NOAA's\nGray's Reef buoy off the Georgia coast.\n\nSatellite and radar data indicate that the associated showers and\nthunderstorms remain organized, but the center of circulation\nis not yet well defined.  Only a slight increase in the definition\nof the circulation would lead to the formation of a tropical\ncyclone.\n* Formation chance through 48 hours...high...90 percent\n* Formation chance through 5 days...high...90 percent\n\nThe estimated minimum central pressure based on buoy data is 1007 mb\n(29.74 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nWIND:  Tropical storm conditions are possible within the watch\narea Monday night and Tuesday.\n\nRAINFALL:  The system is expected to produce total rain\naccumulations of 2 to 4 inches along the South Carolina, North\nCarolina, and southeast Virginia coasts, with possible isolated\nmaximum amounts of 6 inches.\n\nSURF:  Swells generated by this disturbance will affect portions of\nthe Georgia, South Carolina, and North Carolina coasts during the\nnext day or two, creating dangerous surf and rip current\nconditions.  Please consult products from your local weather office.\n\n\nNEXT ADVISORY\n-------------\nNext intermediate advisory at 200 AM EDT.\nNext complete advisory at 500 AM EDT.\n\n$$\nForecaster Cangialosi\n\nNNNN",
   "messageBinNumber": "5",
-  "messageDateTimeLocal": "20170827 08:00:00 PM EDT",
-  "messageDateTimeLocalStr": "0800 PM EDT Sun Aug 27",
-  "messageDateTimeUTC": "20170828 12:00:00 AM UTC",
-  "messageDateTimeUTC24": "201708280000",
-  "messageType": "INTERMEDIATE ADVISORY",
+  "messageDateTimeLocal": "20170827 11:00:00 PM EDT",
+  "messageDateTimeLocalStr": "1100 PM EDT Sun Aug 27",
+  "messageDateTimeUTC": "20170828 03:00:00 AM UTC",
+  "messageDateTimeUTC24": "201708280300",
+  "messageType": "ROUTINE ADVISORY",
   "systemDirectionOfMotion": "STATIONARY",
-  "systemGeoRefPt1": "ABOUT 135 MI...220 KM SSW OF CHARLESTON SOUTH CAROLINA",
-  "systemGeoRefPt2": "ABOUT 270 MI...435 KM SSW OF WILMINGTON NORTH CAROLINA",
+  "systemGeoRefPt1": "ABOUT 165 MI...270 KM SSW OF CHARLESTON SOUTH CAROLINA",
+  "systemGeoRefPt2": "ABOUT 310 MI...500 KM SW OF WILMINGTON NORTH CAROLINA",
   "systemIntensityKph": "55",
   "systemIntensityKts": "30",
   "systemIntensityMph": "35",
@@ -72,6 +72,6 @@
   "systemSpeedKts": "0",
   "systemSpeedMph": "0",
   "systemType": "POTENTIAL TROPICAL CYCLONE",
-  "time": "2017-08-28 00:00:00",
-  "timeEpochSeconds": "1503878400"
+  "time": "2017-08-28 03:00:00",
+  "timeEpochSeconds": "1503889200"
 }
