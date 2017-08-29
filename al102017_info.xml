@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL102017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>8A</advisoryNumber>
+<advisoryNumber>9</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170829 02:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170829 06:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708291800</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 PM EDT Tue Aug 29</messageDateTimeLocalStr>
-<timeEpochSeconds>1504029600</timeEpochSeconds>
+<messageDateTimeLocal>20170829 05:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170829 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708292100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM EDT Tue Aug 29</messageDateTimeLocalStr>
+<timeEpochSeconds>1504040400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>POTENTIAL TROPICAL CYCLONE</systemType>
 <systemName>TEN</systemName>
@@ -19,70 +19,68 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>35.3</centerLocLatitude>
-<centerLocLongitude>-75.8</centerLocLongitude>
+<centerLocLatitude>36.0</centerLocLatitude>
+<centerLocLongitude>-74.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>35.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>75.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>36.0N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>74.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>40</systemIntensityMph>
-<systemIntensityKph>65</systemIntensityKph>
-<systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1006</systemMslpMb>
-<systemMslpInHg>29.71</systemMslpInHg>
+<systemIntensityMph>45</systemIntensityMph>
+<systemIntensityKph>75</systemIntensityKph>
+<systemIntensityKts>40</systemIntensityKts>
+<systemMslpMb>1003</systemMslpMb>
+<systemMslpInHg>29.62</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
-<formationChancePct48h>10</formationChancePct48h>
-<formationChancePct5d>10</formationChancePct5d>
+<formationChancePct48h>0</formationChancePct48h>
+<formationChancePct5d>0</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NE OR 45 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>20</systemSpeedMph>
-<systemSpeedKph>31</systemSpeedKph>
-<systemSpeedKts>17</systemSpeedKts>
+<systemDirectionOfMotion>NE OR 50 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>24</systemSpeedMph>
+<systemSpeedKph>39</systemSpeedKph>
+<systemSpeedKts>21</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 20 MI...30 KM WNW OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 45 MI...70 KM S OF MANTEO NORTH CAROLINA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 85 MI...140 KM NE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Potential Tropical Cyclone Ten Intermediate Advisory Number 8A
+Potential Tropical Cyclone Ten Advisory Number   9
 NWS National Hurricane Center Miami FL       AL102017
-200 PM EDT Tue Aug 29 2017
+500 PM EDT Tue Aug 29 2017
 
-...DISTURBANCE MOVING ACROSS THE OUTER BANKS OF NORTH CAROLINA...
+...DISTURBANCE MOVING AWAY FROM THE NORTH CAROLINA COAST...
+...THIS IS THE LAST ADVISORY...
 
 
-SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...35.3N 75.8W
-ABOUT 20 MI...30 KM WNW OF CAPE HATTERAS NORTH CAROLINA
-ABOUT 45 MI...70 KM S OF MANTEO NORTH CAROLINA
-MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...NE OR 45 DEGREES AT 20 MPH...31 KM/H
-MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+LOCATION...36.0N 74.3W
+ABOUT 85 MI...140 KM NE OF CAPE HATTERAS NORTH CAROLINA
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...NE OR 50 DEGREES AT 24 MPH...39 KM/H
+MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+All tropical storm warnings for the coast of North Carolina have
+been discontinued.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
-A Tropical Storm Warning is in effect for...
-* Cape Lookout to Duck
-* Albemarle Sound
-* Pamlico Sound
+There are no coastal tropical watches or warnings in effect.
 
-A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area.
+High wind warnings are in effect for coastal portions of
+northeastern North Carolina, southeastern Virginia, and the eastern
+shore of Virginia and Maryland through this evening.
 
 For storm information specific to your area, including possible
 inland watches and warnings, please monitor products issued by your
@@ -91,41 +89,37 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 PM EDT (1800 UTC), the disturbance was centered over Pamlico
-Sound near latitude 35.3 North, longitude 75.8 West.  The system
-is moving toward the northeast near 20 mph (31 km/h), and it is
-expected to accelerate further toward the northeast and
-east-northeast during the next couple of days.  The disturbance is
-forecast to move off the coast of North Carolina later today and
-then move away from the coast over the western Atlantic Ocean
-tonight.
+At 500 PM EDT (2100 UTC), the disturbance was centered off the
+coast of North Carolina near latitude 36.0 North, longitude 74.3
+West.  The system is moving toward the northeast near 20 mph (31
+km/h), and it is expected to accelerate further toward the northeast
+and east-northeast during the next couple of days.  The disturbance
+will continue to move away from the North Carolina coast over the
+western Atlantic Ocean tonight.
 
-Maximum sustained winds are near 40 mph (65 km/h) with higher
-gusts.  The disturbance is not expected to change much in strength
-until it begins to move away from the coast of North Carolina
-tonight, and it is not likely to become a tropical cyclone.
-Tropical-storm-force winds, especially in gusts, and heavy rains are
-still possible over portions of the Outer Banks of North Carolina
-for the next few hours.  The disturbance is forecast to strengthen
-at sea and become a hurricane-force extratropical low over the
-northwestern Atlantic Ocean by Wednesday evening.
-* Formation chance through 48 hours...low...10 percent
-* Formation chance through 5 days...low...10 percent
+Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
+The disturbance is forecast to strengthen at sea and become a
+hurricane-force extratropical low over the northwestern Atlantic
+Ocean by Wednesday evening.  The system is not expected to become a
+tropical cyclone.
+* Formation chance through 48 hours...low...near 0 percent
+* Formation chance through 5 days...low...near 0 percent
 
 Tropical-storm-force winds extend outward up to 105 miles (165 km)
-to the southeast of the center.
+to the east of the center.
 
-The estimated minimum central pressure is 1006 mb (29.71 inches).
+The estimated minimum central pressure is 1003 mb (29.62 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-WIND:  Tropical storm conditions are still possible within the
-warning area through this afternoon.
+WIND:  Strong winds, with gusts up to 55 mph, are expected across
+coastal portions of northeastern North Carolina, southeastern
+Virginia, and the eastern shore of Virginia and Maryland through
+this evening.
 
 RAINFALL:  The system is expected to produce total rain
-accumulations of 1 to 3 inches with isolated amounts of 5 inches
-along the northeast North Carolina and southeast Virginia coasts
+accumulations of 1 to 3 inches from the southeast Virginia coast
 into the Delmarva through Wednesday. The heavier rains may result in
 some flooding concerns along coastal areas.
 
@@ -137,12 +131,15 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM EDT.
+This is the last public advisory issued by the National Hurricane
+Center on this system.  Additional information on this system can be
+found in High Seas Forecasts issued by the National Weather Service,
+under AWIPS header NFDHSFAT1, WMO header FZNT01 KWBC, and available
+on the Web at http://www.opc.ncep.noaa.gov/shtml/NFDHSFAT1.shtml.
 
 $$
 Forecaster Berg
 
 NNNN
-
 </message>
 </cycloneMessage>

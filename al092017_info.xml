@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>37A</advisoryNumber>
+<advisoryNumber>38</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170829 01:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170829 06:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708291800</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0100 PM CDT Tue Aug 29</messageDateTimeLocalStr>
-<timeEpochSeconds>1504029600</timeEpochSeconds>
+<messageDateTimeLocal>20170829 04:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170829 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708292100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 PM CDT Tue Aug 29</messageDateTimeLocalStr>
+<timeEpochSeconds>1504040400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HARVEY</systemName>
@@ -19,63 +19,70 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>28.8</centerLocLatitude>
+<centerLocLatitude>29.2</centerLocLatitude>
 <centerLocLongitude>-94.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>28.8N</centerLocLatitudeExpanded>
+<centerLocLatitudeExpanded>29.2N</centerLocLatitudeExpanded>
 <centerLocLongitudeExpanded>94.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>45</systemIntensityMph>
-<systemIntensityKph>75</systemIntensityKph>
-<systemIntensityKts>40</systemIntensityKts>
-<systemMslpMb>997</systemMslpMb>
-<systemMslpInHg>29.44</systemMslpInHg>
+<systemIntensityMph>50</systemIntensityMph>
+<systemIntensityKph>85</systemIntensityKph>
+<systemIntensityKts>45</systemIntensityKts>
+<systemMslpMb>994</systemMslpMb>
+<systemMslpInHg>29.36</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNE OR 20 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>8</systemSpeedMph>
-<systemSpeedKph>13</systemSpeedKph>
-<systemSpeedKts>7</systemSpeedKts>
+<systemDirectionOfMotion>NNE OR 30 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>6</systemSpeedMph>
+<systemSpeedKph>9</systemSpeedKph>
+<systemSpeedKts>5</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT  80 MI...130 KM SSW OF PORT ARTHUR TEXAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT  95 MI...155 KM  SW OF CAMERON LOUISIANA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 55 MI...85 KM SSW OF PORT ARTHUR TEXAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 75 MI...115 KM SW OF CAMERON LOUISIANA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Harvey Intermediate Advisory Number 37A
+Tropical Storm Harvey Advisory Number  38
 NWS National Hurricane Center Miami FL       AL092017
-100 PM CDT Tue Aug 29 2017
+400 PM CDT Tue Aug 29 2017
 
-...HARVEY CONTINUES TO DUMP CATASTROPHIC RAINS OVER
+...HARVEY CRAWLING TOWARD THE COAST DUMPING CATASTROPHIC RAINS OVER
 SOUTHEASTERN TEXAS AND SOUTHWESTERN LOUISIANA...
 
 
-SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...28.8N 94.3W
-ABOUT  80 MI...130 KM SSW OF PORT ARTHUR TEXAS
-ABOUT  95 MI...155 KM  SW OF CAMERON LOUISIANA
-MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
-PRESENT MOVEMENT...NNE OR 20 DEGREES AT 8 MPH...13 KM/H
-MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
+LOCATION...29.2N 94.3W
+ABOUT 55 MI...85 KM SSW OF PORT ARTHUR TEXAS
+ABOUT 75 MI...115 KM SW OF CAMERON LOUISIANA
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...NNE OR 30 DEGREES AT 6 MPH...9 KM/H
+MINIMUM CENTRAL PRESSURE...994 MB...29.36 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None
+A Storm Surge Warning has been issued from Holly Beach to Morgan
+City Louisiana.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Storm Surge Warning is in effect for...
+* Holly Beach to Morgan City
+
+A Storm Surge Watch is in effect for...
+* Port Bolivar to west of Holly Beach
 
 A Tropical Storm Warning is in effect for...
 * North of Port O'Connor to Morgan City Louisiana
@@ -83,21 +90,22 @@ A Tropical Storm Warning is in effect for...
 A Tropical Storm Watch is in effect for...
 * East of Morgan City to Grand Isle
 
-A Storm Surge Watch is in effect for...
-* Port Bolivar to Morgan City
-
 Catastrophic and life-threatening flooding continues in southeastern
 Texas and portions of southwestern Louisiana.  Please see warnings
 and other products issued by your local National Weather Service
 office for additional information on this life-threatening
 situation.
 
-A Storm Surge Watch means there is a possibility of life-
-threatening inundation, from rising water moving inland from the
-coastline, in the indicated locations during the next 48 hours.
-For a depiction of areas at risk, please see the National Weather
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 12 to 24 hours in the indicated locations.  For a
+depiction of areas at risk, please see the National Weather
 Service Storm Surge Watch/Warning Graphic, available at
-hurricanes.gov.
+hurricanes.gov.  This is a life-threatening situation.  Persons
+located within these areas should take all necessary actions to
+protect life and property from rising water and the potential for
+other dangerous conditions.  Promptly follow evacuation and other
+instructions from local officials.
 
 For storm information specific to your area, including possible
 inland watches and warnings, please monitor products issued by your
@@ -106,34 +114,34 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 100 PM CDT (1800 UTC), the center of Tropical Storm Harvey was
-located near latitude 28.8 North, longitude 94.3 West. Harvey is
-moving a little faster toward the north-northeast near 8 mph (13
-km/h), and this general motion is expected to continue today and
-tomorrow. On the forecast track, the center of Harvey is expected to
-move inland over the northwestern Gulf within the tropical storm
-warning area later tonight or early Wednesday.
+At 400 PM CDT (2100 UTC), the center of Tropical Storm Harvey was
+estimated from data from an Air Force reconnaissance plane near
+latitude 29.2 North, longitude 94.3 West.  Harvey is moving toward
+the north-northeast near 6 mph (9 km/h), and this general motion is
+expected to continue tonight and tomorrow. On the forecast track,
+the broad circulation center of Harvey is expected to move inland
+over the northwestern Gulf Coast within the tropical storm warning
+area by early Wednesday.
 
-Maximum sustained winds remain near 45 mph (75 km/h) with higher
-gusts. An Air Force plane is currently approaching the center of
-Harvey.
-
-No significant change in strength is expected before the center
-moves inland. A gradual weakening should begin thereafter.
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+No significant change in strength is anticipated before the center
+crosses the coast, but gradual weakening should begin thereafter.
 
 Tropical-storm-force winds extend outward up to 160 miles (260 km)
-mainly to the east of the center.
+from the center.  Galveston recently reported a sustained wind of
+39 mph and a gust to 54 mph.
 
-The estimated minimum central pressure is 997 mb (29.44 inches).
+The minimum central pressure reported by an Air Force reconnaissance
+plane was 994 mb (29.36 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 RAINFALL:  Harvey is expected to produce additional rainfall
-accumulations of 6 to 12 inches through Friday over parts of the
-upper Texas coast into southwestern Louisiana.  Isolated storm
-totals may reach 50 inches over the upper Texas coast, including the
-Houston/Galveston metropolitan area.  These rains are currently
+accumulations of 6 to 12 inches to the north and east of Houston
+from far east Texas into southwestern Louisiana.  Isolated storm
+totals will reach 50 inches over the upper Texas coast, including
+the Houston/Galveston metropolitan area.  These rains are currently
 producing catastrophic and life-threatening flooding over large
 portions of southeastern Texas and southwestern Louisiana.  DO NOT
 ATTEMPT TO TRAVEL IN THE AFFECTED AREA IF YOU ARE IN A SAFE PLACE.
@@ -141,16 +149,16 @@ DO NOT DRIVE INTO FLOODED ROADWAYS.  Please see warnings and
 products issued by your local National Weather Service office for
 additional information on this life-threatening situation.
 
-Elsewhere, Harvey is expected to produce additional rainfall amounts
-of 5 to 10 inches across portions of southern Louisiana into coastal
+Elsewhere, Harvey is expected to produce total rainfall amounts of 5
+to 10 inches across portions of southern Louisiana into coastal
 Mississippi and Alabama. Rainfall associated with Harvey will spread
 north by mid to late week, with rainfall amounts of 4 to 8 inches
 spreading into portions of Arkansas and the Tennessee Valley.
 
-A preliminary report from one Texas rain gauge has broken the Texas
-tropical cyclone rainfall record. Southeast of Houston, Mary's Creek
-at Winding Road reported 49.32 inches as of 9 am CDT. This total is
-higher than the previous record of 48 inches set during tropical
+A preliminary report from a rain gauge has broken the Texas tropical
+cyclone rainfall record.  The Cedar Bayou gauge, east of Highlands,
+Texas, has reported 51.88 inches of rain as of 3 PM CDT.  This total
+is higher than the previous record of 48 inches set during tropical
 cyclone Amelia of 1978 at Medina, Texas.
 
 A list of rainfall observations compiled by the NOAA Weather
@@ -163,12 +171,14 @@ rising waters moving inland from the shoreline.  The water is
 expected to reach the following heights above ground if the peak
 surge occurs at the time of high tide...
 
-San Luis Pass to Morgan City including Galveston Bay...1 to 3 ft
+Holly Beach to Morgan City...2 to 4 ft
+San Luis Pass to west of Holly Beach including Galveston Bay...1 to
+3 ft
 
 The deepest water will occur along the immediate coast near the
-area of onshore winds.  Surge-related flooding depends on the
+area of onshore winds. Surge-related flooding depends on the
 relative timing of the surge and the tidal cycle, and can vary
-greatly over short distances.  For information specific to your
+greatly over short distances. For information specific to your
 area, please see products issued by your local National Weather
 Service forecast office.
 
@@ -189,12 +199,12 @@ Mississippi and coastal Alabama.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 PM CDT.
+Next intermediate advisory at 700 PM CDT.
+Next complete advisory at 1000 PM CDT.
 
 $$
 Forecaster Avila
 
 NNNN
-
 </message>
 </cycloneMessage>
