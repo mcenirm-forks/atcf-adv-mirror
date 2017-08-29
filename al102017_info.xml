@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL102017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>6A</advisoryNumber>
+<advisoryNumber>7</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170829 02:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170829 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708290600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM EDT Tue Aug 29</messageDateTimeLocalStr>
-<timeEpochSeconds>1503986400</timeEpochSeconds>
+<messageDateTimeLocal>20170829 05:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170829 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708290900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM EDT Tue Aug 29</messageDateTimeLocalStr>
+<timeEpochSeconds>1503997200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>POTENTIAL TROPICAL CYCLONE</systemType>
 <systemName>TEN</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>32.5</centerLocLatitude>
-<centerLocLongitude>-79.5</centerLocLongitude>
+<centerLocLatitude>33.5</centerLocLatitude>
+<centerLocLongitude>-78.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>32.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>79.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>33.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>78.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
@@ -38,34 +38,34 @@
 <formationChancePct5d>50</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNE OR 20 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>7</systemSpeedMph>
-<systemSpeedKph>11</systemSpeedKph>
-<systemSpeedKts>6</systemSpeedKts>
+<systemDirectionOfMotion>NE OR 45 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 25 MI...40 KM ESE OF CHARLESTON SOUTH CAROLINA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 150 MI...240 KM SW OF WILMINGTON NORTH CAROLINA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 95 MI...150 KM ENE OF CHARLESTON SOUTH CAROLINA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 65 MI...100 KM SW OF WILMINGTON NORTH CAROLINA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Potential Tropical Cyclone Ten Intermediate Advisory Number 6A
+Potential Tropical Cyclone Ten Advisory Number   7
 NWS National Hurricane Center Miami FL       AL102017
-200 AM EDT Tue Aug 29 2017
+500 AM EDT Tue Aug 29 2017
 
-...DISTURBANCE LOCATED VERY NEAR THE SOUTH CAROLINA COAST...
-...PRODUCING GUSTY WINDS AND HEAVY RAINS...
+...DISTURBANCE LOCATED NEAR THE SOUTH CAROLINA AND NORTH
+CAROLINA COASTAL BORDER...
 
 
-SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...32.5N 79.5W
-ABOUT 25 MI...40 KM ESE OF CHARLESTON SOUTH CAROLINA
-ABOUT 150 MI...240 KM SW OF WILMINGTON NORTH CAROLINA
+LOCATION...33.5N 78.5W
+ABOUT 95 MI...150 KM ENE OF CHARLESTON SOUTH CAROLINA
+ABOUT 65 MI...100 KM SW OF WILMINGTON NORTH CAROLINA
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...NNE OR 20 DEGREES AT 7 MPH...11 KM/H
+PRESENT MOVEMENT...NE OR 45 DEGREES AT 12 MPH...19 KM/H
 MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
 
 
@@ -73,7 +73,8 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+A Tropical Storm Watch has been discontinued from South Santee River
+to Little River Inlet.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -83,13 +84,13 @@ A Tropical Storm Warning is in effect for...
 * Pamlico Sound
 
 A Tropical Storm Watch is in effect for...
-* Surf City to South Santee River
+* Surf City to Little River Inlet
 
 A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area.
+expected somewhere within the warning area later today.
 
 A Tropical Storm Watch means that tropical storm conditions are
-possible within the watch area.
+possible within the watch area later this morning.
 
 For storm information specific to your area, including possible
 inland watches and warnings, please monitor products issued by your
@@ -98,25 +99,24 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM EDT (0600 UTC), the disturbance was centered near latitude
-32.5 North, longitude 79.5 West.  The system is moving toward the
-north-northeast near 7 mph (11 km/h).  A faster northeast motion is
-expected during the next couple of days.  On the forecast track, the
-system will move near or over the coast of South Carolina this
-morning and across the North Carolina Outer Banks later today.
+At 500 AM EDT (0900 UTC), the disturbance was centered near latitude
+33.5 North, longitude 78.5 West.  The system is moving toward the
+northeast near 12 mph (19 km/h), and is anticipated to turn toward
+the east-northeast and accelerate during the next couple of days.
+The expected track will take the system along the North Carolina
+coast today before moving out to sea tonight.
 
 Maximum sustained winds remain near 40 mph (65 km/h) with higher
 gusts.  The disturbance is not expected to change much in strength
-through this morning and the chances for the system to become a
-tropical cyclone appear to be decreasing.  Regardless of whether or
-not this system becomes a tropical cyclone, tropical-storm-force
-winds and heavy rains are expected over portions of the Carolinas
-during the next day or so.
+today and the chances for the system to become a tropical cyclone
+appear to be decreasing.  Regardless of whether or not this system
+becomes a tropical cyclone, tropical-storm-force winds and heavy
+rains are expected over portions of North Carolina later today.
 * Formation chance through 48 hours... medium...50 percent
 * Formation chance through 5 days...medium...50 percent
 
-Tropical-storm-force winds extend outward up to 90 miles (150 km)
-southeast of the center.
+Tropical-storm-force winds extend outward up to 105 miles (165 km)
+from the center.
 
 The estimated minimum central pressure is 1006 mb (29.71 inches).
 
@@ -128,28 +128,28 @@ area this afternoon and tropical storm conditions are possible
 in the watch area later this morning.
 
 RAINFALL:  The system is expected to produce total rain
-accumulations of 3 to 6 inches along northeastern South
-Carolina, North Carolina, and southeast Virginia coasts, with
-possible isolated maximum amounts of 9 inches.  The heavier rains
-may result in some flooding concerns along coastal areas.
+accumulations of 1 to 3 inches with isolated amounts of 5 inches
+along northeastern North Carolina and southeast Virginia coasts into
+the Delmarva through Wednesday.  The heavier rains may result in
+some flooding concerns along coastal areas.
 
 SURF:  Swells generated by this disturbance will affect portions of
-the South Carolina, North Carolina, and Virginia coasts during the
-next day or so, creating dangerous surf and rip current conditions.
-Please consult products from your local weather office.
+the North Carolina  and Virginia coasts during the next day or so,
+creating dangerous surf and rip current conditions.  Please consult
+products from your local weather office.
 
-TORNADOES:  A brief tornado is possible today along the South
-Carolina and North Carolina coasts.
+TORNADOES:  A brief tornado is possible through midday along the
+North Carolina coast.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM EDT.
+Next intermediate advisory at 800 AM EDT.
+Next complete advisory at 1100 AM EDT.
 
 $$
 Forecaster Landsea
 
 NNNN
-
 </message>
 </cycloneMessage>
