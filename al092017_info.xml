@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>37</advisoryNumber>
+<advisoryNumber>37A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170829 10:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170829 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708291500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 AM CDT Tue Aug 29</messageDateTimeLocalStr>
-<timeEpochSeconds>1504018800</timeEpochSeconds>
+<messageDateTimeLocal>20170829 01:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170829 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708291800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0100 PM CDT Tue Aug 29</messageDateTimeLocalStr>
+<timeEpochSeconds>1504029600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HARVEY</systemName>
@@ -19,12 +19,12 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>28.4</centerLocLatitude>
+<centerLocLatitude>28.8</centerLocLatitude>
 <centerLocLongitude>-94.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>28.4N</centerLocLatitudeExpanded>
+<centerLocLatitudeExpanded>28.8N</centerLocLatitudeExpanded>
 <centerLocLongitudeExpanded>94.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
@@ -38,36 +38,34 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNE OR 25 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>5</systemSpeedMph>
-<systemSpeedKph>7</systemSpeedKph>
-<systemSpeedKts>4</systemSpeedKts>
+<systemDirectionOfMotion>NNE OR 20 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>8</systemSpeedMph>
+<systemSpeedKph>13</systemSpeedKph>
+<systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 115 MI...185 KM SSW OF CAMERON LOUISIANA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 105 MI...170 KM SSW OF PORT ARTHUR TEXAS</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT  80 MI...130 KM SSW OF PORT ARTHUR TEXAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT  95 MI...155 KM  SW OF CAMERON LOUISIANA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Harvey Advisory Number  37
+Tropical Storm Harvey Intermediate Advisory Number 37A
 NWS National Hurricane Center Miami FL       AL092017
-1000 AM CDT Tue Aug 29 2017
+100 PM CDT Tue Aug 29 2017
 
-...RELENTLESS TORRENTIAL RAINS CONTINUE OVER SOUTHEASTERN TEXAS AND
-SOUTHWESTERN LOUISIANA...
-...DO NOT ATTEMPT TO TRAVEL IN THE AFFECTED AREAS IF YOU ARE IN
-A SAFE PLACE, AND DO NOT DRIVE INTO FLOODED ROADWAYS...
+...HARVEY CONTINUES TO DUMP CATASTROPHIC RAINS OVER
+SOUTHEASTERN TEXAS AND SOUTHWESTERN LOUISIANA...
 
 
-SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...28.4N 94.3W
-ABOUT 115 MI...185 KM SSW OF CAMERON LOUISIANA
-ABOUT 105 MI...170 KM SSW OF PORT ARTHUR TEXAS
+SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...28.8N 94.3W
+ABOUT  80 MI...130 KM SSW OF PORT ARTHUR TEXAS
+ABOUT  95 MI...155 KM  SW OF CAMERON LOUISIANA
 MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
-PRESENT MOVEMENT...NNE OR 25 DEGREES AT 5 MPH...7 KM/H
+PRESENT MOVEMENT...NNE OR 20 DEGREES AT 8 MPH...13 KM/H
 MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
 
 
@@ -75,14 +73,7 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Tropical Storm Warning has been extended eastward to Morgan
-City Louisiana.
-
-A Tropical Storm Watch has been issued from east of Morgan City to
-Grand Isle Louisiana.
-
-The Tropical Storm Warning from Port O'Connor to Mesquite Bay
-has been discontinued.
+None
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -115,17 +106,20 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 AM CDT (1500 UTC), the center of Tropical Storm Harvey was
-located near latitude 28.4 North, longitude 94.3 West. Harvey is
-moving toward the north-northeast near 5 mph (7 km/h). A general
-north-northeast track is expected today and tomorrow.  On the
-forecast track, the center of Harvey is expected to be just offshore
-of the middle and upper coasts of Texas through tonight, then move
-inland over the northwestern Gulf coast early Wednesday.
+At 100 PM CDT (1800 UTC), the center of Tropical Storm Harvey was
+located near latitude 28.8 North, longitude 94.3 West. Harvey is
+moving a little faster toward the north-northeast near 8 mph (13
+km/h), and this general motion is expected to continue today and
+tomorrow. On the forecast track, the center of Harvey is expected to
+move inland over the northwestern Gulf within the tropical storm
+warning area later tonight or early Wednesday.
 
 Maximum sustained winds remain near 45 mph (75 km/h) with higher
-gusts. No significant change in strength is expected before the
-center moves inland. A gradual weakening should begin thereafter.
+gusts. An Air Force plane is currently approaching the center of
+Harvey.
+
+No significant change in strength is expected before the center
+moves inland. A gradual weakening should begin thereafter.
 
 Tropical-storm-force winds extend outward up to 160 miles (260 km)
 mainly to the east of the center.
@@ -195,12 +189,12 @@ Mississippi and coastal Alabama.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 100 PM CDT.
 Next complete advisory at 400 PM CDT.
 
 $$
 Forecaster Avila
 
 NNNN
+
 </message>
 </cycloneMessage>
