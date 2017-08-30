@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP142017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>2</advisoryNumber>
+<advisoryNumber>2A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170829 09:00:00 PM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170830 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708300300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0900 PM MDT Tue Aug 29</messageDateTimeLocalStr>
-<timeEpochSeconds>1504062000</timeEpochSeconds>
+<messageDateTimeLocal>20170830 12:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170830 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708300600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1200 AM MDT Wed Aug 30</messageDateTimeLocalStr>
+<timeEpochSeconds>1504072800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>POTENTIAL TROPICAL CYCLONE</systemType>
 <systemName>FOURTEEN</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>17.7</centerLocLatitude>
-<centerLocLongitude>-107.9</centerLocLongitude>
+<centerLocLatitude>18.1</centerLocLatitude>
+<centerLocLongitude>-108.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>17.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>107.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>108.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>30</systemIntensityMph>
 <systemIntensityKph>45</systemIntensityKph>
 <systemIntensityKts>25</systemIntensityKts>
-<systemMslpMb>1006</systemMslpMb>
-<systemMslpInHg>29.71</systemMslpInHg>
+<systemMslpMb>1005</systemMslpMb>
+<systemMslpInHg>29.68</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>100</formationChancePct48h>
 <formationChancePct5d>100</formationChancePct5d>
@@ -43,40 +43,37 @@
 <systemSpeedKph>17</systemSpeedKph>
 <systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 250 MI...405 KM WSW OF MANZANILLO MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 380 MI...615 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 265 MI...425 KM WSW OF MANZANILLO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 350 MI...560 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Potential Tropical Cyclone Fourteen-E Advisory Number   2
+Potential Tropical Cyclone Fourteen-E
+Intermediate Advisory Number 2A
 NWS National Hurricane Center Miami FL       EP142017
-900 PM MDT Tue Aug 29 2017
+1200 AM MDT Wed Aug 30 2017
 
 ...DISTURBANCE EXPECTED TO STRENGTHEN...
-...NEW WATCHES ISSUED FOR BAJA CALIFORNIA SUR...
 
 
-SUMMARY OF 900 PM MDT...0300 UTC...INFORMATION
-----------------------------------------------
-LOCATION...17.7N 107.9W
-ABOUT 250 MI...405 KM WSW OF MANZANILLO MEXICO
-ABOUT 380 MI...615 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+SUMMARY OF 1200 AM MDT...0600 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...18.1N 108.2W
+ABOUT 265 MI...425 KM WSW OF MANZANILLO MEXICO
+ABOUT 350 MI...560 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
 PRESENT MOVEMENT...NW OR 310 DEGREES AT 10 MPH...17 KM/H
-MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of Mexico has extended the Hurricane Watch northward
-on the west coast of Baja California Sur from Todos Santos to
-Puerto Cortes and issued a Tropical Storm Watch on the east coast of
-Baja California Sur from Los Barriles to San Evaristo.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -110,34 +107,34 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 900 PM MDT (0300 UTC), the disturbance was centered near latitude
-17.7 North, longitude 107.9 West.  The system is moving toward the
-northwest near 10 mph (17 km/h).  A slower northwest to
+At 1200 AM MDT (0600 UTC), the disturbance was centered near
+latitude 18.1 North, longitude 108.2 West.  The system is moving
+toward the northwest near 10 mph (17 km/h).  A slower northwest to
 north-northwest motion is expected during the next couple of days.
 On the forecast track, the center of the disturbance will be near
 the southern tip of the Baja California peninsula by late Thursday.
 
 Maximum sustained winds remain near 30 mph (45 km/h) with higher
-gusts.  The system is expected to strengthen to a tropical storm on
-Wednesday, and it could become a hurricane by late Thursday.
+gusts.  The system is expected to strengthen to a tropical storm
+later today, and it could become a hurricane by late Thursday.
 
-The disturbance continues to become better organized, and only a
+The disturbance continues to show signs of organization, and only a
 small increase in the definition of the circulation would lead to
 the formation of a tropical cyclone.
 * Formation chance through 48 hours...high...near 100 percent
 * Formation chance through 5 days...high...near 100 percent
 
-The estimated minimum central pressure is 1006 mb (29.71 inches).
+The estimated minimum central pressure is 1005 mb (29.68 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 WIND:  Tropical storm conditions are expected to first reach the
-coast within the warning area by late Wednesday, making outside
-preparations difficult or dangerous.  Hurricane conditions are also
-possible within the watch area on Thursday.  Tropical-storm-force
-wind gusts are possible in rainbands along the coast of Michoacan,
-Colima and Jalisco tonight and Wednesday.
+coast within the warning area by late today or tonight, making
+outside preparations difficult or dangerous.  Hurricane conditions
+are also possible within the watch area on Thursday.
+Tropical-storm-force wind gusts are possible in rainbands along the
+coast of Michoacan, Colima and Jalisco today.
 
 RAINFALL:  The system is expected to produce total rain
 accumulations of 5 to 10 inches in the Mexican states of Michoacan,
@@ -147,19 +144,19 @@ life-threatening flash floods and mudslides.
 
 SURF:  Swells generated by the disturbance are affecting portions of
 the coast of southwestern Mexico.  These swells will likely reach
-the southern portions of the Baja California Sur on Wednesday, and
-could cause life-threatening surf and rip current conditions.
-Please consult products from your local weather office.
+the southern portions of Baja California Sur later today, and could
+cause life-threatening surf and rip current conditions.  Please
+consult products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 1200 AM MDT.
 Next complete advisory at 300 AM MDT.
 
 $$
-Forecaster Cangialosi
+Forecaster Pasch
 
 NNNN
+
 </message>
 </cycloneMessage>
