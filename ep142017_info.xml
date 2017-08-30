@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP142017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>3</advisoryNumber>
+<advisoryNumber>3A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170830 03:00:00 AM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170830 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708300900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0300 AM MDT Wed Aug 30</messageDateTimeLocalStr>
-<timeEpochSeconds>1504083600</timeEpochSeconds>
+<messageDateTimeLocal>20170830 06:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170830 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708301200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0600 AM MDT Wed Aug 30</messageDateTimeLocalStr>
+<timeEpochSeconds>1504094400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>POTENTIAL TROPICAL CYCLONE</systemType>
 <systemName>FOURTEEN</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>18.5</centerLocLatitude>
+<centerLocLatitude>18.8</centerLocLatitude>
 <centerLocLongitude>-108.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>18.5N</centerLocLatitudeExpanded>
+<centerLocLatitudeExpanded>18.8N</centerLocLatitudeExpanded>
 <centerLocLongitudeExpanded>108.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>30</systemIntensityMph>
-<systemIntensityKph>45</systemIntensityKph>
-<systemIntensityKts>25</systemIntensityKts>
-<systemMslpMb>1005</systemMslpMb>
-<systemMslpInHg>29.68</systemMslpInHg>
+<systemIntensityMph>35</systemIntensityMph>
+<systemIntensityKph>55</systemIntensityKph>
+<systemIntensityKts>30</systemIntensityKts>
+<systemMslpMb>1004</systemMslpMb>
+<systemMslpInHg>29.65</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>100</formationChancePct48h>
 <formationChancePct5d>100</formationChancePct5d>
@@ -44,28 +44,30 @@
 <systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
 <systemGeoRefPt1>ABOUT 295 MI...475 KM W OF MANZANILLO MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 310 MI...500 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt2>
+<systemGeoRefPt2>ABOUT 290 MI...470 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Potential Tropical Cyclone Fourteen-E Advisory Number   3
+Potential Tropical Cyclone Fourteen-E
+Intermediate Advisory Number 3A
 NWS National Hurricane Center Miami FL       EP142017
-300 AM MDT Wed Aug 30 2017
+600 AM MDT Wed Aug 30 2017
 
-...DISTURBANCE EXPECTED TO BECOME A TROPICAL STORM TONIGHT...
+...LARGE DISTURBANCE PRODUCING TORRENTIAL RAINS OVER
+SOUTHWESTERN MEXICO...
 
 
-SUMMARY OF 300 AM MDT...0900 UTC...INFORMATION
+SUMMARY OF 600 AM MDT...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...18.5N 108.8W
+LOCATION...18.8N 108.8W
 ABOUT 295 MI...475 KM W OF MANZANILLO MEXICO
-ABOUT 310 MI...500 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+ABOUT 290 MI...470 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
 PRESENT MOVEMENT...NW OR 325 DEGREES AT 10 MPH...17 KM/H
-MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
 
 
 WATCHES AND WARNINGS
@@ -86,10 +88,7 @@ A Tropical Storm Watch is in effect for...
 * north of Los Barriles to San Evaristo
 
 A Hurricane Watch means that hurricane conditions are possible
-within the watch area.  A watch is typically issued 48 hours
-before the anticipated first occurrence of tropical-storm-force
-winds, conditions that make outside preparations difficult or
-dangerous.
+within the watch area.
 
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area within 36 hours.
@@ -106,15 +105,15 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 300 AM MDT (0900 UTC), the disturbance was centered near latitude
-18.5 North, longitude 108.8 West. The system is moving toward the
+At 600 AM MDT (1200 UTC), the disturbance was centered near latitude
+18.8 North, longitude 108.8 West. The system is moving toward the
 northwest near 10 mph (17 km/h).  A slower north-northwestward
 motion is expected over the next couple of days.  On the forecast
 track, the center of the disturbance will be near the southern tip
 of the Baja California peninsula by late Thursday.
 
-Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
-The system is expected to strengthen to a tropical storm by
+Maximum sustained winds are near 35 mph (55 km/h) with higher
+gusts. The system is expected to strengthen to a tropical storm by
 tonight, and it could become a hurricane by late Thursday or early
 Friday.
 
@@ -122,9 +121,9 @@ The disturbance continues to show signs of organization, and only a
 small increase in the definition of the circulation would lead to
 the formation of a tropical cyclone.
 * Formation chance through 48 hours...high...near 100 percent
-* Formation chance through 5 days...high...near 100 percent
+* Formation chance through 5 days... high...near 100 percent
 
-The estimated minimum central pressure is 1005 mb (29.68 inches).
+The estimated minimum central pressure is 1004 mb (29.65 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -151,11 +150,10 @@ consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 600 AM MDT.
 Next complete advisory at 900 AM MDT.
 
 $$
-Forecaster Pasch
+Forecaster Blake
 
 NNNN
 </message>
