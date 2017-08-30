@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>1</advisoryNumber>
+<advisoryNumber>2</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170830 11:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170830 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708301500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM AST Wed Aug 30</messageDateTimeLocalStr>
-<timeEpochSeconds>1504105200</timeEpochSeconds>
+<messageDateTimeLocal>20170830 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170830 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708302100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Wed Aug 30</messageDateTimeLocalStr>
+<timeEpochSeconds>1504126800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>IRMA</systemName>
@@ -20,51 +20,50 @@
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>16.4</centerLocLatitude>
-<centerLocLongitude>-30.3</centerLocLongitude>
+<centerLocLongitude>-31.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>16.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>30.3W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>31.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>50</systemIntensityMph>
-<systemIntensityKph>85</systemIntensityKph>
-<systemIntensityKts>45</systemIntensityKts>
-<systemMslpMb>1004</systemMslpMb>
-<systemMslpInHg>29.65</systemMslpInHg>
+<systemIntensityMph>60</systemIntensityMph>
+<systemIntensityKph>95</systemIntensityKph>
+<systemIntensityKts>50</systemIntensityKts>
+<systemMslpMb>1001</systemMslpMb>
+<systemMslpInHg>29.56</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>13</systemSpeedMph>
-<systemSpeedKph>20</systemSpeedKph>
-<systemSpeedKts>11</systemSpeedKts>
+<systemDirectionOfMotion>W OR 275 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>15</systemSpeedMph>
+<systemSpeedKph>24</systemSpeedKph>
+<systemSpeedKts>13</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 420 MI...675 KM W OF THE CABO VERDE ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 480 MI...770 KM W OF THE CABO VERDE ISLANDS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Irma Advisory Number   1
+Tropical Storm Irma Advisory Number   2
 NWS National Hurricane Center Miami FL       AL112017
-1100 AM AST Wed Aug 30 2017
+500 PM AST Wed Aug 30 2017
 
-...IRMA FORMS OVER THE FAR EASTERN ATLANTIC...
-...NO IMMEDIATE THREAT TO LAND...
+...IRMA INTENSIFYING STEADILY OVER THE FAR EASTERN ATLANTIC...
 
 
-SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...16.4N 30.3W
-ABOUT 420 MI...675 KM W OF THE CABO VERDE ISLANDS
-MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
-PRESENT MOVEMENT...W OR 280 DEGREES AT 13 MPH...20 KM/H
-MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.4N 31.2W
+ABOUT 480 MI...770 KM W OF THE CABO VERDE ISLANDS
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...W OR 275 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
 
 
 WATCHES AND WARNINGS
@@ -74,20 +73,20 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM AST (1500 UTC), the center of Tropical Storm Irma was
-located near latitude 16.4 North, longitude 30.3 West. Irma is
-moving toward the west near 13 mph (20 km/h) and this general motion
-is expected to continue for the next couple of days.
+At 500 PM AST (2100 UTC), the center of Tropical Storm Irma was
+located near latitude 16.4 North, longitude 31.2 West. Irma is
+moving toward the west near 15 mph (24 km/h).  The tropical storm
+is expected to turn slightly toward the west-northwest at a
+slower rate of speed for the next couple of days.
 
-Satellite wind data indicate that the maximum sustained winds are
-near 50 mph (85 km/h) with higher gusts. Some strengthening is
-forecast during the next 48 hours and Irma could become a hurricane
-on Friday.
+Maximum sustained winds are near 60 mph (95 km/h) with higher gusts.
+Some strengthening is forecast during the next 48 hours and Irma is
+expected to become a hurricane Thursday or Friday.
 
 Tropical-storm-force winds extend outward up to 35 miles (55 km)
 from the center.
 
-The estimated minimum central pressure is 1004 mb (29.65 inches).
+The estimated minimum central pressure is 1001 mb (29.56 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -97,10 +96,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM AST.
+Next complete advisory at 1100 PM AST.
 
 $$
-Forecaster Blake
+Forecaster Landsea
 
 NNNN
 </message>
