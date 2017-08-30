@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>39A</advisoryNumber>
+<advisoryNumber>40</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170830 01:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170830 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708300600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0100 AM CDT Wed Aug 30</messageDateTimeLocalStr>
-<timeEpochSeconds>1504072800</timeEpochSeconds>
+<messageDateTimeLocal>20170830 04:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170830 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708300900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 AM CDT Wed Aug 30</messageDateTimeLocalStr>
+<timeEpochSeconds>1504083600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>HARVEY</systemName>
@@ -19,74 +19,74 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>29.2</centerLocLatitude>
-<centerLocLongitude>-93.5</centerLocLongitude>
+<centerLocLatitude>29.8</centerLocLatitude>
+<centerLocLongitude>-93.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>29.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>93.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>29.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>93.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>45</systemIntensityMph>
 <systemIntensityKph>75</systemIntensityKph>
 <systemIntensityKts>40</systemIntensityKts>
-<systemMslpMb>995</systemMslpMb>
-<systemMslpInHg>29.38</systemMslpInHg>
+<systemMslpMb>990</systemMslpMb>
+<systemMslpInHg>29.24</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NE OR 35 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>NNE OR 30 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>7</systemSpeedMph>
 <systemSpeedKph>11</systemSpeedKph>
 <systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 45 MI...70 KM SSW OF CAMERON LOUISIANA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 55 MI...85 KM SSE OF PORT ARTHUR TEXAS</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 5 MI...10 KM W OF CAMERON LOUISIANA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 30 MI...50 KM ESE OF PORT ARTHUR TEXAS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Harvey Intermediate Advisory Number 39A
+Tropical Storm Harvey Advisory Number  40
 NWS National Hurricane Center Miami FL       AL092017
-100 AM CDT Wed Aug 30 2017
+400 AM CDT Wed Aug 30 2017
 
-...PARTS OF SOUTHEASTERN TEXAS AND SOUTHWESTERN LOUISIANA STILL
-BEING DELUGED WITH HEAVY RAINS...
-...FLASH FLOOD EMERGENCIES IN EFFECT FOR AREAS NEAR BEAUMONT AND
-PORT ARTHUR TEXAS...
+...HARVEY MAKES LANDFALL JUST WEST OF CAMERON LOUISIANA...
+...FLOODING RAINS DOUSING EXTREME SOUTHEASTERN TEXAS AND
+SOUTHWESTERN LOUISIANA...
 
 
-SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...29.2N 93.5W
-ABOUT 45 MI...70 KM SSW OF CAMERON LOUISIANA
-ABOUT 55 MI...85 KM SSE OF PORT ARTHUR TEXAS
+LOCATION...29.8N 93.4W
+ABOUT 5 MI...10 KM W OF CAMERON LOUISIANA
+ABOUT 30 MI...50 KM ESE OF PORT ARTHUR TEXAS
 MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
-PRESENT MOVEMENT...NE OR 35 DEGREES AT 7 MPH...11 KM/H
-MINIMUM CENTRAL PRESSURE...995 MB...29.38 INCHES
+PRESENT MOVEMENT...NNE OR 30 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...990 MB...29.24 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The Tropical Storm Warning and Storm Surge Watch have been
+discontinued from High Island, Texas, westward.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Storm Surge Warning is in effect for...
-* Holly Beach to Morgan City
+* Holly Beach Louisiana to Morgan City Louisiana
 
 A Storm Surge Watch is in effect for...
-* Port Bolivar to west of Holly Beach
+* East of High Island Texas to west of Holly Beach Louisiana
 
 A Tropical Storm Warning is in effect for...
-* North of Freeport Texas to Grand Isle Louisiana
+* East of High Island Texas to Grand Isle Louisiana
 
 Catastrophic and life-threatening flooding continues in southeastern
 Texas and portions of southwestern Louisiana.  Please see warnings
@@ -96,7 +96,7 @@ situation.
 
 A Storm Surge Warning means there is a danger of life-threatening
 inundation, from rising water moving inland from the coastline,
-during the next 12 to 24 hours in the indicated locations.  For a
+during the next 12 hours in the indicated locations.  For a
 depiction of areas at risk, please see the National Weather
 Service Storm Surge Watch/Warning Graphic, available at
 hurricanes.gov.  This is a life-threatening situation.  Persons
@@ -112,48 +112,48 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 100 AM CDT (0600 UTC), the center of Tropical Storm Harvey was
-located near latitude 29.2 North, longitude 93.5 West.  Harvey is
-moving toward the northeast near 7 mph (11 km/h).  A north-
-northeastward motion is expected later this morning, and this
-general motion should continue through tonight.  On the forecast
-track, the center of Harvey is expected to move inland over the
-northwestern Gulf Coast within the tropical storm warning area
-later this morning.
+At 400 AM CDT (0900 UTC), the center of Tropical Storm Harvey was
+located just inland near latitude 29.8 North, longitude 93.4 West.
+Harvey is moving toward the north-northeast near 7 mph (11 km/h).  A
+north-northeastward and then northeastward motion at a faster
+forward speed is expected through Thursday night.  On the forecast
+track, the center of Harvey will move across the Lower Mississippi
+Valley and Tennessee Valley through Thursday.
 
-Satellite-derived wind data indicate that maximum sustained winds
-are near 45 mph (75 km/h) with higher gusts.  No significant change
-in strength is anticipated before the center crosses the coast, but
-gradual weakening should begin thereafter.
+Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
+Gradual weakening is forecast now that the center has crossed the
+coast, and Harvey is expected to become a tropical depression by
+tonight.
 
 Tropical-storm-force winds extend outward up to 80 miles (130 km)
-from the center.  A wind gust to 51 mph (82 km/h) was recently
-measured by a National Ocean Service station at Sabine Pass North,
-Texas.
+from the center.
 
-The estimated minimum central pressure is 995 mb (29.38 inches).
+Surface observations indicate that the estimated minimum central
+pressure is 990 mb (29.24 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 RAINFALL:  Harvey is expected to produce additional rainfall
-accumulations of 6 to 12 inches to the north and east of Houston
-from far east Texas into southwestern Louisiana.  Isolated storm
-totals will reach 50 inches over the upper Texas coast, including
-the Houston/Galveston metropolitan area.  These rains are currently
-producing catastrophic and life-threatening flooding over large
-portions of southeastern Texas and southwestern Louisiana.  DO NOT
-ATTEMPT TO TRAVEL IN THE AFFECTED AREA IF YOU ARE IN A SAFE PLACE.
-DO NOT DRIVE INTO FLOODED ROADWAYS.  Please see warnings and
-products issued by your local National Weather Service office for
-additional information on this life-threatening situation.
+accumulations of 3 to 6 inches from southwestern Louisiana and the
+adjacent border of eastern Texas northeastward into western Kentucky
+through Friday with isolated amounts up to 10 inches.  While the
+threat of heavy rains has ended in the Houston/Galveston area,
+catastrophic and life-threatening flooding will continue in and
+around Houston eastward into southwest Louisiana for the rest of the
+week.  The expected heavy rains spreading northeastward from
+Louisiana into western Kentucky may also lead to flash flooding and
+increased river and small stream flooding.  DO NOT ATTEMPT TO TRAVEL
+IN THE AFFECTED AREA IF YOU ARE IN A SAFE PLACE.  DO NOT DRIVE INTO
+FLOODED ROADWAYS.  Please see warnings and products issued by your
+local National Weather Service office for additional information on
+this life-threatening situation.
 
-Elsewhere, Harvey is expected to produce total rainfall amounts of 5
-to 10 inches across portions of southern Louisiana into coastal
-Mississippi and Alabama.  Rainfall associated with Harvey will
-spread northward by mid to late week, with rainfall amounts of 4 to
-8 inches spreading into portions of Arkansas and the Tennessee
-Valley.
+Elsewhere, the outer bands of Harvey are expected to produce
+additional rainfall amounts of 3 to 6 inches over portions of the
+central and eastern Gulf States and 2 to 4 inches farther north into
+parts of the Tennessee Valley through Friday.  These rains may lead
+to flooding concerns across these areas.
 
 A list of rainfall observations compiled by the NOAA Weather
 Prediction Center can be found at:
@@ -185,14 +185,15 @@ Texas and Louisiana.  These swells are likely to cause
 life-threatening surf and rip current conditions. Please consult
 products from your local weather office.
 
-TORNADOES:  A few tornadoes are possible through Wednesday across
+TORNADOES:  A few tornadoes are possible today and tonight over
 parts of Louisiana, Mississippi, southern Alabama, and southeast
 Arkansas.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 AM CDT.
+Next intermediate advisory at 700 AM CDT.
+Next complete advisory at 1000 AM CDT.
 
 $$
 Forecaster Berg
