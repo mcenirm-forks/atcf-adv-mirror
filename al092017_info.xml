@@ -3,34 +3,34 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL092017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>42</advisoryNumber>
+<advisoryNumber>42A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170830 04:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170830 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708302100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0400 PM CDT Wed Aug 30</messageDateTimeLocalStr>
-<timeEpochSeconds>1504126800</timeEpochSeconds>
+<messageDateTimeLocal>20170830 07:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170831 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708310000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0700 PM CDT Wed Aug 30</messageDateTimeLocalStr>
+<timeEpochSeconds>1504137600</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL STORM</systemType>
+<systemType>TROPICAL DEPRESSION</systemType>
 <systemName>HARVEY</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>30.8</centerLocLatitude>
-<centerLocLongitude>-93.1</centerLocLongitude>
+<centerLocLatitude>31.2</centerLocLatitude>
+<centerLocLongitude>-92.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>30.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>93.1W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>31.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>92.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>40</systemIntensityMph>
-<systemIntensityKph>65</systemIntensityKph>
-<systemIntensityKts>35</systemIntensityKts>
+<systemIntensityMph>35</systemIntensityMph>
+<systemIntensityKph>55</systemIntensityKph>
+<systemIntensityKts>30</systemIntensityKts>
 <systemMslpMb>998</systemMslpMb>
 <systemMslpInHg>29.47</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
@@ -43,30 +43,26 @@
 <systemSpeedKph>13</systemSpeedKph>
 <systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 50 MI...80 KM N OF LAKE CHARLES LOUISIANA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 50 MI...80 KM SW OF ALEXANDRIA LOUISIANA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 10 MI...15 KM SW OF ALEXANDRIA LOUISIANA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Harvey Advisory Number  42
+Tropical Depression Harvey Intermediate Advisory Number 42A
 NWS National Hurricane Center Miami FL       AL092017
-400 PM CDT Wed Aug 30 2017
+700 PM CDT Wed Aug 30 2017
 
-...HARVEY STILL PRODUCING TROPICAL-STORM-FORCE WINDS NEAR THE
-LOUISIANA COAST...
 ...FLOODING RAINS CONTINUING OVER EXTREME EASTERN TEXAS AND
 WESTERN LOUISIANA...
 
 
-SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...30.8N 93.1W
-ABOUT 50 MI...80 KM N OF LAKE CHARLES LOUISIANA
-ABOUT 50 MI...80 KM SW OF ALEXANDRIA LOUISIANA
-MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+LOCATION...31.2N 92.6W
+ABOUT 10 MI...15 KM SW OF ALEXANDRIA LOUISIANA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
 PRESENT MOVEMENT...NNE OR 20 DEGREES AT 8 MPH...13 KM/H
 MINIMUM CENTRAL PRESSURE...998 MB...29.47 INCHES
 
@@ -75,13 +71,11 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Storm Surge Watch and Warning are discontinued for the coasts
-of Texas and Louisiana.
+All Tropical Storm Warnings have been discontinued.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
-A Tropical Storm Warning is in effect for...
-* Sabine Pass Texas to Grand Isle Louisiana
+There are no coastal watches or warnings in effect.
 
 Catastrophic and life-threatening flooding continues in southeastern
 Texas and portions of southwestern Louisiana.  Please see warnings
@@ -96,24 +90,18 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 400 PM CDT (2100 UTC), the center of Tropical Storm Harvey was
-located near latitude 30.8 North, longitude 93.1 West. Harvey is
-moving erratically toward the north-northeast near 8 mph (13 km/h)
-and this motion is expected to continue tonight.  A turn toward the
-northeast is expected Thursday or Thursday night.  On the forecast
-track, the center of Harvey should move through southwestern and
-central Louisiana tonight, then move through northeastern Louisiana
-and northwestern Mississippi Thursday and Thursday night.
+At 700 PM CDT (0000 UTC), the center of Tropical Depression Harvey
+was located near latitude 31.2 North, longitude 92.6 West. Harvey is
+moving toward the north-northeast near 8 mph (13 km/h), and this
+motion is expected to continue tonight.  A turn toward the northeast
+is expected Thursday or Thursday night.  On the forecast track, the
+center of Harvey should move through central Louisiana tonight, then
+move through northeastern Louisiana and northwestern Mississippi
+Thursday and Thursday night.
 
-Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
-Weakening is forecast during the next 48 hours as Harvey moves
-farther inland, and the cyclone is expected to weaken to a tropical
-depression tonight.
-
-Tropical-storm-force winds extend outward up to 140 miles (220 km)
-mainly over water to the southeast of the center.  An automated
-station near Lacassine, Louisiana recently reported a wind gust of
-44 mph (71 km/h).
+Maximum sustained winds have decreased to near 35 mph (55 km/h)
+with higher gusts. Additional gradual weakening is forecast during
+the next 48 hours as Harvey moves farther inland.
 
 The estimated minimum central pressure based on surface observations
 is 998 mb (29.47 inches).
@@ -163,10 +151,8 @@ greatly over short distances. For information specific to your
 area, please see products issued by your local National Weather
 Service forecast office.
 
-WIND:  Tropical storm conditions are occurring over portions of
-the warning area along the coast and are likely to persist through
-this evening.  Gusts to tropical-storm-force are possible over
-other portions of southern Louisiana through this evening.
+WIND:  Wind gusts to tropical storm force are still possible over
+portions of southern Louisiana and Mississippi tonight.
 
 SURF:  Swells generated by Harvey are still affecting the coast of
 Louisiana, but are expected to subside late tonight and Thursday.
@@ -183,12 +169,12 @@ Georgia into parts of Tennessee.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 700 PM CDT.
 Next complete advisory at 1000 PM CDT.
 
 $$
-Forecaster Beven
+Forecaster Brown
 
 NNNN
+
 </message>
 </cycloneMessage>
