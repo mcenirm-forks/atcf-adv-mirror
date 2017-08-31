@@ -5,65 +5,67 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>4</advisoryNumber>
+<advisoryNumber>5</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170831 05:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170831 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708310900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM AST Thu Aug 31</messageDateTimeLocalStr>
-<timeEpochSeconds>1504170000</timeEpochSeconds>
+<messageDateTimeLocal>20170831 11:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170831 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708311500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM AST Thu Aug 31</messageDateTimeLocalStr>
+<timeEpochSeconds>1504191600</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL STORM</systemType>
+<systemType>HURRICANE</systemType>
 <systemName>IRMA</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.5</centerLocLatitude>
-<centerLocLongitude>-32.9</centerLocLongitude>
+<centerLocLatitude>16.9</centerLocLatitude>
+<centerLocLongitude>-33.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>32.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>16.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>33.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>70</systemIntensityMph>
-<systemIntensityKph>110</systemIntensityKph>
-<systemIntensityKts>60</systemIntensityKts>
-<systemMslpMb>997</systemMslpMb>
-<systemMslpInHg>29.44</systemMslpInHg>
-<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<systemIntensityMph>100</systemIntensityMph>
+<systemIntensityKph>155</systemIntensityKph>
+<systemIntensityKts>85</systemIntensityKts>
+<systemMslpMb>979</systemMslpMb>
+<systemMslpInHg>28.91</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>12</systemSpeedMph>
-<systemSpeedKph>19</systemSpeedKph>
-<systemSpeedKts>10</systemSpeedKts>
+<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>10</systemSpeedMph>
+<systemSpeedKph>17</systemSpeedKph>
+<systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 590 MI...950 KM W OF THE CABO VERDE ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 650 MI...1050 KM W OF THE CABO VERDE ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 1845 MI...2975 KM E OF THE LEEWARD ISLANDS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Irma Advisory Number   4
+Hurricane Irma Advisory Number   5
 NWS National Hurricane Center Miami FL       AL112017
-500 AM AST Thu Aug 31 2017
+1100 AM AST Thu Aug 31 2017
 
-...IRMA CLOSE TO HURRICANE STRENGTH...
+...HURRICANE IRMA RAPIDLY INTENSIFYING OVER THE EASTERN ATLANTIC...
 
 
-SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
-----------------------------------------------
-LOCATION...16.5N 32.9W
-ABOUT 590 MI...950 KM W OF THE CABO VERDE ISLANDS
-MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
-PRESENT MOVEMENT...W OR 280 DEGREES AT 12 MPH...19 KM/H
-MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...16.9N 33.8W
+ABOUT 650 MI...1050 KM W OF THE CABO VERDE ISLANDS
+ABOUT 1845 MI...2975 KM E OF THE LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...100 MPH...155 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...979 MB...28.91 INCHES
 
 
 WATCHES AND WARNINGS
@@ -73,20 +75,22 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM AST (0900 UTC), the center of Tropical Storm Irma was
-located near latitude 16.5 North, longitude 32.9 West.  Irma is
-moving toward the west near 12 mph (19 km/h).  A west-northwestward
-motion is expected today and tonight, followed by a generally
-westward motion on Friday.
+At 1100 AM AST (1500 UTC), the center of Hurricane Irma was located
+near latitude 16.9 North, longitude 33.8 West. Irma is moving toward
+the west-northwest near 10 mph (17 km/h).  This general motion is
+forecast through early Friday, followed by a generally westward
+motion on Saturday.
 
-Maximum sustained winds have increased to near 70 mph (110 km/h)
-with higher gusts.   Additional strengthening is forecast, and
-Irma is likely to become a hurricane later today.
+Maximum sustained winds have increased to near 100 mph (155 km/h)
+with higher gusts.  Irma is forecast to become a major hurricane by
+tonight and is expected to be an extremely dangerous hurricane for
+the next several days.
 
-Tropical-storm-force winds extend outward up to 60 miles (95 km)
-from the center.
+Hurricane-force winds extend outward up to 15 miles (30 km) from the
+center and tropical-storm-force winds extend outward up to 80 miles
+(130 km).
 
-The estimated minimum central pressure is 997 mb (29.44 inches).
+The estimated minimum central pressure is 979 mb (28.91 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -96,10 +100,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM AST.
+Next complete advisory at 500 PM AST.
 
 $$
-Forecaster Pasch
+Forecaster Blake
 
 NNNN
 </message>
