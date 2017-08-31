@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP142017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>7</advisoryNumber>
+<advisoryNumber>7A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170831 03:00:00 AM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170831 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201708310900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0300 AM MDT Thu Aug 31</messageDateTimeLocalStr>
-<timeEpochSeconds>1504170000</timeEpochSeconds>
+<messageDateTimeLocal>20170831 06:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170831 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201708311200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0600 AM MDT Thu Aug 31</messageDateTimeLocalStr>
+<timeEpochSeconds>1504180800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>LIDIA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>21.3</centerLocLatitude>
-<centerLocLongitude>-109.4</centerLocLongitude>
+<centerLocLatitude>21.7</centerLocLatitude>
+<centerLocLongitude>-109.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>21.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>109.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>21.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>109.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>45</systemIntensityMph>
@@ -43,26 +43,26 @@
 <systemSpeedKph>13</systemSpeedKph>
 <systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 115 MI...185 KM SSE OF CABO SAN LUCAS MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 90 MI...145 KM SSE OF CABO SAN LUCAS MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Lidia Advisory Number   7
+Tropical Storm Lidia Intermediate Advisory Number 7A
 NWS National Hurricane Center Miami FL       EP142017
-300 AM MDT Thu Aug 31 2017
+600 AM MDT Thu Aug 31 2017
 
-...LIDIA A LITTLE STRONGER...
+...LIDIA MOVING TOWARD THE BAJA CALIFORNIA PENINSULA...
 ...CONDITIONS WILL DETERIORATE ACROSS SOUTHERN BAJA CALIFORNIA SUR
 THROUGH THE DAY...
 
 
-SUMMARY OF 300 AM MDT...0900 UTC...INFORMATION
+SUMMARY OF 600 AM MDT...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...21.3N 109.4W
-ABOUT 115 MI...185 KM SSE OF CABO SAN LUCAS MEXICO
+LOCATION...21.7N 109.5W
+ABOUT 90 MI...145 KM SSE OF CABO SAN LUCAS MEXICO
 MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
 PRESENT MOVEMENT...NNW OR 335 DEGREES AT 8 MPH...13 KM/H
 MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
@@ -72,12 +72,7 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of Mexico has extended the Tropical Storm Warning
-north of Puerto Cortes to Puerto San Andresito, north of San
-Evaristo to Loreto, and north of Huatabampito to Guaymas.  A
-Tropical Storm Watch has been issued north of Puerto San Andresito
-to Punta Abreojos, north of Loreto to Bahia San Juan Bautista, and
-north of Guaymas to Bahia Kino.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -112,8 +107,8 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 300 AM MDT (0900 UTC), the center of Tropical Storm Lidia was
-located near latitude 21.3 North, longitude 109.4 West.  Lidia is
+At 600 AM MDT (1200 UTC), the center of Tropical Storm Lidia was
+located near latitude 21.7 North, longitude 109.5 West.  Lidia is
 moving toward the north-northwest near 8 mph (13 km/h), and this
 general motion is expected to continue through midday Friday.  A
 turn toward the northwest at a faster forward speed is expected by
@@ -122,10 +117,9 @@ near the southern tip of the Baja California peninsula this
 afternoon, and it will move over the peninsula Friday and Friday
 night.
 
-Maximum sustained winds have increased to near 45 mph (75 km/h)
-with higher gusts.  Additional strengthening is forecast for the
-next 24 hours or so before Lidia's center reaches the Baja
-California peninsula.
+Maximum sustained winds are near 45 mph (75 km/h) with higher
+gusts. Strengthening is forecast before Lidia's center reaches the
+Baja California peninsula.
 
 Tropical-storm-force winds extend outward up to 160 miles (260 km)
 to the east of the center.
@@ -165,12 +159,12 @@ office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 600 AM MDT.
 Next complete advisory at 900 AM MDT.
 
 $$
-Forecaster Berg
+Forecaster Beven
 
 NNNN
+
 </message>
 </cycloneMessage>
