@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP142017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>10A</advisoryNumber>
+<advisoryNumber>11</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170901 12:00:00 AM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170901 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709010600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1200 AM MDT Fri Sep 01</messageDateTimeLocalStr>
-<timeEpochSeconds>1504245600</timeEpochSeconds>
+<messageDateTimeLocal>20170901 03:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170901 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709010900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0300 AM MDT Fri Sep 01</messageDateTimeLocalStr>
+<timeEpochSeconds>1504256400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>LIDIA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>23.6</centerLocLatitude>
-<centerLocLongitude>-110.7</centerLocLongitude>
+<centerLocLatitude>23.8</centerLocLatitude>
+<centerLocLongitude>-111</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>23.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>110.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>23.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>111.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>65</systemIntensityMph>
@@ -38,34 +38,35 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNW OR 335 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>10</systemSpeedMph>
-<systemSpeedKph>17</systemSpeedKph>
-<systemSpeedKts>9</systemSpeedKts>
+<systemDirectionOfMotion>NW OR 325 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>8</systemSpeedMph>
+<systemSpeedKph>13</systemSpeedKph>
+<systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 50 MI...80 KM SSW OF LA PAZ MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 70 MI...115 KM NW OF CABO SAN LUCAS MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 50 MI...85 KM WSW OF LA PAZ MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 105 MI...170 KM SE OF CABO SAN LAZARO MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Lidia Intermediate Advisory Number 10A
+Tropical Storm Lidia Advisory Number  11
 NWS National Hurricane Center Miami FL       EP142017
-1200 AM MDT Fri Sep 01 2017
+300 AM MDT Fri Sep 01 2017
 
-...HEAVY RAINS AND TROPICAL-STORM-FORCE WINDS OCCURRING OVER THE
-SOUTHERN PORTION OF BAJA CALIFORNIA SUR...
+...LIDIA'S CENTER JUST OFFSHORE THE SOUTHWESTERN COAST OF BAJA
+CALIFORNIA SUR...
+...HEAVY RAINS CONTINUE OVER SOUTHERN BAJA CALIFORNIA SUR...
 
 
-SUMMARY OF 1200 AM MDT...0600 UTC...INFORMATION
------------------------------------------------
-LOCATION...23.6N 110.7W
-ABOUT 50 MI...80 KM SSW OF LA PAZ MEXICO
-ABOUT 70 MI...115 KM NW OF CABO SAN LUCAS MEXICO
+SUMMARY OF 300 AM MDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...23.8N 111.0W
+ABOUT 50 MI...85 KM WSW OF LA PAZ MEXICO
+ABOUT 105 MI...170 KM SE OF CABO SAN LAZARO MEXICO
 MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
-PRESENT MOVEMENT...NNW OR 335 DEGREES AT 10 MPH...17 KM/H
+PRESENT MOVEMENT...NW OR 325 DEGREES AT 8 MPH...13 KM/H
 MINIMUM CENTRAL PRESSURE...987 MB...29.15 INCHES
 
 
@@ -73,33 +74,25 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The government of Mexico has extended the Tropical Storm Warning on
+the west coast of the Baja California peninsula northward to San
+Jose de Las Palomas, on the east coast northward to Isla San
+Luis, and along the coast of mainland Mexico northward to Puerto
+Libertad.
+
+The government of Mexico has discontinued the Hurricane Watch for
+Baja California Sur, as well as the Tropical Storm Warning south of
+Altata on the coast of mainland Mexico.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
-A Hurricane Watch is in effect for...
-* Baja California Sur from Puerto Cortes to east of La Paz
-
 A Tropical Storm Warning is in effect for...
-* Baja California peninsula from Punta Eugenia to Bahia San Juan
-Bautista
-* Mainland Mexico from Bahia Tempehuaya to Bahia Kino
-
-A Tropical Storm Watch is in effect for...
-* Baja California peninsula north of Punta Eugenia to San Juan De
-Las Palomas
-* Baja California peninsula north of Bahia San Juan Bautista to
-Isla San Luis
-* Mainland Mexico north of Bahia Kino to Puerto Libertad
-
-A Hurricane Watch means that hurricane conditions are possible
-within the watch area.
+* Baja California peninsula from San Jose de Las Palomas to Isla
+San Luis
+* Mainland Mexico from Altata to Puerto Libertad
 
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area within 36 hours.
-
-A Tropical Storm Watch means that tropical storm conditions are
-possible within the watch area, generally within 48 hours.
 
 Interests elsewhere in western Mexico and the Baja California
 peninsula should monitor the progress of Lidia.
@@ -110,51 +103,46 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1200 AM MDT (0600 UTC), the center of Tropical Storm Lidia was
-located near latitude 23.6 North, longitude 110.7 West. Lidia is
-moving toward the north-northwest near 10 mph (17 km/h), and this
-motion is expected to continue through today. On the forecast track,
-the center of Lidia will move near or over the Baja California
-peninsula through Saturday.
+At 300 AM MDT (0900 UTC), the center of Tropical Storm Lidia was
+located near latitude 23.8 North, longitude 111.0 West.  Lidia is
+moving toward the northwest near 8 mph (13 km/h), and this
+direction with an increase in forward speed is expected through
+Saturday night.  On the forecast track, the center of Lidia will
+move near or along the west coast of the Baja California peninsula
+through Saturday and then move west of the peninsula over the
+Pacific waters Saturday night.
 
-Maximum sustained winds remain near 65 mph (100 km/h) with higher
-gusts.  A gradual weakening is forecast, but Lidia is anticipated to
-remain a tropical storm during the next day or so.
+Maximum sustained winds are near 65 mph (100 km/h) with higher
+gusts.  Weakening is forecast during the next couple of days while
+Lidia interacts with the mountainous terrain of the Baja California
+peninsula.  Lidia is expected to become a remnant low by Saturday
+night.
 
-Tropical-storm-force winds extend outward up to 185 miles (295 km)
-mainly to the northeast and southeast of the center.  A sustained
-wind of 54 mph (87 km/h) and a wind gust to 68 mph (109 km/h) were
-recently reported at Cabo Pulmo, Baja California Sur.  A wind gust
-to 45 mph (72 km/h) was recently measured at Topolobampo, Sinaloa,
-on the eastern side of the Gulf of California.
+Tropical-storm-force winds extend outward up to 195 miles (315 km),
+especially to the northeast and southeast of the center.
 
-The estimated minimum central pressure based on surface
-observations from southern Baja California Sur is 987 mb (29.15
-inches).
+The estimated minimum central pressure is 987 mb (29.15 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 RAINFALL:  Lidia is expected to produce total rain accumulations of
 6 to 12 inches across the Mexican states of Baja California Sur into
-Baja California, Sinaloa and the coastal section of Sonora, with
-isolated maximum amounts of 20 inches. These rains may cause
-life-threatening flash floods and mudslides. Some of the tropical
-moisture from Lidia may reach parts of the desert Southwest this
-holiday weekend, including southern California, southern Nevada and
+Baja California, Sinaloa, and the coastal section of Sonora, with
+isolated maximum amounts of 20 inches.  These rains may cause
+life-threatening flash floods and mudslides.  Some of the tropical
+moisture from Lidia may reach parts of the Desert Southwest this
+holiday weekend, including southern California, southern Nevada, and
 southwestern Arizona.
 
 WIND:  Tropical storm conditions are occurring over the southern
 portion of Baja California Sur at this time.  These conditions
-should spread northward across the warning area through Friday
-night. Hurricane conditions are still possible within the hurricane
-watch area during the next few hours.  Tropical storm conditions are
-expected in the warning area in mainland Mexico through Friday.
-Tropical storm conditions are possible in the watch areas Friday
-night or Saturday.  Wind speeds atop and on the windward sides of
-hills and mountains are often up to 30 percent stronger than the
-near-surface winds indicated in this advisory, and in some elevated
-locations could be even greater.
+should spread northward across the warning areas of the Baja
+California peninsula and mainland Mexico through Saturday.  Wind
+speeds atop and on the windward sides of hills and mountains are
+often up to 30 percent stronger than the near-surface winds
+indicated in this advisory, and in some elevated locations could be
+even greater.
 
 STORM SURGE:  A dangerous storm surge is expected to produce coastal
 flooding in areas of onshore winds on the southern portion of Baja
@@ -164,18 +152,18 @@ large and destructive waves.
 SURF:  Swells generated by Lidia are affecting portions of the coast
 of southwestern and western Mexico and southern portions of Baja
 California Sur, and could cause life-threatening surf and rip
-current conditions. Please consult products from your local weather
+current conditions.  Please consult products from your local weather
 office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 300 AM MDT.
+Next intermediate advisory at 600 AM MDT.
+Next complete advisory at 900 AM MDT.
 
 $$
 Forecaster Berg
 
 NNNN
-
 </message>
 </cycloneMessage>
