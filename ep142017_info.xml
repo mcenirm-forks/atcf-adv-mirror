@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP142017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>11</advisoryNumber>
+<advisoryNumber>11A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170901 03:00:00 AM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170901 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709010900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0300 AM MDT Fri Sep 01</messageDateTimeLocalStr>
-<timeEpochSeconds>1504256400</timeEpochSeconds>
+<messageDateTimeLocal>20170901 06:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170901 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709011200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0600 AM MDT Fri Sep 01</messageDateTimeLocalStr>
+<timeEpochSeconds>1504267200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>LIDIA</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>23.8</centerLocLatitude>
-<centerLocLongitude>-111</centerLocLongitude>
+<centerLocLatitude>24.1</centerLocLatitude>
+<centerLocLongitude>-111.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>23.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>111.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>24.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>111.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>65</systemIntensityMph>
 <systemIntensityKph>100</systemIntensityKph>
 <systemIntensityKts>55</systemIntensityKts>
-<systemMslpMb>987</systemMslpMb>
-<systemMslpInHg>29.15</systemMslpInHg>
+<systemMslpMb>988</systemMslpMb>
+<systemMslpInHg>29.18</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,46 +43,37 @@
 <systemSpeedKph>13</systemSpeedKph>
 <systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 50 MI...85 KM WSW OF LA PAZ MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 105 MI...170 KM SE OF CABO SAN LAZARO MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 45 MI...70 KM W OF LA PAZ MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 90 MI...145 KM ESE OF CABO SAN LAZARO MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Lidia Advisory Number  11
+Tropical Storm Lidia Intermediate Advisory Number 11A
 NWS National Hurricane Center Miami FL       EP142017
-300 AM MDT Fri Sep 01 2017
+600 AM MDT Fri Sep 01 2017
 
-...LIDIA'S CENTER JUST OFFSHORE THE SOUTHWESTERN COAST OF BAJA
-CALIFORNIA SUR...
+...CENTER OF LIDIA MOVING ONSHORE INTO BAJA CALIFORNIA SUR...
 ...HEAVY RAINS CONTINUE OVER SOUTHERN BAJA CALIFORNIA SUR...
 
 
-SUMMARY OF 300 AM MDT...0900 UTC...INFORMATION
+SUMMARY OF 600 AM MDT...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...23.8N 111.0W
-ABOUT 50 MI...85 KM WSW OF LA PAZ MEXICO
-ABOUT 105 MI...170 KM SE OF CABO SAN LAZARO MEXICO
+LOCATION...24.1N 111.1W
+ABOUT 45 MI...70 KM W OF LA PAZ MEXICO
+ABOUT 90 MI...145 KM ESE OF CABO SAN LAZARO MEXICO
 MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
 PRESENT MOVEMENT...NW OR 325 DEGREES AT 8 MPH...13 KM/H
-MINIMUM CENTRAL PRESSURE...987 MB...29.15 INCHES
+MINIMUM CENTRAL PRESSURE...988 MB...29.18 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of Mexico has extended the Tropical Storm Warning on
-the west coast of the Baja California peninsula northward to San
-Jose de Las Palomas, on the east coast northward to Isla San
-Luis, and along the coast of mainland Mexico northward to Puerto
-Libertad.
-
-The government of Mexico has discontinued the Hurricane Watch for
-Baja California Sur, as well as the Tropical Storm Warning south of
-Altata on the coast of mainland Mexico.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -103,14 +94,14 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 300 AM MDT (0900 UTC), the center of Tropical Storm Lidia was
-located near latitude 23.8 North, longitude 111.0 West.  Lidia is
-moving toward the northwest near 8 mph (13 km/h), and this
-direction with an increase in forward speed is expected through
-Saturday night.  On the forecast track, the center of Lidia will
-move near or along the west coast of the Baja California peninsula
-through Saturday and then move west of the peninsula over the
-Pacific waters Saturday night.
+At 600 AM MDT (1200 UTC), the center of Tropical Storm Lidia was
+located near latitude 24.1 North, longitude 111.1 West.  Lidia is
+moving toward the northwest near 8 mph (13 km/h), and this motion
+with an increase in forward speed is expected through Saturday
+night.  On the forecast track, the center of Lidia will move near or
+along the west coast of the Baja California peninsula through
+Saturday and then move west of the peninsula over the Pacific waters
+Saturday night.
 
 Maximum sustained winds are near 65 mph (100 km/h) with higher
 gusts.  Weakening is forecast during the next couple of days while
@@ -121,7 +112,7 @@ night.
 Tropical-storm-force winds extend outward up to 195 miles (315 km),
 especially to the northeast and southeast of the center.
 
-The estimated minimum central pressure is 987 mb (29.15 inches).
+The estimated minimum central pressure is 988 mb (29.18 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -158,12 +149,12 @@ office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 600 AM MDT.
 Next complete advisory at 900 AM MDT.
 
 $$
-Forecaster Berg
+Forecaster Beven
 
 NNNN
+
 </message>
 </cycloneMessage>
