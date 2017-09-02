@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>12</advisoryNumber>
+<advisoryNumber>13</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170902 05:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170902 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709020900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM AST Sat Sep 02</messageDateTimeLocalStr>
-<timeEpochSeconds>1504342800</timeEpochSeconds>
+<messageDateTimeLocal>20170902 11:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170902 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709021500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM AST Sat Sep 02</messageDateTimeLocalStr>
+<timeEpochSeconds>1504364400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>IRMA</systemName>
@@ -19,52 +19,51 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>19.0</centerLocLatitude>
-<centerLocLongitude>-41.8</centerLocLongitude>
+<centerLocLatitude>18.8</centerLocLatitude>
+<centerLocLongitude>-43.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>19.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>41.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>43.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>110</systemIntensityMph>
 <systemIntensityKph>175</systemIntensityKph>
 <systemIntensityKts>95</systemIntensityKts>
-<systemMslpMb>970</systemMslpMb>
-<systemMslpInHg>28.65</systemMslpInHg>
+<systemMslpMb>973</systemMslpMb>
+<systemMslpInHg>28.74</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>14</systemSpeedMph>
-<systemSpeedKph>22</systemSpeedKph>
-<systemSpeedKts>12</systemSpeedKts>
+<systemDirectionOfMotion>W OR 265 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>15</systemSpeedMph>
+<systemSpeedKph>24</systemSpeedKph>
+<systemSpeedKts>13</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1320 MI...2120 KM E OF THE LEEWARD ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1220 MI...1965 KM E OF THE LEEWARD ISLANDS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irma Advisory Number  12
+Hurricane Irma Advisory Number  13
 NWS National Hurricane Center Miami FL       AL112017
-500 AM AST Sat Sep 02 2017
+1100 AM AST Sat Sep 02 2017
 
-...IRMA CONTINUES TO FLUCTUATE IN STRENGTH BUT REMAINS A POWERFUL
-HURRICANE...
+...IRMA MOVING WESTWARD ACROSS THE ATLANTIC AS A SMALL HURRICANE...
 
 
-SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
-----------------------------------------------
-LOCATION...19.0N 41.8W
-ABOUT 1320 MI...2120 KM E OF THE LEEWARD ISLANDS
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...18.8N 43.3W
+ABOUT 1220 MI...1965 KM E OF THE LEEWARD ISLANDS
 MAXIMUM SUSTAINED WINDS...110 MPH...175 KM/H
-PRESENT MOVEMENT...W OR 270 DEGREES AT 14 MPH...22 KM/H
-MINIMUM CENTRAL PRESSURE...970 MB...28.65 INCHES
+PRESENT MOVEMENT...W OR 265 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...973 MB...28.74 INCHES
 
 
 WATCHES AND WARNINGS
@@ -77,21 +76,19 @@ progress of this system.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM AST (0900 UTC), the center of Hurricane Irma was located
-near latitude 19.0 North, longitude 41.8 West. Irma is moving toward
-the west near 14 mph (22 km/h).  A west-southwest motion is
-expected during the next couple of days.
+At 1100 AM AST (1500 UTC), the eye of Hurricane Irma was located
+near latitude 18.8 North, longitude 43.3 West. Irma is moving toward
+the west near 15 mph (24 km/h) and a turn toward the west-southwest
+at a slightly slower rate of speed during the next two days.
 
 Maximum sustained winds are near 110 mph (175 km/h) with higher
-gusts.  Fluctuations in strength, up or down, are possible during
-the next couple of days, but Irma is expected to remain a powerful
-hurricane into early next week.
+gusts.  Some strengthening is forecast during the next 48 hours.
 
-Hurricane-force winds extend outward up to 25 miles (35 km) from the
-center and tropical-storm-force winds extend outward up to 70 miles
-(110 km).
+Irma is a small hurricane. Hurricane-force winds extend outward up
+to 25 miles (35 km) from the center and tropical-storm-force winds
+extend outward up to 70 miles (110 km).
 
-The estimated minimum central pressure is 970 mb (28.65 inches).
+The estimated minimum central pressure is 973 mb (28.74 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -101,10 +98,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM AST.
+Next complete advisory at 500 PM AST.
 
 $$
-Forecaster Cangialosi
+Forecaster Landsea
 
 NNNN
 </message>
