@@ -1,23 +1,23 @@
 {
   "cycloneMessage": {
-    "advisoryNumber": "13",
+    "advisoryNumber": "14",
     "atcfID": "AL112017",
-    "centerLocLatitude": "18.8",
-    "centerLocLatitudeExpanded": "18.8N",
-    "centerLocLongitude": "-43.3",
-    "centerLocLongitudeExpanded": "43.3W",
+    "centerLocLatitude": "18.5",
+    "centerLocLatitudeExpanded": "18.5N",
+    "centerLocLongitude": "-44.6",
+    "centerLocLongitudeExpanded": "44.6W",
     "formationChancePct48h": "N/A",
     "formationChancePct5d": "N/A",
     "issuingUnit": "NWS NATIONAL HURRICANE CENTER MIAMI FL",
-    "message": "ZCZC MIATCPAT1 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Irma Advisory Number  13\nNWS National Hurricane Center Miami FL       AL112017\n1100 AM AST Sat Sep 02 2017\n\n...IRMA MOVING WESTWARD ACROSS THE ATLANTIC AS A SMALL HURRICANE...\n\n\nSUMMARY OF 1100 AM AST...1500 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...18.8N 43.3W\nABOUT 1220 MI...1965 KM E OF THE LEEWARD ISLANDS\nMAXIMUM SUSTAINED WINDS...110 MPH...175 KM/H\nPRESENT MOVEMENT...W OR 265 DEGREES AT 15 MPH...24 KM/H\nMINIMUM CENTRAL PRESSURE...973 MB...28.74 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\nInterests in the northern Leeward Islands should monitor the\nprogress of this system.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 AM AST (1500 UTC), the eye of Hurricane Irma was located\nnear latitude 18.8 North, longitude 43.3 West. Irma is moving toward\nthe west near 15 mph (24 km/h) and a turn toward the west-southwest\nat a slightly slower rate of speed during the next two days.\n\nMaximum sustained winds are near 110 mph (175 km/h) with higher\ngusts.  Some strengthening is forecast during the next 48 hours.\n\nIrma is a small hurricane. Hurricane-force winds extend outward up\nto 25 miles (35 km) from the center and tropical-storm-force winds\nextend outward up to 70 miles (110 km).\n\nThe estimated minimum central pressure is 973 mb (28.74 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 PM AST.\n\n$$\nForecaster Landsea\n\nNNNN",
+    "message": "ZCZC MIATCPAT1 ALL\nTTAA00 KNHC DDHHMM CCA\n\nBULLETIN\nHurricane Irma Advisory Number  14...Corrected\nNWS National Hurricane Center Miami FL       AL112017\n500 PM AST Sat Sep 02 2017\n\nCorrected to add west in motion paragraph\n\n...IRMA MOVING SOUTH OF DUE WEST ACROSS THE CENTRAL TROPICAL\nATLANTIC...\n\n\nSUMMARY OF 500 PM AST...2100 UTC...INFORMATION\n----------------------------------------------\nLOCATION...18.5N 44.6W\nABOUT 1135 MI...1825 KM E OF THE LEEWARD ISLANDS\nMAXIMUM SUSTAINED WINDS...110 MPH...175 KM/H\nPRESENT MOVEMENT...W OR 265 DEGREES AT 15 MPH...24 KM/H\nMINIMUM CENTRAL PRESSURE...973 MB...28.74 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\nInterests in the northern Leeward Islands should monitor the\nprogress of Irma.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 PM AST (2100 UTC), the eye of Hurricane Irma was located\nnear latitude 18.5 North, longitude 44.6 West. Irma is moving a\nlittle south of due west near 15 mph (24 km/h), and this general\nmotion is expected to continue for the next couple of days.\n\nMaximum sustained winds are near 110 mph (175 km/h) with higher\ngusts.  Some strengthening is forecast during the next 48 hours.\n\nIrma is currently a small hurricane, with hurricane-force winds\nextending outward up to 25 miles (35 km) from the center and\ntropical-storm-force winds extending outward up to 70 miles\n(110 km). However, the hurricane is expected to grow in size during\nthe next couple of days.\n\nThe estimated minimum central pressure is 973 mb (28.74 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 PM AST.\n\n$$\nForecaster Beven\n\nNNNN",
     "messageBinNumber": "1",
-    "messageDateTimeLocal": "20170902 11:00:00 AM AST",
-    "messageDateTimeLocalStr": "1100 AM AST Sat Sep 02",
-    "messageDateTimeUTC": "20170902 03:00:00 PM UTC",
-    "messageDateTimeUTC24": "201709021500",
+    "messageDateTimeLocal": "20170902 05:00:00 PM AST",
+    "messageDateTimeLocalStr": "0500 PM AST Sat Sep 02",
+    "messageDateTimeUTC": "20170902 09:00:00 PM UTC",
+    "messageDateTimeUTC24": "201709022100",
     "messageType": "ROUTINE ADVISORY",
     "systemDirectionOfMotion": "W OR 265 DEGREES",
-    "systemGeoRefPt1": "ABOUT 1220 MI...1965 KM E OF THE LEEWARD ISLANDS",
+    "systemGeoRefPt1": "ABOUT 1135 MI...1825 KM E OF THE LEEWARD ISLANDS",
     "systemIntensityKph": "175",
     "systemIntensityKts": "95",
     "systemIntensityMph": "110",
@@ -29,6 +29,6 @@
     "systemSpeedKts": "13",
     "systemSpeedMph": "15",
     "systemType": "HURRICANE",
-    "timeEpochSeconds": "1504364400"
+    "timeEpochSeconds": "1504386000"
   }
 }
