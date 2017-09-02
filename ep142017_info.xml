@@ -28,9 +28,9 @@
 <centerLocLongitudeExpanded>112.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>55</systemIntensityMph>
-<systemIntensityKph>90</systemIntensityKph>
-<systemIntensityKts>50</systemIntensityKts>
+<systemIntensityMph>50</systemIntensityMph>
+<systemIntensityKph>80</systemIntensityKph>
+<systemIntensityKts>45</systemIntensityKts>
 <systemMslpMb>992</systemMslpMb>
 <systemMslpInHg>29.30</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
@@ -48,12 +48,15 @@
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
-TTAA00 KNHC DDHHMM
+TTAA00 KNHC DDHHMM CCA
 
 BULLETIN
-Tropical Storm Lidia Intermediate Advisory Number 13A
+Tropical Storm Lidia
+Intermediate Advisory Number 13A...Corrected
 NWS National Hurricane Center Miami FL       EP142017
 600 PM MDT Fri Sep 01 2017
+
+Corrected intensity
 
 ...LIDIA SPREADING HEAVY RAINS ACROSS BAJA CALIFORNIA SUR...
 
@@ -63,7 +66,7 @@ SUMMARY OF 600 PM MDT...0000 UTC...INFORMATION
 LOCATION...26.0N 112.2W
 ABOUT 50 MI...80 KM W OF LORETO MEXICO
 ABOUT 85 MI...135 KM N OF CABO SAN LAZARO MEXICO
-MAXIMUM SUSTAINED WINDS...55 MPH...90 KM/H
+MAXIMUM SUSTAINED WINDS...50 MPH...80 KM/H
 PRESENT MOVEMENT...NW OR 325 DEGREES AT 12 MPH...19 KM/H
 MINIMUM CENTRAL PRESSURE...992 MB...29.30 INCHES
 
@@ -86,8 +89,8 @@ Luis to Los Barriles
 Interests elsewhere in northwestern Mexico and the Baja California
 peninsula should monitor the progress of Lidia.
 
-For storm information specific to your area, please monitor products
-issued by your national meteorological service.
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
@@ -100,7 +103,7 @@ forecast track, the center of Lidia will move near or along the west
 coast of the Baja California peninsula through Saturday, and then
 move west of the peninsula over the Pacific Ocean by Sunday morning.
 
-Maximum sustained winds have decreased to near 55 mph (90 km/h)
+Maximum sustained winds have decreased to near 50 mph (80 km/h)
 with higher gusts. Weakening is forecast during the next couple of
 days while Lidia interacts with the mountainous terrain of the Baja
 California peninsula and moves over cold Pacific waters.  Lidia is
@@ -150,7 +153,7 @@ NEXT ADVISORY
 Next complete advisory at 900 PM MDT.
 
 $$
-Forecaster Avila
+Forecaster Beven
 
 NNNN
 
