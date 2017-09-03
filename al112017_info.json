@@ -1,23 +1,23 @@
 {
   "cycloneMessage": {
-    "advisoryNumber": "17",
+    "advisoryNumber": "18",
     "atcfID": "AL112017",
-    "centerLocLatitude": "17.7",
-    "centerLocLatitudeExpanded": "17.7N",
-    "centerLocLongitude": "-48.4",
-    "centerLocLongitudeExpanded": "48.4W",
+    "centerLocLatitude": "17.6",
+    "centerLocLatitudeExpanded": "17.6N",
+    "centerLocLongitude": "-49.8",
+    "centerLocLongitudeExpanded": "49.8W",
     "formationChancePct48h": "N/A",
     "formationChancePct5d": "N/A",
     "issuingUnit": "NWS NATIONAL HURRICANE CENTER MIAMI FL",
-    "message": "ZCZC MIATCPAT1 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Irma Advisory Number  17\nNWS National Hurricane Center Miami FL       AL112017\n1100 AM AST Sun Sep 03 2017\n\n...CATEGORY THREE HURRICANE IRMA MOVING WEST-SOUTHWESTWARD...\n...INTERESTS IN THE LEEWARD ISLANDS SHOULD MONITOR THE PROGRESS\nOF IRMA...\n\n\nSUMMARY OF 1100 AM AST...1500 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...17.7N 48.4W\nABOUT 885 MI...1420 KM E OF THE LEEWARD ISLANDS\nMAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H\nPRESENT MOVEMENT...WSW OR 255 DEGREES AT 14 MPH...22 KM/H\nMINIMUM CENTRAL PRESSURE...969 MB...28.62 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\nInterests in the Leeward Islands should monitor the progress of\nIrma.  Hurricane and Tropical Storm Watches will likely be required\nfor portions of these islands later today or tonight.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 AM AST (1500 UTC), the center of Hurricane Irma was located\nnear latitude 17.7 North, longitude 48.4 West. Irma is moving toward\nthe west-southwest near 14 mph (22 km/h) and this course at a\nslightly slower forward speed is expected through tonight.  A turn\ntoward the west is forecast on Monday.\n\nMaximum sustained winds are near 115 mph (185 km/h) with higher\ngusts.  Irma is a category 3 hurricane on the Saffir-Simpson\nHurricane Wind Scale.  Some strengthening is forecast during the\nnext 48 hours.\n\nHurricane-force winds extend outward up to 25 miles (35 km) from the\ncenter and tropical-storm-force winds extend outward up to 80 miles\n(130 km).\n\nThe estimated minimum central pressure is 969 mb (28.62 inches).\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 PM AST.\n\n$$\nForecaster Brown\n\nNNNN",
+    "message": "ZCZC MIATCPAT1 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Irma Advisory Number  18\nNWS National Hurricane Center Miami FL       AL112017\n500 PM AST Sun Sep 03 2017\n\n...HURRICANE WATCHES ISSUED FOR PORTIONS OF THE LEEWARD ISLANDS...\n...NOAA HURRICANE HUNTER AIRCRAFT EN ROUTE TO IRMA...\n\n\nSUMMARY OF 500 PM AST...2100 UTC...INFORMATION\n----------------------------------------------\nLOCATION...17.6N 49.8W\nABOUT 790 MI...1275 KM E OF THE LEEWARD ISLANDS\nMAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H\nPRESENT MOVEMENT...W OR 260 DEGREES AT 14 MPH...22 KM/H\nMINIMUM CENTRAL PRESSURE...969 MB...28.62 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nThe government of Antigua has issued a Hurricane Watch for the\nislands of Antigua, Barbuda, Anguilla, Montserrat, St. Kitts, and\nNevis.\n\nThe government of the Netherlands has issued a Hurricane Watch for\nthe islands of Saba, St. Eustatius, and Sint Maarten.\n\nThe government of France has issued a Hurricane Watch for St.\nMartin and Saint Barthelemy.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Hurricane Watch is in effect for...\n* Antigua, Barbuda, Anguilla, Montserrat, St. Kitts, and Nevis\n* Saba, St. Eustatius, and Sint Maarten\n* Saint Martin and Saint Barthelemy\n\nInterests in the remainder of the Leeward Islands, the British and\nU.S. Virgin Islands, and Puerto Rico should monitor the progress of\nIrma.  Additional Hurricane and Tropical Storm Watches may be\nrequired for portions of this area on Monday.\n\nFor storm information specific to your area, please monitor\nproducts issued by your national meteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 PM AST (2100 UTC), the center of Hurricane Irma was located\nnear latitude 17.6 North, longitude 49.8 West. Irma is moving toward\nthe west near 14 mph (22 km/h).  A westward to west-southwestward\nmotion with some reduction in forward speed is expected through\nMonday night.  On the forecast track, the center of Irma is\nforecast to approach the northern Leeward Islands late Tuesday.\n\nMaximum sustained winds are near 115 mph (185 km/h) with higher\ngusts.  Irma is a category 3 hurricane on the Saffir-Simpson\nHurricane Wind Scale.  Some strengthening is forecast during the\nnext 48 hours.\n\nHurricane-force winds extend outward up to 35 miles (55 km) from the\ncenter and tropical-storm-force winds extend outward up to 140 miles\n(220 km).\n\nThe estimated minimum central pressure is 969 mb (28.62 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nWIND:  Hurricane conditions are possible within the watch area by\nTuesday night, with tropical storm conditions possible by late\nTuesday.\n\n\nNEXT ADVISORY\n-------------\nNext intermediate advisory at 800 PM AST.\nNext complete advisory at 1100 PM AST.\n\n$$\nForecaster Brown\n\nNNNN",
     "messageBinNumber": "1",
-    "messageDateTimeLocal": "20170903 11:00:00 AM AST",
-    "messageDateTimeLocalStr": "1100 AM AST Sun Sep 03",
-    "messageDateTimeUTC": "20170903 03:00:00 PM UTC",
-    "messageDateTimeUTC24": "201709031500",
+    "messageDateTimeLocal": "20170903 05:00:00 PM AST",
+    "messageDateTimeLocalStr": "0500 PM AST Sun Sep 03",
+    "messageDateTimeUTC": "20170903 09:00:00 PM UTC",
+    "messageDateTimeUTC24": "201709032100",
     "messageType": "ROUTINE ADVISORY",
-    "systemDirectionOfMotion": "WSW OR 255 DEGREES",
-    "systemGeoRefPt1": "ABOUT 885 MI...1420 KM E OF THE LEEWARD ISLANDS",
+    "systemDirectionOfMotion": "W OR 260 DEGREES",
+    "systemGeoRefPt1": "ABOUT 790 MI...1275 KM E OF THE LEEWARD ISLANDS",
     "systemIntensityKph": "185",
     "systemIntensityKts": "100",
     "systemIntensityMph": "115",
@@ -29,6 +29,6 @@
     "systemSpeedKts": "12",
     "systemSpeedMph": "14",
     "systemType": "HURRICANE",
-    "timeEpochSeconds": "1504450800"
+    "timeEpochSeconds": "1504472400"
   }
 }
