@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL112017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>18A</advisoryNumber>
+<advisoryNumber>19</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170903 08:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170904 12:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709040000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 PM AST Sun Sep 03</messageDateTimeLocalStr>
-<timeEpochSeconds>1504483200</timeEpochSeconds>
+<messageDateTimeLocal>20170903 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170904 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709040300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Sun Sep 03</messageDateTimeLocalStr>
+<timeEpochSeconds>1504494000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>IRMA</systemName>
@@ -19,54 +19,52 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>17.4</centerLocLatitude>
-<centerLocLongitude>-50.3</centerLocLongitude>
+<centerLocLatitude>17.2</centerLocLatitude>
+<centerLocLongitude>-51</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>17.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>50.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>17.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>51.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>115</systemIntensityMph>
 <systemIntensityKph>185</systemIntensityKph>
 <systemIntensityKts>100</systemIntensityKts>
-<systemMslpMb>959</systemMslpMb>
-<systemMslpInHg>28.32</systemMslpInHg>
+<systemMslpMb>961</systemMslpMb>
+<systemMslpInHg>28.38</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 260 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>WSW OR 255 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>14</systemSpeedMph>
 <systemSpeedKph>22</systemSpeedKph>
 <systemSpeedKts>12</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 760 MI...1220 KM E OF THE LEEWARD ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 710 MI...1145 KM E OF THE LEEWARD ISLANDS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
-TTAA00 KNHC DDHHMM CCA
+TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irma Intermediate Advisory Number 18A...Corrected
+Hurricane Irma Advisory Number  19
 NWS National Hurricane Center Miami FL       AL112017
-800 PM AST Sun Sep 03 2017
+1100 PM AST Sun Sep 03 2017
 
-Corrected location
-
-...IRMA EXPECTED TO BE NEAR THE NORTHERN LEEWARD ISLANDS BY
-LATE TUESDAY...
+...MAJOR HURRICANE IRMA EXPECTED TO BE NEAR THE NORTHERN LEEWARD
+ISLANDS TUESDAY NIGHT...
 
 
-SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
-----------------------------------------------
-LOCATION...17.4N 50.3W
-ABOUT 760 MI...1220 KM E OF THE LEEWARD ISLANDS
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...17.2N 51.0W
+ABOUT 710 MI...1145 KM E OF THE LEEWARD ISLANDS
 MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
-PRESENT MOVEMENT...W OR 260 DEGREES AT 14 MPH...22 KM/H
-MINIMUM CENTRAL PRESSURE...959 MB...28.32 INCHES
+PRESENT MOVEMENT...WSW OR 255 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...961 MB...28.38 INCHES
 
 
 WATCHES AND WARNINGS
@@ -93,25 +91,24 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 PM AST (0000 UTC), the eye of Hurricane Irma was located by a
-NOAA Hurricane Hunter aircraft near latitude 17.4 North, longitude
-50.3 West.  Irma is moving toward the west near 14 mph (22 km/h).  A
-westward to west-southwestward motion with some reduction in forward
-speed is expected through Monday night.  On the forecast track, the
-center of Irma is expected to approach the northern Leeward Islands
-late Tuesday.
+At 1100 PM AST (0300 UTC), the center of Hurricane Irma was located
+near latitude 17.2 North, longitude 51.0 West.  Irma is moving
+toward the west-southwest near 14 mph (22 km/h).  A
+west-southwestward to westward motion is expected through Monday
+night. On the forecast track, the center of Irma is expected to
+approach the northern Leeward Islands late Tuesday.
 
 Maximum sustained winds are near 115 mph (185 km/h) with higher
 gusts.  Irma is a category 3 hurricane on the Saffir-Simpson
 Hurricane Wind Scale.  Some strengthening is forecast during the
 next 48 hours.
 
-Hurricane-force winds extend outward up to 35 miles (55 km) from
-the center and tropical-storm-force winds extend outward up to 140
-miles (220 km).
+Hurricane-force winds extend outward up to 35 miles (55 km) from the
+center and tropical-storm-force winds extend outward up to 140 miles
+(220 km).
 
-The minimum central pressure estimated from NOAA Hurricane Hunter
-observations is 959 mb (28.32 inches).
+A NOAA Hurricane Hunter aircraft reported a minimum central
+pressure of 961 mb (28.38 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -120,15 +117,20 @@ WIND:  Hurricane conditions are possible within the watch area by
 Tuesday night, with tropical storm conditions possible by late
 Tuesday.
 
+SURF:  Swells generated by Irma will begin affecting the northern
+Leeward Islands on Monday.  These swells are likely to cause
+life-threatening surf and rip current conditions.  Please consult
+products from your local weather office.
+
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM AST.
+Next intermediate advisory at 200 AM AST.
+Next complete advisory at 500 AM AST.
 
 $$
 Forecaster Pasch
 
 NNNN
-
 </message>
 </cycloneMessage>
