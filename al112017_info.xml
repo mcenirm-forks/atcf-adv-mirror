@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>17.6</centerLocLatitude>
-<centerLocLongitude>-49.8</centerLocLongitude>
+<centerLocLatitude>17.4</centerLocLatitude>
+<centerLocLongitude>-50.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>17.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>49.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>17.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>50.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>115</systemIntensityMph>
@@ -47,12 +47,14 @@
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
-TTAA00 KNHC DDHHMM
+TTAA00 KNHC DDHHMM CCA
 
 BULLETIN
-Hurricane Irma Intermediate Advisory Number 18A
+Hurricane Irma Intermediate Advisory Number 18A...Corrected
 NWS National Hurricane Center Miami FL       AL112017
 800 PM AST Sun Sep 03 2017
+
+Corrected location
 
 ...IRMA EXPECTED TO BE NEAR THE NORTHERN LEEWARD ISLANDS BY
 LATE TUESDAY...
@@ -60,7 +62,7 @@ LATE TUESDAY...
 
 SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...17.6N 49.8W
+LOCATION...17.4N 50.3W
 ABOUT 760 MI...1220 KM E OF THE LEEWARD ISLANDS
 MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
 PRESENT MOVEMENT...W OR 260 DEGREES AT 14 MPH...22 KM/H
@@ -91,13 +93,13 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 PM AST (0000 UTC), the eye of Hurricane Irma was located
-by a NOAA Hurricane Hunter aircraft near latitude 17.4 North,
-longitude 50.3 West.  Irma is moving toward the west near 14 mph (22
-km/h).  A westward to west-southwestward motion with some reduction
-in forward speed is expected through Monday night.  On the forecast
-track, the center of Irma is expected to approach the northern
-Leeward Islands late Tuesday.
+At 800 PM AST (0000 UTC), the eye of Hurricane Irma was located by a
+NOAA Hurricane Hunter aircraft near latitude 17.4 North, longitude
+50.3 West.  Irma is moving toward the west near 14 mph (22 km/h).  A
+westward to west-southwestward motion with some reduction in forward
+speed is expected through Monday night.  On the forecast track, the
+center of Irma is expected to approach the northern Leeward Islands
+late Tuesday.
 
 Maximum sustained winds are near 115 mph (185 km/h) with higher
 gusts.  Irma is a category 3 hurricane on the Saffir-Simpson
