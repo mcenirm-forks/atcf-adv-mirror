@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL112017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>23A</advisoryNumber>
+<advisoryNumber>24</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170905 02:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170905 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709050600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM AST Tue Sep 05</messageDateTimeLocalStr>
-<timeEpochSeconds>1504591200</timeEpochSeconds>
+<messageDateTimeLocal>20170905 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170905 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709050900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Tue Sep 05</messageDateTimeLocalStr>
+<timeEpochSeconds>1504602000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>IRMA</systemName>
@@ -20,61 +20,59 @@
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>16.6</centerLocLatitude>
-<centerLocLongitude>-56.4</centerLocLongitude>
+<centerLocLongitude>-57</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>16.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>56.4W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>57.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>145</systemIntensityMph>
-<systemIntensityKph>235</systemIntensityKph>
-<systemIntensityKts>125</systemIntensityKts>
-<systemMslpMb>939</systemMslpMb>
-<systemMslpInHg>27.73</systemMslpInHg>
+<systemIntensityMph>150</systemIntensityMph>
+<systemIntensityKph>240</systemIntensityKph>
+<systemIntensityKts>130</systemIntensityKts>
+<systemMslpMb>937</systemMslpMb>
+<systemMslpInHg>27.67</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 4</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>13</systemSpeedMph>
-<systemSpeedKph>20</systemSpeedKph>
-<systemSpeedKts>11</systemSpeedKts>
+<systemSpeedMph>14</systemSpeedMph>
+<systemSpeedKph>22</systemSpeedKph>
+<systemSpeedKts>12</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 360 MI...575 KM E OF THE LEEWARD ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 320 MI...515 KM E OF THE LEEWARD ISLANDS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
-TTAA00 KNHC DDHHMM CCA
+TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irma Intermediate Advisory Number 23A...Corrected
+Hurricane Irma Advisory Number  24
 NWS National Hurricane Center Miami FL       AL112017
-200 AM AST Tue Sep 05 2017
+500 AM AST Tue Sep 05 2017
 
-Corrected for Rushed instead of Rush in the headline
-
-...SEVERE HURRICANE IRMA POSES A SERIOUS THREAT TO THE LEEWARD
-ISLANDS...
-...ALL PREPARATIONS SHOULD BE RUSHED TO COMPLETION...
+...DANGEROUS HURRICANE IRMA HEADING FOR THE LEEWARD ISLANDS WITH 150
+MPH WINDS...
 
 
-SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...16.6N 56.4W
-ABOUT 360 MI...575 KM E OF THE LEEWARD ISLANDS
-MAXIMUM SUSTAINED WINDS...145 MPH...235 KM/H
-PRESENT MOVEMENT...W OR 270 DEGREES AT 13 MPH...20 KM/H
-MINIMUM CENTRAL PRESSURE...939 MB...27.73 INCHES
+LOCATION...16.6N 57.0W
+ABOUT 320 MI...515 KM E OF THE LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...150 MPH...240 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...937 MB...27.67 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The government of Barbados has issued a Tropical Storm Warning for
+Dominica.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -91,27 +89,20 @@ A Hurricane Watch is in effect for...
 
 A Tropical Storm Warning is in effect for...
 * Guadeloupe
-
-A Tropical Storm Watch is in effect for...
 * Dominica
 
 A Hurricane Warning means that hurricane conditions are expected
-somewhere within the warning area.  A warning is typically issued
+somewhere within the warning area. A warning is typically issued
 36 hours before the anticipated first occurrence of tropical-storm-
 force winds, conditions that make outside preparations difficult or
-dangerous.  Preparations to protect life and property should be
-rushed to completion.
-
-A Hurricane Watch means that hurricane conditions are possible
-within the watch area.  A watch is typically issued 48 hours before
-the anticipated first occurrence of tropical-storm-force winds,
-conditions that make outside preparations difficult or dangerous.
+dangerous. In this case, for some of easternmost islands, the
+hurricane conditions are expected within the next 24 hours.
+Preparations to protect life and property should be rushed to
+completion.
 
 A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area within 36 hours.
-
-A Tropical Storm Watch means that tropical storm conditions are
-possible within the watch area, generally within 48 hours.
+expected somewhere within the warning area in this case within 36
+hours.
 
 Interests in the Dominican Republic, Haiti, the Turks and Caicos
 Islands, Cuba, and the southeastern and central Bahamas should
@@ -127,26 +118,28 @@ meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM AST (0600 UTC), the eye of Hurricane Irma was located by
-an Air Force Hurricane Hunter aircraft near latitude 16.6 North,
-longitude 56.4 West.  Irma is moving toward the west near 13 mph (20
-km/h), and this general motion is expected to continue today,
-followed by a turn toward the west-northwest Tuesday night. On the
-forecast track, the center of Irma will move near or over portions
-of the northern Leeward Islands Tuesday night and early Wednesday.
+At 500 AM AST (0900 UTC), the distinct eye of Hurricane Irma was
+located near latitude 16.6 North, longitude 57.0 West. Irma is
+moving toward the west near 14 mph (22 km/h), and this general
+motion is expected to continue today, followed by a turn toward the
+west-northwest tonight. On the forecast track, the core of Irma
+will move near or over portions of the northern Leeward Islands
+tonight and early Wednesday.
 
-Data from an Air Force Hurricane Hunter plane indicate that the
-maximum sustained winds have increased to near 145 mph (235 km/h)
+Maximum sustained winds have increased to near 150 mph (240 km/h)
 with higher gusts.  Irma is a category 4 hurricane on the
-Saffir-Simpson Hurricane Wind Scale.  Additional strengthening is
-possible during the next 48 hours.
+Saffir-Simpson Hurricane Wind Scale.  A NOAA Hurricane Hunter
+plane is scheduled to be in the eye of Irma within the hour.
 
-Hurricane-force winds extend outward up to 45 miles (75 km) from
-the center and tropical-storm-force winds extend outward up to 140
-miles (220 km).
+Some fluctuations in intensity are likely during the next day
+or two, but Irma is forecast to remain a powerful category 4
+hurricane.
 
-The minimum central pressure just estimated from a Hurricane Hunter
-plane was 939 mb (27.73 inches).
+Hurricane-force winds extend outward up to 45 miles (75 km) from the
+center and tropical-storm-force winds extend outward up to 140 miles
+(220 km).
+
+The estimated minimum central pressure is 937 mb (27.67 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -177,13 +170,13 @@ products issued by your local National Weather Service forecast
 office.
 
 WIND:  Hurricane conditions are expected within the hurricane
-warning area by Tuesday night, with tropical storm conditions
-beginning earlier during the day. Tropical storm conditions are
-expected within the tropical storm warning area where hurricane
-conditions are also possible.
+warning area by tonight, with tropical storm conditions
+beginning later today. Tropical storm conditions are expected within
+the tropical storm warning area where hurricane conditions are also
+possible.
 
 RAINFALL:  Irma is expected to produce total rainfall accumulations
-of 3 to 6 inches with isolated maximum amounts of 10 inches across
+of 4 to 8 inches with isolated maximum amounts of 12 inches across
 the northern Leeward Islands, the British and U.S. Virgin Islands,
 and Puerto Rico.  These rainfall amounts may cause life-threatening
 flash floods and mudslides.
@@ -197,12 +190,12 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next intermediate advisory at 800 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
 Forecaster Avila
 
 NNNN
-
 </message>
 </cycloneMessage>
