@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL112017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>23</advisoryNumber>
+<advisoryNumber>23A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170904 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170905 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709050300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Mon Sep 04</messageDateTimeLocalStr>
-<timeEpochSeconds>1504580400</timeEpochSeconds>
+<messageDateTimeLocal>20170905 02:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170905 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709050600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM AST Tue Sep 05</messageDateTimeLocalStr>
+<timeEpochSeconds>1504591200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>IRMA</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.7</centerLocLatitude>
-<centerLocLongitude>-55.6</centerLocLongitude>
+<centerLocLatitude>16.6</centerLocLatitude>
+<centerLocLongitude>-56.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>55.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>16.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>56.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>140</systemIntensityMph>
-<systemIntensityKph>220</systemIntensityKph>
-<systemIntensityKts>120</systemIntensityKts>
-<systemMslpMb>943</systemMslpMb>
-<systemMslpInHg>27.85</systemMslpInHg>
+<systemIntensityMph>145</systemIntensityMph>
+<systemIntensityKph>235</systemIntensityKph>
+<systemIntensityKts>125</systemIntensityKts>
+<systemMslpMb>939</systemMslpMb>
+<systemMslpInHg>27.73</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 4</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,39 +43,36 @@
 <systemSpeedKph>20</systemSpeedKph>
 <systemSpeedKts>11</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 410 MI...660 KM E OF THE LEEWARD ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 360 MI...575 KM E OF THE LEEWARD ISLANDS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irma Advisory Number  23
+Hurricane Irma Intermediate Advisory Number 23A
 NWS National Hurricane Center Miami FL       AL112017
-1100 PM AST Mon Sep 04 2017
+200 AM AST Tue Sep 05 2017
 
-...HURRICANE WARNINGS ISSUED FOR PUERTO RICO AND THE VIRGIN
+...SEVERE HURRICANE IRMA POSES A SERIOUS THREAT TO THE LEEWARD
 ISLANDS...
+...ALL PREPARATIONS SHOULD BE RUSH TO COMPLETION...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...16.7N 55.6W
-ABOUT 410 MI...660 KM E OF THE LEEWARD ISLANDS
-MAXIMUM SUSTAINED WINDS...140 MPH...220 KM/H
+SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.6N 56.4W
+ABOUT 360 MI...575 KM E OF THE LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...145 MPH...235 KM/H
 PRESENT MOVEMENT...W OR 270 DEGREES AT 13 MPH...20 KM/H
-MINIMUM CENTRAL PRESSURE...943 MB...27.85 INCHES
+MINIMUM CENTRAL PRESSURE...939 MB...27.73 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Hurricane Watch for the U.S. Virgin Islands, Puerto Rico,
-Vieques, and Culebra has been changed to a Hurricane Warning.
-
-The government of Antigua has changed the Hurricane Watch for the
-British Virgin Islands to a Hurricane Warning.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -118,35 +115,37 @@ Interests in the Dominican Republic, Haiti, the Turks and Caicos
 Islands, Cuba, and the southeastern and central Bahamas should
 monitor the progress of Irma.
 
-For storm information specific to your area in the United
-States, including possible inland watches and warnings, please
-monitor products issued by your local National Weather Service
-forecast office. For storm information specific to your area outside
-the United States, please monitor products issued by your national
+For storm information specific to your area in the United States,
+including possible inland watches and warnings, please monitor
+products issued by your local National Weather Service forecast
+office. For storm information specific to your area outside the
+United States, please monitor products issued by your national
 meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the eye of Hurricane Irma was located
-by an Air Force Hurricane Hunter aircraft near latitude 16.7 North,
-longitude 55.6 West.  Irma is moving toward the west near 13 mph (20
-km/h) and this general motion is expected to continue into Tuesday,
-followed by a turn toward the west-northwest late Tuesday.  On the
-forecast track, the center of Irma will move near or over portions
-of the northern Leeward Islands Tuesday night and early Wednesday.
+At 200 AM AST (0600 UTC), the eye of Hurricane Irma was located by
+an Air Force Hurricane Hunter aircraft near latitude 16.6 North,
+longitude 56.4 West.  Irma is moving toward the west near 13 mph
+(20 km/h), and this general motion is expected to continue today,
+followed by a turn toward the west-northwest Tuesday night.
+On the forecast track, the center of Irma will move near or over
+portions of the northern Leeward Islands Tuesday night and early
+Wednesday.
 
-Maximum sustained winds are near 140 mph (220 km/h) with higher
-gusts.  Irma is a category 4 hurricane on the Saffir-Simpson
-Hurricane Wind Scale.  Additional strengthening is forecast during
-the next 48 hours.
+Data from an Air Force Hurricane Hunter plane indicate that
+the maximum sustained winds have increased to near 145 mph (235
+km/h) with higher gusts.  Irma is a category 4 hurricane on the
+Saffir-Simpson Hurricane Wind Scale.  Additional strengthening is
+possible during the next 48 hours.
 
-Hurricane-force winds extend outward up to 45 miles (75 km) from the
-center and tropical-storm-force winds extend outward up to 140 miles
-(220 km).
+Hurricane-force winds extend outward up to 45 miles (75 km) from
+the center and tropical-storm-force winds extend outward up to 140
+miles (220 km).
 
-The minimum central pressure estimated from Hurricane
-Hunter observations is 943 mb (27.85 inches).
+The minimum central pressure just estimated from a Hurricane Hunter
+plane was 939 mb (27.73 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -178,11 +177,9 @@ office.
 
 WIND:  Hurricane conditions are expected within the hurricane
 warning area by Tuesday night, with tropical storm conditions
-expected by late Tuesday.  Hurricane conditions are possible within
-the hurricane watch area in the Virgin Islands and Puerto Rico by
-late Wednesday, with tropical storm conditions possible by early
-Wednesday.  Tropical Storm conditions are expected within the
-tropical storm warning area by late Tuesday.
+beginning earlier during the day. Tropical storm conditions are
+expected within the tropical storm warning area where hurricane
+conditions are also possible.
 
 RAINFALL:  Irma is expected to produce total rainfall accumulations
 of 3 to 6 inches with isolated maximum amounts of 10 inches across
@@ -199,12 +196,12 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 AM AST.
 Next complete advisory at 500 AM AST.
 
 $$
-Forecaster Pasch
+Forecaster Avila
 
 NNNN
+
 </message>
 </cycloneMessage>
