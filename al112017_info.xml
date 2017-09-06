@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL112017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>29A</advisoryNumber>
+<advisoryNumber>30</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170906 08:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170906 12:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709061200</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 AM AST Wed Sep 06</messageDateTimeLocalStr>
-<timeEpochSeconds>1504699200</timeEpochSeconds>
+<messageDateTimeLocal>20170906 11:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170906 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709061500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM AST Wed Sep 06</messageDateTimeLocalStr>
+<timeEpochSeconds>1504710000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>IRMA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>18.1</centerLocLatitude>
-<centerLocLongitude>-63.3</centerLocLongitude>
+<centerLocLatitude>18.2</centerLocLatitude>
+<centerLocLongitude>-64</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>18.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>63.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>64.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>185</systemIntensityMph>
@@ -43,28 +43,27 @@
 <systemSpeedKph>26</systemSpeedKph>
 <systemSpeedKts>14</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 15 MI...25 KM W OF ST. MARTIN</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 15 MI...25 KM WSW OF ANGUILLA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 65 MI...110 KM ESE OF ST. THOMAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 140 MI...225 KM E OF SAN JUAN PUERTO RICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irma Intermediate Advisory Number 29A
+Hurricane Irma Advisory Number  30
 NWS National Hurricane Center Miami FL       AL112017
-800 AM AST Wed Sep 06 2017
+1100 AM AST Wed Sep 06 2017
 
 ...EYE OF POTENTIALLY CATASTROPHIC CATEGORY 5 HURRICANE IRMA
-PASSES OVER ST. MARTIN...
-...NORTHERN EYEWALL POUNDING ANGUILLA...
+CLOSING IN ON THE VIRGIN ISLANDS...
 
 
-SUMMARY OF 800 AM AST...1200 UTC...INFORMATION
-----------------------------------------------
-LOCATION...18.1N 63.3W
-ABOUT 15 MI...25 KM W OF ST. MARTIN
-ABOUT 15 MI...25 KM WSW OF ANGUILLA
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...18.2N 64.0W
+ABOUT 65 MI...110 KM ESE OF ST. THOMAS
+ABOUT 140 MI...225 KM E OF SAN JUAN PUERTO RICO
 MAXIMUM SUSTAINED WINDS...185 MPH...295 KM/H
 PRESENT MOVEMENT...WNW OR 285 DEGREES AT 16 MPH...26 KM/H
 MINIMUM CENTRAL PRESSURE...918 MB...27.11 INCHES
@@ -74,12 +73,22 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None
+A Hurricane Warning has been issued for the north coast of Haiti
+from the northern border with the Dominican Republic to Le
+Mole St. Nicholas.  A Tropical Storm Warning has been issued for
+for the coast of Haiti from south of Le Mole St. Nicholas to
+Port-Au-Prince.
+
+The government of France has discontinued all warnings for
+Guadeloupe.
+
+The government of Antigua has discontinued all warnings for Antigua,
+Barbuda, St. Kitts, Nevis, and Montserrat.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Hurricane Warning is in effect for...
-* Antigua, Barbuda, Anguilla, Montserrat, St. Kitts, and Nevis
+* Anguilla
 * Saba, St. Eustatius, and Sint Maarten
 * Saint Martin and Saint Barthelemy
 * British Virgin Islands
@@ -87,22 +96,17 @@ A Hurricane Warning is in effect for...
 * Puerto Rico, Vieques, and Culebra
 * Dominican Republic from Cabo Engano to the northern border with
 Haiti
-* Guadeloupe
+* Haiti from the northern border with the Dominican Republic to Le
+Mole St. Nicholas
 * Southeastern Bahamas and the Turks and Caicos Islands
 
 A Hurricane Watch is in effect for...
-* Haiti from the northern border with the Dominican Republic to Le
-Mole St. Nicholas
-* Turks and Caicos Islands
-* Southeastern Bahamas
 * Cuba from Matanzas province eastward to Guantanamo province
 * Central Bahamas
 
 A Tropical Storm Warning is in effect for...
 * Dominican Republic from south of Cabo Engano westward to the
 southern border with Haiti
-
-A Tropical Storm Watch is in effect for...
 * Haiti from south of Le Mole St. Nicholas to Port-Au-Prince
 
 A Hurricane Warning means that hurricane conditions are expected
@@ -121,48 +125,41 @@ expected somewhere within the warning area.
 A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, generally within 48 hours.
 
-Interests elsewhere in the Dominican Republic and Haiti, as
-well as Cuba, the northwestern Bahamas, and Florida should monitor
-the progress of Irma.
+Interests elsewhere in the Dominican Republic and Haiti, as well as
+Cuba, the northwestern Bahamas, and Florida should monitor the
+progress of Irma.
 
-For storm information specific to your area in the United
-States, including possible inland watches and warnings, please
-monitor products issued by your local National Weather Service
-forecast office. For storm information specific to your area outside
-the United States, please monitor products issued by your national
+For storm information specific to your area in the United States,
+including possible inland watches and warnings, please monitor
+products issued by your local National Weather Service forecast
+office. For storm information specific to your area outside the
+United States, please monitor products issued by your national
 meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 AM AST (1200 UTC), the eye of Hurricane Irma was located near
-latitude 18.1 North, longitude 63.3 West.  Irma is moving toward the
-west-northwest near 16 mph (26 km/h), and this general motion is
-expected to continue for the next couple of days.  On the forecast
+At 1100 AM AST (1500 UTC), the eye of Hurricane Irma was located
+near latitude 18.2 North, longitude 64.0 West. Irma is moving toward
+the west-northwest near 16 mph (26 km/h), and this general motion is
+expected to continue for the next couple of days. On the forecast
 track, the extremely dangerous core of Irma will move over portions
-of the northern Virgin Islands today, pass near or just north of
-Puerto Rico this afternoon or tonight, and pass near or just north
-of the coast of the Dominican Republic Thursday.
+of the Virgin Islands very soon, pass near or just north of Puerto
+Rico this afternoon or tonight, pass near or just north of the
+coast of the Dominican Republic Thursday, and be near the Turks and
+Caicos and southeastern Bahamas late Thursday.
 
-Maximum sustained winds remain near 185 mph (295 km/h) with higher
+Maximum sustained winds are near 185 mph (295 km/h) with higher
 gusts.  Irma is a category 5 hurricane on the Saffir-Simpson
 Hurricane Wind Scale.  Some fluctuations in intensity are likely
 during the next day or two, but Irma is forecast to remain a
 powerful category 4 or 5 hurricane during the next couple of days.
 
-Hurricane-force winds extend outward up to 50 miles (85 km) from
-the center and tropical-storm-force winds extend outward up to 175
-miles (280 km).  A wind gust to 90 mph (146 km/h) was recently on
-the island of St. Eustatius located south of the eye of Irma.  A
-NOAA National Ocean Service station on Barbuda reported sustained
-winds of 118 mph (190 km/h) with a gust to 155 mph (249 km/h)
-before the instrument failed earlier this morning.
+Hurricane-force winds extend outward up to 50 miles (85 km) from the
+center and tropical-storm-force winds extend outward up to 185 miles
+(295 km).
 
-The estimated minimum central pressure based on data from an Air
-Force Reserve aircraft and earlier surface observations is 918 mb
-(27.11 inches). A NOAA National Ocean Service station on Barbuda
-reported a minimum pressure of 916.1 mb (27.05 inches) earlier this
-morning.
+The estimated minimum central pressure is 918 mb (27.11 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -186,8 +183,8 @@ reach the following HEIGHTS ABOVE GROUND if the peak surge occurs at
 the time of high tide...
 
 British and U.S. Virgin Islands except St. Croix...7 to 11 ft
-Northern coast of Puerto Rico...3 to 5 ft
-Southern coast of Puerto Rico and St. Croix...1 to 2 ft
+Northern coast of Puerto Rico...4 to 6 ft
+Southern coast of Puerto Rico and St. Croix...2 to 4 ft
 
 The deepest water will occur along the immediate coast in areas of
 onshore winds, where the surge will be accompanied by large and
@@ -197,35 +194,31 @@ short distances.  For information specific to your area, please see
 products issued by your local National Weather Service forecast
 office.
 
-WIND:  Hurricane conditions will continue today within the
-hurricane warning area in the Leeward Islands.  Hurricane
-conditions are expected to begin within the British and U.S. Virgin
-Islands this morning and spread westward over portions of Puerto
-Rico later today.  Hurricane conditions are expected to begin within
-the hurricane warning area in the Dominican Republic early Thursday,
-with tropical storm conditions beginning tonight.  Hurricane
-conditions are expected in the warning area in the southeastern
-Bahamas and the Turks and Caicos Islands beginning Thursday night.
+WIND:  Hurricane conditions will continue today within the hurricane
+warning area in the Leeward Islands.  Hurricane conditions are
+occurring over the British and U.S. Virgin Islands and will spread
+westward over portions of Puerto Rico later today.  Hurricane
+conditions are expected to begin within the hurricane warning area
+in the Dominican Republic and and Haiti on Thursday, with tropical
+storm conditions beginning tonight. Hurricane conditions are
+expected in the warning area in the southeastern Bahamas and the
+Turks and Caicos Islands beginning Thursday night.
 
 Hurricane and tropical storm conditions are possible within the
-watch area in Haiti by early Thursday and in the central Bahamas
-and Cuba by Friday.
+watch area in the central Bahamas and Cuba by Friday.
 
 RAINFALL: Irma is expected to produce the following rain
-accumulations through Thursday:
+accumulations through Saturday:
 
 Northern Leeward Islands...8 to 12 inches, isolated 20 inches
 Northeast Puerto Rico and the British and U.S. Virgin Islands...4 to
-10 inches, isolated 15 inches Southwest Puerto Rico, the southern
-Leeward Islands, and Saint Croix...2 to 4 inches
-
-Irma is expected to produce the following rain accumulations
-Wednesday through Saturday:
-
-Southeast Bahamas, the Turks and Caicos and eastern to central
-Cuba...8 to 12 inches, isolated 20 inches
-Northern Dominican Republic and northern Haiti...4 to 10 inches,
-isolated 15 inches
+10 inches, isolated 15 inches
+Southwest Puerto Rico, the southern Leeward Islands, and Saint
+Croix...2 to 4 inches
+Southeast Bahamas and Turks and Caicos...8 to 12 inches, isolated 20
+inches
+Northern Dominican Republic, northern Haiti, eastern and central
+Cuba...4 to 10 inches, isolated 15 inches
 Southwest Haiti...1 to 4 inches
 
 In all areas this rainfall may cause life-threatening flash floods
@@ -242,12 +235,12 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM AST.
+Next intermediate advisory at 200 PM AST.
+Next complete advisory at 500 PM AST.
 
 $$
 Forecaster Brown
 
 NNNN
-
 </message>
 </cycloneMessage>
