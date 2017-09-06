@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL112017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>29</advisoryNumber>
+<advisoryNumber>29A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170906 05:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170906 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709060900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM AST Wed Sep 06</messageDateTimeLocalStr>
-<timeEpochSeconds>1504688400</timeEpochSeconds>
+<messageDateTimeLocal>20170906 08:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170906 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709061200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM AST Wed Sep 06</messageDateTimeLocalStr>
+<timeEpochSeconds>1504699200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>IRMA</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>17.9</centerLocLatitude>
-<centerLocLongitude>-62.6</centerLocLongitude>
+<centerLocLatitude>18.1</centerLocLatitude>
+<centerLocLongitude>-63.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>17.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>62.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>63.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>185</systemIntensityMph>
 <systemIntensityKph>295</systemIntensityKph>
 <systemIntensityKts>160</systemIntensityKts>
-<systemMslpMb>914</systemMslpMb>
-<systemMslpInHg>26.99</systemMslpInHg>
+<systemMslpMb>918</systemMslpMb>
+<systemMslpInHg>27.11</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 5</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,42 +43,38 @@
 <systemSpeedKph>26</systemSpeedKph>
 <systemSpeedKts>14</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 35 MI...55 KM ESE OF ST. MARTIN</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 145 MI...235 KM E OF ST. CROIX</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 15 MI...25 KM W OF ST. MARTIN</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 15 MI...25 KM WSW OF ANGUILLA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irma Advisory Number  29
+Hurricane Irma Intermediate Advisory Number 29A
 NWS National Hurricane Center Miami FL       AL112017
-500 AM AST Wed Sep 06 2017
+800 AM AST Wed Sep 06 2017
 
 ...EYE OF POTENTIALLY CATASTROPHIC CATEGORY 5 HURRICANE IRMA
-MOVING AWAY FROM BARBUDA AND TOWARD ST. MARTIN...
+PASSES OVER ST. MARTIN...
+...NORTHERN EYEWALL POUNDING ANGUILLA...
 
 
-SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
+SUMMARY OF 800 AM AST...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...17.9N 62.6W
-ABOUT 35 MI...55 KM ESE OF ST. MARTIN
-ABOUT 145 MI...235 KM E OF ST. CROIX
+LOCATION...18.1N 63.3W
+ABOUT 15 MI...25 KM W OF ST. MARTIN
+ABOUT 15 MI...25 KM WSW OF ANGUILLA
 MAXIMUM SUSTAINED WINDS...185 MPH...295 KM/H
 PRESENT MOVEMENT...WNW OR 285 DEGREES AT 16 MPH...26 KM/H
-MINIMUM CENTRAL PRESSURE...914 MB...26.99 INCHES
+MINIMUM CENTRAL PRESSURE...918 MB...27.11 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Government of the Bahamas has issued a Hurricane Warning for
-the Southeastern Bahamas and the Turks and Caicos Islands, and a
-Hurricane Watch for the Central Bahamas.
-
-The Meteorological Service of Barbados has discontinued the
-Tropical Storm Warning for Dominica.
+None
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -139,14 +135,14 @@ meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM AST (0900 UTC), the center of Hurricane Irma was located
-near latitude 17.9 North, longitude 62.6 West.  Irma is moving
-toward the west-northwest near 16 mph (26 km/h), and this general
-motion is expected to continue for the next couple of days.  On the
-forecast track, the extremely dangerous core of Irma will move over
-portions of the northern Leeward Islands this morning, move near or
-over portions of the northern Virgin Islands later today, and pass
-near or just north of Puerto Rico this afternoon or tonight.
+At 800 AM AST (1200 UTC), the eye of Hurricane Irma was located near
+latitude 18.1 North, longitude 63.3 West.  Irma is moving toward the
+west-northwest near 16 mph (26 km/h), and this general motion is
+expected to continue for the next couple of days.  On the forecast
+track, the extremely dangerous core of Irma will move over portions
+of the northern Virgin Islands today, pass near or just north of
+Puerto Rico this afternoon or tonight, and pass near or just north
+of the coast of the Dominican Republic Thursday.
 
 Maximum sustained winds remain near 185 mph (295 km/h) with higher
 gusts.  Irma is a category 5 hurricane on the Saffir-Simpson
@@ -154,12 +150,19 @@ Hurricane Wind Scale.  Some fluctuations in intensity are likely
 during the next day or two, but Irma is forecast to remain a
 powerful category 4 or 5 hurricane during the next couple of days.
 
-Hurricane-force winds extend outward up to 50 miles (85 km) from the
-center and tropical-storm-force winds extend outward up to 175 miles
-(280 km).  St. Martin recently reported a wind gust of 61 mph
-(98 km/h).
+Hurricane-force winds extend outward up to 50 miles (85 km) from
+the center and tropical-storm-force winds extend outward up to 175
+miles (280 km).  A wind gust to 90 mph (146 km/h) was recently on
+the island of St. Eustatius located south of the eye of Irma.  A
+NOAA National Ocean Service station on Barbuda reported sustained
+winds of 118 mph (190 km/h) with a gust to 155 mph (249 km/h)
+before the instrument failed earlier this morning.
 
-The estimated minimum central pressure is 914 mb (26.99 inches).
+The estimated minimum central pressure based on data from an Air
+Force Reserve aircraft and earlier surface observations is 918 mb
+(27.11 inches). A NOAA National Ocean Service station on Barbuda
+reported a minimum pressure of 916.1 mb (27.05 inches) earlier this
+morning.
 
 
 HAZARDS AFFECTING LAND
@@ -194,21 +197,19 @@ short distances.  For information specific to your area, please see
 products issued by your local National Weather Service forecast
 office.
 
-WIND:  Hurricane conditions are occuring within the hurricane
-warning area in the Leeward Islands and should continue through
-today.  Hurricane conditions are expected to begin within the
-hurricane warning area in the British and U.S. Virgin Islands and
-Puerto Rico later today and tonight, with tropical storm conditions
-beginning this morning.  Hurricane conditions are expected to begin
-within the hurricane warning area in the Dominican Republic early
-Thursday, with tropical storm conditions beginning tonight.
-Hurricane conditions are expected in the warning area in the
-southeastern Bahamas and the Turks and Caicos Islands beginning
-Thursday night.
+WIND:  Hurricane conditions will continue today within the
+hurricane warning area in the Leeward Islands.  Hurricane
+conditions are expected to begin within the British and U.S. Virgin
+Islands this morning and spread westward over portions of Puerto
+Rico later today.  Hurricane conditions are expected to begin within
+the hurricane warning area in the Dominican Republic early Thursday,
+with tropical storm conditions beginning tonight.  Hurricane
+conditions are expected in the warning area in the southeastern
+Bahamas and the Turks and Caicos Islands beginning Thursday night.
 
 Hurricane and tropical storm conditions are possible within the
-watch area in Haiti by early Thursday and in the central Bahamas by
-Friday.
+watch area in Haiti by early Thursday and in the central Bahamas
+and Cuba by Friday.
 
 RAINFALL: Irma is expected to produce the following rain
 accumulations through Thursday:
@@ -241,12 +242,12 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 AM AST.
 Next complete advisory at 1100 AM AST.
 
 $$
-Forecaster Beven
+Forecaster Brown
 
 NNNN
+
 </message>
 </cycloneMessage>
