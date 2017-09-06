@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL112017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>30</advisoryNumber>
+<advisoryNumber>30A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170906 11:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170906 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709061500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM AST Wed Sep 06</messageDateTimeLocalStr>
-<timeEpochSeconds>1504710000</timeEpochSeconds>
+<messageDateTimeLocal>20170906 02:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170906 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709061800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM AST Wed Sep 06</messageDateTimeLocalStr>
+<timeEpochSeconds>1504720800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>IRMA</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>18.2</centerLocLatitude>
-<centerLocLongitude>-64</centerLocLongitude>
+<centerLocLatitude>18.5</centerLocLatitude>
+<centerLocLongitude>-64.7</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>18.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>64.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>64.7W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>185</systemIntensityMph>
 <systemIntensityKph>295</systemIntensityKph>
 <systemIntensityKts>160</systemIntensityKts>
-<systemMslpMb>918</systemMslpMb>
-<systemMslpInHg>27.11</systemMslpInHg>
+<systemMslpMb>920</systemMslpMb>
+<systemMslpInHg>27.17</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 5</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,53 +43,45 @@
 <systemSpeedKph>26</systemSpeedKph>
 <systemSpeedKts>14</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 65 MI...110 KM ESE OF ST. THOMAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 140 MI...225 KM E OF SAN JUAN PUERTO RICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 20 MI...35 KM ENE OF ST. THOMAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 90 MI...150 KM E OF SAN JUAN PUERTO RICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irma Advisory Number  30
+Hurricane Irma Intermediate Advisory Number 30A
 NWS National Hurricane Center Miami FL       AL112017
-1100 AM AST Wed Sep 06 2017
+200 PM AST Wed Sep 06 2017
 
-...EYE OF POTENTIALLY CATASTROPHIC CATEGORY 5 HURRICANE IRMA
-CLOSING IN ON THE VIRGIN ISLANDS...
+...EXTREMELY DANGEROUS CORE OF CATEGORY 5 HURRICANE IRMA PASSING
+OVER THE NORTHERMOST VIRGIN ISLANDS...
 
 
-SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...18.2N 64.0W
-ABOUT 65 MI...110 KM ESE OF ST. THOMAS
-ABOUT 140 MI...225 KM E OF SAN JUAN PUERTO RICO
+SUMMARY OF 200 PM AST...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...18.5N 64.7W
+ABOUT 20 MI...35 KM ENE OF ST. THOMAS
+ABOUT 90 MI...150 KM E OF SAN JUAN PUERTO RICO
 MAXIMUM SUSTAINED WINDS...185 MPH...295 KM/H
 PRESENT MOVEMENT...WNW OR 285 DEGREES AT 16 MPH...26 KM/H
-MINIMUM CENTRAL PRESSURE...918 MB...27.11 INCHES
+MINIMUM CENTRAL PRESSURE...920 MB...27.17 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-A Hurricane Warning has been issued for the north coast of Haiti
-from the northern border with the Dominican Republic to Le
-Mole St. Nicholas.  A Tropical Storm Warning has been issued for
-for the coast of Haiti from south of Le Mole St. Nicholas to
-Port-Au-Prince.
+The government of Curacao on behalf of Sint Maartin has discontinued
+the Hurricane Warning for Sint Maartin.
 
-The government of France has discontinued all warnings for
-Guadeloupe.
-
-The government of Antigua has discontinued all warnings for Antigua,
-Barbuda, St. Kitts, Nevis, and Montserrat.
+The government of Antigua has discontinued the Hurricane warning
+for Anguilla.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Hurricane Warning is in effect for...
-* Anguilla
-* Saba, St. Eustatius, and Sint Maarten
 * Saint Martin and Saint Barthelemy
 * British Virgin Islands
 * U.S. Virgin Islands
@@ -122,44 +114,46 @@ dangerous.
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area.
 
-A Tropical Storm Watch means that tropical storm conditions are
-possible within the watch area, generally within 48 hours.
-
 Interests elsewhere in the Dominican Republic and Haiti, as well as
 Cuba, the northwestern Bahamas, and Florida should monitor the
 progress of Irma.
 
-For storm information specific to your area in the United States,
-including possible inland watches and warnings, please monitor
-products issued by your local National Weather Service forecast
-office. For storm information specific to your area outside the
-United States, please monitor products issued by your national
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area outside
+the United States, please monitor products issued by your national
 meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM AST (1500 UTC), the eye of Hurricane Irma was located
-near latitude 18.2 North, longitude 64.0 West. Irma is moving toward
-the west-northwest near 16 mph (26 km/h), and this general motion is
+At 200 PM AST (1800 UTC), the eye of Hurricane Irma was located near
+latitude 18.5 North, longitude 64.7 West. Irma is moving toward the
+west-northwest near 16 mph (26 km/h), and this general motion is
 expected to continue for the next couple of days. On the forecast
-track, the extremely dangerous core of Irma will move over portions
-of the Virgin Islands very soon, pass near or just north of Puerto
-Rico this afternoon or tonight, pass near or just north of the
-coast of the Dominican Republic Thursday, and be near the Turks and
-Caicos and southeastern Bahamas late Thursday.
+track, the extremely dangerous core of Irma will continue to move
+over portions of the Virgin Islands during the next couple of
+hours, pass near or just north of Puerto Rico this afternoon or
+tonight, pass near or just north of the coast of the Dominican
+Republic Thursday, and be near the Turks and Caicos and southeastern
+Bahamas late Thursday.
 
 Maximum sustained winds are near 185 mph (295 km/h) with higher
 gusts.  Irma is a category 5 hurricane on the Saffir-Simpson
 Hurricane Wind Scale.  Some fluctuations in intensity are likely
 during the next day or two, but Irma is forecast to remain a
 powerful category 4 or 5 hurricane during the next couple of days.
+An unofficial observation on Buck Island in the U.S. Virgin Islands
+has recently reported sutained winds of 106 mph (171 km/h) with a
+gust to 131 mph (211 km/h).
 
-Hurricane-force winds extend outward up to 50 miles (85 km) from the
-center and tropical-storm-force winds extend outward up to 185 miles
-(295 km).
+Hurricane-force winds extend outward up to 50 miles (85 km) from
+the center and tropical-storm-force winds extend outward up to 185
+miles (295 km).
 
-The estimated minimum central pressure is 918 mb (27.11 inches).
+The latest estimated minimum central pressure from reconnaissance
+datat is 920 mb (27.17 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -235,12 +229,12 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 PM AST.
 Next complete advisory at 500 PM AST.
 
 $$
 Forecaster Brown
 
 NNNN
+
 </message>
 </cycloneMessage>
