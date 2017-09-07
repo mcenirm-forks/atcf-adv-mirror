@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>7</advisoryNumber>
+<advisoryNumber>8</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170906 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170907 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709070300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Wed Sep 06</messageDateTimeLocalStr>
-<timeEpochSeconds>1504753200</timeEpochSeconds>
+<messageDateTimeLocal>20170907 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170907 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709070900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Thu Sep 07</messageDateTimeLocalStr>
+<timeEpochSeconds>1504774800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -19,51 +19,51 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>14.4</centerLocLatitude>
-<centerLocLongitude>-47.5</centerLocLongitude>
+<centerLocLatitude>14.8</centerLocLatitude>
+<centerLocLongitude>-49.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>14.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>47.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>14.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>49.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>85</systemIntensityMph>
-<systemIntensityKph>140</systemIntensityKph>
-<systemIntensityKts>75</systemIntensityKts>
-<systemMslpMb>989</systemMslpMb>
-<systemMslpInHg>29.21</systemMslpInHg>
+<systemIntensityMph>90</systemIntensityMph>
+<systemIntensityKph>150</systemIntensityKph>
+<systemIntensityKts>80</systemIntensityKts>
+<systemMslpMb>986</systemMslpMb>
+<systemMslpInHg>29.12</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>17</systemSpeedMph>
-<systemSpeedKph>28</systemSpeedKph>
-<systemSpeedKts>15</systemSpeedKts>
+<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>18</systemSpeedMph>
+<systemSpeedKph>30</systemSpeedKph>
+<systemSpeedKts>16</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 925 MI...1485 KM E OF THE LESSER ANTILLES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 815 MI...1310 KM E OF THE LESSER ANTILLES</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Advisory Number   7
+Hurricane Jose Advisory Number   8
 NWS National Hurricane Center Miami FL       AL122017
-1100 PM AST Wed Sep 06 2017
+500 AM AST Thu Sep 07 2017
 
-...JOSE CONTINUES INTENSIFYING OVER THE CENTRAL ATLANTIC...
+...JOSE A LITTLE STRONGER...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...14.4N 47.5W
-ABOUT 925 MI...1485 KM E OF THE LESSER ANTILLES
-MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
-PRESENT MOVEMENT...WNW OR 290 DEGREES AT 17 MPH...28 KM/H
-MINIMUM CENTRAL PRESSURE...989 MB...29.21 INCHES
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...14.8N 49.1W
+ABOUT 815 MI...1310 KM E OF THE LESSER ANTILLES
+MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 18 MPH...30 KM/H
+MINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES
 
 
 WATCHES AND WARNINGS
@@ -71,24 +71,26 @@ WATCHES AND WARNINGS
 There are no coastal watches or warnings in effect.
 
 Interests in the Leeward Islands should monitor the progress of
-Jose.
+Jose.  Hurricane and Tropical Storm Watches will likely be
+required for portions of these islands later this morning.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the center of Hurricane Jose was located
-near latitude 14.4 North, longitude 47.5 West. Jose is moving toward
-the west-northwest near 17 mph (28 km/h) and this motion is expected
-to continue for the next two days.
+At 500 AM AST (0900 UTC), the center of Hurricane Jose was located
+near latitude 14.8 North, longitude 49.1 West. Jose is moving toward
+the west-northwest near 18 mph (30 km/h), and this general motion
+is expected to continue during the next couple of days.
 
-Maximum sustained winds are near 85 mph (140 km/h) with higher
-gusts.  Some strengthening is forecast during the next 48 hours.
+Maximum sustained winds have increased to near 90 mph (150 km/h)
+with higher gusts.  Some strengthening is forecast during the next
+48 hours.
 
 Hurricane-force winds extend outward up to 15 miles (30 km) from the
 center and tropical-storm-force winds extend outward up to 80 miles
 (130 km).
 
-The estimated minimum central pressure is 989 mb (29.21 inches).
+The estimated minimum central pressure is 986 mb (29.12 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -98,10 +100,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
-Forecaster Landsea
+Forecaster Roberts
 
 NNNN
 </message>
