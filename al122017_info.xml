@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>9A</advisoryNumber>
+<advisoryNumber>10</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170907 02:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170907 06:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709071800</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 PM AST Thu Sep 07</messageDateTimeLocalStr>
-<timeEpochSeconds>1504807200</timeEpochSeconds>
+<messageDateTimeLocal>20170907 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170907 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709072100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Thu Sep 07</messageDateTimeLocalStr>
+<timeEpochSeconds>1504818000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -19,21 +19,21 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>15.2</centerLocLatitude>
-<centerLocLongitude>-51.4</centerLocLongitude>
+<centerLocLatitude>15.5</centerLocLatitude>
+<centerLocLongitude>-52.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>15.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>51.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>15.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>52.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>105</systemIntensityMph>
-<systemIntensityKph>165</systemIntensityKph>
-<systemIntensityKts>90</systemIntensityKts>
-<systemMslpMb>978</systemMslpMb>
-<systemMslpInHg>28.88</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
+<systemIntensityMph>120</systemIntensityMph>
+<systemIntensityKph>195</systemIntensityKph>
+<systemIntensityKts>105</systemIntensityKts>
+<systemMslpMb>966</systemMslpMb>
+<systemMslpInHg>28.53</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
@@ -43,27 +43,28 @@
 <systemSpeedKph>30</systemSpeedKph>
 <systemSpeedKts>16</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 660 MI...1060 KM E OF THE LESSER ANTILLES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 590 MI...955 KM E OF THE LESSER ANTILLES</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Intermediate Advisory Number 9A
+Hurricane Jose Advisory Number  10
 NWS National Hurricane Center Miami FL       AL122017
-200 PM AST Thu Sep 07 2017
+Issued by the NWS Weather Prediction Center College Park MD
+500 PM AST Thu Sep 07 2017
 
-...JOSE NOW A CATEGORY 2 HURRICANE...
+...JOSE BECOMES 3RD MAJOR HURRICANE OF THE 2017 ATLANTIC SEASON...
 
 
-SUMMARY OF 200 PM AST...1800 UTC...INFORMATION
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...15.2N 51.4W
-ABOUT 660 MI...1060 KM E OF THE LESSER ANTILLES
-MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
+LOCATION...15.5N 52.4W
+ABOUT 590 MI...955 KM E OF THE LESSER ANTILLES
+MAXIMUM SUSTAINED WINDS...120 MPH...195 KM/H
 PRESENT MOVEMENT...WNW OR 285 DEGREES AT 18 MPH...30 KM/H
-MINIMUM CENTRAL PRESSURE...978 MB...28.88 INCHES
+MINIMUM CENTRAL PRESSURE...966 MB...28.53 INCHES
 
 
 WATCHES AND WARNINGS
@@ -90,28 +91,31 @@ dangerous.
 A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, generally within 48 hours.
 
+Tropical storm conditions are also possible in St. Martin and Sint
+Maarten beginning on Saturday.
+
 For storm information specific to your area, please monitor
 products issued by your national meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 PM AST (1800 UTC), the center of Hurricane Jose was located
-near latitude 15.2 North, longitude 51.4 West.  Jose is moving
-toward the west-northwest near 18 mph (30 km/h).  The hurricane is
-expected to continue on this heading with a slight decrease in
-forward speed during the next couple of days.
+At 500 PM AST (2100 UTC), the center of Hurricane Jose was located
+near latitude 15.5 North, longitude 52.4 West. Jose is moving toward
+the west-northwest near 18 mph (30 km/h). The hurricane is expected
+to continue on this heading with a slight decrease in forward speed
+during the next couple of days.
 
-Maximum sustained winds have increased to near 105 mph (165 km/h)
-with higher gusts.  Additional strengthening is forecast during the
-next 48 hours, and Jose is expected to become a major hurricane on
-Friday.
+Maximum sustained winds are near 120 mph (195 km/h) with higher
+gusts.  Jose is a category 3 hurricane on the Saffir-Simpson
+Hurricane Wind Scale.  Some additional strengthening is possible
+during the next 24 to 36 hours.
 
-Hurricane-force winds extend outward up to 15 miles (30 km) from
-the center and tropical-storm-force winds extend outward up to 100
-miles (160 km).
+Hurricane-force winds extend outward up to 35 miles (55 km) from the
+center and tropical-storm-force winds extend outward up to 115 miles
+(185 km).
 
-The estimated minimum central pressure is 978 mb (28.88 inches).
+The estimated minimum central pressure is 966 mb (28.53 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -136,10 +140,11 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM AST.
+Next intermediate advisory at 800 PM AST.
+Next complete advisory at 1100 PM AST.
 
 $$
-Forecaster Zelinsky
+Forecaster Lamers/Carbin
 
 NNNN
 
