@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "8",
+  "advisoryNumber": "9",
   "atcfID": "AL122017",
-  "centerLocLatitude": "14.8",
-  "centerLocLatitudeExpanded": "14.8N",
-  "centerLocLongitude": "-49.1",
-  "centerLocLongitudeExpanded": "49.1W",
+  "centerLocLatitude": "14.9",
+  "centerLocLatitudeExpanded": "14.9N",
+  "centerLocLongitude": "-50.6",
+  "centerLocLongitudeExpanded": "50.6W",
   "event_title": "HURRICANE JOSE",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -49.1,
-      14.8
+      -50.6,
+      14.9
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Jose Advisory Number   8\nNWS National Hurricane Center Miami FL       AL122017\n500 AM AST Thu Sep 07 2017\n\n...JOSE A LITTLE STRONGER...\n\n\nSUMMARY OF 500 AM AST...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...14.8N 49.1W\nABOUT 815 MI...1310 KM E OF THE LESSER ANTILLES\nMAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H\nPRESENT MOVEMENT...WNW OR 285 DEGREES AT 18 MPH...30 KM/H\nMINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\nInterests in the Leeward Islands should monitor the progress of\nJose.  Hurricane and Tropical Storm Watches will likely be\nrequired for portions of these islands later this morning.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 AM AST (0900 UTC), the center of Hurricane Jose was located\nnear latitude 14.8 North, longitude 49.1 West. Jose is moving toward\nthe west-northwest near 18 mph (30 km/h), and this general motion\nis expected to continue during the next couple of days.\n\nMaximum sustained winds have increased to near 90 mph (150 km/h)\nwith higher gusts.  Some strengthening is forecast during the next\n48 hours.\n\nHurricane-force winds extend outward up to 15 miles (30 km) from the\ncenter and tropical-storm-force winds extend outward up to 80 miles\n(130 km).\n\nThe estimated minimum central pressure is 986 mb (29.12 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 AM AST.\n\n$$\nForecaster Roberts\n\nNNNN",
+  "message": "ZCZC MIATCPAT2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Jose Advisory Number   9\nNWS National Hurricane Center Miami FL       AL122017\n1100 AM AST Thu Sep 07 2017\n\n...JOSE EXPECTED TO BECOME A MAJOR HURRICANE BY FRIDAY...\n...WATCHES ISSUED FOR THE NORTHERN LEEWARD ISLANDS...\n\n\nSUMMARY OF 1100 AM AST...1500 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...14.9N 50.6W\nABOUT 715 MI...1150 KM E OF THE LESSER ANTILLES\nMAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H\nPRESENT MOVEMENT...WNW OR 285 DEGREES AT 18 MPH...30 KM/H\nMINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nThe government of Antigua has issued a Hurricane Watch for the\nislands of Antigua and Barbuda.\n\nThe government of Antigua has issued a Tropical Storm Watch for the\nislands of Anguilla, Montserrat, St Kitts, and Nevis.\n\nThe government of the Netherlands has issued a Tropical Storm Watch\nfor the islands of Saba and St. Eustatius\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Hurricane Watch is in effect for...\n* Antigua and Barbuda\n\nA Tropical Storm Watch is in effect for...\n* Anguilla, Montserrat, St Kitts, and Nevis\n* Saba and St. Eustatius\n\nA Hurricane Watch means that hurricane conditions are possible\nwithin the watch area.  A watch is typically issued 48 hours\nbefore the anticipated first occurrence of tropical-storm-force\nwinds, conditions that make outside preparations difficult or\ndangerous.\n\nA Tropical Storm Watch means that tropical storm conditions are\npossible within the watch area, generally within 48 hours.\n\nFor storm information specific to your area, please monitor\nproducts issued by your national meteorological service.\n\nInterests elsewhere in the northern Leeward Islands and Virgin\nIslands should monitor the progress of Jose.\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 AM AST (1500 UTC), the center of Hurricane Jose was located\nnear latitude 14.9 North, longitude 50.6 West.  Jose is moving\ntoward the west-northwest near 18 mph (30 km/h).  The hurricane is\nexpected to continue on this heading with a slight decrease in\nforward speed during the next couple of days.\n\nMaximum sustained winds are near 90 mph (150 km/h) with higher\ngusts.  Strengthening is forecast during the next 48 hours, and\nJose is expected to become a major hurricane on Friday.\n\nHurricane-force winds extend outward up to 15 miles (30 km) from the\ncenter and tropical-storm-force winds extend outward up to 80 miles\n(130 km).\n\nThe estimated minimum central pressure is 986 mb (29.12 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nWIND: Hurricane conditions are possible within the hurricane watch\narea on Saturday, and tropical storm conditions are possible within\nthe hurricane watch and tropical storm watch areas by Saturday\nmorning.\n\nRAINFALL: Jose is expected to produce total rain accumulations of\n2 to 6 inches in the Leeward Islands from Dominica to Anguilla.\nIsolated maximum amounts of 10 inches are possible in the northern\nLeeward Islands from Antigua and Barbuda to Anguilla. This rainfall\nwill maintain any ongoing flooding and may cause additional\nlife-threatening flooding.\n\nSURF:  Swells generated by Jose are likely to affect portions of\nthe Leeward Islands by Saturday.  These swells are likely to cause\nlife-threatening surf and rip current conditions.  Please consult\nproducts from your local weather office.\n\n\nNEXT ADVISORY\n-------------\nNext intermediate advisory at 200 PM AST.\nNext complete advisory at 500 PM AST.\n\n$$\nForecaster Zelinsky\n\nNNNN",
   "messageBinNumber": "2",
-  "messageDateTimeLocal": "20170907 05:00:00 AM AST",
-  "messageDateTimeLocalStr": "0500 AM AST Thu Sep 07",
-  "messageDateTimeUTC": "20170907 09:00:00 AM UTC",
-  "messageDateTimeUTC24": "201709070900",
+  "messageDateTimeLocal": "20170907 11:00:00 AM AST",
+  "messageDateTimeLocalStr": "1100 AM AST Thu Sep 07",
+  "messageDateTimeUTC": "20170907 03:00:00 PM UTC",
+  "messageDateTimeUTC24": "201709071500",
   "messageType": "ROUTINE ADVISORY",
   "systemDirectionOfMotion": "WNW OR 285 DEGREES",
-  "systemGeoRefPt1": "ABOUT 815 MI...1310 KM E OF THE LESSER ANTILLES",
+  "systemGeoRefPt1": "ABOUT 715 MI...1150 KM E OF THE LESSER ANTILLES",
   "systemIntensityKph": "150",
   "systemIntensityKts": "80",
   "systemIntensityMph": "90",
@@ -70,6 +70,6 @@
   "systemSpeedKts": "16",
   "systemSpeedMph": "18",
   "systemType": "HURRICANE",
-  "time": "2017-09-07 09:00:00",
-  "timeEpochSeconds": "1504774800"
+  "time": "2017-09-07 15:00:00",
+  "timeEpochSeconds": "1504796400"
 }
