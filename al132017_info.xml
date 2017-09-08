@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL132017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>13</advisoryNumber>
+<advisoryNumber>13A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170908 04:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170908 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709082100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0400 PM CDT Fri Sep 08</messageDateTimeLocalStr>
-<timeEpochSeconds>1504904400</timeEpochSeconds>
+<messageDateTimeLocal>20170908 07:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170909 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709090000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0700 PM CDT Fri Sep 08</messageDateTimeLocalStr>
+<timeEpochSeconds>1504915200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>KATIA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>21.0</centerLocLatitude>
-<centerLocLongitude>-96.5</centerLocLongitude>
+<centerLocLatitude>20.9</centerLocLatitude>
+<centerLocLongitude>-96.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>21.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>96.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>20.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>96.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>105</systemIntensityMph>
@@ -43,28 +43,28 @@
 <systemSpeedKph>11</systemSpeedKph>
 <systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 120 MI...195 KM SE OF TAMPICO MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 125 MI...200 KM N OF VERACRUZ MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 130 MI...210 KM SE OF TAMPICO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 130 MI...210 KM N OF VERACRUZ MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Katia Advisory Number  13
+Hurricane Katia Intermediate Advisory Number 13A
 NWS National Hurricane Center Miami FL       AL132017
 Issued by the NWS Weather Prediction Center College Park MD
-400 PM CDT Fri Sep 08 2017
+700 PM CDT Fri Sep 08 2017
 
-...KATIA NEARING THE COAST OF MEXICO...
-...DANGEROUS STORM SURGE EXPECTED...
+...AIR FORCE PLANE EN ROUTE TO KATIA...
+...DANGEROUS STORM SURGE EXPECTED IN MEXICO...
 
 
-SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...21.0N 96.5W
-ABOUT 120 MI...195 KM SE OF TAMPICO MEXICO
-ABOUT 125 MI...200 KM N OF VERACRUZ MEXICO
+LOCATION...20.9N 96.8W
+ABOUT 130 MI...210 KM SE OF TAMPICO MEXICO
+ABOUT 130 MI...210 KM N OF VERACRUZ MEXICO
 MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
 PRESENT MOVEMENT...WSW OR 250 DEGREES AT 7 MPH...11 KM/H
 MINIMUM CENTRAL PRESSURE...972 MB...28.71 INCHES
@@ -87,7 +87,7 @@ A Tropical Storm Warning is in effect for...
 
 A Hurricane Warning means that hurricane conditions are expected
 somewhere within the warning area.  Preparations to protect life and
-property should be rushed to completion.
+property should be completed.
 
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area.
@@ -98,19 +98,19 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 400 PM CDT (2100 UTC), the center of Hurricane Katia was located
-near latitude 21.0 North, longitude 96.5 West. Katia is moving
+At 700 PM CDT (0000 UTC), the center of Hurricane Katia was located
+near latitude 20.9 North, longitude 96.8 West. Katia is moving
 toward the west-southwest near 7 mph (11 km/h) and this motion is
-expected to continue through Saturday. The center of Katia will
-make landfall in Mexico late tonight or early Saturday.
+expected to continue through Saturday. The center of Katia will make
+landfall in Mexico late tonight or early Saturday.
 
 Maximum sustained winds are near 105 mph (165 km/h) with higher
-gusts.  Some intensification is possible prior to landfall, followed
-by rapid weakening.
+gusts.  Little change in strength is expected prior to landfall,
+followed by rapid weakening thereafter.
 
-Hurricane-force winds extend outward up to 25 miles (35 km) from the
-center and tropical-storm-force winds extend outward up to 70 miles
-(110 km).
+Hurricane-force winds extend outward up to 25 miles (35 km) from
+the center and tropical-storm-force winds extend outward up to 70
+miles (110 km).
 
 The estimated minimum central pressure is 972 mb (28.71 inches).
 
@@ -133,9 +133,9 @@ Luis Potosi. This rainfall will likely cause life-threatening flash
 floods and mudslides, especially in areas of mountainous terrain.
 
 WIND:  Hurricane conditions are expected within portions of the
-hurricane warning area by tonight or early Saturday, with tropical
-storm conditions expected within the tropical storm warning areas
-within a few hours.
+hurricane warning area tonight or early Saturday, with tropical
+storm conditions expected to continue within the tropical storm
+warning areas.
 
 SURF:  Swells generated by Katia will continue to affect portions of
 the coast of southeastern Mexico during the next couple of days.
@@ -146,11 +146,10 @@ office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 700 PM CDT.
 Next complete advisory at 1000 PM CDT.
 
 $$
-Forecaster Blake/Bann
+Forecaster Roth/Lamers/Blake
 
 NNNN
 
