@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL132017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>9A</advisoryNumber>
+<advisoryNumber>10</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170907 07:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170908 12:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709080000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0700 PM CDT Thu Sep 07</messageDateTimeLocalStr>
-<timeEpochSeconds>1504828800</timeEpochSeconds>
+<messageDateTimeLocal>20170907 10:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170908 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709080300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1000 PM CDT Thu Sep 07</messageDateTimeLocalStr>
+<timeEpochSeconds>1504839600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>KATIA</systemName>
@@ -19,53 +19,54 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>21.6</centerLocLatitude>
-<centerLocLongitude>-94.7</centerLocLongitude>
+<centerLocLatitude>21.5</centerLocLatitude>
+<centerLocLongitude>-95.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>21.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>94.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>21.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>95.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>80</systemIntensityMph>
-<systemIntensityKph>130</systemIntensityKph>
-<systemIntensityKts>70</systemIntensityKts>
-<systemMslpMb>980</systemMslpMb>
-<systemMslpInHg>28.94</systemMslpInHg>
+<systemIntensityMph>85</systemIntensityMph>
+<systemIntensityKph>140</systemIntensityKph>
+<systemIntensityKts>75</systemIntensityKts>
+<systemMslpMb>982</systemMslpMb>
+<systemMslpInHg>29.00</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>STATIONARY</systemDirectionOfMotion>
-<systemSpeedMph>0</systemSpeedMph>
-<systemSpeedKph>0</systemSpeedKph>
-<systemSpeedKts>0</systemSpeedKts>
+<systemDirectionOfMotion>W OR 265 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>3</systemSpeedMph>
+<systemSpeedKph>6</systemSpeedKph>
+<systemSpeedKts>3</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 190 MI...310 KM NNE OF VERACRUZ MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 210 MI...340 KM E OF TAMPICO MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 175 MI...280 KM NNE OF VERACRUZ MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 185 MI...300 KM ESE OF TAMPICO MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Katia Intermediate Advisory Number 9A
+Hurricane Katia Advisory Number  10
 NWS National Hurricane Center Miami FL       AL132017
-700 PM CDT Thu Sep 07 2017
+1000 PM CDT Thu Sep 07 2017
 
-...AIR FORCE HURRICANE HUNTERS ENROUTE TO INVESTIGATE KATIA...
+...KATIA STRENGTHENS A LITTLE...
+...HEADED TOWARD EASTERN MEXICO...
 
 
-SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
-----------------------------------------------
-LOCATION...21.6N 94.7W
-ABOUT 190 MI...310 KM NNE OF VERACRUZ MEXICO
-ABOUT 210 MI...340 KM E OF TAMPICO MEXICO
-MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
-PRESENT MOVEMENT...STATIONARY
-MINIMUM CENTRAL PRESSURE...980 MB...28.94 INCHES
+SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...21.5N 95.1W
+ABOUT 175 MI...280 KM NNE OF VERACRUZ MEXICO
+ABOUT 185 MI...300 KM ESE OF TAMPICO MEXICO
+MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
+PRESENT MOVEMENT...W OR 265 DEGREES AT 3 MPH...6 KM/H
+MINIMUM CENTRAL PRESSURE...982 MB...29.00 INCHES
 
 
 WATCHES AND WARNINGS
@@ -99,22 +100,22 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 700 PM CDT (0000 UTC), the center of Hurricane Katia was located
-near latitude 21.6 North, longitude 94.7 West.  Katia is stationary
-and little overall motion is anticipated tonight.  A slow
-west-southwest motion is expected by early Friday and Katia is
-expected to approach the coast within the warning area Friday night
-or early Saturday.
+At 1000 PM CDT (0300 UTC), the center of Hurricane Katia was located
+near latitude 21.5 North, longitude 95.1 West. Katia is moving
+toward the west near 3 mph (6 km/h) and this general motion is
+expected to continue until the system makes landfall by early
+Saturday.
 
-Maximum sustained winds are near 80 mph (130 km/h) with higher
+Maximum sustained winds are near 85 mph (140 km/h) with higher
 gusts.  Some strengthening is forecast during the next day or so and
 Katia could be near major hurricane strength at landfall.
 
-Katia is a small tropical cyclone.  Hurricane-force winds extend
-outward up to 10 miles (20 km) from the center and
-tropical-storm-force winds extend outward up to 45 miles (75 km).
+Hurricane-force winds extend outward up to 10 miles (20 km) from the
+center and tropical-storm-force winds extend outward up to 60 miles
+(95 km).
 
-The estimated minimum central pressure is 980 mb (28.94 inches).
+The estimated minimum central pressure based on Air Force Hurricane
+Hunter data is 982 mb (29.00 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -149,12 +150,12 @@ office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1000 PM CDT.
+Next intermediate advisory at 100 AM CDT.
+Next complete advisory at 400 AM CDT.
 
 $$
 Forecaster Cangialosi
 
 NNNN
-
 </message>
 </cycloneMessage>

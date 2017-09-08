@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>10A</advisoryNumber>
+<advisoryNumber>11</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170907 08:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170908 12:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709080000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 PM AST Thu Sep 07</messageDateTimeLocalStr>
-<timeEpochSeconds>1504828800</timeEpochSeconds>
+<messageDateTimeLocal>20170907 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170908 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709080300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Thu Sep 07</messageDateTimeLocalStr>
+<timeEpochSeconds>1504839600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -20,12 +20,12 @@
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>15.6</centerLocLatitude>
-<centerLocLongitude>-53.2</centerLocLongitude>
+<centerLocLongitude>-53.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>15.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>53.2W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>53.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>120</systemIntensityMph>
@@ -38,32 +38,31 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>18</systemSpeedMph>
 <systemSpeedKph>30</systemSpeedKph>
 <systemSpeedKts>16</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 540 MI...870 KM E OF THE LESSER ANTILLES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 635 MI...1020 KM ESE OF THE NORTHERN LEEWARD ISLANDS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Intermediate Advisory Number 10A
+Hurricane Jose Advisory Number  11
 NWS National Hurricane Center Miami FL       AL122017
-800 PM AST Thu Sep 07 2017
+1100 PM AST Thu Sep 07 2017
 
-...CATEGORY 3 HURRICANE JOSE MOVING TOWARD THE NORTHERN LEEWARD
-ISLANDS...
+...CATEGORY 3 HURRICANE JOSE MAINTAINING ITS STRENGTH...
 
 
-SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
-----------------------------------------------
-LOCATION...15.6N 53.2W
-ABOUT 540 MI...870 KM E OF THE LESSER ANTILLES
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...15.6N 53.9W
+ABOUT 635 MI...1020 KM ESE OF THE NORTHERN LEEWARD ISLANDS
 MAXIMUM SUSTAINED WINDS...120 MPH...195 KM/H
-PRESENT MOVEMENT...WNW OR 285 DEGREES AT 18 MPH...30 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 18 MPH...30 KM/H
 MINIMUM CENTRAL PRESSURE...966 MB...28.53 INCHES
 
 
@@ -71,15 +70,21 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The government of Antigua has issued a Tropical Storm Warning for
+Antigua, Barbuda, and Anguilla.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Hurricane Watch is in effect for...
-* Antigua and Barbuda
+* Antigua, Barbuda, and Anguilla
+* Sint Maarten
+* St. Martin
+
+A Tropical Storm Warning is in effect for...
+* Antigua, Barbuda, and Anguilla
 
 A Tropical Storm Watch is in effect for...
-* Anguilla, Montserrat, St Kitts, and Nevis
+* Montserrat, St Kitts, and Nevis
 * Saba and St. Eustatius
 
 A Hurricane Watch means that hurricane conditions are possible
@@ -87,6 +92,9 @@ within the watch area.  A watch is typically issued 48 hours
 before the anticipated first occurrence of tropical-storm-force
 winds, conditions that make outside preparations difficult or
 dangerous.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
 
 A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, generally within 48 hours.
@@ -97,22 +105,21 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 PM AST (0000 UTC), the eye of Hurricane Jose was located
-near latitude 15.6 North, longitude 53.2 West.  Jose is moving
-toward the west-northwest near 18 mph (30 km/h).  The hurricane is
-expected to continue on this heading with a slight decrease in
-forward speed during the next couple of days.  On the forecast
+At 1100 PM AST (0300 UTC), the eye of Hurricane Jose was located
+near latitude 15.6 North, longitude 53.9 West. Jose is moving toward
+the west near 18 mph (30 km/h). A slower west-northwestward motion
+is expected during the next couple of days. On the forecast
 track, Jose is expected to be near the northern Leeward Islands on
 Saturday.
 
-Maximum sustained winds are near 120 mph (195 km/h) with higher
+Maximum sustained winds remain near 120 mph (195 km/h) with higher
 gusts.  Jose is a category 3 hurricane on the Saffir-Simpson
-Hurricane Wind Scale.  Some strengthening is forecast during the
-next day or so.
+Hurricane Wind Scale.  Some slight strengthening is possible during
+the next day or so.
 
-Hurricane-force winds extend outward up to 35 miles (55 km) from
-the center and tropical-storm-force winds extend outward up to 115
-miles (185 km).
+Hurricane-force winds extend outward up to 35 miles (55 km) from the
+center and tropical-storm-force winds extend outward up to 115 miles
+(185 km).
 
 The estimated minimum central pressure is 966 mb (28.53 inches).
 
@@ -120,9 +127,10 @@ The estimated minimum central pressure is 966 mb (28.53 inches).
 HAZARDS AFFECTING LAND
 ----------------------
 WIND: Hurricane conditions are possible within the hurricane watch
-area on Saturday, and tropical storm conditions are possible within
-the hurricane watch and tropical storm watch areas by Saturday
-morning.
+area on Saturday, and tropical storm conditions are expected
+within the tropical storm warning areas by Saturday morning.
+Tropical storm conditions are possible in the tropical storm watch
+areas by Saturday morning.
 
 RAINFALL: Jose is expected to produce total rain accumulations of
 2 to 6 inches in the Leeward Islands from Dominica to Anguilla.
@@ -131,7 +139,7 @@ Leeward Islands from Antigua and Barbuda to Anguilla. This rainfall
 will maintain any ongoing flooding and may cause additional
 life-threatening flooding.
 
-SURF:  Swells generated by Jose are likely to affect portions of
+SURF:  Swells generated by Jose are expected to affect portions of
 the Leeward Islands by late Friday.  These swells are likely
 to cause life-threatening surf and rip current conditions.  Please
 consult products from your local weather office.
@@ -139,7 +147,8 @@ consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM AST.
+Next intermediate advisory at 200 AM AST.
+Next complete advisory at 500 AM AST.
 
 $$
 Forecaster Cangialosi
