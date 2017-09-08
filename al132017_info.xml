@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL132017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>10</advisoryNumber>
+<advisoryNumber>10A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170907 10:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170908 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709080300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 PM CDT Thu Sep 07</messageDateTimeLocalStr>
-<timeEpochSeconds>1504839600</timeEpochSeconds>
+<messageDateTimeLocal>20170908 01:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170908 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709080600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0100 AM CDT Fri Sep 08</messageDateTimeLocalStr>
+<timeEpochSeconds>1504850400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>KATIA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>21.5</centerLocLatitude>
-<centerLocLongitude>-95.1</centerLocLongitude>
+<centerLocLatitude>21.4</centerLocLatitude>
+<centerLocLongitude>-95.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>21.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>95.1W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>21.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>95.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>85</systemIntensityMph>
@@ -38,34 +38,34 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 265 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>WSW OR 250 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>3</systemSpeedMph>
 <systemSpeedKph>6</systemSpeedKph>
 <systemSpeedKts>3</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 175 MI...280 KM NNE OF VERACRUZ MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 185 MI...300 KM ESE OF TAMPICO MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 165 MI...260 KM NNE OF VERACRUZ MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 180 MI...290 KM ESE OF TAMPICO MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Katia Advisory Number  10
+Hurricane Katia Intermediate Advisory Number 10A
 NWS National Hurricane Center Miami FL       AL132017
-1000 PM CDT Thu Sep 07 2017
+100 AM CDT Fri Sep 08 2017
 
-...KATIA STRENGTHENS A LITTLE...
-...HEADED TOWARD EASTERN MEXICO...
+...TROPICAL-STORM-FORCE WINDS EXPECTED TO REACH THE COAST OF
+EASTERN MEXICO LATER TODAY...
 
 
-SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...21.5N 95.1W
-ABOUT 175 MI...280 KM NNE OF VERACRUZ MEXICO
-ABOUT 185 MI...300 KM ESE OF TAMPICO MEXICO
+SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.4N 95.2W
+ABOUT 165 MI...260 KM NNE OF VERACRUZ MEXICO
+ABOUT 180 MI...290 KM ESE OF TAMPICO MEXICO
 MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
-PRESENT MOVEMENT...W OR 265 DEGREES AT 3 MPH...6 KM/H
+PRESENT MOVEMENT...WSW OR 250 DEGREES AT 3 MPH...6 KM/H
 MINIMUM CENTRAL PRESSURE...982 MB...29.00 INCHES
 
 
@@ -100,19 +100,19 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 PM CDT (0300 UTC), the center of Hurricane Katia was located
-near latitude 21.5 North, longitude 95.1 West. Katia is moving
-toward the west near 3 mph (6 km/h) and this general motion is
-expected to continue until the system makes landfall by early
-Saturday.
+At 100 AM CDT (0600 UTC), the center of Hurricane Katia was located
+near latitude 21.4 North, longitude 95.2 West. Katia is moving
+toward the west-southwest near 3 mph (6 km/h) and this general
+motion is expected to continue until the system makes landfall by
+early Saturday.
 
 Maximum sustained winds are near 85 mph (140 km/h) with higher
 gusts.  Some strengthening is forecast during the next day or so and
 Katia could be near major hurricane strength at landfall.
 
-Hurricane-force winds extend outward up to 10 miles (20 km) from the
-center and tropical-storm-force winds extend outward up to 60 miles
-(95 km).
+Hurricane-force winds extend outward up to 10 miles (20 km) from
+the center and tropical-storm-force winds extend outward up to 60
+miles (95 km).
 
 The estimated minimum central pressure based on Air Force Hurricane
 Hunter data is 982 mb (29.00 inches).
@@ -137,9 +137,9 @@ life-threatening flash floods and mudslides, especially in areas of
 mountainous terrain.
 
 WIND:  Hurricane conditions are expected within portions of the
-hurricane warning area by Friday night or early Saturday, with
+hurricane warning area by tonight or early Saturday, with
 tropical storm conditions expected within the tropical storm warning
-areas by late Friday.
+areas by later today.
 
 SURF:  Swells generated by Katia will continue to affect portions of
 the coast of southeastern Mexico during the next couple of days.
@@ -150,12 +150,12 @@ office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 100 AM CDT.
 Next complete advisory at 400 AM CDT.
 
 $$
-Forecaster Cangialosi
+Forecaster Roberts
 
 NNNN
+
 </message>
 </cycloneMessage>

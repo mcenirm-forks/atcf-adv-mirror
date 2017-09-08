@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL112017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>36</advisoryNumber>
+<advisoryNumber>36A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170907 11:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170908 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709080300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM EDT Thu Sep 07</messageDateTimeLocalStr>
-<timeEpochSeconds>1504839600</timeEpochSeconds>
+<messageDateTimeLocal>20170908 02:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170908 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709080600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM EDT Fri Sep 08</messageDateTimeLocalStr>
+<timeEpochSeconds>1504850400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>IRMA</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>21.3</centerLocLatitude>
-<centerLocLongitude>-72.4</centerLocLongitude>
+<centerLocLatitude>21.5</centerLocLatitude>
+<centerLocLongitude>-73.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>21.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>72.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>21.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>73.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>165</systemIntensityMph>
-<systemIntensityKph>270</systemIntensityKph>
-<systemIntensityKts>145</systemIntensityKts>
-<systemMslpMb>920</systemMslpMb>
-<systemMslpInHg>27.17</systemMslpInHg>
+<systemIntensityMph>160</systemIntensityMph>
+<systemIntensityKph>260</systemIntensityKph>
+<systemIntensityKts>140</systemIntensityKts>
+<systemMslpMb>925</systemMslpMb>
+<systemMslpInHg>27.31</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 5</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,54 +43,36 @@
 <systemSpeedKph>26</systemSpeedKph>
 <systemSpeedKts>14</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 55 MI...85 KM ENE OF GREAT INAGUA ISLAND</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 585 MI...940 KM ESE OF MIAMI FLORIDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 20 MI...30 KM N OF GREAT INAGUA ISLAND</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 535 MI...860 KM ESE OF MIAMI FLORIDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irma Advisory Number  36
+Hurricane Irma Intermediate Advisory Number 36A
 NWS National Hurricane Center Miami FL       AL112017
-1100 PM EDT Thu Sep 07 2017
+200 AM EDT Fri Sep 08 2017
 
-...HURRICANE AND STORM SURGE WARNINGS ISSUED FOR SOUTH FLORIDA AND
-THE FLORIDA KEYS...
+...EYE OF IRMA PASSING JUST NORTH OF GREAT INAGUA ISLAND...
 
 
-SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...21.3N 72.4W
-ABOUT 55 MI...85 KM ENE OF GREAT INAGUA ISLAND
-ABOUT 585 MI...940 KM ESE OF MIAMI FLORIDA
-MAXIMUM SUSTAINED WINDS...165 MPH...270 KM/H
+SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.5N 73.3W
+ABOUT 20 MI...30 KM N OF GREAT INAGUA ISLAND
+ABOUT 535 MI...860 KM ESE OF MIAMI FLORIDA
+MAXIMUM SUSTAINED WINDS...160 MPH...260 KM/H
 PRESENT MOVEMENT...WNW OR 290 DEGREES AT 16 MPH...26 KM/H
-MINIMUM CENTRAL PRESSURE...920 MB...27.17 INCHES
+MINIMUM CENTRAL PRESSURE...925 MB...27.31 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-A Storm Surge Warning has been issued from Jupiter Inlet southward
-around the Florida peninsula to Bonita Beach, as well as for the
-Florida Keys.
-
-A Hurricane Warning has been issued from Jupiter Inlet southward
-around the Florida peninsula to Bonita Beach, as well as for the
-Florida Keys, Lake Okeechobee, and Florida Bay.
-
-A Storm Surge Watch has been issued for the east coast of Florida
-north of Jupiter Inlet to Sebastian Inlet and for the west coast of
-Florida north of Bonita Beach to Venice.
-
-A Hurricane Watch has been issued for the east coast of Florida
-north of Jupiter Inlet to Sebastian Inlet and for the west coast of
-Florida north of Bonita Beach to Anna Maria Island.
-
-The government of the Dominican Republic has discontinued the
-Hurricane Warning for the north coast of the Dominican Republic.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -170,19 +152,20 @@ meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM EDT (0300 UTC), the eye of Hurricane Irma was located
-near latitude 21.3 North, longitude 72.4 West. Irma is moving toward
-the west-northwest near 16 mph (26 km/h), and this motion is
-expected to continue for the next day or two with a decrease in
-forward speed.  A turn toward the northwest is expected by late
-Saturday.  On the forecast track, the eye of Irma should continue to
-move westward away from the Turks and Caicos Islands and toward
-the southeastern Bahamas overnight.  The core of the hurricane will
-then move between the north coast of Cuba and the Bahamas during the
-next day or two.
+At 200 AM EDT (0600 UTC), the eye of Hurricane Irma was located near
+latitude 21.5 North, longitude 73.3 West. Irma is moving toward the
+west-northwest near 16 mph (26 km/h), and this motion is expected to
+continue for the next day or two with a decrease in forward speed.
+A turn toward the northwest is expected by late Saturday.  On the
+forecast track, the eye of Irma should continue to move westward
+away from the Turks and Caicos Islands and toward the southeastern
+Bahamas this morning.  The core of the hurricane will then move
+between the north coast of Cuba and the Bahamas during the next day
+or two.
 
-Maximum sustained winds are near 165 mph (270 km/h) with higher
-gusts.  Irma is a category 5 hurricane on the Saffir-Simpson
+Reports from an Air Force Reserve Hurricane Hunter aircraft indicate
+that maximum sustained winds are now near 160 mph (260 km/h) with
+higher gusts.  Irma is a category 5 hurricane on the Saffir-Simpson
 Hurricane Wind Scale.  Some fluctuations in intensity are likely
 during the next day or two, but Irma is forecast to remain a
 powerful category 4 or 5 hurricane during the next couple of days.
@@ -191,7 +174,8 @@ Hurricane-force winds extend outward up to 75 miles (120 km) from
 the center, and tropical-storm-force winds extend outward up to 185
 miles (295 km).
 
-The estimated minimum central pressure is 920 mb (27.17 inches).
+The minimum central pressure recently reported by the Hurricane
+Hunter aircraft is 925 mb (27.31 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -227,15 +211,15 @@ Northern coast of Haiti and the Gulf of Gonave...1 to 3 ft
 Northern coast of Cuba in the warning area...5 to 10 ft
 
 WIND:  Hurricane conditions are expected to continue within the
-hurricane warning area in Haiti tonight. Hurricane conditions are
-occurring on the Turks and Caicos Islands. Tropical storm and
+hurricane warning area in Haiti this morning. Hurricane conditions
+are occurring on the Turks and Caicos Islands. Tropical storm and
 hurricane conditions are spreading across the southeastern Bahamas
-and will move into the central Bahamas by early Friday.  Hurricane
-conditions are expected within the hurricane warning area along the
-north coast of Cuba late Friday and Saturday.  Hurricane conditions
-are expected in the northwestern Bahamas Friday night and Saturday,
-and in portions of southern Florida and the Florida Keys late
-Saturday.
+and will move into the central Bahamas later this morning.
+Hurricane conditions are expected within the hurricane warning area
+along the north coast of Cuba late today and Saturday.  Hurricane
+conditions are expected in the northwestern Bahamas tonight and
+Saturday, and in portions of southern Florida and the Florida Keys
+late Saturday.
 
 Hurricane conditions are possible within the watch area in Florida
 by Sunday, with tropical storm conditions possible by late Saturday.
@@ -274,12 +258,12 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 AM EDT.
 Next complete advisory at 500 AM EDT.
 
 $$
-Forecaster Berg
+Forecaster Beven
 
 NNNN
+
 </message>
 </cycloneMessage>
