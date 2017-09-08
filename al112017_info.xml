@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL112017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>38A</advisoryNumber>
+<advisoryNumber>39</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170908 02:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170908 06:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709081800</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 PM EDT Fri Sep 08</messageDateTimeLocalStr>
-<timeEpochSeconds>1504893600</timeEpochSeconds>
+<messageDateTimeLocal>20170908 05:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170908 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709082100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM EDT Fri Sep 08</messageDateTimeLocalStr>
+<timeEpochSeconds>1504904400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>IRMA</systemName>
@@ -19,64 +19,72 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>22.0</centerLocLatitude>
-<centerLocLongitude>-76</centerLocLongitude>
+<centerLocLatitude>22.1</centerLocLatitude>
+<centerLocLongitude>-76.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>22.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>76.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>22.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>76.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>155</systemIntensityMph>
 <systemIntensityKph>250</systemIntensityKph>
 <systemIntensityKts>135</systemIntensityKts>
 <systemMslpMb>925</systemMslpMb>
-<systemMslpInHg>27.31</systemMslpInHg>
+<systemMslpInHg>27.32</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 4</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>14</systemSpeedMph>
-<systemSpeedKph>22</systemSpeedKph>
-<systemSpeedKts>12</systemSpeedKts>
+<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 225 MI...365 KM E OF CAIBARIEN CUBA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 380 MI...610 KM SE OF MIAMI FLORIDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 195 MI...310 KM E OF CAIBARIEN CUBA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 345 MI...555 KM SE OF MIAMI FLORIDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irma Intermediate Advisory Number 38A
+Hurricane Irma Advisory Number  39
 NWS National Hurricane Center Miami FL       AL112017
-200 PM EDT Fri Sep 08 2017
+500 PM EDT Fri Sep 08 2017
 
-...EYE OF HURRICANE IRMA MONITORED BY HURRICANE HUNTER PLANES AND
-CUBAN RADARS...
 ...HURRICANE CONDITIONS SPREADING WESTWARD OVER PORTIONS OF CUBA AND
 THE CENTRAL BAHAMAS...
+...HURRICANE WARNINGS EXTENDED NORTHWARD ALONG THE FLORIDA
+PENINSULA...
 
 
-SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...22.0N 76.0W
-ABOUT 225 MI...365 KM E OF CAIBARIEN CUBA
-ABOUT 380 MI...610 KM SE OF MIAMI FLORIDA
+LOCATION...22.1N 76.5W
+ABOUT 195 MI...310 KM E OF CAIBARIEN CUBA
+ABOUT 345 MI...555 KM SE OF MIAMI FLORIDA
 MAXIMUM SUSTAINED WINDS...155 MPH...250 KM/H
-PRESENT MOVEMENT...W OR 270 DEGREES AT 14 MPH...22 KM/H
-MINIMUM CENTRAL PRESSURE...925 MB...27.31 INCHES
+PRESENT MOVEMENT...W OR 280 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...925 MB...27.32 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Hurricane Warning for the Turks and Caicos Islands has been
-discontinued.
+The Hurricane Warning has been extended northward for east coast of
+Florida to Sebastian Inlet, and along the west coast of the
+peninsula northward to Anna Maria Island.
+
+The Hurricane Watch has been extended northward along the west coast
+of Florida to Suwannee River.
+
+A Storm Surge Watch has been issued north of Venice to the Anclote
+River, including Tampa Bay, and from Ponce Inlet to the Flagler/
+Volusia County Line.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -85,11 +93,13 @@ A Storm Surge Warning is in effect for...
 * Florida Keys
 
 A Storm Surge Watch is in effect for...
-* North of Sebastian Inlet to Ponce Inlet
+* North of Sebastian Inlet to the Flagler/Volusia County line
+* North of Venice to Anclote River
+* Tampa Bay
 
 A Hurricane Warning is in effect for...
-* Jupiter Inlet southward around the Florida peninsula to Bonita
-Beach
+* Sebastian Inlet southward around the Florida peninsula to Anna
+Maria Island
 * Florida Keys
 * Lake Okeechobee
 * Florida Bay
@@ -100,8 +110,8 @@ Villa Clara
 * Northwestern Bahamas
 
 A Hurricane Watch is in effect for...
-* North of Jupiter Inlet to the Flagler/Volusia County Line
-* North of Bonita Beach to Anclote River
+* North of Sebastian Inlet to the Flagler/Volusia County Line
+* North of Anna Maria Island to the Suwannee River
 * Cuban provinces of Guantanamo, Holguin, Las Tunas and Matanzas
 
 A Tropical Storm Warning is in effect for...
@@ -141,24 +151,22 @@ expected somewhere within the warning area.
 Interests elsewhere in Cuba, Florida, and the southeastern United
 States should monitor the progress of Irma.
 
-For storm information specific to your area in the United States,
-including possible inland watches and warnings, please monitor
-products issued by your local National Weather Service forecast
-office. For storm information specific to your area outside
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area outside
 the United States, please monitor products issued by your national
 meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 PM EDT (1800 UTC), the distinct eye of Hurricane Irma was
-located by a reconnaissance plane and Cuban radars near latitude
-22.0 North, longitude 76.0 West. Irma has been moving toward the
-west near 14 mph (22 km/h), but the hurricane should resume a
-west-northwest motion later today.  A turn toward the northwest is
-expected by late Saturday.  On the forecast track, the eye of Irma
-should continue to move near the north coast of Cuba and the central
-Bahamas for the rest of today and Saturday, and be near the Florida
+At 500 PM EDT (2100 UTC), the eye of Hurricane Irma was located
+near latitude 22.1 North, longitude 76.5 West. Irma is moving toward
+the west near 12 mph (19 km/h), and a turn toward the northwest
+is expected by late Saturday.  On the forecast track, the eye of
+Irma should continue to move near the north coast of Cuba and the
+central Bahamas tonight and Saturday, and be near the Florida
 Keys and the southern Florida Peninsula Sunday morning.
 
 Maximum sustained winds are near 155 mph (250 km/h) with higher
@@ -171,8 +179,7 @@ Hurricane-force winds extend outward up to 70 miles (110 km) from
 the center and tropical-storm-force winds extend outward up to 185
 miles (295 km).
 
-The latest minimum central pressure reported by an Air Force
-reconnaissance plane was 925 mb (27.31 inches).
+The estimated minimum central pressure is 925 mb (27.32 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -183,10 +190,11 @@ rising waters moving inland from the shoreline.  The water is
 expected to reach the following HEIGHTS ABOVE GROUND if the peak
 surge occurs at the time of high tide...
 
-SW Florida from Captiva to Cape Sable...6 to 12 ft
-Jupiter Inlet to Cape Sable including the Florida Keys...5 to 10 ft
-Ponce Inlet to Jupiter Inlet...3 to 6 ft
-Venice to Captiva...3 to 6 ft
+SW Florida from Captiva to Cape Sable...8 to 12 ft
+Cape Sable to Boca Raton including the Florida Key...5 to 10 ft
+Venice to Captiva...5 to 8 ft
+Anclote River to Venice including Tampa Bay...3 to 5 ft
+Boca Raton to Flagler/Volusia County line...3 to 6 ft
 
 The deepest water will occur along the immediate coast in areas of
 onshore winds, where the surge will be accompanied by large and
@@ -202,62 +210,62 @@ following amounts within the hurricane warning area near and to the
 north of the center of Irma.  Near the coast, the surge will be
 accompanied by large and destructive waves.
 
-Turks and Caicos Islands...15 to 20 ft
 Southeastern and central Bahamas...15 to 20 ft
 Northwestern Bahamas...5 to 10 ft
-Northern coast of Haiti and the Gulf of Gonave...1 to 3 ft
 Northern coast of Cuba in the warning area...5 to 10 ft
 
 WIND:  Hurricane conditions are still occurring in portions of the
-southeastern Bahamas and these conditions will continue to spread
-westward over the central Bahamas later today.  Hurricane conditions
-are expected to continue within the hurricane warning area along the
-north coast of Cuba through Saturday. Hurricane conditions are
-expected in the northwestern Bahamas tonight and Saturday, and in
-portions of southern Florida and the Florida Keys Saturday night or
+southeastern and Central Bahamas.  Hurricane conditions are expected
+to continue within the hurricane warning area along the north coast
+of Cuba through Saturday. Hurricane conditions are expected in the
+northwestern Bahamas tonight and Saturday, and in portions of
+southern and central Florida and the Florida Keys Saturday night or
 early Sunday.
 
-Hurricane conditions are possible within the watch area in Florida
-by Sunday, with tropical storm conditions possible by late Saturday.
+Hurricane conditions are possible within the watch area in central
+and north Florida by Sunday, with tropical storm conditions
+possible by late Saturday.
 
 RAINFALL: Irma is expected to produce the following rain
 accumulations through Tuesday night:
 
-Dominican Republic and Haiti...additional 1 to 4 inches.
-Turks and Caicos...additional 2 to 4 inches.
+Dominican Republic, Haiti, and Turks and Caicos...additional 1 to 3
+inches.
 Southern Bahamas and northern Cuba...10 to 15 inches, isolated 20
 inches.
 Southern Cuba...4 to 8 inches, isolated 12 inches.
 Jamaica...1 to 2 inches.
-The upper Florida Keys into southeast Florida...10 to 15 inches,
-isolated 20 inches.
-Lower Florida Keys...4 to 8 inches.
-Eastern Florida northward into coastal Georgia...8 to 12 inches,
-isolated 16 inches.
-Western Florida peninsula...4 to 8 inches, isolated 12 inches.
-Much of Georgia...South Carolina...and Western North Carolina...3 to
-6 inches.
+The Florida Keys, much of the Florida peninsula, and southeast
+Georgia...8 to 15 inches, isolated 20 inches.
+Western and Northern Florida peninsula from Tampa northward...4 to 8
+inches, isolated 12 inches.
+Rest of Eastern Georgia, western South Carolina, and Western North
+Carolina...4 to 7 inches.
+Western Georgia, eastern and northern Alabama, and southern
+Tennessee...2 to 5 inches.
 
 In all areas this rainfall may cause life-threatening flash floods
 and, in some areas, mudslides.
 
-SURF:  Swells generated by Irma are affecting Puerto Rico, the
-Virgin Islands, the southeastern Bahamas, the Turks and Caicos
-Islands, the northern coast of the Dominican Republic, and should
-start affecting portions of the southeast coast of the United States
-later today and tonight.  These swells are likely to cause
-life-threatening surf and rip current conditions.  Please consult
-products from your local weather office.
+TORNADOES: A few tornadoes will be possible beginning Saturday
+morning across south Florida.
+
+SURF:  Swells generated by Irma are affecting the southeastern
+Bahamas, the Turks and Caicos Islands, the northern coast of the
+Dominican Republic, and should start affecting portions of the
+southeast coast of the United States tonight. These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM EDT.
+Next intermediate advisory at 800 PM EDT.
+Next complete advisory at 1100 PM EDT.
 
 $$
 Forecaster Avila
 
 NNNN
-
 </message>
 </cycloneMessage>

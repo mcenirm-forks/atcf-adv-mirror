@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL132017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>12A</advisoryNumber>
+<advisoryNumber>13</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170908 01:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170908 06:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709081800</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0100 PM CDT Fri Sep 08</messageDateTimeLocalStr>
-<timeEpochSeconds>1504893600</timeEpochSeconds>
+<messageDateTimeLocal>20170908 04:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170908 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709082100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 PM CDT Fri Sep 08</messageDateTimeLocalStr>
+<timeEpochSeconds>1504904400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>KATIA</systemName>
@@ -19,58 +19,55 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>21.1</centerLocLatitude>
-<centerLocLongitude>-96.2</centerLocLongitude>
+<centerLocLatitude>21.0</centerLocLatitude>
+<centerLocLongitude>-96.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>21.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>96.2W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>21.0N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>96.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>105</systemIntensityMph>
 <systemIntensityKph>165</systemIntensityKph>
 <systemIntensityKts>90</systemIntensityKts>
-<systemMslpMb>974</systemMslpMb>
-<systemMslpInHg>28.36</systemMslpInHg>
+<systemMslpMb>972</systemMslpMb>
+<systemMslpInHg>28.71</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 260 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>5</systemSpeedMph>
-<systemSpeedKph>9</systemSpeedKph>
-<systemSpeedKts>5</systemSpeedKts>
+<systemDirectionOfMotion>WSW OR 250 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>7</systemSpeedMph>
+<systemSpeedKph>11</systemSpeedKph>
+<systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 135 MI...220 KM SE OF TAMPICO MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 130 MI...210 KM N OF VERACRUZ MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 120 MI...195 KM SE OF TAMPICO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 125 MI...200 KM N OF VERACRUZ MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
-TTAA00 KNHC DDHHMM CCA
+TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Katia Intermediate Advisory Number 12A
+Hurricane Katia Advisory Number  13
 NWS National Hurricane Center Miami FL       AL132017
 Issued by the NWS Weather Prediction Center College Park MD
-100 PM CDT Fri Sep 08 2017
+400 PM CDT Fri Sep 08 2017
 
-Corrected to change next advisory issuance time at bottom
-
-...KATIA NOW WITH 105-MPH WINDS...
-...PREPARATIONS TO PROTECT LIFE AND PROPERTY SHOULD BE RUSHED TO
-COMPLETION...
+...KATIA NEARING THE COAST OF MEXICO...
+...DANGEROUS STORM SURGE EXPECTED...
 
 
-SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...21.1N 96.2W
-ABOUT 135 MI...220 KM SE OF TAMPICO MEXICO
-ABOUT 130 MI...210 KM N OF VERACRUZ MEXICO
+LOCATION...21.0N 96.5W
+ABOUT 120 MI...195 KM SE OF TAMPICO MEXICO
+ABOUT 125 MI...200 KM N OF VERACRUZ MEXICO
 MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
-PRESENT MOVEMENT...W OR 260 DEGREES AT 5 MPH...9 KM/H
-MINIMUM CENTRAL PRESSURE...974 MB...28.36 INCHES
+PRESENT MOVEMENT...WSW OR 250 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...972 MB...28.71 INCHES
 
 
 WATCHES AND WARNINGS
@@ -89,13 +86,11 @@ A Tropical Storm Warning is in effect for...
 * South of Laguna Verde to Puerto Veracruz
 
 A Hurricane Warning means that hurricane conditions are expected
-somewhere within the warning area, in this case within 12 hours.
-Preparations to protect life and property should be rushed to
-completion.
+somewhere within the warning area.  Preparations to protect life and
+property should be rushed to completion.
 
 A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area, in this case within 24
-hours.
+expected somewhere within the warning area.
 
 For storm information specific to your area, please monitor
 products issued by your national meteorological service.
@@ -103,28 +98,27 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 100 PM CDT (1800 UTC), the center of Hurricane Katia was located
-near latitude 21.1 North, longitude 96.2 West. Katia is moving
-toward the west near 5 mph (9 km/h) and a west-southwestward motion
-is expected until the system makes landfall within the hurricane
-warning area by early Saturday.
+At 400 PM CDT (2100 UTC), the center of Hurricane Katia was located
+near latitude 21.0 North, longitude 96.5 West. Katia is moving
+toward the west-southwest near 7 mph (11 km/h) and this motion is
+expected to continue through Saturday. The center of Katia will
+make landfall in Mexico late tonight or early Saturday.
 
-Maximum sustained winds have increased to near 105 mph (165 km/h)
-with higher gusts. Some additional strengthening is forecast during
-the next day or so and Katia could be near major hurricane strength
-at landfall.
+Maximum sustained winds are near 105 mph (165 km/h) with higher
+gusts.  Some intensification is possible prior to landfall, followed
+by rapid weakening.
 
-Hurricane-force winds extend outward up to 25 miles (35 km) from
-the center and tropical-storm-force winds extend outward up to 70
-miles (110 km).
+Hurricane-force winds extend outward up to 25 miles (35 km) from the
+center and tropical-storm-force winds extend outward up to 70 miles
+(110 km).
 
-The estimated minimum central pressure is 974 mb (28.34 inches).
+The estimated minimum central pressure is 972 mb (28.71 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 STORM SURGE:  A dangerous storm surge will raise water levels by
-as much as 5 to 7 feet above normal tide levels near and to the
+as much as 5 to 8 feet above normal tide levels near and to the
 north of where Katia makes landfall.  Near the coast, the surge will
 be accompanied by large and destructive waves.
 
@@ -135,13 +129,13 @@ of 2 to 5 inches over southern Tamaulipas, eastern San Luis Potosi,
 western Hidalgo, eastern Queretaro, and southern Veracruz through
 Saturday evening.  Isolated maximum amounts of 25 inches are
 possible in northern Veracruz, eastern Hidalgo, Puebla, and San
-Luis Potosi. This rainfall may cause life-threatening flash floods
-and mudslides, especially in areas of mountainous terrain.
+Luis Potosi. This rainfall will likely cause life-threatening flash
+floods and mudslides, especially in areas of mountainous terrain.
 
 WIND:  Hurricane conditions are expected within portions of the
 hurricane warning area by tonight or early Saturday, with tropical
-storm conditions expected within the tropical storm warning areas by
-later today.
+storm conditions expected within the tropical storm warning areas
+within a few hours.
 
 SURF:  Swells generated by Katia will continue to affect portions of
 the coast of southeastern Mexico during the next couple of days.
@@ -152,7 +146,8 @@ office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 PM CDT.
+Next intermediate advisory at 700 PM CDT.
+Next complete advisory at 1000 PM CDT.
 
 $$
 Forecaster Blake/Bann
