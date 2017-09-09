@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>17</advisoryNumber>
+<advisoryNumber>17A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170909 11:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170909 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709091500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM AST Sat Sep 09</messageDateTimeLocalStr>
-<timeEpochSeconds>1504969200</timeEpochSeconds>
+<messageDateTimeLocal>20170909 02:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170909 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709091800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM AST Sat Sep 09</messageDateTimeLocalStr>
+<timeEpochSeconds>1504980000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>18.3</centerLocLatitude>
-<centerLocLongitude>-61.3</centerLocLongitude>
+<centerLocLatitude>18.8</centerLocLatitude>
+<centerLocLongitude>-61.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>18.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>61.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>61.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>145</systemIntensityMph>
@@ -39,31 +39,32 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>NW OR 305 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>13</systemSpeedMph>
-<systemSpeedKph>20</systemSpeedKph>
-<systemSpeedKts>11</systemSpeedKts>
+<systemSpeedMph>14</systemSpeedMph>
+<systemSpeedKph>23</systemSpeedKph>
+<systemSpeedKts>12</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 120 MI...190 KM E OF THE NORTHERN LEEWARD ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 95 MI...155 KM ENE OF THE NORTHERN LEEWARD ISLANDS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Advisory Number  17
+Hurricane Jose Intermediate Advisory Number 17A
 NWS National Hurricane Center Miami FL       AL122017
 Issued by the NWS Weather Prediction Center College Park MD
-1100 AM AST Sat Sep 09 2017
+200 PM AST Sat Sep 09 2017
 
-...JOSE REMAINS A DANGEROUS CATEGORY FOUR HURRICANE...
+...EYE OF HURRICANE JOSE PASSING NORTH OF THE NORTHERN
+LEEWARD ISLANDS...
 
 
-SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...18.3N 61.3W
-ABOUT 120 MI...190 KM E OF THE NORTHERN LEEWARD ISLANDS
+SUMMARY OF 200 PM AST...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...18.8N 61.9W
+ABOUT 95 MI...155 KM ENE OF THE NORTHERN LEEWARD ISLANDS
 MAXIMUM SUSTAINED WINDS...145 MPH...230 KM/H
-PRESENT MOVEMENT...NW OR 305 DEGREES AT 13 MPH...20 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 14 MPH...23 KM/H
 MINIMUM CENTRAL PRESSURE...945 MB...27.91 INCHES
 
 
@@ -71,27 +72,22 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Tropical Storm Watch for St. Thomas and St. John in the U.S.
-Virgin Island has been discontinued.
+The government of France has changed the Hurricane Warning to
+a Tropical Storm Warning for St. Martin and St. Barthelemy.
 
-The government of Antigua has discontinued the Tropical Storm
-Watch for Antigua and the British Virgin Islands.
+The government of Sint Maarten has changed the Hurricane Warning to
+a Tropical Storm Warning.
+
+The government of the Netherlands has discontinued the Tropical
+Storm Warning for Saba and St. Eustatius.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
-A Hurricane Warning is in effect for...
-* Sint Maarten
-* St. Martin
-* St. Barthelemy
-
 A Tropical Storm Warning is in effect for...
 * Barbuda and Anguilla
-* Saba and St. Eustatius
-
-A Hurricane Warning means that hurricane conditions are expected
-somewhere within the warning area, in this case within 24 hours.
-Preparations to protect life and property should be rushed to
-completion.
+* St. Martin
+* Sint Maarten
+* St. Barthelemy
 
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area within 36 hours.
@@ -103,31 +99,29 @@ meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM AST (1500 UTC), the center of Hurricane Jose was located
-near latitude 18.3 North, longitude 61.3 West. Jose is moving toward
-the northwest near 13 mph (20 km/h).  A continued northwest motion
+At 200 PM AST (1800 UTC), the center of Hurricane Jose was located
+near latitude 18.8 North, longitude 61.9 West. Jose is moving toward
+the northwest near 14 mph (23 km/h).  A continued northwest motion
 is expected during the next couple of days.  On the forecast track,
-the core of Jose will pass just north of the northern Leeward
-Islands later today.
+the core of Jose will continue to pass north of the northern
+Leeward Islands through this evening.
 
 Maximum sustained winds are near 145 mph (230 km/h) with higher
 gusts.  Jose is a category 4 hurricane on the Saffir-Simpson
 Hurricane Wind Scale.  Gradual weakening is expected to occur over
 the next couple of days.
 
-Hurricane-force winds extend outward up to 35 miles (55 km) from the
-center and tropical-storm-force winds extend outward up to 140 miles
-(220 km).
+Hurricane-force winds extend outward up to 35 miles (55 km) from
+the center and tropical-storm-force winds extend outward up to 140
+miles (220 km).
 
-The latest minimum central pressure reported by an Air Force
-Reserve reconnaissance aircraft is 945 mb (27.91 inches).
+The estimated minimum central pressure is 945 mb (27.91 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-WIND:  Hurricane conditions are expected within the hurricane
-warning area today. Tropical storm conditions are expected within
-the tropical storm warning areas through this evening.
+WIND:  Tropical storm conditions are expected within the tropical
+storm warning areas through this evening.
 
 RAINFALL:  Jose is expected to produce total rain accumulations of
 2 to 4 inches in the portions of Northern Leeward Islands, with
@@ -137,23 +131,26 @@ life-threatening flooding.
 
 STORM SURGE:  A dangerous storm surge will raise water levels by
 1 to 3 feet above normal tide levels along the immediate coast in
-the hurricane warning and tropical storm warning areas.  Near the
-coast, the surge will be accompanied by large and destructive waves.
+the tropical storm warning areas.  Near the coast, the surge will be
+accompanied by large and destructive waves.
 
 SURF:  Swells generated by Jose are affecting portions of the
-Leeward Islands.  These swells are expected to continue for a couple
-of days, and could cause life-threatening surf and rip current
-conditions.  Please consult products from your local weather office.
+Leeward Islands, the British and U.S. Virgin Islands, and will begin
+to affect the northern coasts of Puerto Rico and Hispaniola, and
+portions of the Bahamas, and the Turks and Caicos Islands over the
+next couple of days. These swells could cause life-threatening surf
+and rip current conditions. Please consult products from your local
+weather office.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 PM AST.
 Next complete advisory at 500 PM AST.
 
 $$
-Forecaster Brown/Cohen
+Forecaster R Ballard/Brown
 
 NNNN
+
 </message>
 </cycloneMessage>
