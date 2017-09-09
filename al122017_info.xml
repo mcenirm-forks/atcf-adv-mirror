@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>14</advisoryNumber>
+<advisoryNumber>14A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170908 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170908 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709082100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Fri Sep 08</messageDateTimeLocalStr>
-<timeEpochSeconds>1504904400</timeEpochSeconds>
+<messageDateTimeLocal>20170908 08:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170909 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709090000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM AST Fri Sep 08</messageDateTimeLocalStr>
+<timeEpochSeconds>1504915200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.6</centerLocLatitude>
-<centerLocLongitude>-58.3</centerLocLongitude>
+<centerLocLatitude>16.7</centerLocLatitude>
+<centerLocLongitude>-58.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>58.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>16.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>58.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>150</systemIntensityMph>
 <systemIntensityKph>240</systemIntensityKph>
 <systemIntensityKts>130</systemIntensityKts>
-<systemMslpMb>940</systemMslpMb>
-<systemMslpInHg>27.76</systemMslpInHg>
+<systemMslpMb>938</systemMslpMb>
+<systemMslpInHg>27.70</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 4</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,43 +43,35 @@
 <systemSpeedKph>28</systemSpeedKph>
 <systemSpeedKts>15</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 335 MI...540 KM ESE OF THE NORTHERN LEEWARD ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 305 MI...490 KM ESE OF THE NORTHERN LEEWARD ISLANDS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Advisory Number  14
+Hurricane Jose Intermediate Advisory Number 14A
 NWS National Hurricane Center Miami FL       AL122017
-500 PM AST Fri Sep 08 2017
+800 PM AST Fri Sep 08 2017
 
-...JOSE REMAINS A DANGEROUS CATEGORY 4 HURRICANE...
-...HURRICANE WARNINGS ISSUED FOR PARTS OF THE NORTHERN LEEWARD
-ISLANDS...
+...POWERFUL CATEGORY 4 JOSE FORECAST TO BE NEAR THE NORTHERN
+LEEWARD ISLANDS ON SATURDAY...
 
 
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...16.6N 58.3W
-ABOUT 335 MI...540 KM ESE OF THE NORTHERN LEEWARD ISLANDS
+LOCATION...16.7N 58.8W
+ABOUT 305 MI...490 KM ESE OF THE NORTHERN LEEWARD ISLANDS
 MAXIMUM SUSTAINED WINDS...150 MPH...240 KM/H
 PRESENT MOVEMENT...WNW OR 285 DEGREES AT 17 MPH...28 KM/H
-MINIMUM CENTRAL PRESSURE...940 MB...27.76 INCHES
+MINIMUM CENTRAL PRESSURE...938 MB...27.70 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of the Antigua has issued a Hurricane Warning for
-Barbuda and Anguilla.
-
-The government of France has issued a Hurricane Warning for St.
-Martin and Barthelemy.
-
-The government of Sint Maarten has issued a Hurricane Warning for
-Sint Maarten.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -125,12 +117,13 @@ meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM AST (2100 UTC), the eye of Hurricane Jose was located
-near latitude 16.6 North, longitude 58.3 West. Jose is moving toward
-the west-northwest near 17 mph (28 km/h).  A turn toward the
-northwest with a decrease in forward speed is forecast tonight
-through the weekend.  On the forecast track, the core of Jose will
-pass close or just east of the northern Leeward Islands.
+At 800 PM AST (0000 UTC), the eye of Hurricane Jose was located near
+latitude 16.7 North, longitude 58.8 West. Jose is moving toward the
+west-northwest near 17 mph (28 km/h).  A turn toward the northwest
+with a decrease in forward speed is forecast to begin overnight and
+continue through the weekend.  On the forecast track, the core of
+Jose will pass close to or just east of the northern Leeward
+Islands.
 
 Maximum sustained winds are near 150 mph (240 km/h) with higher
 gusts.  Jose is a category 4 hurricane on the Saffir-Simpson
@@ -138,11 +131,12 @@ Hurricane Wind Scale.  Some fluctuation in intensity, up or down,
 could occur during the next day or so.  Gradual weakening is
 expected after that.
 
-Hurricane-force winds extend outward up to 35 miles (55 km) from the
-center and tropical-storm-force winds extend outward up to 140 miles
-(220 km).
+Hurricane-force winds extend outward up to 35 miles (55 km) from
+the center and tropical-storm-force winds extend outward up to 140
+miles (220 km).
 
-The estimated minimum central pressure is 940 mb (27.76 inches).
+The estimated minimum central pressure based observations from the
+Air Force Hurricane Hunters is 938 mb (27.70 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -165,23 +159,23 @@ flooding and may cause additional life-threatening flooding.
 
 STORM SURGE:  A dangerous storm surge will raise water levels by
 2 to 4 feet above normal tide levels along the immediate coast in
-the hurricane warning areas.  Near the coast,the surge will be
+the hurricane warning areas.  Near the coast, the surge will be
 accompanied by large and destructive waves.
 
 SURF:  Swells generated by Jose are affecting portions of the
-Leeward Islands.  These swells are likely to cause life-threatening
-surf and rip current conditions.  Please consult products from your
-local weather office.
+Leeward Islands.  These swells are expected to continue for a couple
+of days, and could cause life-threatening surf and rip current
+conditions.  Please consult products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 PM AST.
 Next complete advisory at 1100 PM AST.
 
 $$
-Forecaster Zelinsky
+Forecaster Cangialosi
 
 NNNN
+
 </message>
 </cycloneMessage>
