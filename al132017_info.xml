@@ -3,85 +3,83 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL132017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>15</advisoryNumber>
+<advisoryNumber>15A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170909 04:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170909 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709090900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0400 AM CDT Sat Sep 09</messageDateTimeLocalStr>
-<timeEpochSeconds>1504947600</timeEpochSeconds>
+<messageDateTimeLocal>20170909 07:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170909 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709091200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0700 AM CDT Sat Sep 09</messageDateTimeLocalStr>
+<timeEpochSeconds>1504958400</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL STORM</systemType>
+<systemType>TROPICAL DEPRESSION</systemType>
 <systemName>KATIA</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>20.3</centerLocLatitude>
-<centerLocLongitude>-97.5</centerLocLongitude>
+<centerLocLatitude>20.1</centerLocLatitude>
+<centerLocLongitude>-97.7</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>20.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>97.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>20.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>97.7W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>40</systemIntensityMph>
-<systemIntensityKph>65</systemIntensityKph>
-<systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1001</systemMslpMb>
-<systemMslpInHg>29.56</systemMslpInHg>
+<systemIntensityMph>35</systemIntensityMph>
+<systemIntensityKph>55</systemIntensityKph>
+<systemIntensityKts>30</systemIntensityKts>
+<systemMslpMb>1004</systemMslpMb>
+<systemMslpInHg>29.65</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>WSW OR 255 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>2</systemSpeedMph>
 <systemSpeedKph>4</systemSpeedKph>
 <systemSpeedKts>2</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 135 MI...215 KM S OF TAMPICO MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 115 MI...185 KM NW OF VERACRUZ MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 145 MI...235 KM S OF TAMPICO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 115 MI...185 KM WNW OF VERACRUZ MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Katia Advisory Number  15
+Tropical Depression Katia Intermediate Advisory Number 15A
 NWS National Hurricane Center Miami FL       AL132017
 Issued by the NWS Weather Prediction Center College Park MD
-400 AM CDT Sat Sep 09 2017
+700 AM CDT Sat Sep 09 2017
 
-...KATIA BEGINNING TO STALL NEAR THE SIERRA MADRE MOUNTAINS...
+...KATIA WEAKENS TO A DEPRESSION NEAR THE SIERRA MADRE MOUNTAINS...
+...HEAVY RAINFALL THREAT CONTINUES...
 
 
-SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+SUMMARY OF 700 AM CDT...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...20.3N 97.5W
-ABOUT 135 MI...215 KM S OF TAMPICO MEXICO
-ABOUT 115 MI...185 KM NW OF VERACRUZ MEXICO
-MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...W OR 270 DEGREES AT 2 MPH...4 KM/H
-MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
+LOCATION...20.1N 97.7W
+ABOUT 145 MI...235 KM S OF TAMPICO MEXICO
+ABOUT 115 MI...185 KM WNW OF VERACRUZ MEXICO
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...WSW OR 255 DEGREES AT 2 MPH...4 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None
+The government of Mexico has discontinued all Tropical Storm
+Warnings.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
-A Tropical Storm Warning is in effect for...
-* Rio Panuco to Puerto Veracruz
-
-A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area.
+None.
 
 For storm information specific to your area, please monitor
 products issued by your national meteorological service.
@@ -89,27 +87,21 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 400 AM CDT (0900 UTC), the center of Tropical Storm Katia was
-located near latitude 20.3 North, longitude 97.5 West. Katia is
-moving toward the west near 2 mph (4 km/h) and it is expected to
-drift to the east of the Sierra Madre Mountains as it dissipates
-today.
+At 700 AM CDT (1200 UTC), the center of Tropical Depression Katia
+was located near latitude 20.1 North, longitude 97.7 West. Katia is
+moving toward the west-southwest near 2 mph (4 km/h) and it is
+expected to continue drifting toward the west-southwest until
+dissipation.
 
-Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
-Winds should continue to subside as Katia dissipates today.
+Maximum sustained winds are near 35 mph (55 km/h) with higher
+gusts. Katia is expected to dissipate over the mountains of
+Mexico later today.
 
-Tropical-storm-force winds extend outward up to 60 miles (95 km)
-from the center.
-
-The estimated minimum central pressure is 1001 mb (29.56 inches).
+The estimated minimum central pressure is 1004 mb (29.65 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-STORM SURGE:  Some inundation along the coast due to storm surge
-will remain possible this morning.  Water levels along the coast
-should decrease as the storm moves inland and winds subside.
-
 RAINFALL:  Katia is expected to produce total rain accumulations of
 10 to 15 inches over northern Veracruz, eastern Hidalgo, and
 Puebla.  Katia is also expected to produce total rain accumulations
@@ -120,24 +112,23 @@ possible in northern Veracruz, eastern Hidalgo, Puebla, and San
 Luis Potosi. This rainfall will likely cause life-threatening flash
 floods and mudslides, especially in areas of mountainous terrain.
 
-WIND:  Tropical storm conditions are expected to continue within the
-tropical storm warning areas.
+STORM SURGE: Water levels along the coast should continue to
+decrease as the center dissipates and winds subside.
 
-SURF:  Swells generated by Katia will continue to affect portions of
-the coast of southeastern Mexico during the next couple of days.
-These swells are likely to cause life-threatening surf and rip
-current conditions. Please consult products from your local weather
-office.
+SURF:  Swells generated by Katia will begin to decrease along the
+coast of southeastern Mexico today. These swells may still cause
+life-threatening surf and rip current conditions. Please consult
+products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 700 AM CDT.
 Next complete advisory at 1000 AM CDT.
 
 $$
-Forecaster Lamers/Roth
+Forecaster R Ballard
 
 NNNN
+
 </message>
 </cycloneMessage>
