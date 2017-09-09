@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL112017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>42</advisoryNumber>
+<advisoryNumber>42A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170909 11:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170909 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709091500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM EDT Sat Sep 09</messageDateTimeLocalStr>
-<timeEpochSeconds>1504969200</timeEpochSeconds>
+<messageDateTimeLocal>20170909 02:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170909 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709091800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM EDT Sat Sep 09</messageDateTimeLocalStr>
+<timeEpochSeconds>1504980000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>IRMA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>22.8</centerLocLatitude>
-<centerLocLongitude>-79.8</centerLocLongitude>
+<centerLocLatitude>23.1</centerLocLatitude>
+<centerLocLongitude>-80.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>22.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>79.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>23.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>80.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>125</systemIntensityMph>
@@ -43,28 +43,28 @@
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 90 MI...145 KM ESE OF VARADERO CUBA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 175 MI...285 KM SE OF KEY WEST FLORIDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 65 MI...100 KM E OF VARADERO CUBA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 145 MI...235 KM SE OF KEY WEST FLORIDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irma Advisory Number  42
+Hurricane Irma Intermediate Advisory Number 42A
 NWS National Hurricane Center Miami FL       AL112017
-1100 AM EDT Sat Sep 09 2017
+200 PM EDT Sat Sep 09 2017
 
-...IRMA CONTINUES TO POUND THE NORTH COAST OF CUBA...
-...FORECAST TO RESTRENGTHEN WHILE HEADING FOR SOUTH FLORIDA AND THE
-KEYS...
+...IRMA LINGERING OVER THE NORTH COAST OF CUBA...
+...MAJOR HURRICANE FORCE WINDS EXPECTED OVER THE FLORIDA KEYS AT
+DAYBREAK...
 
 
-SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...22.8N 79.8W
-ABOUT 90 MI...145 KM ESE OF VARADERO CUBA
-ABOUT 175 MI...285 KM SE OF KEY WEST FLORIDA
+SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...23.1N 80.2W
+ABOUT 65 MI...100 KM E OF VARADERO CUBA
+ABOUT 145 MI...235 KM SE OF KEY WEST FLORIDA
 MAXIMUM SUSTAINED WINDS...125 MPH...205 KM/H
 PRESENT MOVEMENT...W OR 280 DEGREES AT 9 MPH...15 KM/H
 MINIMUM CENTRAL PRESSURE...941 MB...27.79 INCHES
@@ -74,33 +74,7 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Storm Surge Warning has been extended from Chassahowitzka to the
-Suwanee River.
-
-The Storm Surge Watch has been extended from north of the Suwanee
-River to Ochlockonee River and from north of the Volusia/Brevard
-County line north to Isle of Palms, South Carolina.
-
-The Hurricane Warning for the east coast of the United States
-has been extended northward to Fernandina Beach, and the Hurricane
-Watch has been extended from north of Fernandina Beach to Edisto
-Beach.
-
-The Hurricane Warning for the Gulf of Mexico coast has been
-extended to the Aucilla River.  The Hurricane Watch is now in
-effect from west of the Aucilla River to Indian Pass.
-
-A Tropical Storm Watch has been issued from north of Edisto Beach
-to the South Santee River.
-
-A Tropical Storm Watch has been issued from west of Indian Pass to
-the Okaloosa/Walton County Line.
-
-The government of Cuba has extended the Hurricane Warning to the
-Havana province.
-
-The government of the Bahamas has adjusted the Hurricane Warning
-to only include Andros Island, Bimini and Grand Bahama.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -174,40 +148,38 @@ possible within the watch area, generally within 48 hours.
 Interests elsewhere in Cuba and the southeastern United States
 should monitor the progress of Irma.
 
-For storm information specific to your area in the United
-States, including possible inland watches and warnings, please
-monitor products issued by your local National Weather Service
-forecast office. For storm information specific to your area outside
-the United States, please monitor products issued by your national
+For storm information specific to your area in the United States,
+including possible inland watches and warnings, please monitor
+products issued by your local National Weather Service forecast
+office. For storm information specific to your area outside the
+United States, please monitor products issued by your national
 meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM EDT (1500 UTC), the eye of Hurricane Irma was
-located by a reconnaissance plane and radar near latitude 22.8
-North, longitude 79.8 West. Irma is moving toward the west along
-the north coast of Cuba at near 9 mph (15 km/h).  A northwest motion
-is expected to begin later today with a turn toward the north-
-northwest on Sunday.  On the forecast track, the core of Irma will
-continue to move near or over the north coast of Cuba later today,
-and will reach the Florida Keys Sunday morning.  The hurricane is
-expected to move along or near the southwest coast of Florida Sunday
-afternoon.
+At 200 PM EDT (1800 UTC), the eye of Hurricane Irma was located by
+radar near latitude 23.1 North, longitude 80.2 West. Irma is moving
+just north of due west along the north coast of Cuba at near 9 mph
+(15 km/h).  A northwest motion is expected to begin later today with
+a turn toward the north-northwest on Sunday.  On the forecast track,
+the core of Irma will continue to move near or over the north coast
+of Cuba this afternoon, and will reach the Florida Keys Sunday
+morning.  The hurricane is expected to move along or near the
+southwest coast of Florida Sunday afternoon.
 
 Maximum sustained winds are near 125 mph (205 km/h) with higher
 gusts.  Irma is a category 3 hurricane on the Saffir-Simpson
 Hurricane Wind Scale.  Irma is forecast to restrengthen once it
 moves away from Cuba, and Irma is expected to remain a powerful
-hurricane as it approaches Florida.
+hurricane as it approaches Florida.  A NOAA plane is airborne en
+route to investigate Irma.
 
 Hurricane-force winds extend outward up to 70 miles (110 km) from
 the center and tropical-storm-force winds extend outward up to 195
-miles (315 km).  Caibarien, Cuba recently reported a wind gust to
-124 mph (200 km/h).
+miles (315 km).
 
-The minimum central pressure reported by an Air Force plane was 941
-mb (27.79 inches).
+The estimated minimum central pressure is 941 mb (27.79 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -244,11 +216,10 @@ following amounts within the hurricane warning area near and to the
 north of the center of Irma.  Near the coast, the surge will be
 accompanied by large and destructive waves.
 
-Ragged Island in the Bahamas...15 to 20 ft
-Central and Northwestern Bahamas...3 to 6 ft
+Northwestern Bahamas...3 to 6 ft
 Northern coast of Cuba in the warning area...5 to 10 ft
 
-WIND:   Hurricane conditions are expected to continue within the
+WIND:  Hurricane conditions are expected to continue within the
 hurricane warning area along the north coast of Cuba through today.
 Hurricane conditions are expected in portions of the northwestern
 Bahamas today, and in portions of the Florida peninsula and the
@@ -257,8 +228,9 @@ Florida Keys tonight and Sunday.
 Hurricane and tropical storm conditions are possible within the
 watch area on Sunday.
 
-RAINFALL: Irma is expected to produce the following rain
+RAINFALL:  Irma is expected to produce the following rain
 accumulations through Wednesday:
+
 Northern Cuba...10 to 15 inches, isolated 20 inches.
 Southern Cuba...5 to 10 inches, isolated 15 inches.
 Western Bahamas...3 to 6 inches, isolated 10 inches.
@@ -278,19 +250,19 @@ southern Florida.
 
 SURF:  Swells generated by Irma are affecting the southeastern
 Bahamas, the Turks and Caicos Islands and the southeast coast of the
-United States today.  These swells are likely to cause
-life-threatening surf and rip current conditions.  Please consult
+United States today.  These swells are likely to cause life-
+threatening surf and rip current conditions.  Please consult
 products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 PM EDT.
 Next complete advisory at 500 PM EDT.
 
 $$
 Forecaster Avila
 
 NNNN
+
 </message>
 </cycloneMessage>
