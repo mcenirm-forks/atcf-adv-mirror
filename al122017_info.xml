@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>15</advisoryNumber>
+<advisoryNumber>15A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170908 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170909 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709090300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Fri Sep 08</messageDateTimeLocalStr>
-<timeEpochSeconds>1504926000</timeEpochSeconds>
+<messageDateTimeLocal>20170909 02:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170909 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709090600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM AST Sat Sep 09</messageDateTimeLocalStr>
+<timeEpochSeconds>1504936800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -19,52 +19,51 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.9</centerLocLatitude>
-<centerLocLongitude>-59.3</centerLocLongitude>
+<centerLocLatitude>17.2</centerLocLatitude>
+<centerLocLongitude>-59.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>59.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>17.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>59.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>155</systemIntensityMph>
-<systemIntensityKph>250</systemIntensityKph>
-<systemIntensityKts>135</systemIntensityKts>
-<systemMslpMb>938</systemMslpMb>
-<systemMslpInHg>27.70</systemMslpInHg>
+<systemIntensityMph>150</systemIntensityMph>
+<systemIntensityKph>240</systemIntensityKph>
+<systemIntensityKts>130</systemIntensityKts>
+<systemMslpMb>940</systemMslpMb>
+<systemMslpInHg>27.76</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 4</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>14</systemSpeedMph>
 <systemSpeedKph>22</systemSpeedKph>
 <systemSpeedKts>12</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 265 MI...430 KM ESE OF THE NORTHERN LEEWARD ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 240 MI...390 KM ESE OF THE NORTHERN LEEWARD ISLANDS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Advisory Number  15
+Hurricane Jose Intermediate Advisory Number 15A
 NWS National Hurricane Center Miami FL       AL122017
-1100 PM AST Fri Sep 08 2017
+200 AM AST Sat Sep 09 2017
 
-...AIR FORCE HURRICANE HUNTERS FIND JOSE EVEN STRONGER...
-...ALMOST A CATEGORY 5 HURRICANE...
+...JOSE STILL A CATEGORY 4 HURRICANE...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...16.9N 59.3W
-ABOUT 265 MI...430 KM ESE OF THE NORTHERN LEEWARD ISLANDS
-MAXIMUM SUSTAINED WINDS...155 MPH...250 KM/H
-PRESENT MOVEMENT...WNW OR 285 DEGREES AT 14 MPH...22 KM/H
-MINIMUM CENTRAL PRESSURE...938 MB...27.70 INCHES
+SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...17.2N 59.6W
+ABOUT 240 MI...390 KM ESE OF THE NORTHERN LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...150 MPH...240 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...940 MB...27.76 INCHES
 
 
 WATCHES AND WARNINGS
@@ -117,37 +116,36 @@ meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the eye of Hurricane Jose was located
-near latitude 16.9 North, longitude 59.3 West. Jose is moving toward
-the west-northwest near 14 mph (22 km/h).  A west-northwest to
-northwest motion is expected during the next couple of days.  On the
-forecast track, the core of Jose will pass close to or just east of
-the northern Leeward Islands.
+At 200 AM AST (0600 UTC), the eye of Hurricane Jose was located near
+latitude 17.2 North, longitude 59.6 West. Jose is moving toward the
+west-northwest near 14 mph (22 km/h).  A west-northwest to northwest
+motion is expected during the next couple of days.  On the forecast
+track, the core of Jose will pass close to or just east of the
+northern Leeward Islands later today.
 
-Maximum sustained winds are near 155 mph (250 km/h) with higher
-gusts.  Jose is a category 4 hurricane on the Saffir-Simpson
-Hurricane Wind Scale.  Some fluctuation in intensity, up or down,
-could occur overnight and on Saturday.  Gradual weakening is
-expected after that.
+Maximum sustained winds have decreased to near 150 mph (240 km/h)
+with higher gusts.  Jose is a category 4 hurricane on the
+Saffir-Simpson Hurricane Wind Scale.  Some fluctuation in intensity,
+up or down, could occur during the next 24 hours.  Afterward,
+gradual weakening is expected to occur.
 
-Hurricane-force winds extend outward up to 35 miles (55 km) from the
-center and tropical-storm-force winds extend outward up to 140 miles
-(220 km).
+Hurricane-force winds extend outward up to 35 miles (55 km) from
+the center and tropical-storm-force winds extend outward up to 140
+miles (220 km).
 
 The estimated minimum central pressure based on observations from
-the Air Force Hurricane Hunters is 938 mb (27.70 inches).
+the Air Force Hurricane Hunters is 940 mb (27.76 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 WIND:  Hurricane conditions are expected within the hurricane
-warning area on Saturday.  Hurricane conditions are also possible
-within the hurricane watch area on Saturday.  Tropical storm
-conditions are expected within the tropical storm warning areas by
-Saturday morning. Tropical storm conditions are possible in the
-tropical storm watch area in the northeastern Leeward Islands by
-Saturday morning and in the watch area in the Virgin Islands by
-Saturday night.
+warning area today.  Hurricane conditions are also possible within
+the hurricane watch area today.  Tropical storm conditions are
+expected within the tropical storm warning areas by this morning.
+Tropical storm conditions are possible in the tropical storm watch
+area in the northeastern Leeward Islands by this morning and in the
+watch area in the Virgin Islands by tonight.
 
 RAINFALL:  Jose is expected to produce total rain accumulations of
 3 to 5 inches in the Leeward Islands from Guadeloupe to Anguilla,
@@ -169,12 +167,12 @@ conditions.  Please consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 AM AST.
 Next complete advisory at 500 AM AST.
 
 $$
-Forecaster Cangialosi
+Forecaster Roberts
 
 NNNN
+
 </message>
 </cycloneMessage>
