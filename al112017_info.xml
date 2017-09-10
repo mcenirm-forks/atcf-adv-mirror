@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL112017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>46</advisoryNumber>
+<advisoryNumber>46A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170910 11:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170910 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709101500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM EDT Sun Sep 10</messageDateTimeLocalStr>
-<timeEpochSeconds>1505055600</timeEpochSeconds>
+<messageDateTimeLocal>20170910 02:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170910 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709101800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM EDT Sun Sep 10</messageDateTimeLocalStr>
+<timeEpochSeconds>1505066400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>IRMA</systemName>
@@ -19,61 +19,63 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>25.0</centerLocLatitude>
-<centerLocLongitude>-81.5</centerLocLongitude>
+<centerLocLatitude>25.6</centerLocLatitude>
+<centerLocLongitude>-81.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>25.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>81.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>25.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>81.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>130</systemIntensityMph>
-<systemIntensityKph>215</systemIntensityKph>
-<systemIntensityKts>115</systemIntensityKts>
-<systemMslpMb>933</systemMslpMb>
-<systemMslpInHg>27.55</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 4</systemSaffirSimpsonCategory>
+<systemIntensityMph>120</systemIntensityMph>
+<systemIntensityKph>195</systemIntensityKph>
+<systemIntensityKts>105</systemIntensityKts>
+<systemMslpMb>936</systemMslpMb>
+<systemMslpInHg>27.64</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>N OR 350 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>9</systemSpeedMph>
-<systemSpeedKph>15</systemSpeedKph>
-<systemSpeedKts>8</systemSpeedKts>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 80 MI...125 KM SSE OF NAPLES FLORIDA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 115 MI...180 KM SSE OF FT. MYERS FLORIDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 35 MI...55 KM S OF NAPLES FLORIDA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 70 MI...115 KM S OF FT. MYERS FLORIDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irma Advisory Number  46
+Hurricane Irma Intermediate Advisory Number 46A
 NWS National Hurricane Center Miami FL       AL112017
-1100 AM EDT Sun Sep 10 2017
+200 PM EDT Sun Sep 10 2017
 
-...IRMA HEADED FOR THE SOUTHWEST FLORIDA COAST...
-...WINDS CONTINUE TO INCREASE OVER SOUTH FLORIDA...
+...IRMA CONTINUES TO BATTER SOUTH FLORIDA...
+...STRONGEST WINDS EXPECTED IN MARCO ISLAND/NAPLES AREA WITHIN THE
+NEXT COUPLE OF HOURS...
 
 
-SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...25.0N 81.5W
-ABOUT 80 MI...125 KM SSE OF NAPLES FLORIDA
-ABOUT 115 MI...180 KM SSE OF FT. MYERS FLORIDA
-MAXIMUM SUSTAINED WINDS...130 MPH...215 KM/H
-PRESENT MOVEMENT...N OR 350 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...933 MB...27.55 INCHES
+SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...25.6N 81.8W
+ABOUT 35 MI...55 KM S OF NAPLES FLORIDA
+ABOUT 70 MI...115 KM S OF FT. MYERS FLORIDA
+MAXIMUM SUSTAINED WINDS...120 MPH...195 KM/H
+PRESENT MOVEMENT...N OR 350 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...936 MB...27.64 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The government of Cuba has discontinued the Hurricane Warning for
+the Cuban provinces of Matanzas and La Habana.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -90,7 +92,6 @@ Pass
 * Florida Keys
 * Lake Okeechobee
 * Florida Bay
-* Cuban provinces of Matanzas and La Habana
 
 A Hurricane Watch is in effect for...
 * North of Fernandina Beach to Edisto Beach
@@ -98,8 +99,6 @@ A Hurricane Watch is in effect for...
 A Tropical Storm Warning is in effect for...
 * West of Indian Pass to the Okaloosa/Walton County Line
 * North of Fernandina Beach to South Santee River
-
-A Tropical Storm Watch is in effect for...
 * Bimini and Grand Bahama
 
 A Storm Surge Warning means there is a danger of life-threatening
@@ -116,43 +115,42 @@ instructions from local officials.
 Interests elsewhere in the southeastern United States should monitor
 the progress of Irma.
 
-For storm information specific to your area in the United
-States, including possible inland watches and warnings, please
-monitor products issued by your local National Weather Service
-forecast office. For storm information specific to your area outside
-the United States, please monitor products issued by your national
+For storm information specific to your area in the United States,
+including possible inland watches and warnings, please monitor
+products issued by your local National Weather Service forecast
+office. For storm information specific to your area outside the
+United States, please monitor products issued by your national
 meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM EDT (1500 UTC), the center of Hurricane Irma was located
-near latitude 25.0 North, longitude 81.5 West. Irma is moving toward
-the north near 9 mph (15 km/h, and a north-northwestward motion with
-an increase in forward speed is expected later today, with that
-motion continuing through Monday.  On the forecast track, the eye of
-Irma should move over the Lower Florida Keys shortly, and then move
-near or over the west coast of the Florida Peninsula later today
-through tonight.  Irma should then move inland over northern Florida
-and southwestern Georgia Monday afternoon.
+At 200 PM EDT (1800 UTC), the center of Hurricane Irma was located
+near latitude 25.6 North, longitude 81.8 West.  Irma is moving
+toward the north near 12 mph (19 km/h), and a north-northwestward
+motion with a further increase in forward speed is expected later
+today, with that motion continuing through Monday.  On the forecast
+track, the center of Irma should move near or over the southwest
+and west coast of the Florida Peninsula later today through
+tonight.  Irma should then move inland over northern Florida and
+southwestern Georgia Monday afternoon.
 
-Maximum sustained winds are near 130 mph (215 km/h) with higher
-gusts.  Irma is a category 4 hurricane on the Saffir-Simpson
+Maximum sustained winds are near 120 mph (195 km/h) with higher
+gusts.  Irma is a category 3 hurricane on the Saffir-Simpson
 Hurricane Wind Scale.  While weakening is forecast, Irma is expected
 to remain a powerful hurricane while it moves near or along the west
 coast of Florida.
 
 Hurricane-force winds extend outward up to 80 miles (130 km) from
 the center and tropical-storm-force winds extend outward up to 220
-miles (350 km).  A 120 mph (193 km/h) gust was recently reported at
-the National Key Deer Refuge in Big Pine Key.  A sustained wind of
-62 mph (100 km/h) with a gust of 94 mph (151 km/h) was reported at
-the Federal Aviation Administration station at Miami International
-Airport.  A pressure of 940 mb (27.75 inches) was measured in the
-calm of the eye on Upper Sugarloaf Key.
+miles (350 km).  A 62 mph (100 km/h) sustained wind and 99 mph (158
+km/h) gust was recently reported at the Federal Aviation
+Administration station at Miami International Airport.  An 81 mph
+(130 km/h) wind gust was recently reported at the Miami Weather
+Forecast Office/National Hurricane Center.
 
 The minimum central pressure reported by an Air Force Hurricane
-Hunter aircraft is 933 mb (27.55 inches).
+Hunter aircraft is 936 mb (27.64 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -190,18 +188,14 @@ following amounts within the hurricane warning area near and to the
 north of the center of Irma.  Near the coast, the surge will be
 accompanied by large and destructive waves.
 
-Water levels along the north coast of Cuba will gradually subside
+WIND:  Hurricane conditions are continuing across portions of the
+Florida Keys and southern Florida.  Winds affecting the upper floors
+of high-rise buildings will be significantly stronger than those
+near ground level.  Tropical storm and hurricane conditions are
+expected to spread northward across the remainder of the warning
+areas through Monday.  Tropical storm conditions are expected to
+continue in portions of the warning area in the Northwestern Bahamas
 today.
-
-WIND:  Hurricane conditions are expected to continue within the
-hurricane warning area along the north coast of Cuba through
-this morning.  Hurricane conditions are continuing across portions
-of the Florida Keys and southern Florida.  Winds affecting the upper
-floors of high-rise buildings will be significantly stronger than
-those near ground level.  Tropical storm and hurricane conditions
-are expected to spread northward across the remainder of the warning
-areas through Monday.  Tropical storm conditions are possible in the
-watch area in the Northwestern Bahamas today.
 
 RAINFALL:  Irma is expected to produce the following rain
 accumulations through Wednesday:
@@ -236,12 +230,12 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 PM EDT.
 Next complete advisory at 500 PM EDT.
 
 $$
 Forecaster Pasch
 
 NNNN
+
 </message>
 </cycloneMessage>
