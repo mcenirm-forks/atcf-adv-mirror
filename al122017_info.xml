@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>19A</advisoryNumber>
+<advisoryNumber>20</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170910 02:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170910 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709100600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM AST Sun Sep 10</messageDateTimeLocalStr>
-<timeEpochSeconds>1505023200</timeEpochSeconds>
+<messageDateTimeLocal>20170910 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170910 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709100900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Sun Sep 10</messageDateTimeLocalStr>
+<timeEpochSeconds>1505034000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>20.4</centerLocLatitude>
-<centerLocLongitude>-64</centerLocLongitude>
+<centerLocLatitude>20.8</centerLocLatitude>
+<centerLocLongitude>-64.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>20.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>64.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>20.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>64.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>130</systemIntensityMph>
@@ -39,32 +39,34 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>NW OR 310 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>15</systemSpeedMph>
-<systemSpeedKph>24</systemSpeedKph>
-<systemSpeedKts>13</systemSpeedKts>
+<systemSpeedMph>16</systemSpeedMph>
+<systemSpeedKph>26</systemSpeedKph>
+<systemSpeedKts>14</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 160 MI...260 KM NNW OF THE NORTHERN LEEWARD ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 200 MI...325 KM NNW OF THE NORTHERN LEEWARD ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 430 MI...690 KM E OF GRAND TURK ISLAND</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Intermediate Advisory Number 19A
+Hurricane Jose Advisory Number  20
 NWS National Hurricane Center Miami FL       AL122017
 Issued by the NWS Weather Prediction Center College Park MD
-200 AM AST Sun Sep 10 2017
+500 AM AST Sun Sep 10 2017
 
-...CATEGORY FOUR HURRICANE JOSE PASSING WELL NORTHEAST OF PUERTO
-RICO...
+...HURRICANE JOSE EXPECTED TO LINGER OVER THE WESTERN ATLANTIC
+FOR THE NEXT SEVERAL DAYS...
 
 
-SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...20.4N 64.0W
-ABOUT 160 MI...260 KM NNW OF THE NORTHERN LEEWARD ISLANDS
+LOCATION...20.8N 64.5W
+ABOUT 200 MI...325 KM NNW OF THE NORTHERN LEEWARD ISLANDS
+ABOUT 430 MI...690 KM E OF GRAND TURK ISLAND
 MAXIMUM SUSTAINED WINDS...130 MPH...215 KM/H
-PRESENT MOVEMENT...NW OR 310 DEGREES AT 15 MPH...24 KM/H
+PRESENT MOVEMENT...NW OR 310 DEGREES AT 16 MPH...26 KM/H
 MINIMUM CENTRAL PRESSURE...944 MB...27.88 INCHES
 
 
@@ -81,26 +83,29 @@ A Tropical Storm Warning is in effect for...
 * Sint Maarten
 * St. Barthelemy
 
+These warnings will likely be lowered later this morning.
+
 For storm information specific to your area, please monitor
 products issued by your national meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM AST (0600 UTC), the center of Hurricane Jose was located
-near latitude 20.4 North, longitude 64.0 West. Jose is moving toward
-the northwest near 15 mph (24 km/h) and this motion is expected to
-continue today. A slower forward motion is expected on Monday as
-Jose makes a turn toward the north.
+At 500 AM AST (0900 UTC), the center of Hurricane Jose was located
+near latitude 20.8 North, longitude 64.5 West. Jose is moving toward
+the northwest near 16 mph (26 km/h) and this general motion is
+expected to continue over the next 24 hours. A slower forward
+motion is expected later Monday into Tuesday as Jose begins to make
+a turn toward the north.
 
-Maximum sustained winds remain near 130 mph (215 km/h) with higher
+Maximum sustained winds are near 130 mph (215 km/h) with higher
 gusts. Jose is a category 4 hurricane on the Saffir-Simpson
 Hurricane Wind Scale. Gradual weakening is forecast during the next
-48 hours.
+couple of days.
 
-Hurricane-force winds extend outward up to 40 miles (65 km) from
-the center and tropical-storm-force winds extend outward up to 150
-miles (240 km).
+Hurricane-force winds extend outward up to 40 miles (65 km) from the
+center and tropical-storm-force winds extend outward up to 160 miles
+(260 km).
 
 The estimated minimum central pressure is 944 mb (27.88 inches).
 
@@ -121,12 +126,12 @@ weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next intermediate advisory at 800 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
 Forecaster Birchard/Blake
 
 NNNN
-
 </message>
 </cycloneMessage>
