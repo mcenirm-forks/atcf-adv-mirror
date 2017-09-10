@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>18</advisoryNumber>
+<advisoryNumber>18A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170909 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170909 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709092100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Sat Sep 09</messageDateTimeLocalStr>
-<timeEpochSeconds>1504990800</timeEpochSeconds>
+<messageDateTimeLocal>20170909 08:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170910 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709100000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM AST Sat Sep 09</messageDateTimeLocalStr>
+<timeEpochSeconds>1505001600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>19.2</centerLocLatitude>
-<centerLocLongitude>-62.4</centerLocLongitude>
+<centerLocLatitude>19.4</centerLocLatitude>
+<centerLocLongitude>-62.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>19.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>62.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>19.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>62.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>145</systemIntensityMph>
@@ -43,26 +43,26 @@
 <systemSpeedKph>22</systemSpeedKph>
 <systemSpeedKts>12</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 85 MI...135 KM NNE OF THE NORTHERN LEEWARD ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 85 MI...135 KM N OF THE NORTHERN LEEWARD ISLANDS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Advisory Number  18
+Hurricane Jose Intermediate Advisory Number 18A
 NWS National Hurricane Center Miami FL       AL122017
 Issued by the NWS Weather Prediction Center College Park MD
-500 PM AST Sat Sep 09 2017
+800 PM AST Sat Sep 09 2017
 
-...CORE OF DANGEROUS HURRICANE JOSE WILL MOVE AWAY FROM
-THE NORTHERN LEEWARD ISLANDS TONIGHT...
+...POWERFUL HURRICANE JOSE PULLING AWAY FROM THE NORTHERN LEEWARD
+ISLANDS...
 
 
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...19.2N 62.4W
-ABOUT 85 MI...135 KM NNE OF THE NORTHERN LEEWARD ISLANDS
+LOCATION...19.4N 62.9W
+ABOUT 85 MI...135 KM N OF THE NORTHERN LEEWARD ISLANDS
 MAXIMUM SUSTAINED WINDS...145 MPH...230 KM/H
 PRESENT MOVEMENT...NW OR 310 DEGREES AT 14 MPH...22 KM/H
 MINIMUM CENTRAL PRESSURE...945 MB...27.91 INCHES
@@ -72,8 +72,7 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of Antigua has discontinued the Tropical Storm
-Warning for Barbuda and Anguilla.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -88,33 +87,31 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM AST (2100 UTC), the center of Hurricane Jose was located
-near latitude 19.2 North, longitude 62.4 West. Jose is moving toward
-the northwest near 14 mph (22 km/h) and this motion is expected to
-continue for the next couple of days. On the forecast track, the
-core of Jose will move away from the northern Leeward Islands
-tonight.
+At 800 PM AST (0000 UTC), the eye of Hurricane Jose was located
+by reconnaissance aircraft near latitude 19.4 North, longitude 62.9
+West. Jose is moving toward the northwest near 14 mph (22 km/h) and
+this motion is expected to continue for the next couple of days. On
+the forecast track, the core of Jose will continue to move away from
+the northern Leeward Islands overnight.
 
 Maximum sustained winds are near 145 mph (230 km/h) with higher
-gusts.  Jose is a category 4 hurricane on the Saffir-Simpson
+gusts. Jose is a category 4 hurricane on the Saffir-Simpson
 Hurricane Wind Scale.  Little change in intensity is expected
-overnight, but gradual weakening should begin on Sunday.
+overnight, but gradual weakening should begin on Sunday and
+continue on Monday.
 
-Hurricane-force winds extend outward up to 35 miles (55 km) from the
-center and tropical-storm-force winds extend outward up to 150 miles
-(240 km).
+Hurricane-force winds extend outward up to 35 miles (55 km) from
+the center and tropical-storm-force winds extend outward up to 150
+miles (240 km).
 
-The estimated minimum central pressure is 945 mb (27.91 inches).
+The estimated minimum central pressure, based on aircraft data, is
+945 mb (27.91 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-WIND:  Tropical storm conditions are expected within the tropical
-storm warning areas through this evening.
-
-RAINFALL:  Jose is expected to produce up to an inch of additional
-rainfall on Anguilla through this evening. This rainfall will
-maintain any ongoing flooding.
+WIND:  Tropical storm conditions, primarily in gusts, are expected
+within the tropical storm warning areas through this evening.
 
 STORM SURGE:  Tidal levels will gradually subside over the northern
 Leeward Islands tonight.
@@ -130,12 +127,12 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 PM AST.
 Next complete advisory at 1100 PM AST.
 
 $$
-Forecaster R Ballard
+Forecaster Birchard/Blake
 
 NNNN
+
 </message>
 </cycloneMessage>
