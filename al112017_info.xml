@@ -3,37 +3,37 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL112017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>49</advisoryNumber>
+<advisoryNumber>49A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170911 05:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170911 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709110900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM EDT Mon Sep 11</messageDateTimeLocalStr>
-<timeEpochSeconds>1505120400</timeEpochSeconds>
+<messageDateTimeLocal>20170911 08:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170911 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709111200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM EDT Mon Sep 11</messageDateTimeLocalStr>
+<timeEpochSeconds>1505131200</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>HURRICANE</systemType>
+<systemType>TROPICAL STORM</systemType>
 <systemName>IRMA</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>28.9</centerLocLatitude>
-<centerLocLongitude>-82.6</centerLocLongitude>
+<centerLocLatitude>29.5</centerLocLatitude>
+<centerLocLongitude>-82.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>28.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>82.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>29.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>82.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>75</systemIntensityMph>
-<systemIntensityKph>120</systemIntensityKph>
-<systemIntensityKts>65</systemIntensityKts>
-<systemMslpMb>965</systemMslpMb>
-<systemMslpInHg>28.50</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<systemIntensityMph>70</systemIntensityMph>
+<systemIntensityKph>110</systemIntensityKph>
+<systemIntensityKts>60</systemIntensityKts>
+<systemMslpMb>970</systemMslpMb>
+<systemMslpInHg>28.64</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
@@ -43,69 +43,59 @@
 <systemSpeedKph>30</systemSpeedKph>
 <systemSpeedKts>16</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 35 MI...55 KM ESE OF CEDAR KEY FLORIDA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 60 MI...100 KM N OF TAMPA FLORIDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 30 MI...50 KM NNE OF CEDAR KEY FLORIDA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 105 MI...170 KM NNW OF TAMPA FLORIDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Irma Advisory Number  49
+Tropical Storm Irma Intermediate Advisory Number 49A
 NWS National Hurricane Center Miami FL       AL112017
-500 AM EDT Mon Sep 11 2017
+800 AM EDT Mon Sep 11 2017
 
-...IRMA CONTINUES TO WEAKEN AS THE CENTER MOVES ALONG THE
-NORTHWESTERN COAST OF THE FLORIDA PENINSULA...
+...IRMA WEAKENS TO A TROPICAL STORM BUT STILL PRODUCING SOME WIND
+GUSTS TO NEAR HURRICANE FORCE...
 
 
-SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...28.9N 82.6W
-ABOUT 35 MI...55 KM ESE OF CEDAR KEY FLORIDA
-ABOUT 60 MI...100 KM N OF TAMPA FLORIDA
-MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
+LOCATION...29.5N 82.9W
+ABOUT 30 MI...50 KM NNE OF CEDAR KEY FLORIDA
+ABOUT 105 MI...170 KM NNW OF TAMPA FLORIDA
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
 PRESENT MOVEMENT...NNW OR 340 DEGREES AT 18 MPH...30 KM/H
-MINIMUM CENTRAL PRESSURE...965 MB...28.50 INCHES
+MINIMUM CENTRAL PRESSURE...970 MB...28.64 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Hurricane Warning is changed to a Tropical Storm Warning along
-the Florida west coast south of Anclote River to Bonita Beach, along
-the Florida east coast south of Sebastian Inlet to Jupiter Inlet,
-and for Lake Okeechobee.
+The Storm Surge Warning is discontinued from south of the
+Flagler/Volusia County line to Jupiter Inlet.
 
-The Tropical Storm Warnings are discontinued for the Florida Keys,
-Florida Bay, the Florida east coast south of Jupiter Inlet,
-the Florida west coast south of Bonita Beach, and for the
-Northwestern Bahamas.
+The Hurricane Warning from Sebastian Inlet to Fernandina Beach is
+changed to a Tropical Storm Warning.
 
-The Storm Surge Warning is discontinued for the Florida Keys and
-the Florida coast from North Miami Beach southward around the
-Florida peninsula to Cape Sable.
+The Hurricane Warning from Anclote River to Indian Pass is changed
+to a Tropical Storm Warning.
+
+The Hurricane Watch from north of Fernandina Beach to Edisto Beach
+is discontinued.
+
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Storm Surge Warning is in effect for...
-* South Santee River southward to Jupiter Inlet
+* South Santee River southward to the Flagler/Volusia County line
 * Cape Sable northward to the Ochlockonee River
 * Tampa Bay
 
-A Hurricane Warning is in effect for...
-* Sebastian Inlet to Fernandina Beach
-* Anclote River to Indian Pass
-
-A Hurricane Watch is in effect for...
-* North of Fernandina Beach to Edisto Beach
-
 A Tropical Storm Warning is in effect for...
-* West of Indian Pass to the Okaloosa/Walton County Line
-* North of Fernandina Beach to South Santee River
-* South of Anclote River to Bonita Beach
-* South of Sebastian Inlet to Jupiter Inlet
+* Bonita Beach to the Okaloosa/Walton County Line
+* Jupiter Inlet to the South Santee River
 * Lake Okeechobee
 
 A Storm Surge Warning means there is a danger of life-threatening
@@ -125,35 +115,29 @@ the progress of Irma.
 For storm information specific to your area in the United
 States, including possible inland watches and warnings, please
 monitor products issued by your local National Weather Service
-forecast office. For storm information specific to your area outside
-the United States, please monitor products issued by your national
-meteorological service.
+forecast office.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM EDT (0900 UTC), the center of Hurricane Irma was located
-near latitude 28.9 North, longitude 82.6 West. Irma is moving toward
-the north-northwest near 18 mph (30 km/h) and this motion is
-expected to continue through Tuesday.  On the forecast track, the
-center of Irma will move near the northwestern coast of the Florida
-Peninsula this morning, cross the eastern Florida Panhandle into
-southern Georgia this afternoon, and move through southwestern
-Georgia and eastern Alabama tonight and Tuesday.
+At 800 AM EDT (1200 UTC), the center of Tropical Storm Irma was
+located near latitude 29.5 North, longitude 82.9 West. Irma is
+moving toward the north-northwest near 18 mph (30 km/h) and this
+motion is expected to continue through Tuesday.  On the forecast
+track, the center of Irma will move near the northwestern coast of
+the Florida Peninsula this morning, cross the eastern Florida
+Panhandle into southern Georgia this afternoon, and move through
+southwestern Georgia and eastern Alabama tonight and Tuesday.
 
-Maximum sustained winds have decreased to near 75 mph (120 km/h)
-with higher gusts.  Additional weakening is forecast, and Irma is
-expected to weaken to a tropical storm this morning and to a
-tropical depression by Tuesday afternoon.
+Maximum sustained winds have decreased to near 70 mph (110 km/h)
+with higher gusts.  Additional slow weakening is forecast, and Irma
+is expected to weaken to a tropical depression by Tuesday afternoon.
 
 Irma has a very large wind field.  Hurricane-force winds extend
 outward up to 60 miles (95 km) mainly to the west of the center, and
 tropical-storm-force winds extend outward up to 415 miles (665 km).
-The Mayport Naval Station near Jacksonville, Florida, recently
-reported sustained winds of 68 mph (109 km/h) and a wind gust of 87
-mph (141 km/h).
 
-The estimated minimum central pressure is 965 mb (28.50 inches).
+The estimated minimum central pressure is 970 mb (28.64 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -181,13 +165,12 @@ short distances.  For information specific to your area, please see
 products issued by your local National Weather Service forecast
 office.
 
-WIND:  Hurricane conditions should continue over portions of the
-northern Florida peninsula for the next several hours.  Tropical
-storm conditions will continue across other portions of the central
-and northern Florida peninsula, and spread into the eastern Florida
-Panhandle and southern Georgia this morning.  Tropical storm and
-hurricane conditions are expected to spread northward across the
-remainder of the warning areas through today.
+WIND: Tropical storm conditions will continue across portions of the
+central and northern Florida peninsula, and are spreading into
+southern Georgia.  Tropical storm conditions should spread into the
+eastern Florida Panhandle today.  Tropical storm conditions are also
+expected to spread northward across the remainder of the warning
+areas through today.
 
 Rainfall:  Irma is expected to produce the following rain
 accumulations through Wednesday:
@@ -218,11 +201,10 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 AM EDT.
 Next complete advisory at 1100 AM EDT.
 
 $$
-Forecaster Beven
+Forecaster Pasch
 
 NNNN
 </message>
