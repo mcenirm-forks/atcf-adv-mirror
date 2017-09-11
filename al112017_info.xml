@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL112017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>50A</advisoryNumber>
+<advisoryNumber>51</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170911 02:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170911 06:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709111800</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 PM EDT Mon Sep 11</messageDateTimeLocalStr>
-<timeEpochSeconds>1505152800</timeEpochSeconds>
+<messageDateTimeLocal>20170911 05:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170911 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709112100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM EDT Mon Sep 11</messageDateTimeLocalStr>
+<timeEpochSeconds>1505163600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>IRMA</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>30.8</centerLocLatitude>
-<centerLocLongitude>-83.6</centerLocLongitude>
+<centerLocLatitude>31.5</centerLocLatitude>
+<centerLocLongitude>-84</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>30.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>83.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>31.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>84.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>60</systemIntensityMph>
-<systemIntensityKph>95</systemIntensityKph>
-<systemIntensityKts>50</systemIntensityKts>
-<systemMslpMb>980</systemMslpMb>
-<systemMslpInHg>28.94</systemMslpInHg>
+<systemIntensityMph>50</systemIntensityMph>
+<systemIntensityKph>85</systemIntensityKph>
+<systemIntensityKts>45</systemIntensityKts>
+<systemMslpMb>985</systemMslpMb>
+<systemMslpInHg>29.09</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,56 +43,54 @@
 <systemSpeedKph>28</systemSpeedKph>
 <systemSpeedKts>15</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 50 MI...80 KM SSE OF ALBANY GEORGIA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 55 MI...85 KM E OF TALLAHASSEE FLORIDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 10 MI...15 KM E OF ALBANY GEORGIA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 150 MI...240 KM S OF ATLANTA GEORGIA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Irma Intermediate Advisory Number 50A
+Tropical Storm Irma Advisory Number  51
 NWS National Hurricane Center Miami FL       AL112017
-200 PM EDT Mon Sep 11 2017
+500 PM EDT Mon Sep 11 2017
 
-...IRMA CONTINUES TO SLOWLY WEAKEN WHILE MOVING INTO SOUTHERN
+...IRMA CONTINUES TO SLOWLY WEAKEN WHILE MOVING OVER SOUTHWESTERN
 GEORGIA...
 
 
-SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...30.8N 83.6W
-ABOUT 50 MI...80 KM SSE OF ALBANY GEORGIA
-ABOUT 55 MI...85 KM E OF TALLAHASSEE FLORIDA
-MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+LOCATION...31.5N 84.0W
+ABOUT 10 MI...15 KM E OF ALBANY GEORGIA
+ABOUT 150 MI...240 KM S OF ATLANTA GEORGIA
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
 PRESENT MOVEMENT...NNW OR 340 DEGREES AT 17 MPH...28 KM/H
-MINIMUM CENTRAL PRESSURE...980 MB...28.94 INCHES
+MINIMUM CENTRAL PRESSURE...985 MB...29.09 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Storm Surge Warning has been discontinued from Anna Maria
-Island southward.
+The Storm Surge Warnings from Fernandina Beach southward, from
+the Aucilla River westward, and from Clearwater Beach southward,
+including Tampa Bay, have been discontinued.
 
-The Tropical Storm Warning has been discontinued from the
-Flagler/Volusia County line southward.
+The Tropical Storm Warning from the Flagler/Volusia County line to
+Altamaha Sound is discontinued.
 
-The Tropical Storm Warning has been discontinued from the Suwannee
-River southward.
+The Tropical Storm Warning from north of the Suwannee River to the
+Okaloosa/Walton County line is discontinued.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Storm Surge Warning is in effect for...
-* South Santee River southward to the Flagler/Volusia County line
-* North of Anna Maria Island to the Ochlockonee River
-* Tampa Bay
+* North of Fernandina Beach to the South Santee River
+* North of Clearwater Beach to the Aucilla River
 
 A Tropical Storm Warning is in effect for...
-* North of the Suwannee River to the Okaloosa/Walton County
-Line
-* North of the Flagler/Volusia County line to the South Santee River
+* North of Altamaha Sound to the South Santee River
 
 A Storm Surge Warning means there is a danger of life-threatening
 inundation, from rising water moving inland from the coastline,
@@ -108,29 +106,28 @@ instructions from local officials.
 Interests elsewhere in the southeastern United States should monitor
 the progress of Irma.
 
-For storm information specific to your area in the United
-States, including possible inland watches and warnings, please
-monitor products issued by your local National Weather Service
-forecast office.
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 PM EDT (1800 UTC), the center of Tropical Storm Irma was
-located near latitude 30.8 North, longitude 83.6 West.  Irma is
-moving toward the north-northwest near 17 mph (28 km/h), and this
-motion is expected to continue through Tuesday.  On the forecast
-track, the center of Irma will continue to move over southwestern
-Georgia today, and move into eastern Alabama Tuesday morning.
+At 500 PM EDT (2100 UTC), the center of Tropical Storm Irma was
+located near latitude 31.5 North, longitude 84.0 West.  Irma is
+moving toward the north-northwest near 17 mph (28 km/h), and a
+turn toward the northwest is expected by Tuesday morning.  On the
+forecast track, the center of Irma will continue to move over
+southwestern Georgia tonight and move into Alabama on Tuesday.
 
-Maximum sustained winds have decreased to near 60 mph (95 km/h)
-with higher gusts.  Continued slow weakening is forecast, and Irma
-is likely to become a tropical depression on Tuesday.
+Maximum sustained winds have decreased to near 50 mph (85 km/h) with
+higher gusts.  Continued weakening is forecast, and Irma is likely
+to become a tropical depression on Tuesday.
 
-Irma remains a large tropical cyclone.  Tropical-storm-force winds
-extend outward up to 415 miles (665 km) from the center.
+Tropical-storm-force winds extend outward up to 415 miles (665 km)
+from the center.
 
-The estimated minimum central pressure is 980 mb (28.94 inches).
+The estimated minimum central pressure is 985 mb (29.09 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -141,13 +138,13 @@ rising waters moving inland from the shoreline.  The water is
 expected to reach the following HEIGHTS ABOVE GROUND if the peak
 surge occurs at the time of high tide...
 
-Clearwater Beach to Ochlockonee River...4 t 6 ft
-Tampa Bay...2 to 4 ft
-Anna Maria Island southward to Bonita Beach...1 to 3 ft
+North of Clearwater Beach to Aucilla River...4 t 6 ft
+West of Aucilla River to Ochlockonee River...1 to 3 ft
+Clearwater Beach to Bonita Beach including Tampa Bay...1 to 3 ft
 
-South Santee River to Fernandina Beach...4 to 6 ft
-Fernandina Beach to Flagler/Volusia County line, including the
-St. Johns River...3 to 5 ft
+South Santee River to North of Fernandina Beach...4 to 6 ft
+Fernandina Beach to Flagler/Volusia County line, including the St.
+Johns River...1 to 3 ft
 
 The deepest water will occur along the immediate coast in areas of
 onshore winds, where the surge will be accompanied by large and
@@ -157,33 +154,19 @@ short distances.  For information specific to your area, please see
 products issued by your local National Weather Service forecast
 office.
 
-WIND:  Tropical storm conditions will continue across portions of
-the central and northern Florida peninsula and southern Georgia.
-Tropical storm conditions are spreading into the eastern Florida
-Panhandle and eastern Alabama.  Tropical storm conditions are also
-expected to spread northward across the remainder of the warning
-area through today.
+WIND:  Tropical storm conditions are expected in portions of the
+warning area into tonight.
 
 Rainfall:  Irma is expected to produce the following rain
 accumulations through Wednesday:
 
-Northern Florida peninsula and southern Georgia: additional 3 to 6
-inches with storm total amounts of 8 to 15 inches.
+South Carolina and north-central Georgia and Alabama into the
+southern Appalachians...3 to 6 inches with isolated 10 inches.
+Northern Mississippi and southern portions of Tennessee and North
+Carolina...2 to 4 inches.
 
-Central Georgia, eastern Alabama and southern South Carolina: 3 to
-inches, isolated 10 inches.
-
-Central Florida Panhandle, western Alabama, northern Mississippi,
-southern Tennessee, northern Georgia, northern South Carolina and
-western North Carolina: 2 to 4 inches.
-
-The precipitation threat for most of the Florida peninsula, except
-for the northernmost portions, has diminished.  Scattered showers
-are expected to produce additional rainfall amounts of less than an
-inch across most of the Florida peninsula during Monday.
-
-TORNADOES:  A few tornadoes are possible today and tonight near the
-Georgia and South Carolina coasts.
+TORNADOES: Isolated tornadoes are possible tonight along the South
+Carolina coast.
 
 SURF:  Swells generated by Irma are affecting the southeast coast of
 the United States.  These swells are likely to cause life-
@@ -193,12 +176,12 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM EDT.
+Next intermediate advisory at 800 PM EDT.
+Next complete advisory at 1100 PM EDT.
 
 $$
 Forecaster Pasch
 
 NNNN
-
 </message>
 </cycloneMessage>
