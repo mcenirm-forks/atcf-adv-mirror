@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "4",
+  "advisoryNumber": "5",
   "atcfID": "EP152017",
   "centerLocLatitude": "15.6",
   "centerLocLatitudeExpanded": "15.6N",
-  "centerLocLongitude": "-116.2",
-  "centerLocLongitudeExpanded": "116.2W",
+  "centerLocLongitude": "-117.5",
+  "centerLocLongitudeExpanded": "117.5W",
   "event_title": "TROPICAL DEPRESSION FIFTEEN-E",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -116.2,
+      -117.5,
       15.6
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPEP5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Fifteen-E Advisory Number   4\nNWS National Hurricane Center Miami FL       EP152017\n800 AM PDT Tue Sep 12 2017\n\n...DEPRESSION CONTINUES MOVING WESTWARD OVER THE OPEN EASTERN\nPACIFIC...\n\n\nSUMMARY OF 800 AM PDT...1500 UTC...INFORMATION\n----------------------------------------------\nLOCATION...15.6N 116.2W\nABOUT 650 MI...1045 KM SW OF CABO SAN LUCAS MEXICO\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...W OR 260 DEGREES AT 15 MPH...24 KM/H\nMINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 800 AM PDT (1500 UTC), the center of Tropical Depression\nFifteen-E was located near latitude 15.6 North, longitude 116.2\nWest.  The depression is moving toward the west near 15 mph (24\nkm/h), and the system should continue moving in this general\ndirection at a slower rate of forward speed during the next two\ndays.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nSome slight strengthening is expected, and the system may become a\ntropical storm by Wednesday.\n\nThe estimated minimum central pressure is 1004 mb (29.65 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 200 PM PDT.\n\n$$\nForecaster Landsea\n\nNNNN",
+  "message": "ZCZC MIATCPEP5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Fifteen-E Advisory Number   5\nNWS National Hurricane Center Miami FL       EP152017\n200 PM PDT Tue Sep 12 2017\n\n...DEPRESSION NOT INTENSIFYING OVER THE OPEN EASTERN PACIFIC...\n\n\nSUMMARY OF 200 PM PDT...2100 UTC...INFORMATION\n----------------------------------------------\nLOCATION...15.6N 117.5W\nABOUT 705 MI...1135 KM SW OF CABO SAN LUCAS MEXICO\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...W OR 265 DEGREES AT 14 MPH...22 KM/H\nMINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 200 PM PDT (2100 UTC), the center of Tropical Depression\nFifteen-E was located near latitude 15.6 North, longitude\n117.5 West. The depression is moving toward the west near 14 mph\n(22 km/h), and the system should continue moving in this general\ndirection at a slower rate of forward speed during the next two\ndays.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nSome slight strengthening is expected, and the system may become a\ntropical storm by Wednesday.\n\nThe estimated minimum central pressure is 1004 mb (29.65 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 800 PM PDT.\n\n$$\nForecaster Landsea\n\nNNNN",
   "messageBinNumber": "5",
-  "messageDateTimeLocal": "20170912 08:00:00 AM PDT",
-  "messageDateTimeLocalStr": "0800 AM PDT Tue Sep 12",
-  "messageDateTimeUTC": "20170912 03:00:00 PM UTC",
-  "messageDateTimeUTC24": "201709121500",
+  "messageDateTimeLocal": "20170912 02:00:00 PM PDT",
+  "messageDateTimeLocalStr": "0200 PM PDT Tue Sep 12",
+  "messageDateTimeUTC": "20170912 09:00:00 PM UTC",
+  "messageDateTimeUTC24": "201709122100",
   "messageType": "ROUTINE ADVISORY",
-  "systemDirectionOfMotion": "W OR 260 DEGREES",
-  "systemGeoRefPt1": "ABOUT 650 MI...1045 KM SW OF CABO SAN LUCAS MEXICO",
+  "systemDirectionOfMotion": "W OR 265 DEGREES",
+  "systemGeoRefPt1": "ABOUT 705 MI...1135 KM SW OF CABO SAN LUCAS MEXICO",
   "systemIntensityKph": "55",
   "systemIntensityKts": "30",
   "systemIntensityMph": "35",
@@ -66,10 +66,10 @@
   "systemMslpMb": "1004",
   "systemName": "FIFTEEN-E",
   "systemSaffirSimpsonCategory": "N/A",
-  "systemSpeedKph": "24",
-  "systemSpeedKts": "13",
-  "systemSpeedMph": "15",
+  "systemSpeedKph": "22",
+  "systemSpeedKts": "12",
+  "systemSpeedMph": "14",
   "systemType": "TROPICAL DEPRESSION",
-  "time": "2017-09-12 15:00:00",
-  "timeEpochSeconds": "1505228400"
+  "time": "2017-09-12 21:00:00",
+  "timeEpochSeconds": "1505250000"
 }
