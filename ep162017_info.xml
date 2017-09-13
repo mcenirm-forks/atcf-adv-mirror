@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP162017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>1</advisoryNumber>
+<advisoryNumber>1A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170913 10:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170913 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709131500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 AM CDT Wed Sep 13</messageDateTimeLocalStr>
-<timeEpochSeconds>1505314800</timeEpochSeconds>
+<messageDateTimeLocal>20170913 01:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170913 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709131800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0100 PM CDT Wed Sep 13</messageDateTimeLocalStr>
+<timeEpochSeconds>1505325600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>SIXTEEN-E</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.2</centerLocLatitude>
-<centerLocLongitude>-101.7</centerLocLongitude>
+<centerLocLatitude>16.1</centerLocLatitude>
+<centerLocLongitude>-101.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>101.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>16.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>101.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -43,7 +43,7 @@
 <systemSpeedKph>7</systemSpeedKph>
 <systemSpeedKts>4</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 130 MI...205 KM WSW OF ACAPULCO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 120 MI...195 KM WSW OF ACAPULCO MEXICO</systemGeoRefPt1>
 <systemGeoRefPt2>ABOUT 105 MI...165 KM S OF ZIHUATANEJO MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
@@ -51,17 +51,18 @@ ZCZC MIATCPEP1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Sixteen-E Advisory Number   1
+Tropical Depression Sixteen-E Intermediate Advisory Number 1A
 NWS National Hurricane Center Miami FL       EP162017
-1000 AM CDT Wed Sep 13 2017
+100 PM CDT Wed Sep 13 2017
 
-...TROPICAL DEPRESSION FORMS NEAR THE COAST OF MEXICO...
-...VERY HEAVY RAINS ARE ANTICIPATED...
+...TROPICAL DEPRESSION BECOMING BETTER ORGANIZED...
+...VERY HEAVY RAINS ALREADY ON THE COAST OF MEXICO...
 
-SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...16.2N 101.7W
-ABOUT 130 MI...205 KM WSW OF ACAPULCO MEXICO
+
+SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.1N 101.6W
+ABOUT 120 MI...195 KM WSW OF ACAPULCO MEXICO
 ABOUT 105 MI...165 KM S OF ZIHUATANEJO MEXICO
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
 PRESENT MOVEMENT...NNE OR 25 DEGREES AT 5 MPH...7 KM/H
@@ -72,8 +73,7 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of Mexico has issued a Tropical Storm Watch for
-the southwest coast of Mexico from Zihuatanejo to Punta Maldonado.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -90,17 +90,17 @@ issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 AM CDT (1500 UTC), the center of newly formed Tropical
-Depression Sixteen-E was located near latitude 16.2 North, longitude
-101.7 West.  The depression is moving toward the north-northeast
-near 5 mph (7 km/h), and this motion with a turn to the northeast is
-expected during the next day or two.
+At 100 PM CDT (1800 UTC), the center of Tropical Depression
+Sixteen-E was located near latitude 16.1 North, longitude
+101.6 West.  The depression has been moving little for the past
+couple of hours, but is expected to resume a north-northeast
+track near 5 mph (7 km/h) later today.  This motion will bring
+the center of the depression near the coast of Mexico tonight
+and then inland on Thursday.
 
-Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-No significant change in strength is anticipated before the
-depression moves inland.  Observations from the Mexican Navy
-indicate that strong gusty winds are already occurring along the
-coast within the tropical storm watch area.
+Maximum sustained winds are near 35 mph (55 km/h) with higher
+gusts.  No significant change in strength is anticipated before the
+depression moves inland.
 
 The estimated minimum central pressure is 1006 mb (29.71 inches).
 
@@ -119,12 +119,12 @@ area later today.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 100 PM CDT.
 Next complete advisory at 400 PM CDT.
 
 $$
 Forecaster Avila
 
 NNNN
+
 </message>
 </cycloneMessage>
