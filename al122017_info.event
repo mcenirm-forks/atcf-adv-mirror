@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "31",
+  "advisoryNumber": "32",
   "atcfID": "AL122017",
-  "centerLocLatitude": "26.5",
-  "centerLocLatitudeExpanded": "26.5N",
-  "centerLocLongitude": "-66.4",
-  "centerLocLongitudeExpanded": "66.4W",
+  "centerLocLatitude": "26.1",
+  "centerLocLatitudeExpanded": "26.1N",
+  "centerLocLongitude": "-66",
+  "centerLocLongitudeExpanded": "66.0W",
   "event_title": "HURRICANE JOSE",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -46,21 +46,21 @@
   ],
   "location": {
     "coordinates": [
-      -66.4,
-      26.5
+      -66.0,
+      26.1
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Jose Advisory Number  31\nNWS National Hurricane Center Miami FL       AL122017\n1100 PM AST Tue Sep 12 2017\n\n...JOSE LOOPING OVER THE SOUTHWEST ATLANTIC BETWEEN THE BAHAMAS AND\nBERMUDA...\n\n\nSUMMARY OF 1100 PM AST...0300 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...26.5N 66.4W\nABOUT 495 MI...800 KM NE OF THE SOUTHEASTERN BAHAMAS\nABOUT 410 MI...665 KM SSW OF BERMUDA\nMAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H\nPRESENT MOVEMENT...SE OR 125 DEGREES AT 9 MPH...15 KM/H\nMINIMUM CENTRAL PRESSURE...985 MB...29.09 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 PM AST (0300 UTC), the center of Hurricane Jose was located\nnear latitude 26.5 North, longitude 66.4 West.  Jose is moving\ntoward the southeast near 9 mph (15 km/h), but it is expected to\nmake a slow clockwise loop during the next 48 hours, moving\nwest-northwestward by late Thursday.\n\nMaximum sustained winds are near 75 mph (120 km/h) with higher\ngusts.  Little change in strength is forecast during the next 48\nhours.\n\nHurricane-force winds extend outward up to 25 miles (35 km) from the\ncenter, and tropical-storm-force winds extend outward up to 140\nmiles (220 km).\n\nThe estimated minimum central pressure is 985 mb (29.09 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 AM AST.\n\n$$\nForecaster Berg\n\nNNNN",
+  "message": "ZCZC MIATCPAT2 ALL\nTTAA00 KNHC DDHHMM CCA\n\nBULLETIN\nHurricane Jose Advisory Number  32...Corrected\nNWS National Hurricane Center Miami FL       AL122017\n500 AM AST Wed Sep 13 2017\n\nCORRECTED MOTION PARAGRAPH\n\n...JOSE MOVING SOUTHEASTWARD OVER THE SOUTHWEST ATLANTIC BETWEEN THE\nBAHAMAS AND BERMUDA...\n\n\nSUMMARY OF 500 AM AST...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...26.1N 66.0W\nABOUT 505 MI...810 KM ENE OF THE SOUTHEASTERN BAHAMAS\nABOUT 435 MI...700 KM S OF BERMUDA\nMAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H\nPRESENT MOVEMENT...SE OR 135 DEGREES AT 8 MPH...13 KM/H\nMINIMUM CENTRAL PRESSURE...985 MB...29.09 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 AM AST (0900 UTC), the center of Hurricane Jose was located\nnear latitude 26.1 North, longitude 66.0 West. Jose is moving toward\nthe southeast near 8 mph (13 km/h), but it is expected to make a\nslow clockwise loop during the next 36 to 48 hours, moving west-\nnorthwestward by late Thursday.\n\nMaximum sustained winds are near 75 mph (120 km/h) with higher\ngusts.  Little change in strength is forecast during the next\n48 hours.\n\nHurricane-force winds extend outward up to 25 miles (35 km) from the\ncenter and tropical-storm-force winds extend outward up to 140 miles\n(220 km).\n\nThe estimated minimum central pressure is 985 mb (29.09 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 AM AST.\n\n$$\nForecaster Beven\n\nNNNN",
   "messageBinNumber": "2",
-  "messageDateTimeLocal": "20170912 11:00:00 PM AST",
-  "messageDateTimeLocalStr": "1100 PM AST Tue Sep 12",
-  "messageDateTimeUTC": "20170913 03:00:00 AM UTC",
-  "messageDateTimeUTC24": "201709130300",
+  "messageDateTimeLocal": "20170913 05:00:00 AM AST",
+  "messageDateTimeLocalStr": "0500 AM AST Wed Sep 13",
+  "messageDateTimeUTC": "20170913 09:00:00 AM UTC",
+  "messageDateTimeUTC24": "201709130900",
   "messageType": "ROUTINE ADVISORY",
-  "systemDirectionOfMotion": "SE OR 125 DEGREES",
-  "systemGeoRefPt1": "ABOUT 495 MI...800 KM NE OF THE SOUTHEASTERN BAHAMAS",
-  "systemGeoRefPt2": "ABOUT 410 MI...665 KM SSW OF BERMUDA",
+  "systemDirectionOfMotion": "SE OR 135 DEGREES",
+  "systemGeoRefPt1": "ABOUT 505 MI...810 KM ENE OF THE SOUTHEASTERN BAHAMAS",
+  "systemGeoRefPt2": "ABOUT 435 MI...700 KM S OF BERMUDA",
   "systemIntensityKph": "120",
   "systemIntensityKts": "65",
   "systemIntensityMph": "75",
@@ -68,10 +68,10 @@
   "systemMslpMb": "985",
   "systemName": "JOSE",
   "systemSaffirSimpsonCategory": "CATEGORY 1",
-  "systemSpeedKph": "15",
-  "systemSpeedKts": "8",
-  "systemSpeedMph": "9",
+  "systemSpeedKph": "13",
+  "systemSpeedKts": "7",
+  "systemSpeedMph": "8",
   "systemType": "HURRICANE",
-  "time": "2017-09-13 03:00:00",
-  "timeEpochSeconds": "1505271600"
+  "time": "2017-09-13 09:00:00",
+  "timeEpochSeconds": "1505293200"
 }
