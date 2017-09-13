@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>8</advisoryNumber>
+<advisoryNumber>9</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170913 08:00:00 AM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170913 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709131500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 AM PDT Wed Sep 13</messageDateTimeLocalStr>
-<timeEpochSeconds>1505314800</timeEpochSeconds>
+<messageDateTimeLocal>20170913 02:00:00 PM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170913 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709132100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM PDT Wed Sep 13</messageDateTimeLocalStr>
+<timeEpochSeconds>1505336400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>FIFTEEN-E</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>14.9</centerLocLatitude>
-<centerLocLongitude>-120.6</centerLocLongitude>
+<centerLocLatitude>15.1</centerLocLatitude>
+<centerLocLongitude>-121.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>14.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>120.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>15.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>121.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -38,31 +38,32 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>9</systemSpeedMph>
-<systemSpeedKph>15</systemSpeedKph>
-<systemSpeedKts>8</systemSpeedKts>
+<systemDirectionOfMotion>W OR 275 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>7</systemSpeedMph>
+<systemSpeedKph>11</systemSpeedKph>
+<systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 890 MI...1435 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 920 MI...1475 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Fifteen-E Advisory Number   8
+Tropical Depression Fifteen-E Advisory Number   9
 NWS National Hurricane Center Miami FL       EP152017
-800 AM PDT Wed Sep 13 2017
+200 PM PDT Wed Sep 13 2017
 
-...TROPICAL DEPRESSION MOVING SLOWLY WESTWARD...
+...TROPICAL DEPRESSION MOVING SLOWLY WESTWARD WITH NO CHANGE IN
+STRENGTH...
 
 
-SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
+SUMMARY OF 200 PM PDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...14.9N 120.6W
-ABOUT 890 MI...1435 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+LOCATION...15.1N 121.3W
+ABOUT 920 MI...1475 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...W OR 270 DEGREES AT 9 MPH...15 KM/H
+PRESENT MOVEMENT...W OR 275 DEGREES AT 7 MPH...11 KM/H
 MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
@@ -73,15 +74,15 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 AM PDT (1500 UTC), the center of Tropical Depression
-Fifteen-E was located near latitude 14.9 North, longitude 120.6
-West. The depression is moving toward the west near 9 mph (15 km/h),
+At 200 PM PDT (2100 UTC), the center of Tropical Depression
+Fifteen-E was located near latitude 15.1 North, longitude 121.3
+West. The depression is moving toward the west near 7 mph (11 km/h),
 and this general motion is expected to continue during the next
 couple of days.
 
 Maximum sustained winds remain near 35 mph (55 km/h) with higher
-gusts.  No significant change in strength is expected today, but the
-depression could become a tropical storm in day or two.
+gusts. No significant change in strength is expected today, but the
+depression could become a tropical storm in a day or two.
 
 The estimated minimum central pressure is 1005 mb (29.68 inches).
 
@@ -93,7 +94,7 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 200 PM PDT.
+Next complete advisory at 800 PM PDT.
 
 $$
 Forecaster Avila
