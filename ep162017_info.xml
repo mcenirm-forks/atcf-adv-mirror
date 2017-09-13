@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP162017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>2</advisoryNumber>
+<advisoryNumber>2A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170913 04:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170913 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709132100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0400 PM CDT Wed Sep 13</messageDateTimeLocalStr>
-<timeEpochSeconds>1505336400</timeEpochSeconds>
+<messageDateTimeLocal>20170913 07:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170914 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709140000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0700 PM CDT Wed Sep 13</messageDateTimeLocalStr>
+<timeEpochSeconds>1505347200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>MAX</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.1</centerLocLatitude>
-<centerLocLongitude>-101.4</centerLocLongitude>
+<centerLocLatitude>16.2</centerLocLatitude>
+<centerLocLongitude>-101.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>101.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>16.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>101.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>40</systemIntensityMph>
-<systemIntensityKph>65</systemIntensityKph>
-<systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1005</systemMslpMb>
-<systemMslpInHg>29.68</systemMslpInHg>
+<systemIntensityMph>45</systemIntensityMph>
+<systemIntensityKph>75</systemIntensityKph>
+<systemIntensityKts>40</systemIntensityKts>
+<systemMslpMb>1004</systemMslpMb>
+<systemMslpInHg>29.65</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,36 +43,35 @@
 <systemSpeedKph>6</systemSpeedKph>
 <systemSpeedKts>3</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 115 MI...185 KM WSW OF ACAPULCO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 105 MI...170 KM WSW OF ACAPULCO MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Max Advisory Number   2
+Tropical Storm Max Intermediate Advisory Number 2A
 NWS National Hurricane Center Miami FL       EP162017
-400 PM CDT Wed Sep 13 2017
+700 PM CDT Wed Sep 13 2017
 
-...TROPICAL STORM MAX FORMS NEAR THE SOUTHWEST COAST OF MEXICO...
-...MAX WILL BRING TORRENTIAL RAINS TO GUERRERO AND OAXACA...
+...MAX EXPECTED TO BRING DANGEROUS FLOODING RAINS TO PARTS OF
+SOUTHWESTERN MEXICO...
 
 
-SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...16.1N 101.4W
-ABOUT 115 MI...185 KM WSW OF ACAPULCO MEXICO
-MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+LOCATION...16.2N 101.3W
+ABOUT 105 MI...170 KM WSW OF ACAPULCO MEXICO
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
 PRESENT MOVEMENT...ENE OR 70 DEGREES AT 3 MPH...6 KM/H
-MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of Mexico has replaced the Tropical Storm Watch with
-Tropical Storm Warning from Zihuatanejo to Punta Maldonado.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -89,20 +88,20 @@ issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 400 PM CDT (2100 UTC), the center of Tropical Storm Max was
-located near latitude 16.1 North, longitude 101.4 West. Max is
-moving toward the east-northeast near 3 mph (6 km/h). This motion
+At 700 PM CDT (0000 UTC), the center of Tropical Storm Max was
+located near latitude 16.2 North, longitude 101.3 West.  Max is
+moving toward the east-northeast near 3 mph (6 km/h).  This motion
 will bring the center of Max inland over Mexico within the warning
 area on Thursday.
 
-Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
-No significant change in strength is anticipated before Max moves
-inland.
+Maximum sustained winds are near 45 mph (75 km/h) with higher
+gusts.  No significant change in strength is anticipated before Max
+moves inland.
 
 Tropical-storm-force winds extend outward up to 35 miles (55 km)
 from the center.
 
-The estimated minimum central pressure is 1005 mb (29.68 inches).
+The estimated minimum central pressure is 1004 mb (29.65 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -119,12 +118,12 @@ the warning area.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 700 PM CDT.
 Next complete advisory at 1000 PM CDT.
 
 $$
-Forecaster Avila
+Forecaster Brennan
 
 NNNN
+
 </message>
 </cycloneMessage>
