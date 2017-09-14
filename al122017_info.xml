@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>34</advisoryNumber>
+<advisoryNumber>35</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170913 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170913 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709132100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Wed Sep 13</messageDateTimeLocalStr>
-<timeEpochSeconds>1505336400</timeEpochSeconds>
+<messageDateTimeLocal>20170913 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170914 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709140300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Wed Sep 13</messageDateTimeLocalStr>
+<timeEpochSeconds>1505358000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -19,53 +19,53 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>25.3</centerLocLatitude>
-<centerLocLongitude>-65.6</centerLocLongitude>
+<centerLocLatitude>25.2</centerLocLatitude>
+<centerLocLongitude>-66</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>25.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>65.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>25.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>66.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>75</systemIntensityMph>
-<systemIntensityKph>120</systemIntensityKph>
-<systemIntensityKts>65</systemIntensityKts>
-<systemMslpMb>988</systemMslpMb>
-<systemMslpInHg>29.18</systemMslpInHg>
+<systemIntensityMph>80</systemIntensityMph>
+<systemIntensityKph>130</systemIntensityKph>
+<systemIntensityKts>70</systemIntensityKts>
+<systemMslpMb>985</systemMslpMb>
+<systemMslpInHg>29.09</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>S OR 180 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>3</systemSpeedMph>
 <systemSpeedKph>6</systemSpeedKph>
 <systemSpeedKts>3</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 500 MI...810 KM ENE OF THE SOUTHEASTERN BAHAMAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 485 MI...780 KM S OF BERMUDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 475 MI...765 KM ENE OF THE SOUTHEASTERN BAHAMAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 495 MI...800 KM S OF BERMUDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Advisory Number  34
+Hurricane Jose Advisory Number  35
 NWS National Hurricane Center Miami FL       AL122017
-500 PM AST Wed Sep 13 2017
+1100 PM AST Wed Sep 13 2017
 
-...JOSE DRIFTING SOUTHWARD...
+...JOSE NOW MOVING SLOWLY WESTWARD AND A BIT STRONGER...
 
 
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
-----------------------------------------------
-LOCATION...25.3N 65.6W
-ABOUT 500 MI...810 KM ENE OF THE SOUTHEASTERN BAHAMAS
-ABOUT 485 MI...780 KM S OF BERMUDA
-MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
-PRESENT MOVEMENT...S OR 180 DEGREES AT 3 MPH...6 KM/H
-MINIMUM CENTRAL PRESSURE...988 MB...29.18 INCHES
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...25.2N 66.0W
+ABOUT 475 MI...765 KM ENE OF THE SOUTHEASTERN BAHAMAS
+ABOUT 495 MI...800 KM S OF BERMUDA
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 3 MPH...6 KM/H
+MINIMUM CENTRAL PRESSURE...985 MB...29.09 INCHES
 
 
 WATCHES AND WARNINGS
@@ -81,34 +81,40 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM AST (2100 UTC), the center of Hurricane Jose was located
-near latitude 25.3 North, longitude 65.6 West.  Jose is moving
-toward the south near 3 mph (6 km/h), but is expected to complete
-a slow clockwise loop during the next couple of days, and is
-forecast to be moving west-northwestward by late Thursday.
+At 1100 PM AST (0300 UTC), the center of Hurricane Jose was located
+near latitude 25.2 North, longitude 66.0 West.  Jose is moving
+toward the west near 3 mph (6 km/h).  A turn toward the west-
+northwest and then toward the northwest is expected during the next
+48 hours, along with an increase in forward speed.
 
-Maximum sustained winds remain near 75 mph (120 km/h) with higher
-gusts.  Jose could weaken to a tropical storm in a couple of
-days.
+Maximum sustained winds are near 80 mph (130 km/h) with higher
+gusts.  Some gradual weakening is forecast during the next 48 hours,
+and Jose could become a tropical storm in the next couple of days.
 
 Hurricane-force winds extend outward up to 25 miles (35 km) from the
 center and tropical-storm-force winds extend outward up to 115 miles
 (185 km).
 
-The estimated minimum central pressure is 988 mb (29.18 inches).
+The estimated minimum central pressure is 985 mb (29.09 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-None
+SURF:  Swells generated by Jose are affecting Bermuda, the Bahamas,
+the northern coasts of Hispaniola and Puerto Rico, and the Southeast
+coast of the United States, and will spread northward along the
+Mid-Atlantic coast of the U.S. during the next few days.  These
+swells are likely to cause life-threatening surf and rip current
+conditions.  For more information, please consult products from your
+local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM AST.
+Next complete advisory at 500 AM AST.
 
 $$
-Forecaster Pasch
+Forecaster Brennan
 
 NNNN
 </message>

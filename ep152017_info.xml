@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>9</advisoryNumber>
+<advisoryNumber>10</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170913 02:00:00 PM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170913 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709132100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 PM PDT Wed Sep 13</messageDateTimeLocalStr>
-<timeEpochSeconds>1505336400</timeEpochSeconds>
+<messageDateTimeLocal>20170913 08:00:00 PM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170914 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709140300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM PDT Wed Sep 13</messageDateTimeLocalStr>
+<timeEpochSeconds>1505358000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>FIFTEEN-E</systemName>
@@ -31,17 +31,17 @@
 <systemIntensityMph>35</systemIntensityMph>
 <systemIntensityKph>55</systemIntensityKph>
 <systemIntensityKts>30</systemIntensityKts>
-<systemMslpMb>1005</systemMslpMb>
-<systemMslpInHg>29.68</systemMslpInHg>
+<systemMslpMb>1006</systemMslpMb>
+<systemMslpInHg>29.71</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 275 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>7</systemSpeedMph>
-<systemSpeedKph>11</systemSpeedKph>
-<systemSpeedKts>6</systemSpeedKts>
+<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>2</systemSpeedMph>
+<systemSpeedKph>4</systemSpeedKph>
+<systemSpeedKts>2</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
 <systemGeoRefPt1>ABOUT 920 MI...1475 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
@@ -50,21 +50,21 @@ ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Fifteen-E Advisory Number   9
+Tropical Depression Fifteen-E Advisory Number  10
 NWS National Hurricane Center Miami FL       EP152017
-200 PM PDT Wed Sep 13 2017
+800 PM PDT Wed Sep 13 2017
 
-...TROPICAL DEPRESSION MOVING SLOWLY WESTWARD WITH NO CHANGE IN
+...TROPICAL DEPRESSION CRAWLING WESTWARD WITH NO CHANGE IN
 STRENGTH...
 
 
-SUMMARY OF 200 PM PDT...2100 UTC...INFORMATION
+SUMMARY OF 800 PM PDT...0300 UTC...INFORMATION
 ----------------------------------------------
 LOCATION...15.1N 121.3W
 ABOUT 920 MI...1475 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...W OR 275 DEGREES AT 7 MPH...11 KM/H
-MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+PRESENT MOVEMENT...W OR 270 DEGREES AT 2 MPH...4 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
 
 
 WATCHES AND WARNINGS
@@ -74,17 +74,16 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 PM PDT (2100 UTC), the center of Tropical Depression
+At 800 PM PDT (0300 UTC), the center of Tropical Depression
 Fifteen-E was located near latitude 15.1 North, longitude 121.3
-West. The depression is moving toward the west near 7 mph (11 km/h),
-and this general motion is expected to continue during the next
-couple of days.
+West. The depression is moving toward the west near 2 mph (4 km/h),
+and a slow westward motion is expected for the next couple of days.
 
-Maximum sustained winds remain near 35 mph (55 km/h) with higher
-gusts. No significant change in strength is expected today, but the
-depression could become a tropical storm in a day or two.
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Very gradual strengthening is forecast for the next two days, and
+the depression could become a tropical storm on Thursday.
 
-The estimated minimum central pressure is 1005 mb (29.68 inches).
+The estimated minimum central pressure is 1006 mb (29.71 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -94,10 +93,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 800 PM PDT.
+Next complete advisory at 200 AM PDT.
 
 $$
-Forecaster Avila
+Forecaster Zelinsky
 
 NNNN
 </message>
