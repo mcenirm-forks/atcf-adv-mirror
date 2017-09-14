@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP162017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>6A</advisoryNumber>
+<advisoryNumber>7</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170914 01:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170914 06:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709141800</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0100 PM CDT Thu Sep 14</messageDateTimeLocalStr>
-<timeEpochSeconds>1505412000</timeEpochSeconds>
+<messageDateTimeLocal>20170914 04:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170914 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709142100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 PM CDT Thu Sep 14</messageDateTimeLocalStr>
+<timeEpochSeconds>1505422800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>MAX</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.5</centerLocLatitude>
-<centerLocLongitude>-99.4</centerLocLongitude>
+<centerLocLatitude>16.6</centerLocLatitude>
+<centerLocLongitude>-99.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>99.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>16.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>99.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>85</systemIntensityMph>
-<systemIntensityKph>140</systemIntensityKph>
-<systemIntensityKts>75</systemIntensityKts>
-<systemMslpMb>985</systemMslpMb>
-<systemMslpInHg>29.09</systemMslpInHg>
+<systemIntensityMph>80</systemIntensityMph>
+<systemIntensityKph>130</systemIntensityKph>
+<systemIntensityKts>70</systemIntensityKts>
+<systemMslpMb>988</systemMslpMb>
+<systemMslpInHg>29.18</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,28 +43,29 @@
 <systemSpeedKph>13</systemSpeedKph>
 <systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 35 MI...70 KM SE OF ACAPULCO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 55 MI...90 KM ESE OF ACAPULCO MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Max Intermediate Advisory Number 6A
+Hurricane Max Advisory Number   7
 NWS National Hurricane Center Miami FL       EP162017
-100 PM CDT Thu Sep 14 2017
+400 PM CDT Thu Sep 14 2017
 
-...MAX STRENGTHENING AS IT APPROACHES THE COAST OF MEXICO EAST OF
-ACAPULCO...
+...MAX MAKING LANDFALL ALONG THE COAST OF EASTERN GUERRERO...
+...HEAVY RAINS AND FLOODING EXPECTED ACROSS THE MEXICAN STATES OF
+GUERRERO AND OAXACA...
 
 
-SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...16.5N 99.4W
-ABOUT 35 MI...70 KM SE OF ACAPULCO MEXICO
-MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
+LOCATION...16.6N 99.1W
+ABOUT 55 MI...90 KM ESE OF ACAPULCO MEXICO
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
 PRESENT MOVEMENT...E OR 80 DEGREES AT 8 MPH...13 KM/H
-MINIMUM CENTRAL PRESSURE...985 MB...29.09 INCHES
+MINIMUM CENTRAL PRESSURE...988 MB...29.18 INCHES
 
 
 WATCHES AND WARNINGS
@@ -84,43 +85,28 @@ A Tropical Storm Warning is in effect for...
 A Hurricane Watch is in effect for...
 * East of Punta Maldonado to Lagunas de Chacahua
 
-A Hurricane Warning means that hurricane conditions are expected
-somewhere within the warning area, in this case within the next 12
-hours.  Preparations to protect life and property should be rushed
-to completion.
-
-A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area, in this case within the
-next 12 to 24 hours.
-
-A Hurricane Watch means that hurricane conditions are possible
-within the watch area, in this case within the next 12 to 24 hours.
-
 For storm information specific to your area, please monitor
 products issued by your national meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 100 PM CDT (1800 UTC), the eye of Hurricane Max was located near
-latitude 16.5 North, longitude 99.4 West.  Max is moving toward the
-east near 8 mph (13 km/h).  An eastward or east-northeastward motion
-at a similar forward speed is expected through Friday.  On the
-forecast track, the center of Max is forecast to cross the coast of
-southern Mexico in the hurricane warning area later today or this
-evening.
+At 400 PM CDT (2100 UTC), the center of Hurricane Max was located
+along the coast of eastern Guerrero near latitude 16.6 North,
+longitude 99.1 West.  Max is moving toward the east near 8 mph (13
+km/h), and a turn toward the east-northeast is expected by tonight.
+On the forecast track, the center of Max will move farther inland
+over southern Mexico.
 
-Maximum sustained winds have increased to near 85 mph (140 km/h)
-with higher gusts.  Additional strengthening is possible before the
-center of Max reaches the coast later today.  Weakening is forecast
-once Max makes landfall, and it is expected to dissipate over the
-mountains of southern Mexico by late Friday.
+Maximum sustained winds are near 80 mph (130 km/h) with higher
+gusts.  Weakening is forecast, and Max should weaken to a tropical
+storm this evening and dissipate over southern Mexico on Friday.
 
-Hurricane-force winds extend outward up to 10 miles (20 km) from
-the center, and tropical-storm-force winds extend outward up to 45
-miles (75 km).
+Hurricane-force winds extend outward up to 10 miles (20 km) from the
+center, and tropical-storm-force winds extend outward up to 45 miles
+(75 km).
 
-The estimated minimum central pressure is 985 mb (29.09 inches).
+The estimated minimum central pressure is 988 mb (29.18 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -132,25 +118,25 @@ of 20 inches are possible over coastal areas of Guerrero. These
 torrential rains may produce life-threatening flash floods and
 mudslides.
 
-WIND:  Hurricane and tropical storm conditions are likely occurring
-within portions of the hurricane warning area.  Tropical storm
-conditions are expected within the tropical storm warning area by
-this evening, with hurricane conditions possible tonight.
+WIND:  Hurricane and tropical storm conditions are occurring within
+portions of the hurricane warning area.  Tropical storm conditions
+are expected within the tropical storm warning area by this evening,
+with hurricane conditions possible tonight.
 
 STORM SURGE:  A dangerous storm surge is expected to produce
 significant coastal flooding near and to the east of where the
-center makes landfall.  Near the coast, the surge will be
+center is making landfall.  Near the coast, the surge will be
 accompanied by large and destructive waves.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 PM CDT.
+Next intermediate advisory at 700 PM CDT.
+Next complete advisory at 1000 PM CDT.
 
 $$
 Forecaster Berg
 
 NNNN
-
 </message>
 </cycloneMessage>
