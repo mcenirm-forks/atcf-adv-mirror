@@ -3,75 +3,74 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP162017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>8A</advisoryNumber>
+<advisoryNumber>9</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170915 01:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170915 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709150600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0100 AM CDT Fri Sep 15</messageDateTimeLocalStr>
-<timeEpochSeconds>1505455200</timeEpochSeconds>
+<messageDateTimeLocal>20170915 04:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170915 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709150900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 AM CDT Fri Sep 15</messageDateTimeLocalStr>
+<timeEpochSeconds>1505466000</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL DEPRESSION</systemType>
+<systemType>REMNANTS OF</systemType>
 <systemName>MAX</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>17.0</centerLocLatitude>
-<centerLocLongitude>-98.2</centerLocLongitude>
+<centerLocLongitude>-98</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>17.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>98.2W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>98.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>35</systemIntensityMph>
-<systemIntensityKph>55</systemIntensityKph>
-<systemIntensityKts>30</systemIntensityKts>
-<systemMslpMb>1004</systemMslpMb>
-<systemMslpInHg>29.65</systemMslpInHg>
+<systemIntensityMph>30</systemIntensityMph>
+<systemIntensityKph>45</systemIntensityKph>
+<systemIntensityKts>25</systemIntensityKts>
+<systemMslpMb>1005</systemMslpMb>
+<systemMslpInHg>29.68</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>E OR 85 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>7</systemSpeedMph>
-<systemSpeedKph>11</systemSpeedKph>
-<systemSpeedKts>6</systemSpeedKts>
+<systemDirectionOfMotion>ENE OR 60 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>5</systemSpeedMph>
+<systemSpeedKph>7</systemSpeedKph>
+<systemSpeedKts>4</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 115 MI...180 KM E OF ACAPULCO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 125 MI...200 KM E OF ACAPULCO MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Max Intermediate Advisory Number 8A
+Remnants Of Max Advisory Number   9
 NWS National Hurricane Center Miami FL       EP162017
-100 AM CDT Fri Sep 15 2017
+400 AM CDT Fri Sep 15 2017
 
-...MAX RAPIDLY WEAKENING OVER THE HIGH TERRAIN OF SOUTHERN MEXICO...
+...MAX DEGENERATES INTO A BROAD AREA OF LOW PRESSURE...
 
 
-SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...17.0N 98.2W
-ABOUT 115 MI...180 KM E OF ACAPULCO MEXICO
-MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...E OR 85 DEGREES AT 7 MPH...11 KM/H
-MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+LOCATION...17.0N 98.0W
+ABOUT 125 MI...200 KM E OF ACAPULCO MEXICO
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...ENE OR 60 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY
 
-The government of Mexico has discontinued the tropical storm
-Warning from Acapulco to Lagunas de Chacahua.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -83,24 +82,20 @@ issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 100 AM CDT (0600 UTC), the center of Tropical Depression Max
-was located near latitude 17.0 North, longitude 98.2 West. The
-depression is moving toward the east near 7 mph (11 km/h), and
-this general motion should continue today.  On the forecast track,
-the center of Max will continue to move over the high terrain of
-southern Mexico during the next several hours.
+At 400 AM CDT (0900 UTC), the remnants of Max were located near
+latitude 17.0 North, longitude 98.0 West. The remnants are moving
+toward the east-northeast near 5 mph (7 km/h), and this motion is
+expected to continue until dissipation later today.
 
-The effect of the high terrain has caused Max to weaken, and
-the maximum sustained winds are now 35 mph (55 km/h) with higher
-gusts. Additional rapid weakening is forecast, and Max is expected
-to dissipate later today.
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+The remnants of Max are forecast to dissipate later today.
 
-The estimated minimum central pressure is 1004 mb (29.65 inches).
+The estimated minimum central pressure is 1005 mb (29.68 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-RAINFALL:  Despite weakening, Max is expected to produce total
+RAINFALL:  The remnants of Max are still capable of producing total
 rainfall accumulations of 5 to 10 inches in the Mexican state of
 Guerrero and western portions of the state of Oaxaca. Maximum
 amounts locally in excess of 20 inches are possible over coastal
@@ -110,12 +105,12 @@ threatening flash floods and mudslides.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 AM CDT.
+This is the last public advisory issued by the National Hurricane
+Center on this system.
 
 $$
 Forecaster Avila
 
 NNNN
-
 </message>
 </cycloneMessage>
