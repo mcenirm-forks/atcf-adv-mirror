@@ -3,36 +3,36 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP162017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>8</advisoryNumber>
+<advisoryNumber>8A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170914 10:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170915 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709150300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 PM CDT Thu Sep 14</messageDateTimeLocalStr>
-<timeEpochSeconds>1505444400</timeEpochSeconds>
+<messageDateTimeLocal>20170915 01:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170915 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709150600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0100 AM CDT Fri Sep 15</messageDateTimeLocalStr>
+<timeEpochSeconds>1505455200</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL STORM</systemType>
+<systemType>TROPICAL DEPRESSION</systemType>
 <systemName>MAX</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.8</centerLocLatitude>
-<centerLocLongitude>-98.5</centerLocLongitude>
+<centerLocLatitude>17.0</centerLocLatitude>
+<centerLocLongitude>-98.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>98.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>17.0N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>98.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>45</systemIntensityMph>
-<systemIntensityKph>75</systemIntensityKph>
-<systemIntensityKts>40</systemIntensityKts>
-<systemMslpMb>1002</systemMslpMb>
-<systemMslpInHg>29.59</systemMslpInHg>
+<systemIntensityMph>35</systemIntensityMph>
+<systemIntensityKph>55</systemIntensityKph>
+<systemIntensityKts>30</systemIntensityKts>
+<systemMslpMb>1004</systemMslpMb>
+<systemMslpInHg>29.65</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,90 +43,79 @@
 <systemSpeedKph>11</systemSpeedKph>
 <systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 95 MI...150 KM E OF ACAPULCO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 115 MI...180 KM E OF ACAPULCO MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Max Advisory Number   8
+Tropical Depression Max Intermediate Advisory Number 8A
 NWS National Hurricane Center Miami FL       EP162017
-1000 PM CDT Thu Sep 14 2017
+100 AM CDT Fri Sep 15 2017
 
-...MAX RAPIDLY WEAKENING OVER SOUTHERN MEXICO...
-...HEAVY RAINS AND FLOODING EXPECTED ACROSS THE MEXICAN STATES OF
-GUERRERO AND OAXACA...
+...MAX RAPIDLY WEAKENING OVER THE HIGH TERRAIN OF SOUTHERN MEXICO...
 
 
-SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...16.8N 98.5W
-ABOUT 95 MI...150 KM E OF ACAPULCO MEXICO
-MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...17.0N 98.2W
+ABOUT 115 MI...180 KM E OF ACAPULCO MEXICO
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
 PRESENT MOVEMENT...E OR 85 DEGREES AT 7 MPH...11 KM/H
-MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY
 
-None
+The government of Mexico has discontinued the tropical storm
+Warning from Acapulco to Lagunas de Chacahua.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
-A Tropical Storm Warning is in effect for...
-* Acapulco to Lagunas de Chacahua
+There are no coastal watches or warnings in effect.
 
-For storm information specific to your area, please monitor
-products issued by your national meteorological service.
+For storm information specific to your area, please monitor products
+issued by your national meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 PM CDT (0300 UTC), the center of Tropical Storm Max was
-located near latitude 16.8 North, longitude 98.5 West. Max is moving
-toward the east near 7 mph (11 km/h) and this general motion should
-continue through early Friday.  On the forecast track, the center of
-Max will move farther inland over southern Mexico tonight and early
-Friday.
+At 100 AM CDT (0600 UTC), the center of Tropical Depression Max
+was located near latitude 17.0 North, longitude 98.2 West. The
+depression is moving toward the east near 7 mph (11 km/h), and
+this general motion should continue today.  On the forecast track,
+the center of Max will continue to move over the high terrain of
+southern Mexico during the next several hours.
 
-Maximum sustained winds have decreased to near 45 mph (75 km/h)
-with higher gusts. Additional rapid weakening is forecast, and
-Max is expected to weaken to a tropical depression later tonight
-and dissipate over southern Mexico early Friday.
+The effect of the high terrain has caused Max to weaken, and
+the maximum sustained winds are now 35 mph (55 km/h) with higher
+gusts. Additional rapid weakening is forecast, and Max is expected
+to dissipate later today.
 
-Tropical-storm-force winds extend outward up to 45 miles (75 km)
-from the center.
-
-The estimated minimum central pressure is 1002 mb (29.59 inches).
+The estimated minimum central pressure is 1004 mb (29.65 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-RAINFALL:  Max is expected to produce total rainfall accumulations
-of 5 to 10 inches in the Mexican state of Guerrero and western
-portions of the state of Oaxaca. Maximum amounts locally in excess
-of 20 inches are possible over coastal areas of Guerrero. These
-torrential rains may produce life-threatening flash floods and
-mudslides.
-
-WIND:  Tropical storm conditions will continue over portions of the
-warning area during the next few hours.
-
-STORM SURGE:  Water levels along the coast of southern Mexico will
-subside overnight.
+RAINFALL:  Despite weakening, Max is expected to produce total
+rainfall accumulations of 5 to 10 inches in the Mexican state of
+Guerrero and western portions of the state of Oaxaca. Maximum
+amounts locally in excess of 20 inches are possible over coastal
+areas of Guerrero. These torrential rains may produce life-
+threatening flash floods and mudslides.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 100 AM CDT.
 Next complete advisory at 400 AM CDT.
 
 $$
-Forecaster Brown
+Forecaster Avila
 
 NNNN
+
 </message>
 </cycloneMessage>
