@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>40</advisoryNumber>
+<advisoryNumber>41</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170915 05:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170915 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709150900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM AST Fri Sep 15</messageDateTimeLocalStr>
-<timeEpochSeconds>1505466000</timeEpochSeconds>
+<messageDateTimeLocal>20170915 11:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170915 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709151500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM AST Fri Sep 15</messageDateTimeLocalStr>
+<timeEpochSeconds>1505487600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>JOSE</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>25.9</centerLocLatitude>
-<centerLocLongitude>-68.7</centerLocLongitude>
+<centerLocLatitude>26.5</centerLocLatitude>
+<centerLocLongitude>-69.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>25.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>68.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>26.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>69.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>70</systemIntensityMph>
@@ -38,34 +38,34 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>8</systemSpeedMph>
-<systemSpeedKph>13</systemSpeedKph>
-<systemSpeedKts>7</systemSpeedKts>
+<systemDirectionOfMotion>NW OR 305 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>9</systemSpeedMph>
+<systemSpeedKph>15</systemSpeedKph>
+<systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
 <systemGeoRefPt1>ABOUT 360 MI...575 KM NE OF THE SOUTHEASTERN BAHAMAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 500 MI...805 KM SSW OF BERMUDA</systemGeoRefPt2>
+<systemGeoRefPt2>ABOUT 485 MI...785 KM SW OF BERMUDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Jose Advisory Number  40
+Tropical Storm Jose Advisory Number  41
 NWS National Hurricane Center Miami FL       AL122017
-500 AM AST Fri Sep 15 2017
+1100 AM AST Fri Sep 15 2017
 
-...JOSE EXPECTED TO PRODUCE HIGH SURF AND LIFE-THREATENING RIP
-CURRENTS ALONG PORTIONS OF THE U.S. EAST COAST...
+...AN AIR FORCE PLANE IS EN ROUTE TO DETERMINE IF JOSE IS A
+HURRICANE AGAIN...
 
 
-SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
-----------------------------------------------
-LOCATION...25.9N 68.7W
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...26.5N 69.4W
 ABOUT 360 MI...575 KM NE OF THE SOUTHEASTERN BAHAMAS
-ABOUT 500 MI...805 KM SSW OF BERMUDA
+ABOUT 485 MI...785 KM SW OF BERMUDA
 MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
-PRESENT MOVEMENT...WNW OR 290 DEGREES AT 8 MPH...13 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 9 MPH...15 KM/H
 MINIMUM CENTRAL PRESSURE...989 MB...29.21 INCHES
 
 
@@ -80,14 +80,16 @@ system.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM AST (0900 UTC), the center of Tropical Storm Jose was
-located near latitude 25.9 North, longitude 68.7 West. Jose is
-moving toward the west-northwest near 8 mph (13 km/h).  A gradual
-turn toward the north is expected later today and on Saturday.
+At 1100 AM AST (1500 UTC), the center of Tropical Storm Jose was
+located near latitude 26.5 North, longitude 69.4 West. Jose is
+moving toward the northwest near 9 mph (15 km/h).  This general
+motion is expected today, follow by a turn to the north-northwest
+by late Saturday and toward the north on Sunday.
 
-Maximum sustained winds are near 70 mph (110 km/h) with higher
-gusts.  Some strengthening is forecast during the next 48 hours.
-Jose is forecast to become a hurricane later today.
+Maximum sustained winds remain near 70 mph (110 km/h) with higher
+gusts.  Some strengthening is forecast during the next 48 hours. An
+Force Reserve Hurricane Hunter aircraft is currently en route to
+obtain a better wind speed estimate.
 
 Tropical-storm-force winds extend outward up to 140 miles (220 km)
 from the center.
@@ -98,7 +100,7 @@ The estimated minimum central pressure is 989 mb (29.21 inches).
 HAZARDS AFFECTING LAND
 ----------------------
 SURF:  Swells generated by Jose are affecting Bermuda, the Bahamas,
-the northern coasts of Hispaniola and Puerto Rico, and the Southeast
+the northern coasts of Hispaniola and Puerto Rico, and the southeast
 coast of the United States, and will spread northward along the
 Mid-Atlantic coast of the U.S. during the next few days.  These
 swells are likely to cause life-threatening surf and rip current
@@ -108,10 +110,10 @@ local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM AST.
+Next complete advisory at 500 PM AST.
 
 $$
-Forecaster Zelinsky
+Forecaster Blake
 
 NNNN
 </message>

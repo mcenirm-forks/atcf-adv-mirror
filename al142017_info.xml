@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>2</advisoryNumber>
+<advisoryNumber>3</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170915 05:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170915 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709150900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM AST Fri Sep 15</messageDateTimeLocalStr>
-<timeEpochSeconds>1505466000</timeEpochSeconds>
+<messageDateTimeLocal>20170915 11:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170915 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709151500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM AST Fri Sep 15</messageDateTimeLocalStr>
+<timeEpochSeconds>1505487600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>FOURTEEN</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>10.6</centerLocLatitude>
-<centerLocLongitude>-27.3</centerLocLongitude>
+<centerLocLatitude>11.4</centerLocLatitude>
+<centerLocLongitude>-28.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>10.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>27.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>11.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>28.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -38,33 +38,31 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>15</systemSpeedMph>
-<systemSpeedKph>24</systemSpeedKph>
-<systemSpeedKts>13</systemSpeedKts>
+<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>10</systemSpeedMph>
+<systemSpeedKph>17</systemSpeedKph>
+<systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 435 MI...700 KM SSW OF THE CABO VERDE ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 430 MI...690 KM SW OF THE CABO VERDE ISLANDS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Fourteen Advisory Number   2
+Tropical Depression Fourteen Advisory Number   3
 NWS National Hurricane Center Miami FL       AL142017
-500 AM AST Fri Sep 15 2017
+1100 AM AST Fri Sep 15 2017
 
-...TROPICAL DEPRESSION MOVING WESTWARD OVER THE FAR EASTERN
-ATLANTIC...
-...FORECAST TO BECOME A TROPICAL STORM...
+...DEPRESSION FORECAST TO BECOME A TROPICAL STORM LATER TODAY...
 
 
-SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
-----------------------------------------------
-LOCATION...10.6N 27.3W
-ABOUT 435 MI...700 KM SSW OF THE CABO VERDE ISLANDS
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...11.4N 28.3W
+ABOUT 430 MI...690 KM SW OF THE CABO VERDE ISLANDS
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...W OR 270 DEGREES AT 15 MPH...24 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 10 MPH...17 KM/H
 MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
 
 
@@ -75,14 +73,14 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM AST (0900 UTC), the center of Tropical Depression Fourteen
-was located near latitude 10.6 North, longitude 27.3 West. The
-depression is moving toward the west near 15 mph (24 km/h), and this
-motion is expected to continue during the next couple of days.
+At 1100 AM AST (1500 UTC), the center of Tropical Depression
+Fourteen was located near latitude 11.4 North, longitude 28.3 West.
+The depression is moving toward the west-northwest near 10 mph (17
+km/h), and a west or west-northwest motion is forecast during the
+next couple of days.
 
 Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-The depression is forecast to become a Tropical Storm later today
-or tomorrow.
+The depression is forecast to become a tropical storm later today.
 
 The estimated minimum central pressure is 1008 mb (29.77 inches).
 
@@ -94,10 +92,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM AST.
+Next complete advisory at 500 PM AST.
 
 $$
-Forecaster Avila
+Forecaster Blake
 
 NNNN
 </message>
