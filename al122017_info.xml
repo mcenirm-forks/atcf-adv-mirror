@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>43</advisoryNumber>
+<advisoryNumber>44</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170915 11:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170916 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709160300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM EDT Fri Sep 15</messageDateTimeLocalStr>
-<timeEpochSeconds>1505530800</timeEpochSeconds>
+<messageDateTimeLocal>20170916 05:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170916 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709160900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM EDT Sat Sep 16</messageDateTimeLocalStr>
+<timeEpochSeconds>1505552400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>27.4</centerLocLatitude>
-<centerLocLongitude>-71</centerLocLongitude>
+<centerLocLatitude>27.9</centerLocLatitude>
+<centerLocLongitude>-71.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>27.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>71.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>27.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>71.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>80</systemIntensityMph>
@@ -43,28 +43,30 @@
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 600 MI...965 KM SSE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 500 MI...810 KM SW OF BERMUDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 550 MI...885 KM SSE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 515 MI...830 KM SW OF BERMUDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Advisory Number  43
+Hurricane Jose Advisory Number  44...Corrected
 NWS National Hurricane Center Miami FL       AL122017
-1100 PM EDT Fri Sep 15 2017
+500 AM EDT Sat Sep 16 2017
 
-...JOSE A LITTLE STRONGER...
-...TROPICAL STORM WATCHES POSSIBLE IN THE UNITED STATES ON
-SATURDAY...
+Corrected headline
+
+...JOSE MOVING STEADILY NORTHWESTWARD...
+...TROPICAL STORM WATCHES POSSIBLE IN THE UNITED STATES LATER
+TODAY...
 
 
-SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...27.4N 71.0W
-ABOUT 600 MI...965 KM SSE OF CAPE HATTERAS NORTH CAROLINA
-ABOUT 500 MI...810 KM SW OF BERMUDA
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...27.9N 71.8W
+ABOUT 550 MI...885 KM SSE OF CAPE HATTERAS NORTH CAROLINA
+ABOUT 515 MI...830 KM SW OF BERMUDA
 MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
 PRESENT MOVEMENT...NW OR 305 DEGREES AT 9 MPH...15 KM/H
 MINIMUM CENTRAL PRESSURE...983 MB...29.03 INCHES
@@ -82,14 +84,14 @@ coast of North Carolina on Saturday.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM EDT (0300 UTC), the center of Hurricane Jose was located
-near latitude 27.4 North, longitude 71.0 West. Jose is moving toward
-the northwest near 9 mph (15 km/h).  A gradual turn toward the north
-is expected over the next couple of days.
+At 500 AM EDT (0900 UTC), the center of Hurricane Jose was located
+near latitude 27.9 North, longitude 71.8 West. Jose is moving toward
+the northwest near 9 mph (15 km/h).  A turn toward the north with a
+slight decrease in forward speed is expected later today.
 
-The estimated maximum sustained winds have increased to near 80 mph
-(130 km/h) with higher gusts.  Additional strengthening is expected
-this weekend.
+Maximum sustained winds are near 80 mph (130 km/h) with higher
+gusts.  Jose could become a little stronger, and is expected to
+remain a hurricane for the next several days.
 
 Hurricane-force winds extend outward up to 35 miles (55 km) from the
 center and tropical-storm-force winds extend outward up to 150 miles
@@ -111,7 +113,7 @@ local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM EDT.
+Next complete advisory at 1100 AM EDT.
 
 $$
 Forecaster Zelinsky

@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>7</advisoryNumber>
+<advisoryNumber>8</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170915 09:00:00 PM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170916 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709160300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0900 PM MDT Fri Sep 15</messageDateTimeLocalStr>
-<timeEpochSeconds>1505530800</timeEpochSeconds>
+<messageDateTimeLocal>20170916 03:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170916 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709160900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0300 AM MDT Sat Sep 16</messageDateTimeLocalStr>
+<timeEpochSeconds>1505552400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>NORMA</systemName>
@@ -31,17 +31,17 @@
 <systemIntensityMph>75</systemIntensityMph>
 <systemIntensityKph>120</systemIntensityKph>
 <systemIntensityKts>65</systemIntensityKts>
-<systemMslpMb>986</systemMslpMb>
-<systemMslpInHg>29.12</systemMslpInHg>
+<systemMslpMb>987</systemMslpMb>
+<systemMslpInHg>29.15</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNW OR 330 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>2</systemSpeedMph>
-<systemSpeedKph>4</systemSpeedKph>
-<systemSpeedKts>2</systemSpeedKts>
+<systemDirectionOfMotion>STATIONARY</systemDirectionOfMotion>
+<systemSpeedMph>0</systemSpeedMph>
+<systemSpeedKph>0</systemSpeedKph>
+<systemSpeedKts>0</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
 <systemGeoRefPt1>ABOUT 55 MI...85 KM ENE OF SOCORRO ISLAND</systemGeoRefPt1>
 <systemGeoRefPt2>ABOUT 270 MI...435 KM S OF CABO SAN LUCAS MEXICO</systemGeoRefPt2>
@@ -51,49 +51,71 @@ ZCZC MIATCPEP2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Norma Advisory Number   7
+Hurricane Norma Advisory Number   8
 NWS National Hurricane Center Miami FL       EP172017
-900 PM MDT Fri Sep 15 2017
+300 AM MDT Sat Sep 16 2017
 
-...NORMA BECOMES A HURRICANE...
+...TROPICAL STORM WARNING ISSUED FOR THE SOUTHERN PORTION OF THE
+BAJA CALIFORNIA PENINSULA...
 
 
-SUMMARY OF 900 PM MDT...0300 UTC...INFORMATION
+SUMMARY OF 300 AM MDT...0900 UTC...INFORMATION
 ----------------------------------------------
 LOCATION...19.0N 110.2W
 ABOUT 55 MI...85 KM ENE OF SOCORRO ISLAND
 ABOUT 270 MI...435 KM S OF CABO SAN LUCAS MEXICO
 MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
-PRESENT MOVEMENT...NNW OR 330 DEGREES AT 2 MPH...4 KM/H
-MINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES
+PRESENT MOVEMENT...STATIONARY
+MINIMUM CENTRAL PRESSURE...987 MB...29.15 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
-There are no coastal watches or warnings in effect.
+CHANGES WITH THIS ADVISORY:
 
-Interests in Baja California Sur should monitor the progress of
-Norma.  A Tropical Storm Watch could be required later tonight or
-Saturday for a part of the peninsula.
+The government of Mexico has issued a Tropical Storm Warning for
+the Baja California peninsula from Los Barriles southward around the
+peninsula to Todos Santos, and has issued a Tropical Storm Watch
+north of Todos Santos to Santa Fe.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Los Barriles to Todos Santos
+
+A Tropical Storm Watch is in effect for...
+* North of Todos Santos to Santa Fe
+
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+
+Interests in the remainder of the Baja California Peninsula should
+monitor the progress of Norma.
+
+For storm information specific to your area, please monitor products
+issued by your national meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 900 PM MDT (0300 UTC), the center of Hurricane Norma was located
-near latitude 19.0 North, longitude 110.2 West. Norma is moving
-toward the north-northwest near 2 mph (4 km/h)  A slow north-
-northwestward or northward motion is expected during the
-next couple of days.
+At 300 AM MDT (0900 UTC), the center of Hurricane Norma was located
+near latitude 19.0 North, longitude 110.2 West. Norma has been
+nearly stationary, but a slow northward motion should begin
+later today and continue through Sunday.
 
-Maximum sustained winds have increased to near 75 mph (120 km/h)
-with higher gusts.  Some additional strengthening is forecast
-during the next day or so.
+Maximum sustained winds are near 75 mph (120 km/h) with higher
+gusts.  Some slight strengthening is possible during the next day
+or two.
 
 Hurricane-force winds extend outward up to 30 miles (45 km) from the
 center and tropical-storm-force winds extend outward up to 90 miles
 (150 km).
 
-The estimated minimum central pressure is 986 mb (29.12 inches).
+The estimated minimum central pressure is 987 mb (29.15 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -104,13 +126,24 @@ Saturday and continue into early next week. These swells are likely
 to cause life-threatening surf and rip current conditions.  Please
 consult products from your local weather office.
 
+WIND:  Tropical storm conditions are expected to first reach the
+coast within the warning area by early Sunday, making outside
+preparations difficult or dangerous. Tropical storm conditions are
+possible within the watch area by late Sunday or early Monday.
+
+RAINFALL:  Norma is expected to produce total rainfall accumulations
+of 8 to 12 inches over the southern portion of the Mexican state of
+Baja California Sur, with isolated maximum amounts in excess of 20
+inches possible. These rainfall amounts may produce life threatening
+flash floods.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 300 AM MDT.
+Next intermediate advisory at 600 AM MDT.
+Next complete advisory at 900 AM MDT.
 
 $$
-Forecaster Brown
+Forecaster Avila
 
 NNNN
 </message>
