@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "17",
+  "advisoryNumber": "18",
   "atcfID": "EP152017",
   "centerLocLatitude": "16.0",
   "centerLocLatitudeExpanded": "16.0N",
-  "centerLocLongitude": "-125.3",
-  "centerLocLongitudeExpanded": "125.3W",
+  "centerLocLongitude": "-125.4",
+  "centerLocLongitudeExpanded": "125.4W",
   "event_title": "TROPICAL DEPRESSION FIFTEEN-E",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -125.3,
+      -125.4,
       16.0
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPEP5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Fifteen-E Advisory Number  17\nNWS National Hurricane Center Miami FL       EP152017\n200 PM PDT Fri Sep 15 2017\n\n...TROPICAL DEPRESSION STILL HAS 35-MPH WINDS...\n\n\nSUMMARY OF 200 PM PDT...2100 UTC...INFORMATION\n----------------------------------------------\nLOCATION...16.0N 125.3W\nABOUT 1110 MI...1785 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...W OR 270 DEGREES AT 3 MPH...6 KM/H\nMINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 200 PM PDT (2100 UTC), the center of Tropical Depression\nFifteen-E was located near latitude 16.0 North, longitude 125.3\nWest.  The depression is moving toward the west near 3 mph (6\nkm/h).  A slow west-southwestward motion is expected tonight,\nfollowed by a gradual turn toward the west and then north on\nSaturday and Sunday.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nSome strengthening is forecast during the next 48 hours, and the\ndepression is expected to become a tropical storm on Saturday.\n\nThe estimated minimum central pressure is 1006 mb (29.71 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 800 PM PDT.\n\n$$\nForecaster Berg\n\nNNNN",
+  "message": "ZCZC MIATCPEP5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Fifteen-E Advisory Number  18\nNWS National Hurricane Center Miami FL       EP152017\n800 PM PDT Fri Sep 15 2017\n\n...TROPICAL DEPRESSION DRIFTING WESTWARD WITH NO CHANGE IN\nSTRENGTH...\n\n\nSUMMARY OF 800 PM PDT...0300 UTC...INFORMATION\n----------------------------------------------\nLOCATION...16.0N 125.4W\nABOUT 1115 MI...1795 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...W OR 270 DEGREES AT 2 MPH...4 KM/H\nMINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 800 PM PDT (0300 UTC), the center of Tropical Depression\nFifteen-E was located near latitude 16.0 North, longitude 125.4\nWest. The depression is moving toward the west near 2 mph (4 km/h).\nLittle movement is expected for the next several days.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nSome strengthening is forecast during the next 48 hours, and the\ndepression is still expected to become a tropical storm over the\nweekend.\n\nThe estimated minimum central pressure is 1006 mb (29.71 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 200 AM PDT.\n\n$$\nForecaster Zelinsky\n\nNNNN",
   "messageBinNumber": "5",
-  "messageDateTimeLocal": "20170915 02:00:00 PM PDT",
-  "messageDateTimeLocalStr": "0200 PM PDT Fri Sep 15",
-  "messageDateTimeUTC": "20170915 09:00:00 PM UTC",
-  "messageDateTimeUTC24": "201709152100",
+  "messageDateTimeLocal": "20170915 08:00:00 PM PDT",
+  "messageDateTimeLocalStr": "0800 PM PDT Fri Sep 15",
+  "messageDateTimeUTC": "20170916 03:00:00 AM UTC",
+  "messageDateTimeUTC24": "201709160300",
   "messageType": "ROUTINE ADVISORY",
   "systemDirectionOfMotion": "W OR 270 DEGREES",
-  "systemGeoRefPt1": "ABOUT 1110 MI...1785 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
+  "systemGeoRefPt1": "ABOUT 1115 MI...1795 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA",
   "systemIntensityKph": "55",
   "systemIntensityKts": "30",
   "systemIntensityMph": "35",
@@ -66,10 +66,10 @@
   "systemMslpMb": "1006",
   "systemName": "FIFTEEN-E",
   "systemSaffirSimpsonCategory": "N/A",
-  "systemSpeedKph": "6",
-  "systemSpeedKts": "3",
-  "systemSpeedMph": "3",
+  "systemSpeedKph": "4",
+  "systemSpeedKts": "2",
+  "systemSpeedMph": "2",
   "systemType": "TROPICAL DEPRESSION",
-  "time": "2017-09-15 21:00:00",
-  "timeEpochSeconds": "1505509200"
+  "time": "2017-09-16 03:00:00",
+  "timeEpochSeconds": "1505530800"
 }
