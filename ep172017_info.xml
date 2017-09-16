@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP172017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>9</advisoryNumber>
+<advisoryNumber>9A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170916 09:00:00 AM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170916 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709161500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0900 AM MDT Sat Sep 16</messageDateTimeLocalStr>
-<timeEpochSeconds>1505574000</timeEpochSeconds>
+<messageDateTimeLocal>20170916 12:00:00 PM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170916 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709161800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1200 PM MDT Sat Sep 16</messageDateTimeLocalStr>
+<timeEpochSeconds>1505584800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>NORMA</systemName>
@@ -19,12 +19,12 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>19.3</centerLocLatitude>
+<centerLocLatitude>19.4</centerLocLatitude>
 <centerLocLongitude>-110.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>19.3N</centerLocLatitudeExpanded>
+<centerLocLatitudeExpanded>19.4N</centerLocLatitudeExpanded>
 <centerLocLongitudeExpanded>110.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
@@ -38,33 +38,34 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>STATIONARY</systemDirectionOfMotion>
-<systemSpeedMph>0</systemSpeedMph>
-<systemSpeedKph>0</systemSpeedKph>
-<systemSpeedKts>0</systemSpeedKts>
+<systemDirectionOfMotion>N OR 10 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>2</systemSpeedMph>
+<systemSpeedKph>4</systemSpeedKph>
+<systemSpeedKts>2</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 70 MI...110 KM ENE OF SOCORRO ISLAND</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 250 MI...400 KM S OF CABO SAN LUCAS MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 75 MI...120 KM NE OF SOCORRO ISLAND</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 240 MI...385 KM S OF CABO SAN LUCAS MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Norma Advisory Number   9
+Hurricane Norma Intermediate Advisory Number 9A
 NWS National Hurricane Center Miami FL       EP172017
-900 AM MDT Sat Sep 16 2017
+1200 PM MDT Sat Sep 16 2017
 
-...HURRICANE NORMA REMAINS STATIONARY SOUTH OF BAJA CALIFORNIA...
+...HURRICANE NORMA BEGINNING TO MOVE NORTHWARD TOWARD THE SOUTHERN
+BAJA CALIFORNIA PENINSULA...
 
 
-SUMMARY OF 900 AM MDT...1500 UTC...INFORMATION
-----------------------------------------------
-LOCATION...19.3N 110.1W
-ABOUT 70 MI...110 KM ENE OF SOCORRO ISLAND
-ABOUT 250 MI...400 KM S OF CABO SAN LUCAS MEXICO
+SUMMARY OF 1200 PM MDT...1800 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...19.4N 110.1W
+ABOUT 75 MI...120 KM NE OF SOCORRO ISLAND
+ABOUT 240 MI...385 KM S OF CABO SAN LUCAS MEXICO
 MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
-PRESENT MOVEMENT...STATIONARY
+PRESENT MOVEMENT...N OR 10 DEGREES AT 2 MPH...4 KM/H
 MINIMUM CENTRAL PRESSURE...985 MB...29.09 INCHES
 
 
@@ -72,8 +73,7 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of Mexico has a issued Tropical Storm Watch from
-Santa Fe to Cabo San Lazaro.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -98,22 +98,23 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 900 AM MDT (1500 UTC), the center of Hurricane Norma was located
-near latitude 19.3 North, longitude 110.1 West. Norma has been
-nearly stationary, but a slow northward motion should begin later
-today and continue through Monday.  On the forecast track, the
+At 1200 PM MDT (1800 UTC), the center of Hurricane Norma was located
+near latitude 19.4 North, longitude 110.1 West. Norma is moving
+toward the north near 2 mph (4 km/h). The hurricane should continue
+moving toward the north or north-northwest during the next couple
+days at a slightly faster forward speed. On the forecast track, the
 center of Norma will move near or to the west of the southern Baja
 California Peninsula on Sunday and Monday.
 
 Maximum sustained winds are near 75 mph (120 km/h) with higher
-gusts.  Little change in strength is forecast during the next 48
+gusts. Little change in strength is forecast during the next 48
 hours.
 
-Hurricane-force winds extend outward up to 30 miles (45 km) from the
-center and tropical-storm-force winds extend outward up to 90 miles
-(150 km).  The Mexican Navy station in Isla Socorro recently
-reported a sustained wind of 38 mph (61 km/hr) and a gust of 54 mph
-(87 km/h).
+Hurricane-force winds extend outward up to 30 miles (45 km) from
+the center and tropical-storm-force winds extend outward up to 90
+miles (150 km). The Mexican Navy station in Isla Socorro recently
+reported a sustained wind of 36 mph (57 km/hr) and a gust of 56 mph
+(91 km/h).
 
 The estimated minimum central pressure is 985 mb (29.09 inches).
 
@@ -140,7 +141,6 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 1200 PM MDT.
 Next complete advisory at 300 PM MDT.
 
 $$
