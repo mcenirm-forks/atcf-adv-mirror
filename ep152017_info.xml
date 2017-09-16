@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>19</advisoryNumber>
+<advisoryNumber>20</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170916 02:00:00 AM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170916 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709160900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM PDT Sat Sep 16</messageDateTimeLocalStr>
-<timeEpochSeconds>1505552400</timeEpochSeconds>
+<messageDateTimeLocal>20170916 08:00:00 AM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170916 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709161500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM PDT Sat Sep 16</messageDateTimeLocalStr>
+<timeEpochSeconds>1505574000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>FIFTEEN-E</systemName>
@@ -20,50 +20,51 @@
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>15.8</centerLocLatitude>
-<centerLocLongitude>-126</centerLocLongitude>
+<centerLocLongitude>-126.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>15.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>126.0W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>126.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>30</systemIntensityMph>
-<systemIntensityKph>45</systemIntensityKph>
-<systemIntensityKts>25</systemIntensityKts>
-<systemMslpMb>1007</systemMslpMb>
-<systemMslpInHg>29.74</systemMslpInHg>
+<systemIntensityMph>35</systemIntensityMph>
+<systemIntensityKph>55</systemIntensityKph>
+<systemIntensityKts>30</systemIntensityKts>
+<systemMslpMb>1005</systemMslpMb>
+<systemMslpInHg>29.68</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 260 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>2</systemSpeedMph>
 <systemSpeedKph>4</systemSpeedKph>
 <systemSpeedKts>2</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1155 MI...1860 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1185 MI...1910 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Fifteen-E Advisory Number  19
+Tropical Depression Fifteen-E Advisory Number  20
 NWS National Hurricane Center Miami FL       EP152017
-200 AM PDT Sat Sep 16 2017
+800 AM PDT Sat Sep 16 2017
 
-...WEAK DEPRESSION CONTINUES DRIFTING WEST...
+...DEPRESSION EXPECTED TO LINGER OVER OPEN WATERS FOR SEVERAL MORE
+DAYS...
 
 
-SUMMARY OF 200 AM PDT...0900 UTC...INFORMATION
+SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...15.8N 126.0W
-ABOUT 1155 MI...1860 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
-PRESENT MOVEMENT...W OR 260 DEGREES AT 2 MPH...4 KM/H
-MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+LOCATION...15.8N 126.5W
+ABOUT 1185 MI...1910 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 2 MPH...4 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
 WATCHES AND WARNINGS
@@ -73,15 +74,15 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM PDT (0900 UTC), the center of Tropical Depression
-Fifteen-E was located near latitude 15.8 North, longitude 126.0
+At 800 AM PDT (1500 UTC), the center of Tropical Depression
+Fifteen-E was located near latitude 15.8 North, longitude 126.5
 West. The depression is moving toward the west near 2 mph (4 km/h).
-Very little motion is expected through the weekend.
+A slow northward motion is expected to begin in a day or two.
 
-Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
 Little change in strength is forecast during the next 48 hours.
 
-The estimated minimum central pressure is 1007 mb (29.74 inches).
+The estimated minimum central pressure is 1005 mb (29.68 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -91,10 +92,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 800 AM PDT.
+Next complete advisory at 200 PM PDT.
 
 $$
-Forecaster Zelinsky
+Forecaster Cangialosi
 
 NNNN
 </message>
