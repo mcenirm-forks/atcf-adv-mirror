@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL152017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>3</advisoryNumber>
+<advisoryNumber>3A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170916 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170917 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709170300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Sat Sep 16</messageDateTimeLocalStr>
-<timeEpochSeconds>1505617200</timeEpochSeconds>
+<messageDateTimeLocal>20170917 02:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170917 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709170600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM AST Sun Sep 17</messageDateTimeLocalStr>
+<timeEpochSeconds>1505628000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>MARIA</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>12.5</centerLocLatitude>
-<centerLocLongitude>-53.7</centerLocLongitude>
+<centerLocLatitude>12.7</centerLocLatitude>
+<centerLocLongitude>-54.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>12.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>53.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>12.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>54.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>50</systemIntensityMph>
 <systemIntensityKph>85</systemIntensityKph>
 <systemIntensityKts>45</systemIntensityKts>
-<systemMslpMb>1002</systemMslpMb>
-<systemMslpInHg>29.59</systemMslpInHg>
+<systemMslpMb>1000</systemMslpMb>
+<systemMslpInHg>29.53</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,42 +43,34 @@
 <systemSpeedKph>26</systemSpeedKph>
 <systemSpeedKts>14</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 545 MI...880 KM ESE OF THE LESSER ANTILLES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 500 MI...800 KM ESE OF THE LESSER ANTILLES</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Maria Advisory Number   3
+Tropical Storm Maria Intermediate Advisory Number 3A
 NWS National Hurricane Center Miami FL       AL152017
-1100 PM AST Sat Sep 16 2017
+200 AM AST Sun Sep 17 2017
 
-...MARIA MOVING WESTWARD TOWARD THE LESSER ANTILLES...
-...NEW HURRICANE WATCHES ISSUED...
+...MARIA CONTINUES MOVING TOWARD THE LESSER ANTILLES...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...12.5N 53.7W
-ABOUT 545 MI...880 KM ESE OF THE LESSER ANTILLES
+SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...12.7N 54.4W
+ABOUT 500 MI...800 KM ESE OF THE LESSER ANTILLES
 MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
 PRESENT MOVEMENT...W OR 280 DEGREES AT 16 MPH...26 KM/H
-MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Government of the Netherlands has issued a Hurricane Watch for
-Saba and St. Eustatius.
-
-The Meteorological Service of Curacao has issued a Hurricane Watch
-for St. Maarten.
-
-The Meteorological Service of Antigua has issued a Hurricane Watch
-for Anguilla.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -108,7 +100,7 @@ possible within the watch area, generally within 48 hours.
 Interests elsewhere in the Lesser Antilles and the British and U. S.
 Virgin Islands should monitor the progress of this system.
 Additional Tropical Storm or Hurricane Watches and Warnings will
-likely be issued early Sunday.
+likely be issued today.
 
 For storm information specific to your area, please monitor
 products issued by your national meteorological service.
@@ -116,21 +108,22 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the center of Tropical Storm Maria was
-located near latitude 12.5 North, longitude 53.7 West. Maria is
+At 200 AM AST (0600 UTC), the center of Tropical Storm Maria was
+located near latitude 12.7 North, longitude 54.4 West.  Maria is
 moving toward the west near 16 mph (26 km/h).  A turn toward the
 west-northwest and a slower forward speed are expected during next
 couple of days.  On the forecast track, the center of Maria will be
 near the Leeward Islands Monday or Monday night.
 
-Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
-Strengthening is expected during the next 48 hours, and Maria is
-forecast to be a hurricane when it approaches the Leeward Islands.
+Maximum sustained winds are near 50 mph (85 km/h) with higher
+gusts.  Strengthening is expected during the next 48 hours, and
+Maria is forecast to be a hurricane when it approaches the Leeward
+Islands.
 
 Tropical-storm-force winds extend outward up to 45 miles (75 km)
 from the center.
 
-The estimated minimum central pressure is 1002 mb (29.59 inches).
+The estimated minimum central pressure is 1000 mb (29.53 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -138,34 +131,34 @@ HAZARDS AFFECTING LAND
 WIND:  Hurricane conditions are possible within the hurricane watch
 area by Monday night or Tuesday, with tropical storm conditions
 possible on Monday.  Tropical storm conditions are possible in the
-tropical storm watch area on Monday.
+Tropical Storm Watch area on Monday.
 
 STORM SURGE:  A dangerous storm surge accompanied by large and
 destructive waves will raise water levels by as much as 3 to 5 feet
-above normal tide levels within the hurricane watch area.
+above normal tide levels within the Hurricane Watch area.
 
 RAINFALL: Maria is expected to produce total rain accumulations of 6
 to 12 inches with isolated maximum amounts of 20 inches across the
-central and southern Leeward Islands through Tuesday night. Maria is
-also expected to produce total rain accumulations of 2 to 4 inches
-with isolated maximum amounts of 8 inches in the northern Leeward
-Islands through Tuesday night. This rainfall could cause
+central and southern Leeward Islands through Tuesday night.  Maria
+is also expected to produce total rain accumulations of 2 to 4
+inches with isolated maximum amounts of 8 inches in the northern
+Leeward Islands through Tuesday night.  This rainfall could cause
 life-threatening flash floods and mudslides.
 
 SURF:  Swells generated by Maria are expected to begin affecting the
-Lesser Antilles by Sunday night.  These swells are likely to cause
+Lesser Antilles by tonight.  These swells are likely to cause
 life-threatening surf and rip current conditions.  Please consult
 products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 AM AST.
 Next complete advisory at 500 AM AST.
 
 $$
-Forecaster Beven
+Forecaster Pasch
 
 NNNN
+
 </message>
 </cycloneMessage>
