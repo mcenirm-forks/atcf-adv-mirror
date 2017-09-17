@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>23</advisoryNumber>
+<advisoryNumber>24</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170917 02:00:00 AM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170917 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709170900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM PDT Sun Sep 17</messageDateTimeLocalStr>
-<timeEpochSeconds>1505638800</timeEpochSeconds>
+<messageDateTimeLocal>20170917 08:00:00 AM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170917 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709171500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM PDT Sun Sep 17</messageDateTimeLocalStr>
+<timeEpochSeconds>1505660400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>OTIS</systemName>
@@ -19,51 +19,51 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.1</centerLocLatitude>
-<centerLocLongitude>-127.4</centerLocLongitude>
+<centerLocLatitude>16.3</centerLocLatitude>
+<centerLocLongitude>-127.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>127.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>16.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>127.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>50</systemIntensityMph>
-<systemIntensityKph>85</systemIntensityKph>
-<systemIntensityKts>45</systemIntensityKts>
-<systemMslpMb>1001</systemMslpMb>
-<systemMslpInHg>29.56</systemMslpInHg>
+<systemIntensityMph>60</systemIntensityMph>
+<systemIntensityKph>95</systemIntensityKph>
+<systemIntensityKts>50</systemIntensityKts>
+<systemMslpMb>999</systemMslpMb>
+<systemMslpInHg>29.50</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NW OR 315 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>N OR 360 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>2</systemSpeedMph>
 <systemSpeedKph>4</systemSpeedKph>
 <systemSpeedKts>2</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1230 MI...1980 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1220 MI...1960 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Otis Advisory Number  23
+Tropical Storm Otis Advisory Number  24
 NWS National Hurricane Center Miami FL       EP152017
-200 AM PDT Sun Sep 17 2017
+800 AM PDT Sun Sep 17 2017
 
-...OTIS BARELY MOVING...
+...OTIS STRENGTHENS A LITTLE MORE...
 
 
-SUMMARY OF 200 AM PDT...0900 UTC...INFORMATION
+SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...16.1N 127.4W
-ABOUT 1230 MI...1980 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
-PRESENT MOVEMENT...NW OR 315 DEGREES AT 2 MPH...4 KM/H
-MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
+LOCATION...16.3N 127.3W
+ABOUT 1220 MI...1960 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 2 MPH...4 KM/H
+MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
 
 
 WATCHES AND WARNINGS
@@ -73,19 +73,18 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM PDT (0900 UTC), the center of Tropical Storm Otis was
-located near latitude 16.1 North, longitude 127.4 West.  Otis is
-moving toward the northwest near 2 mph (4 km/h).  A turn toward the
-north is expected later today, but Otis is forecast to move very
-little for the next 48 hours.
+At 800 AM PDT (1500 UTC), the center of Tropical Storm Otis was
+located near latitude 16.3 North, longitude 127.3 West. Otis is
+moving toward the north near 2 mph (4 km/h).  A slow northward or
+north-northwestward motion is expected during the next day or two.
 
-Maximum sustained winds have increased to near 50 mph (85 km/h)
-with higher gusts.  Some additional strengthening is possible today.
+Maximum sustained winds have increased to near 60 mph (95 km/h) with
+higher gusts.  Some additional strengthening is possible today.
 
 Tropical-storm-force winds extend outward up to 45 miles (75 km)
 from the center.
 
-The estimated minimum central pressure is 1001 mb (29.56 inches).
+The estimated minimum central pressure is 999 mb (29.50 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -95,10 +94,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 800 AM PDT.
+Next complete advisory at 200 PM PDT.
 
 $$
-Forecaster Zelinsky
+Forecaster Cangialosi
 
 NNNN
 </message>

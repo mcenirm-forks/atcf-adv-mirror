@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP172017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>12A</advisoryNumber>
+<advisoryNumber>13</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170917 06:00:00 AM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170917 12:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709171200</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0600 AM MDT Sun Sep 17</messageDateTimeLocalStr>
-<timeEpochSeconds>1505649600</timeEpochSeconds>
+<messageDateTimeLocal>20170917 09:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170917 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709171500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0900 AM MDT Sun Sep 17</messageDateTimeLocalStr>
+<timeEpochSeconds>1505660400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>NORMA</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>20.7</centerLocLatitude>
+<centerLocLatitude>20.9</centerLocLatitude>
 <centerLocLongitude>-110.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>20.7N</centerLocLatitudeExpanded>
+<centerLocLatitudeExpanded>20.9N</centerLocLatitudeExpanded>
 <centerLocLongitudeExpanded>110.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>45</systemIntensityMph>
 <systemIntensityKph>75</systemIntensityKph>
 <systemIntensityKts>40</systemIntensityKts>
-<systemMslpMb>1002</systemMslpMb>
-<systemMslpInHg>29.59</systemMslpInHg>
+<systemMslpMb>1003</systemMslpMb>
+<systemMslpInHg>29.62</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,46 +43,41 @@
 <systemSpeedKph>7</systemSpeedKph>
 <systemSpeedKts>4</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 155 MI...250 KM SSW OF CABO SAN LUCAS MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 145 MI...230 KM SSW OF CABO SAN LUCAS MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Norma Intermediate Advisory Number 12A
+Tropical Storm Norma Advisory Number  13
 NWS National Hurricane Center Miami FL       EP172017
-600 AM MDT Sun Sep 17 2017
+900 AM MDT Sun Sep 17 2017
 
 ...WEAKENING NORMA HEADING TOWARD SOUTHERN BAJA CALIFORNIA...
 
 
-SUMMARY OF 600 AM MDT...1200 UTC...INFORMATION
+SUMMARY OF 900 AM MDT...1500 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...20.7N 110.5W
-ABOUT 155 MI...250 KM SSW OF CABO SAN LUCAS MEXICO
+LOCATION...20.9N 110.5W
+ABOUT 145 MI...230 KM SSW OF CABO SAN LUCAS MEXICO
 MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
 PRESENT MOVEMENT...NNW OR 340 DEGREES AT 5 MPH...7 KM/H
-MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The government of Mexico has issued a Tropical Storm Watch for Los
+Barriles to Todos Santos and has discontinued the Tropical Storm
+Watch for Todos Santos to Cabo San Lazaro.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
-A Tropical Storm Warning is in effect for...
-* Los Barriles to Todos Santos
-
 A Tropical Storm Watch is in effect for...
-* North of Todos Santos to Cabo San Lazaro
-
-A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area, in this case within 24
-hours.
+* Los Barriles to Todos Santos
 
 A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, in this case within 36 hours.
@@ -93,27 +88,27 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 600 AM MDT (1200 UTC), the center of Tropical Storm Norma was
-located near latitude 20.7 North, longitude 110.5 West.  Norma is
-moving toward the north-northwest near 5 mph (7 km/h).  A turn
-toward the northwest is expected on Monday.  On the forecast track,
-the center of Norma will move just west of the Baja California
-peninsula today and Monday.
+At 900 AM MDT (1500 UTC), the center of Tropical Storm Norma was
+located near latitude 20.9 North, longitude 110.5 West. Norma is
+moving toward the north-northwest near 5 mph (7 km/h). On the
+forecast track, the center of Norma will move just west of the Baja
+California peninsula today and Monday.
 
-Maximum sustained winds have decreased to near 45 mph (75 km/h)
-with higher gusts.  Additional weakening is expected through Monday.
+Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
+Some weakening is forecast during the next 48 hours and Norma is
+expected to become a tropical depression by late Monday or Tuesday.
 
 Tropical-storm-force winds extend outward up to 90 miles (150 km)
 from the center.
 
-The estimated minimum central pressure is 1002 mb (29.59 inches).
+The estimated minimum central pressure is 1003 mb (29.62 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 RAINFALL:  Norma is expected to produce total rainfall accumulations
-of 2 to 4 inches over the southern portion of the Mexican state of
-Baja California Sur, with isolated maximum amounts up to 8 inches.
+of 1 to 2 inches over the southern portion of the Mexican state of
+Baja California Sur, with isolated maximum amounts up to 4 inches.
 These rainfall amounts may produce life-threatening flash floods.
 
 WIND:  Tropical storm conditions are expected to first reach the
@@ -130,12 +125,12 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 900 AM MDT.
+Next intermediate advisory at 1200 PM MDT.
+Next complete advisory at 300 PM MDT.
 
 $$
 Forecaster Landsea
 
 NNNN
-
 </message>
 </cycloneMessage>
