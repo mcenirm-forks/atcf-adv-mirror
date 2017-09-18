@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>25</advisoryNumber>
+<advisoryNumber>26</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170917 02:00:00 PM PDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170917 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709172100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 PM PDT Sun Sep 17</messageDateTimeLocalStr>
-<timeEpochSeconds>1505682000</timeEpochSeconds>
+<messageDateTimeLocal>20170917 08:00:00 PM PDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170918 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709180300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM PDT Sun Sep 17</messageDateTimeLocalStr>
+<timeEpochSeconds>1505703600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>OTIS</systemName>
@@ -19,52 +19,52 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>17.0</centerLocLatitude>
-<centerLocLongitude>-127.3</centerLocLongitude>
+<centerLocLatitude>18.0</centerLocLatitude>
+<centerLocLongitude>-127.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>17.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>127.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.0N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>127.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>105</systemIntensityMph>
-<systemIntensityKph>165</systemIntensityKph>
-<systemIntensityKts>90</systemIntensityKts>
-<systemMslpMb>973</systemMslpMb>
-<systemMslpInHg>28.74</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
+<systemIntensityMph>115</systemIntensityMph>
+<systemIntensityKph>185</systemIntensityKph>
+<systemIntensityKts>100</systemIntensityKts>
+<systemMslpMb>965</systemMslpMb>
+<systemMslpInHg>28.50</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>N OR 360 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>5</systemSpeedMph>
-<systemSpeedKph>7</systemSpeedKph>
-<systemSpeedKts>4</systemSpeedKts>
+<systemSpeedMph>8</systemSpeedMph>
+<systemSpeedKph>13</systemSpeedKph>
+<systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1200 MI...1930 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1170 MI...1880 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Otis Advisory Number  25
+Hurricane Otis Advisory Number  26
 NWS National Hurricane Center Miami FL       EP152017
-200 PM PDT Sun Sep 17 2017
+800 PM PDT Sun Sep 17 2017
 
-...OTIS RAPIDLY STRENGTHENING...
-...NOW A CATEGORY 2 HURRICANE...
+...OTIS NOW A CATEGORY 3 HURRICANE BUT EXPECTED TO REMAIN FAR
+OFFSHORE...
 
 
-SUMMARY OF 200 PM PDT...2100 UTC...INFORMATION
+SUMMARY OF 800 PM PDT...0300 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...17.0N 127.3W
-ABOUT 1200 MI...1930 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
-PRESENT MOVEMENT...N OR 360 DEGREES AT 5 MPH...7 KM/H
-MINIMUM CENTRAL PRESSURE...973 MB...28.74 INCHES
+LOCATION...18.0N 127.2W
+ABOUT 1170 MI...1880 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 8 MPH...13 KM/H
+MINIMUM CENTRAL PRESSURE...965 MB...28.50 INCHES
 
 
 WATCHES AND WARNINGS
@@ -74,20 +74,22 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 PM PDT (2100 UTC), the center of Hurricane Otis was located
-near latitude 17.0 North, longitude 127.3 West. Otis is moving
-toward the north near 5 mph (7 km/h). A slow northward or
-north-northwestward motion is expected during the next day or two.
+At 800 PM PDT (0300 UTC), the center of Hurricane Otis was located
+near latitude 18.0 North, longitude 127.2 West.  Otis is moving
+toward the north near 8 mph (13 km/h).  A slower northward motion
+is expected on Monday, followed by a turn to the west and southwest
+by late Tuesday.
 
-Maximum sustained winds have significantly increased to near 105 mph
-(165 km/h) with higher gusts.  Some additional strengthening is
-possible through tonight, but weakening should commence on Monday.
+Maximum sustained winds have increased to near 115 mph (185 km/h)
+with higher gusts.  Otis is a category 3 hurricane on the
+Saffir-Simpson Hurricane Wind Scale.  Some weakening is forecast to
+begin late Monday, with rapid weakening possible on Tuesday.
 
-Otis is a very compact system.  Hurricane-force winds extend outward
-up to 25 miles (35 km) from the center and tropical-storm-force
-winds extend outward up to 70 miles (110 km).
+Hurricane-force winds extend outward up to 25 miles (35 km) from the
+center and tropical-storm-force winds extend outward up to 70 miles
+(110 km).
 
-The estimated minimum central pressure is 973 mb (28.74 inches).
+The estimated minimum central pressure is 965 mb (28.50 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -97,10 +99,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 800 PM PDT.
+Next complete advisory at 200 AM PDT.
 
 $$
-Forecaster Cangialosi
+Forecaster Blake
 
 NNNN
 </message>
