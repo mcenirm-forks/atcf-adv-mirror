@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>51</advisoryNumber>
+<advisoryNumber>51A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170917 11:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170918 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709180300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM EDT Sun Sep 17</messageDateTimeLocalStr>
-<timeEpochSeconds>1505703600</timeEpochSeconds>
+<messageDateTimeLocal>20170918 02:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170918 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709180600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM EDT Mon Sep 18</messageDateTimeLocalStr>
+<timeEpochSeconds>1505714400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -19,12 +19,12 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>32.2</centerLocLatitude>
+<centerLocLatitude>32.6</centerLocLatitude>
 <centerLocLongitude>-71.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>32.2N</centerLocLatitudeExpanded>
+<centerLocLatitudeExpanded>32.6N</centerLocLatitudeExpanded>
 <centerLocLongitudeExpanded>71.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
@@ -43,7 +43,7 @@
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 305 MI...490 KM SE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 290 MI...465 KM SE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
 <systemGeoRefPt2>ABOUT 395 MI...640 KM W OF BERMUDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
@@ -51,19 +51,20 @@ ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Advisory Number  51
+Hurricane Jose Intermediate Advisory Number 51A
 NWS National Hurricane Center Miami FL       AL122017
-1100 PM EDT Sun Sep 17 2017
+200 AM EDT Mon Sep 18 2017
 
-...JOSE MAINTAINING ITS INTENSITY AS IT MOVES NORTHWARD...
+...TROPICAL STORM WATCHES IN EFFECT FOR A PORTION OF THE
+MID-ATLANTIC AND NEW ENGLAND COAST...
 ...DANGEROUS SURF AND RIP CURRENTS EXPECTED ALONG THE EAST COAST OF
 THE UNITED STATES...
 
 
-SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...32.2N 71.6W
-ABOUT 305 MI...490 KM SE OF CAPE HATTERAS NORTH CAROLINA
+SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...32.6N 71.6W
+ABOUT 290 MI...465 KM SE OF CAPE HATTERAS NORTH CAROLINA
 ABOUT 395 MI...640 KM W OF BERMUDA
 MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
 PRESENT MOVEMENT...N OR 360 DEGREES AT 9 MPH...15 KM/H
@@ -99,27 +100,25 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM EDT (0300 UTC), the center of Hurricane Jose was located
-near latitude 32.2 North, longitude 71.6 West.  Jose is moving
-toward the north near 9 mph (15 km/h) and this general motion is
-expected to continue through Monday night.  A turn toward the
+At 200 AM EDT (0600 UTC), the center of Hurricane Jose was located
+near latitude 32.6 North, longitude 71.6 West.  Jose is moving
+toward the north near 9 mph (15 km/h), and this general motion is
+expected to continue through tonight.  A turn toward the
 north-northeast is expected on Tuesday.  On the forecast track, the
 center of Jose is forecast to pass well offshore of the Outer Banks
-of North Carolina on Monday, and pass well east of the Delmarva
-peninsula Monday night and Tuesday.
+of North Carolina today, and pass well east of the Delmarva
+peninsula tonight and Tuesday.
 
-Reports from a NOAA and Air Force Reserve Hurricane Hunter aircraft
-indicate that the maximum sustained winds are near 90 mph (150 km/h)
-with higher gusts.  Little change in strength is expected during
-the next day or so, and Jose is forecast to remain a hurricane
-through Tuesday.
+Maximum sustained winds are near 90 mph (150 km/h) with higher
+gusts.  Little change in strength is expected during the next day or
+so, and Jose is forecast to remain a hurricane through Tuesday
+night.
 
-Hurricane-force winds extend outward up to 60 miles (95 km) from the
-center and tropical-storm-force winds extend outward up to 205 miles
-(335 km).
+Hurricane-force winds extend outward up to 60 miles (95 km) from
+the center and tropical-storm-force winds extend outward up to 205
+miles (335 km).
 
-The lastest minimum central pressure estimated from reconnaissance
-data is 972 mb (28.71 inches).
+The estimated minimum central pressure is 972 mb (28.71 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -144,12 +143,12 @@ isolated flooding.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 AM EDT.
 Next complete advisory at 500 AM EDT.
 
 $$
-Forecaster Brown
+Forecaster Roberts
 
 NNNN
+
 </message>
 </cycloneMessage>
