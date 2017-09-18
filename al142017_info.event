@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "13",
+  "advisoryNumber": "14",
   "atcfID": "AL142017",
-  "centerLocLatitude": "13.6",
-  "centerLocLatitudeExpanded": "13.6N",
-  "centerLocLongitude": "-38.5",
-  "centerLocLongitudeExpanded": "38.5W",
+  "centerLocLatitude": "14.1",
+  "centerLocLatitudeExpanded": "14.1N",
+  "centerLocLongitude": "-39.8",
+  "centerLocLongitudeExpanded": "39.8W",
   "event_title": "TROPICAL DEPRESSION LEE",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -38.5,
-      13.6
+      -39.8,
+      14.1
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Lee Advisory Number  13\nNWS National Hurricane Center Miami FL       AL142017\n1100 PM AST Sun Sep 17 2017\n\n...LEE FORECAST TO BECOME A REMNANT LOW ON MONDAY...\n\n\nSUMMARY OF 1100 PM AST...0300 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...13.6N 38.5W\nABOUT 980 MI...1580 KM W OF THE CABO VERDE ISLANDS\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...WNW OR 290 DEGREES AT 10 MPH...17 KM/H\nMINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 PM AST (0300 UTC), the center of Tropical Depression Lee was\nlocated near latitude 13.6 North, longitude 38.5 West.  The\ndepression is moving toward the west-northwest near 10 mph\n(17 km/h), and this general motion is expected to continue over\nthe next couple of days.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nWeakening is expected during the next 48 hours, and Lee is forecast\nto degenerate into a remnant low by late Monday.\n\nThe estimated minimum central pressure is 1007 mb (29.74 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 AM AST.\n\n$$\nForecaster Brown\n\nNNNN",
+  "message": "ZCZC MIATCPAT4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Lee Advisory Number  14\nNWS National Hurricane Center Miami FL       AL142017\n500 AM AST Mon Sep 18 2017\n\n...POORLY ORGANIZED LEE EXPECTED TO BECOME A REMNANT LOW BY\nTONIGHT...\n\n\nSUMMARY OF 500 AM AST...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...14.1N 39.8W\nABOUT 1060 MI...1710 KM W OF THE CABO VERDE ISLANDS\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...WNW OR 290 DEGREES AT 13 MPH...20 KM/H\nMINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 AM AST (0900 UTC), the center of Tropical Depression Lee was\nlocated near latitude 14.1 North, longitude 39.8 West. The\ndepression is moving toward the west-northwest near 13 mph (20 km/h)\nand this motion is expected to continue during the next couple of\ndays.\n\nMaximum sustained winds remain near 35 mph (55 km/h) with higher\ngusts.  Weakening is expected during the next 48 hours, and Lee is\nforecast to degenerate into a remnant low by tonight.\n\nThe estimated minimum central pressure is 1007 mb (29.74 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 AM AST.\n\n$$\nForecaster Roberts\n\nNNNN",
   "messageBinNumber": "4",
-  "messageDateTimeLocal": "20170917 11:00:00 PM AST",
-  "messageDateTimeLocalStr": "1100 PM AST Sun Sep 17",
-  "messageDateTimeUTC": "20170918 03:00:00 AM UTC",
-  "messageDateTimeUTC24": "201709180300",
+  "messageDateTimeLocal": "20170918 05:00:00 AM AST",
+  "messageDateTimeLocalStr": "0500 AM AST Mon Sep 18",
+  "messageDateTimeUTC": "20170918 09:00:00 AM UTC",
+  "messageDateTimeUTC24": "201709180900",
   "messageType": "ROUTINE ADVISORY",
   "systemDirectionOfMotion": "WNW OR 290 DEGREES",
-  "systemGeoRefPt1": "ABOUT 980 MI...1580 KM W OF THE CABO VERDE ISLANDS",
+  "systemGeoRefPt1": "ABOUT 1060 MI...1710 KM W OF THE CABO VERDE ISLANDS",
   "systemIntensityKph": "55",
   "systemIntensityKts": "30",
   "systemIntensityMph": "35",
@@ -66,10 +66,10 @@
   "systemMslpMb": "1007",
   "systemName": "LEE",
   "systemSaffirSimpsonCategory": "N/A",
-  "systemSpeedKph": "17",
-  "systemSpeedKts": "9",
-  "systemSpeedMph": "10",
+  "systemSpeedKph": "20",
+  "systemSpeedKts": "11",
+  "systemSpeedMph": "13",
   "systemType": "TROPICAL DEPRESSION",
-  "time": "2017-09-18 03:00:00",
-  "timeEpochSeconds": "1505703600"
+  "time": "2017-09-18 09:00:00",
+  "timeEpochSeconds": "1505725200"
 }

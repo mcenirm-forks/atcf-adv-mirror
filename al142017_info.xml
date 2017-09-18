@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>13</advisoryNumber>
+<advisoryNumber>14</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170917 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170918 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709180300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Sun Sep 17</messageDateTimeLocalStr>
-<timeEpochSeconds>1505703600</timeEpochSeconds>
+<messageDateTimeLocal>20170918 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170918 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709180900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Mon Sep 18</messageDateTimeLocalStr>
+<timeEpochSeconds>1505725200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>LEE</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>13.6</centerLocLatitude>
-<centerLocLongitude>-38.5</centerLocLongitude>
+<centerLocLatitude>14.1</centerLocLatitude>
+<centerLocLongitude>-39.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>13.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>38.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>14.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>39.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -39,30 +39,31 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>10</systemSpeedMph>
-<systemSpeedKph>17</systemSpeedKph>
-<systemSpeedKts>9</systemSpeedKts>
+<systemSpeedMph>13</systemSpeedMph>
+<systemSpeedKph>20</systemSpeedKph>
+<systemSpeedKts>11</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 980 MI...1580 KM W OF THE CABO VERDE ISLANDS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 1060 MI...1710 KM W OF THE CABO VERDE ISLANDS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Lee Advisory Number  13
+Tropical Depression Lee Advisory Number  14
 NWS National Hurricane Center Miami FL       AL142017
-1100 PM AST Sun Sep 17 2017
+500 AM AST Mon Sep 18 2017
 
-...LEE FORECAST TO BECOME A REMNANT LOW ON MONDAY...
+...POORLY ORGANIZED LEE EXPECTED TO BECOME A REMNANT LOW BY
+TONIGHT...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...13.6N 38.5W
-ABOUT 980 MI...1580 KM W OF THE CABO VERDE ISLANDS
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...14.1N 39.8W
+ABOUT 1060 MI...1710 KM W OF THE CABO VERDE ISLANDS
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...WNW OR 290 DEGREES AT 10 MPH...17 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 13 MPH...20 KM/H
 MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
 
 
@@ -73,15 +74,15 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the center of Tropical Depression Lee was
-located near latitude 13.6 North, longitude 38.5 West.  The
-depression is moving toward the west-northwest near 10 mph
-(17 km/h), and this general motion is expected to continue over
-the next couple of days.
+At 500 AM AST (0900 UTC), the center of Tropical Depression Lee was
+located near latitude 14.1 North, longitude 39.8 West. The
+depression is moving toward the west-northwest near 13 mph (20 km/h)
+and this motion is expected to continue during the next couple of
+days.
 
-Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-Weakening is expected during the next 48 hours, and Lee is forecast
-to degenerate into a remnant low by late Monday.
+Maximum sustained winds remain near 35 mph (55 km/h) with higher
+gusts.  Weakening is expected during the next 48 hours, and Lee is
+forecast to degenerate into a remnant low by tonight.
 
 The estimated minimum central pressure is 1007 mb (29.74 inches).
 
@@ -93,10 +94,10 @@ None
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
-Forecaster Brown
+Forecaster Roberts
 
 NNNN
 </message>

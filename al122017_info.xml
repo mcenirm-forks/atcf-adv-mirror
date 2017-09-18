@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>51A</advisoryNumber>
+<advisoryNumber>52</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170918 02:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170918 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709180600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM EDT Mon Sep 18</messageDateTimeLocalStr>
-<timeEpochSeconds>1505714400</timeEpochSeconds>
+<messageDateTimeLocal>20170918 05:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170918 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709180900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM EDT Mon Sep 18</messageDateTimeLocalStr>
+<timeEpochSeconds>1505725200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>32.6</centerLocLatitude>
-<centerLocLongitude>-71.6</centerLocLongitude>
+<centerLocLatitude>33.0</centerLocLatitude>
+<centerLocLongitude>-71.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>32.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>71.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>33.0N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>71.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>90</systemIntensityMph>
-<systemIntensityKph>150</systemIntensityKph>
-<systemIntensityKts>80</systemIntensityKts>
-<systemMslpMb>972</systemMslpMb>
-<systemMslpInHg>28.71</systemMslpInHg>
+<systemIntensityMph>85</systemIntensityMph>
+<systemIntensityKph>140</systemIntensityKph>
+<systemIntensityKts>75</systemIntensityKts>
+<systemMslpMb>974</systemMslpMb>
+<systemMslpInHg>28.77</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,32 +43,31 @@
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 290 MI...465 KM SE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 395 MI...640 KM W OF BERMUDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 280 MI...450 KM ESE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 385 MI...620 KM W OF BERMUDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Intermediate Advisory Number 51A
+Hurricane Jose Advisory Number  52
 NWS National Hurricane Center Miami FL       AL122017
-200 AM EDT Mon Sep 18 2017
+500 AM EDT Mon Sep 18 2017
 
-...TROPICAL STORM WATCHES IN EFFECT FOR A PORTION OF THE
-MID-ATLANTIC AND NEW ENGLAND COAST...
+...JOSE WEAKENS A LITTLE...STILL MOVING NORTHWARD...
 ...DANGEROUS SURF AND RIP CURRENTS EXPECTED ALONG THE EAST COAST OF
 THE UNITED STATES...
 
 
-SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...32.6N 71.6W
-ABOUT 290 MI...465 KM SE OF CAPE HATTERAS NORTH CAROLINA
-ABOUT 395 MI...640 KM W OF BERMUDA
-MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
+LOCATION...33.0N 71.4W
+ABOUT 280 MI...450 KM ESE OF CAPE HATTERAS NORTH CAROLINA
+ABOUT 385 MI...620 KM W OF BERMUDA
+MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
 PRESENT MOVEMENT...N OR 360 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...972 MB...28.71 INCHES
+MINIMUM CENTRAL PRESSURE...974 MB...28.77 INCHES
 
 
 WATCHES AND WARNINGS
@@ -100,25 +99,26 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM EDT (0600 UTC), the center of Hurricane Jose was located
-near latitude 32.6 North, longitude 71.6 West.  Jose is moving
-toward the north near 9 mph (15 km/h), and this general motion is
-expected to continue through tonight.  A turn toward the
-north-northeast is expected on Tuesday.  On the forecast track, the
-center of Jose is forecast to pass well offshore of the Outer Banks
-of North Carolina today, and pass well east of the Delmarva
-peninsula tonight and Tuesday.
+At 500 AM EDT (0900 UTC), the center of Hurricane Jose was located
+near latitude 33.0 North, longitude 71.4 West. Jose is moving toward
+the north near 9 mph (15 km/h) and this general motion is expected
+to continue through tonight.  A turn toward the north-northeast is
+expected on Tuesday night.  On the forecast track, the center of
+Jose is forecast to pass well offshore of the Outer Banks of North
+Carolina today, pass well east of the Delmarva peninsula tonight
+and Tuesday, and pass well to the east of the New Jersey coast on
+Wednesday.
 
-Maximum sustained winds are near 90 mph (150 km/h) with higher
-gusts.  Little change in strength is expected during the next day or
-so, and Jose is forecast to remain a hurricane through Tuesday
-night.
+Maximum sustained winds have decreased to near 85 mph (140 km/h)
+with higher gusts.  Some gradual weakening is expected during
+the next couple of days, however, Jose is forecast to remain a
+hurricane through Tuesday.
 
-Hurricane-force winds extend outward up to 60 miles (95 km) from
-the center and tropical-storm-force winds extend outward up to 205
-miles (335 km).
+Hurricane-force winds extend outward up to 60 miles (95 km) from the
+center and tropical-storm-force winds extend outward up to 205 miles
+(335 km).
 
-The estimated minimum central pressure is 972 mb (28.71 inches).
+The estimated minimum central pressure is 974 mb (28.77 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -132,23 +132,23 @@ dangerous surf and rip current conditions for the next several
 days in these areas.  For more information, please consult products
 from your local weather office.
 
-RAINFALL...Jose is expected to produce total rain accumulations of 3
-to 5 inches over eastern Long Island, southern Rhode Island, and
-southeast Massachusetts, including Martha's Vineyard and Nantucket
-through Wednesday.  Jose is also expected to produce total rain
-accumulations of 1 to 3 inches along the Mid Atlantic coast, and
-from southeast New York to coastal Maine.  This rainfall could cause
-isolated flooding.
+RAINFALL... Jose is expected to produce total rain accumulations of
+3 to 5 inches over eastern Long Island, southeast Connecticut,
+southern Rhode Island, and southeast Massachusetts, including
+Martha's Vineyard and Nantucket through Wednesday. Jose is also
+expected to produce total rain accumulations of 1 to 3 inches along
+the mid-Atlantic coast, and from southeast New York to coastal
+Maine. This rainfall could cause isolated flooding.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM EDT.
+Next intermediate advisory at 800 AM EDT.
+Next complete advisory at 1100 AM EDT.
 
 $$
 Forecaster Roberts
 
 NNNN
-
 </message>
 </cycloneMessage>
