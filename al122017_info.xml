@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>56A</advisoryNumber>
+<advisoryNumber>57</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170919 08:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170919 12:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709191200</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 AM EDT Tue Sep 19</messageDateTimeLocalStr>
-<timeEpochSeconds>1505822400</timeEpochSeconds>
+<messageDateTimeLocal>20170919 11:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170919 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709191500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM EDT Tue Sep 19</messageDateTimeLocalStr>
+<timeEpochSeconds>1505833200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>JOSE</systemName>
@@ -19,62 +19,63 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>36.3</centerLocLatitude>
-<centerLocLongitude>-71.6</centerLocLongitude>
+<centerLocLatitude>36.5</centerLocLatitude>
+<centerLocLongitude>-71.7</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>36.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>71.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>36.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>71.7W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>75</systemIntensityMph>
 <systemIntensityKph>120</systemIntensityKph>
 <systemIntensityKts>65</systemIntensityKts>
-<systemMslpMb>973</systemMslpMb>
-<systemMslpInHg>28.73</systemMslpInHg>
+<systemMslpMb>976</systemMslpMb>
+<systemMslpInHg>28.82</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>N OR 350 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>9</systemSpeedMph>
-<systemSpeedKph>15</systemSpeedKph>
-<systemSpeedKts>8</systemSpeedKts>
+<systemDirectionOfMotion>N OR 355 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>7</systemSpeedMph>
+<systemSpeedKph>11</systemSpeedKph>
+<systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 235 MI...380 KM ENE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 350 MI...560 KM SSW OF NANTUCKET MASSACHUSETTS</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 230 MI...370 KM ENE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 335 MI...545 KM SSW OF NANTUCKET MASSACHUSETTS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Jose Intermediate Advisory Number 56A
+Hurricane Jose Advisory Number  57
 NWS National Hurricane Center Miami FL       AL122017
-800 AM EDT Tue Sep 19 2017
+1100 AM EDT Tue Sep 19 2017
 
-...JOSE STILL A CATEGORY 1 HURRICANE...
-...EXPECTED TO PRODUCE DANGEROUS SURF AND RIP CURRENTS ALONG
+...JOSE MAINTAINING STATUS AS A CATEGORY 1 HURRICANE...
+...DANGEROUS SURF AND RIP CURRENTS EXPECTED TO CONTINUE ALONG
 THE EAST COAST OF THE UNITED STATES FOR SEVERAL MORE DAYS...
 
 
-SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION
-----------------------------------------------
-LOCATION...36.3N 71.6W
-ABOUT 235 MI...380 KM ENE OF CAPE HATTERAS NORTH CAROLINA
-ABOUT 350 MI...560 KM SSW OF NANTUCKET MASSACHUSETTS
+SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...36.5N 71.7W
+ABOUT 230 MI...370 KM ENE OF CAPE HATTERAS NORTH CAROLINA
+ABOUT 335 MI...545 KM SSW OF NANTUCKET MASSACHUSETTS
 MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
-PRESENT MOVEMENT...N OR 350 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...973 MB...28.73 INCHES
+PRESENT MOVEMENT...N OR 355 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...976 MB...28.82 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The Tropical Storm Watch has been discontinued from New Haven to
+Watch Hill.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -86,7 +87,6 @@ A Tropical Storm Warning is in effect for...
 
 A Tropical Storm Watch is in effect for...
 * The coast of Long Island from Fire Island Inlet to Port Jefferson
-* New Haven to Watch Hill
 
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area within 36 hours.
@@ -105,10 +105,10 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 AM EDT (1200 UTC), the center of Hurricane Jose was located
-by an an Air Force Reserve hurricane hunter aircraft near latitude
-36.3 North, longitude 71.6 West. Jose is moving toward the north
-near 9 mph (15 km/h).  This general motion is expected to continue
+At 1100 AM EDT (1500 UTC), the center of Hurricane Jose was located
+by an an Air Force Reserve Hurricane Hunter aircraft near latitude
+36.5 North, longitude 71.7 West. Jose is moving toward the north
+near 7 mph (11 km/h). This general motion is expected to continue
 through today with a turn to the northeast anticipated tonight.  On
 the forecast track, the center of Jose is forecast to pass well
 offshore of the Delmarva peninsula later today, pass well to the
@@ -116,20 +116,17 @@ east of the New Jersey coast on Wednesday, and pass offshore of
 southeastern Massachusetts by Thursday.
 
 Maximum sustained winds remain near 75 mph (120 km/h) with higher
-gusts.  Little change in strength is expected today, but Jose should
+gusts. Little change in strength is expected today, but Jose should
 begin to gradually weaken on Wednesday.
 
-Jose is a large tropical cyclone.  Hurricane-force winds extend
-outward up to 45 miles (75 km) from the center and tropical-storm-
-force winds extend outward up to 310 miles (500 km). A ship
-located more than 200 miles southwest of the center of Jose
-recently reported a sustained wind of 40 mph (65 km/h), and NOAA
-Buoy 44014, located east of the Virginia-North Carolina border or
-about 160 miles west of the center, also reported a sustained wind
-of 40 mph (65 km/h).
+Hurricane-force winds extend outward up to 60 miles (95 km) from the
+center and tropical-storm-force winds extend outward up to 310 miles
+(500 km).  NOAA Buoy 44014, located east of the Virginia-North
+Carolina border or about 160 miles west of the center of Jose,
+recently reported a sustained wind of 40 mph (65 km/h).
 
-The minimum central pressure recently measured by the reconnaissance
-aircraft was 973 mb (28.68 inches).
+The minimum central pressure recently reported by the reconnaissance
+aircraft was 976 mb (28.82 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -145,21 +142,21 @@ days in these areas.  For more information, please consult products
 from your local weather office.
 
 RAINFALL:  Jose is expected to produce total rain accumulations of
-1 to 3 inches over  eastern Long Island, southeast Connecticut,
+1 to 3 inches over eastern Long Island, southeast Connecticut,
 southern Rhode Island, and southeast Massachusetts. Rainfall
 amounts of 3 to 5 inches are expected for Martha's Vineyard,
-Nantucket and Cape Cod through Wednesday. This rainfall could cause
+Nantucket and Cape Cod through Wednesday.  This rainfall could cause
 isolated flooding.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM EDT.
+Next intermediate advisory at 200 PM EDT.
+Next complete advisory at 500 PM EDT.
 
 $$
 Forecaster Stewart
 
 NNNN
-
 </message>
 </cycloneMessage>
