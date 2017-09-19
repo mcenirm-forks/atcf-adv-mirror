@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL152017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>12</advisoryNumber>
+<advisoryNumber>12A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170918 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170919 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709190300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Mon Sep 18</messageDateTimeLocalStr>
-<timeEpochSeconds>1505790000</timeEpochSeconds>
+<messageDateTimeLocal>20170919 02:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170919 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709190600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM AST Tue Sep 19</messageDateTimeLocalStr>
+<timeEpochSeconds>1505800800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>MARIA</systemName>
@@ -19,21 +19,21 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>15.5</centerLocLatitude>
-<centerLocLongitude>-61.4</centerLocLongitude>
+<centerLocLatitude>15.7</centerLocLatitude>
+<centerLocLongitude>-61.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>15.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>61.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>15.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>61.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>160</systemIntensityMph>
-<systemIntensityKph>260</systemIntensityKph>
-<systemIntensityKts>140</systemIntensityKts>
-<systemMslpMb>924</systemMslpMb>
-<systemMslpInHg>27.29</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 5</systemSaffirSimpsonCategory>
+<systemIntensityMph>155</systemIntensityMph>
+<systemIntensityKph>250</systemIntensityKph>
+<systemIntensityKts>135</systemIntensityKts>
+<systemMslpMb>942</systemMslpMb>
+<systemMslpInHg>27.82</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 4</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
@@ -43,29 +43,30 @@
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 0 MI...0 KM NW OF DOMINICA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 270 MI...435 KM SE OF ST. CROIX</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 45 MI...70 KM WNW OF DOMINICA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 235 MI...380 KM SE OF ST. CROIX</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Maria Advisory Number  12
+Hurricane Maria Intermediate Advisory Number 12A
 NWS National Hurricane Center Miami FL       AL152017
-1100 PM AST Mon Sep 18 2017
+200 AM AST Tue Sep 19 2017
 
-...EYE OF CATEGORY 5 HURRICANE MARIA MOVING OVER DOMINICA...
+...MARIA REMAINS AN EXTREMELY DANGEROUS HURRICANE AFTER MOVING OVER
+DOMINICA...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...15.5N 61.4W
-ABOUT 0 MI...0 KM NW OF DOMINICA
-ABOUT 270 MI...435 KM SE OF ST. CROIX
-MAXIMUM SUSTAINED WINDS...160 MPH...260 KM/H
+SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...15.7N 61.9W
+ABOUT 45 MI...70 KM WNW OF DOMINICA
+ABOUT 235 MI...380 KM SE OF ST. CROIX
+MAXIMUM SUSTAINED WINDS...155 MPH...250 KM/H
 PRESENT MOVEMENT...WNW OR 300 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...924 MB...27.29 INCHES
+MINIMUM CENTRAL PRESSURE...942 MB...27.82 INCHES
 
 
 WATCHES AND WARNINGS
@@ -122,7 +123,7 @@ possible within the watch area, generally within 48 hours.
 
 Interests elsewhere in Hispaniola, the southeastern Bahamas, and
 the Turks and Caicos Islands should monitor the progress of Maria.
-Additional watches and warnings may be required on Tuesday.
+Additional watches and warnings may be required today.
 
 For storm information specific to your area in the United
 States, including possible inland watches and warnings, please
@@ -134,44 +135,42 @@ national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the center of Hurricane Maria was located
-near latitude 15.5 North, longitude 61.4 West. Maria is moving
+At 200 AM AST (0600 UTC), the center of Hurricane Maria was located
+near latitude 15.7 North, longitude 61.9 West. Maria is moving
 toward the west-northwest near 9 mph (15 km/h), and this general
 motion is expected to continue through Wednesday.  On the forecast
 track, the eye of Maria will move over the northeastern Caribbean
-Sea on Tuesday and approach the Virgin Islands and Puerto Rico
-Tuesday night and Wednesday.
+Sea today, and approach the Virgin Islands and Puerto Rico tonight
+and Wednesday.
 
-Reports from an Air Force Reserve Hurricane Hunter aircraft
-indicate that the maximum sustained winds are near 160 mph (260
-km/h) with higher gusts.  Maria is a category 5 hurricane on the
-Saffir-Simpson Hurricane Wind Scale  Some fluctuations in intensity
-are likely during the next day or two, but Maria is forecast to
-remain an extremely dangerous hurricane while it approaches the
-Virgin Islands and Puerto Rico.
+Reports from an Air Force Reserve Hurricane Hunter aircraft indicate
+that the maximum sustained winds have decreased only slightly, to
+near 155 mph (250 km/h) with higher gusts.  Maria is a category 4
+hurricane on the Saffir-Simpson Hurricane Wind Scale.  Some
+fluctuations in intensity are likely during the next day or two, but
+Maria is forecast to remain an extremely dangerous category 4 or 5
+hurricane while it approaches the Virgin Islands and Puerto Rico.
 
-Hurricane-force winds extend outward up to 30 miles (45 km) from the
-center and tropical-storm-force winds extend outward up to 125 miles
-(205 km).  Ham radio reports indicate significant damage to
-structures has occurred in Dominica.
+Hurricane-force winds extend outward up to 30 miles (45 km) from
+the center and tropical-storm-force winds extend outward up to 125
+miles (205 km).
 
 The minimum central pressure estimated from reconnaissance data is
-924 mb (27.29 inches).
+942 mb (27.82 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-WIND:  Hurricane conditions should continue over Dominica during
-the next few hours.  Hurricane conditions should spread throughout
-portions of the hurricane warning area in the Leeward Islands
-tonight and early Tuesday.  Hurricane conditions should spread
-through the remainder of the Hurricane Warning area Tuesday
-and Wednesday.  Hurricane conditions are possible within the
+WIND:  Winds over Dominica are diminishing.  Hurricane conditions
+should spread throughout portions of the hurricane warning area in
+the Leeward Islands this morning.  Hurricane conditions should
+spread through the remainder of the Hurricane Warning area later
+today and Wednesday.  Hurricane conditions are possible within the
 Hurricane Watch area in the Dominican Republic late Wednesday, with
 tropical storm conditions possible by early Wednesday.  Tropical
-storm conditions are possible in the tropical storm watch area in
-St. Vincent and the Grenadines through tonight, and are possible in
-the tropical storm watch area in the Dominican Republic on
+storm conditions are possible in the Tropical Storm Watch area in
+St. Vincent and the Grenadines this morning, and are possible in
+the Tropical Storm Watch area in the Dominican Republic on
 Wednesday.
 
 Wind speeds atop and on the windward sides of hills and mountains
@@ -224,12 +223,12 @@ weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 AM AST.
 Next complete advisory at 500 AM AST.
 
 $$
-Forecaster Brown
+Forecaster Pasch
 
 NNNN
+
 </message>
 </cycloneMessage>
