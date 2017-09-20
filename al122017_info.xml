@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>60</advisoryNumber>
+<advisoryNumber>60A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170920 05:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170920 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709200900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM EDT Wed Sep 20</messageDateTimeLocalStr>
-<timeEpochSeconds>1505898000</timeEpochSeconds>
+<messageDateTimeLocal>20170920 08:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170920 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709201200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM EDT Wed Sep 20</messageDateTimeLocalStr>
+<timeEpochSeconds>1505908800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>JOSE</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>38.4</centerLocLatitude>
-<centerLocLongitude>-70.3</centerLocLongitude>
+<centerLocLatitude>38.8</centerLocLatitude>
+<centerLocLongitude>-70.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>38.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>70.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>38.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>70.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>65</systemIntensityMph>
 <systemIntensityKph>100</systemIntensityKph>
 <systemIntensityKts>55</systemIntensityKts>
-<systemMslpMb>975</systemMslpMb>
-<systemMslpInHg>28.80</systemMslpInHg>
+<systemMslpMb>976</systemMslpMb>
+<systemMslpInHg>28.82</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,37 +43,35 @@
 <systemSpeedKph>13</systemSpeedKph>
 <systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 195 MI...310 KM S OF NANTUCKET MASSACHUSETTS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 165 MI...265 KM S OF NANTUCKET MASSACHUSETTS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Jose Advisory Number  60
+Tropical Storm Jose Intermediate Advisory Number 60A
 NWS National Hurricane Center Miami FL       AL122017
-500 AM EDT Wed Sep 20 2017
+800 AM EDT Wed Sep 20 2017
 
-...JOSE WEAKENS AS IT MOVES OVER COOLER OCEAN WATERS...
-...DANGEROUS SURF AND RIP CURRENTS ALONG THE U.S. EAST COAST WILL
-CONTINUE FOR SEVERAL MORE DAYS...
+...JOSE CONTINUES TO PRODUCE DANGEROUS SURF AND RIP CURRENTS ALONG
+A LARGE PORTION OF THE U.S. EAST COAST...
 
 
-SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...38.4N 70.3W
-ABOUT 195 MI...310 KM S OF NANTUCKET MASSACHUSETTS
+LOCATION...38.8N 70.2W
+ABOUT 165 MI...265 KM S OF NANTUCKET MASSACHUSETTS
 MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
 PRESENT MOVEMENT...NE OR 40 DEGREES AT 8 MPH...13 KM/H
-MINIMUM CENTRAL PRESSURE...975 MB...28.80 INCHES
+MINIMUM CENTRAL PRESSURE...976 MB...28.82 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The tropical storm watch has been discontinued along the coast of
-Long Island from Fire Island Inlet to Port Jefferson.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -94,13 +92,13 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM EDT (0900 UTC), the center of Tropical Storm Jose was
-located near latitude 38.4 North, longitude 70.3 West. Jose is
+At 800 AM EDT (1200 UTC), the center of Tropical Storm Jose was
+located near latitude 38.8 North, longitude 70.2 West.  Jose is
 moving toward the northeast near 8 mph (13 km/h), and this general
-motion is expected to continue through today with a decrease in
-forward speed.  On the forecast track, the center of Jose
-is expected to pass well to the east of the New Jersey coast today,
-and pass offshore of southeastern Massachusetts Thursday.
+motion with a decrease in forward speed is expected to continue
+through tonight.  On the forecast track, the center of Jose is
+expected to pass well to the east of the New Jersey coast today, and
+pass offshore of southeastern Massachusetts on Thursday.
 
 Maximum sustained winds are near 65 mph (100 km/h) with higher
 gusts.  Gradual weakening is forecast during the next couple of
@@ -109,20 +107,20 @@ days.
 Tropical-storm-force winds extend outward up to 230 miles (370 km)
 from the center.
 
-The estimated minimum central pressure is 975 mb (28.80 inches).
+The minimum central pressure based on Air Force reconnaissance
+aircraft data is 976 mb (28.82 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 WIND:  Tropical storm conditions are expected to begin in the
-warning area later this morning.  Tropical storm conditions are
-possible in the watch area beginning today.
+warning area later today.
 
-SURF:  Swells generated by Jose are affecting Bermuda, the Bahamas,
-and much of the U.S. east coast.  These swells are likely to cause
-dangerous surf and rip current conditions for the next several
-days in these areas.  For more information, please consult products
-from your local weather office.
+SURF:  Swells generated by Jose are affecting Bermuda and much of
+the U.S. east coast.  These swells are likely to cause dangerous
+surf and rip current conditions during the next several days in
+these areas.  For more information, please consult products from
+your local weather office.
 
 RAINFALL: Jose is expected to produce the following additional
 rainfall accumulations through Thursday:
@@ -135,12 +133,12 @@ These rainfall totals could cause isolated flash flooding.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 AM EDT.
 Next complete advisory at 1100 AM EDT.
 
 $$
-Forecaster Roberts
+Forecaster Cangialosi
 
 NNNN
+
 </message>
 </cycloneMessage>
