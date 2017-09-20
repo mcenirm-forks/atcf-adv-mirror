@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>61</advisoryNumber>
+<advisoryNumber>61A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170920 11:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170920 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709201500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM EDT Wed Sep 20</messageDateTimeLocalStr>
-<timeEpochSeconds>1505919600</timeEpochSeconds>
+<messageDateTimeLocal>20170920 02:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170920 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709201800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM EDT Wed Sep 20</messageDateTimeLocalStr>
+<timeEpochSeconds>1505930400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>JOSE</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>39.0</centerLocLatitude>
-<centerLocLongitude>-70</centerLocLongitude>
+<centerLocLatitude>39.2</centerLocLatitude>
+<centerLocLongitude>-69.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>39.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>70.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>39.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>69.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>70</systemIntensityMph>
@@ -38,34 +38,33 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NE OR 35 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>NE OR 45 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>8</systemSpeedMph>
 <systemSpeedKph>13</systemSpeedKph>
 <systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 150 MI...245 KM S OF NANTUCKET MASSACHUSETTS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 140 MI...230 KM SSE OF NANTUCKET MASSACHUSETTS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Jose Advisory Number  61
+Tropical Storm Jose Intermediate Advisory Number 61A
 NWS National Hurricane Center Miami FL       AL122017
-1100 AM EDT Wed Sep 20 2017
+200 PM EDT Wed Sep 20 2017
 
-...AIR FORCE HURRICANE HUNTERS INDICATE THAT JOSE IS A STRONG
-TROPICAL STORM...
+...OUTER RAINBANDS NEAR THE COAST OF SOUTHERN NEW ENGLAND...
 ...DANGEROUS SURF AND RIP CURRENTS EXPECTED TO CONTINUE FOR SEVERAL
 MORE DAYS ALONG MUCH OF THE EAST COAST OF THE UNITED STATES...
 
 
-SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...39.0N 70.0W
-ABOUT 150 MI...245 KM S OF NANTUCKET MASSACHUSETTS
+SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...39.2N 69.3W
+ABOUT 140 MI...230 KM SSE OF NANTUCKET MASSACHUSETTS
 MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
-PRESENT MOVEMENT...NE OR 35 DEGREES AT 8 MPH...13 KM/H
+PRESENT MOVEMENT...NE OR 45 DEGREES AT 8 MPH...13 KM/H
 MINIMUM CENTRAL PRESSURE...976 MB...28.82 INCHES
 
 
@@ -85,7 +84,7 @@ A Tropical Storm Warning is in effect for...
 
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area, in this case within the
-next 12 to 24 hours.
+next 12 hours.
 
 For storm information specific to your area, including possible
 inland watches and warnings, please monitor products issued by your
@@ -94,24 +93,25 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM EDT (1500 UTC), the center of Tropical Storm Jose was
-located near latitude 39.0 North, longitude 70.0 West.  Jose is
+At 200 PM EDT (1800 UTC), the center of Tropical Storm Jose was
+located near latitude 39.2 North, longitude 70.0 West.  Jose is
 moving toward the northeast near 8 mph (13 km/h), and this general
 motion with a decrease in forward speed is expected to continue
-through tonight.  A slow westward motion is expected to begin on
-Thursday.  On the forecast track, the center of Jose is expected to
-pass well to the east of the New Jersey coast today, and pass
-offshore of southeastern Massachusetts on Thursday.
+through tonight.  A slow westward motion should begin on Thursday.
+On the forecast track, the center of Jose is expected to pass well
+to the east of the New Jersey coast today, and pass offshore of
+southeastern Massachusetts on Thursday.
 
-Maximum sustained winds are near 70 mph (110 km/h) with higher
+Maximum sustained winds remain near 70 mph (110 km/h) with higher
 gusts.  Gradual weakening is forecast during the next couple of
 days.
 
 Jose is a large system.  Tropical-storm-force winds extend outward
-up to 205 miles (335 km) from the center.
+up to 205 miles (335 km) from the center. NOAA buoy 44008, located
+about 65 miles southeast of Nantucket, recently reported a sustained
+wind of 40 mph (65 km/h) and a gust to 52 mph (83 km/h).
 
-The minimum central pressure based on data from the Air Force
-Hurricane Hunters is 976 mb (28.82 inches).
+The estimated minimum central pressure is 976 mb (28.82 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -135,12 +135,12 @@ These rainfall totals could cause isolated flash flooding.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 PM EDT.
 Next complete advisory at 500 PM EDT.
 
 $$
 Forecaster Cangialosi
 
 NNNN
+
 </message>
 </cycloneMessage>
