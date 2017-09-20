@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL152017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>18A</advisoryNumber>
+<advisoryNumber>19</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170920 02:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170920 06:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709201800</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 PM AST Wed Sep 20</messageDateTimeLocalStr>
-<timeEpochSeconds>1505930400</timeEpochSeconds>
+<messageDateTimeLocal>20170920 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170920 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709202100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Wed Sep 20</messageDateTimeLocalStr>
+<timeEpochSeconds>1505941200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>MARIA</systemName>
@@ -19,21 +19,21 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>18.5</centerLocLatitude>
-<centerLocLongitude>-66.9</centerLocLongitude>
+<centerLocLatitude>18.8</centerLocLatitude>
+<centerLocLongitude>-67.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>18.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>66.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>67.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>115</systemIntensityMph>
-<systemIntensityKph>185</systemIntensityKph>
-<systemIntensityKts>100</systemIntensityKts>
-<systemMslpMb>961</systemMslpMb>
-<systemMslpInHg>28.38</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
+<systemIntensityMph>110</systemIntensityMph>
+<systemIntensityKph>175</systemIntensityKph>
+<systemIntensityKts>95</systemIntensityKts>
+<systemMslpMb>957</systemMslpMb>
+<systemMslpInHg>28.26</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
@@ -43,43 +43,46 @@
 <systemSpeedKph>19</systemSpeedKph>
 <systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 15 MI...20 KM W OF ARECIBO PUERTO RICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 95 MI...155 KM E OF PUNTA CANA DOMINICAN REPUBLIC</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 25 MI...45 KM NNW OF AGUADILLA PUERTO RICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 75 MI...120 KM E OF PUNTA CANA DOMINICAN REPUBLIC</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Maria Intermediate Advisory Number 18A
+Hurricane Maria Advisory Number  19
 NWS National Hurricane Center Miami FL       AL152017
-200 PM AST Wed Sep 20 2017
+500 PM AST Wed Sep 20 2017
 
-...AIR FORCE HURRICANE HUNTER PLANE FINDS MARIA'S CENTER JUST
-OFFSHORE OF THE NORTHWESTERN COAST OF PUERTO RICO...
+...CATASTROPHIC FLASH FLOODING OCCURRING OVER PORTIONS OF PUERTO
+RICO...
+...CONDITIONS NOW DETERIORATING OVER EASTERN DOMINICAN REPUBLIC...
 
 
-SUMMARY OF 200 PM AST...1800 UTC...INFORMATION
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...18.5N 66.9W
-ABOUT 15 MI...20 KM W OF ARECIBO PUERTO RICO
-ABOUT 95 MI...155 KM E OF PUNTA CANA DOMINICAN REPUBLIC
-MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
+LOCATION...18.8N 67.3W
+ABOUT 25 MI...45 KM NNW OF AGUADILLA PUERTO RICO
+ABOUT 75 MI...120 KM E OF PUNTA CANA DOMINICAN REPUBLIC
+MAXIMUM SUSTAINED WINDS...110 MPH...175 KM/H
 PRESENT MOVEMENT...NW OR 305 DEGREES AT 12 MPH...19 KM/H
-MINIMUM CENTRAL PRESSURE...961 MB...28.38 INCHES
+MINIMUM CENTRAL PRESSURE...957 MB...28.26 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The Hurricane Warning for the U.S. Virgin Islands has been
+discontinued.
+
+The government of Antigua and Barbuda has discontinued the
+Hurricane Warning for the British Virgin Islands.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Hurricane Warning is in effect for...
-* U.S. Virgin Islands
-* British Virgin Islands
 * Puerto Rico, Culebra, and Vieques
 * Dominican Republic from Cabo Engano to Puerto Plata
 * Turks and Caicos Islands and the Southeastern Bahamas
@@ -110,57 +113,46 @@ progress of Maria.
 For storm information specific to your area in the United States,
 including possible inland watches and warnings, please monitor
 products issued by your local National Weather Service forecast
-office. For storm information specific to your area outside the
-United States, please monitor products issued by your national
+office.  For storm information specific to your area outside
+the United States, please monitor products issued by your national
 meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 PM AST (1800 UTC), the center of Hurricane Maria was located
-by an Air Force Reserve Hurricane Hunter aircraft just offshore of
-the northwestern coast of Puerto Rico near latitude 18.5 North,
-longitude 66.9 West.  Maria is moving toward the northwest near 12
-mph (19 km/h), and this general motion with a gradual decrease in
-forward speed is expected through early Friday. On the forecast
-track, the center of Maria will move away from the northwestern
-coast of Puerto Rico this afternoon.  The center will then pass
-offshore of the northeastern coast of the Dominican Republic tonight
-and Thursday and then move near the Turks and Caicos Islands and
-southeastern Bahamas Thursday night and Friday.
+At 500 PM AST (2100 UTC), the eye of Hurricane Maria was located
+near latitude 18.8 North, longitude 67.3 West.  Maria is moving
+toward the northwest near 12 mph (19 km/h), and this general motion
+with a decrease in forward speed is expected through Thursday night.
+A turn toward the north-northwest is forecast on Friday.  On the
+forecast track, the center of Maria will continue to move away from
+the northwestern coast of Puerto Rico this evening.  The center will
+then pass offshore of the northeastern coast of the Dominican
+Republic tonight and Thursday and then move near the Turks and
+Caicos Islands and southeastern Bahamas Thursday night and Friday.
 
-Maximum sustained winds are near 115 mph (185 km/h) with higher
-gusts.  Maria is a category 3 hurricane on the Saffir-Simpson
-Hurricane Wind Scale.  Little change in strength is forecast during
-the next 48 hours, and Maria is expected to remain a dangerous major
-hurricane through Friday.
+Data from an Air Force Reserve Hurricane Hunter aircraft indicate
+that maximum sustained winds are near 110 mph (175 km/h) with higher
+gusts.  Some strengthening is forecast during the next day or two,
+and Maria could regain major hurricane status by Thursday.
 
-Hurricane-force winds extend outward up to 60 miles (95 km) from
-the center, and tropical-storm-force winds extend outward up to 150
-miles (240 km).  A sustained wind of 45 mph (72 km/h) with a gust
-to 77 mph (124 km/h) was recently reported at Mayaguez, Puerto
-Rico.  A sustained wind of 46 mph (74 km/h) with a gust to 76 mph
-(122 km/h) was recently reported at Cabo Rojo, Puerto Rico.
+Hurricane-force winds extend outward up to 60 miles (95 km) from the
+center, and tropical-storm-force winds extend outward up to 150
+miles (240 km).
 
-The minimum central pressure based on the aircraft data is 961 mb
-(28.38 inches).
+The minimum central pressure based on data from the Air Force
+aircraft is 957 mb (28.26 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-WIND:  Hurricane conditions are occurring over portions of Puerto
-Rico, and tropical storm conditions are continuing over the
-remainder of Puerto Rico and the Virgin Islands.  Tropical storm
-conditions are likely beginning in the warning areas in the
-Dominican Republic, and hurricane conditions should start in the
-hurricane warning area tonight. Tropical storm conditions are
-expected to begin in the Turks and Caicos Islands and the
-southeastern Bahamas Thursday morning, with hurricane conditions
-starting Thursday evening.
-
-Wind speeds atop and on the windward sides of hills and mountains
-and on high-rise buildings could be much stronger than the near-
-surface winds indicated in this advisory.
+WIND:  Hurricane and tropical storm conditions are still occurring
+over portions of Puerto Rico.  Tropical storm conditions are
+spreading across the warning areas in the Dominican Republic, and
+hurricane conditions should start in the hurricane warning area
+tonight.  Tropical storm conditions are expected to begin in the
+Turks and Caicos Islands and the southeastern Bahamas on Thursday,
+with hurricane conditions starting Thursday night.
 
 STORM SURGE:  The combination of a dangerous storm surge and the
 tide will cause normally dry areas near the coast to be flooded by
@@ -168,15 +160,15 @@ rising waters moving inland from the shoreline.  The water is
 expected to reach the following heights above ground if the peak
 surge occurs at the time of high tide...
 
-Puerto Rico...6 to 9 ft
+Puerto Rico...3 to 5 ft
 
-The deepest water will occur along the immediate coast near and to
-the north and east of the landfall location, where the surge will be
-accompanied by large and destructive waves.  Surge-related flooding
-depends on the relative timing of the surge and the tidal cycle, and
-can vary greatly over short distances.  For information specific to
-your area, please see products issued by your local National Weather
-Service forecast office.
+The deepest water will occur along the immediate coast in areas of
+onshore wind over western portions of Puerto Rico, where the surge
+will be accompanied by large and destructive waves.  Surge-related
+flooding depends on the relative timing of the surge and the tidal
+cycle, and can vary greatly over short distances.  For information
+specific to your area, please see products issued by your local
+National Weather Service forecast office.
 
 A dangerous storm surge accompanied by large and destructive waves
 will raise water levels by as much as 4 to 6 feet above normal tide
@@ -185,26 +177,21 @@ levels in the hurricane warning area in the Dominican Republic, and
 Republic and Haiti.
 
 A dangerous storm surge accompanied by large and destructive waves
-will raise water levels by as much as 10 to 15 feet above normal
-tide levels in the hurricane warning area near and to the north of
-the center of Maria for both the Southeastern Bahamas and the Turks
-and Caicos Islands.
+will raise water levels by as much as 9 to 12 feet above normal
+tide levels within the hurricane warning area of the southeastern
+Bahamas and the Turks and Caicos Islands.
 
 RAINFALL:  Maria is expected to produce the following rainfall
 totals through Friday:
 
 Puerto Rico...20 to 25 inches, isolated 35 inches
-U.S. and British Virgin Islands...additional 5 to 10 inches,
-isolated 15 inches
+U.S. and British Virgin Islands...additional 3 to 5 inches
 Northern and eastern Dominican Republic, Turks and Caicos and
 southeast Bahamas...8 to 16 inches, isolated 20 inches
 Northern Haiti...2 to 4 inches
 
 Rainfall on these islands will cause life-threatening flash floods
 and mudslides
-
-TORNADOES:  Several tornadoes are possible over Puerto Rico and the
-U.S. Virgin Islands today.
 
 SURF:  Swells generated by Maria are affecting the Leeward Islands,
 Puerto Rico, and the Virgin Islands.  These swells will begin
@@ -217,12 +204,12 @@ office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM AST.
+Next intermediate advisory at 800 PM AST.
+Next complete advisory at 1100 PM AST.
 
 $$
 Forecaster Berg
 
 NNNN
-
 </message>
 </cycloneMessage>
