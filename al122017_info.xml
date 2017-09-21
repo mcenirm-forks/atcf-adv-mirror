@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>66</advisoryNumber>
+<advisoryNumber>66A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170921 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170921 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709212100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Thu Sep 21</messageDateTimeLocalStr>
-<timeEpochSeconds>1506027600</timeEpochSeconds>
+<messageDateTimeLocal>20170921 08:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170922 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709220000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM AST Thu Sep 21</messageDateTimeLocalStr>
+<timeEpochSeconds>1506038400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>JOSE</systemName>
@@ -20,12 +20,12 @@
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>39.6</centerLocLatitude>
-<centerLocLongitude>-67.9</centerLocLongitude>
+<centerLocLongitude>-68.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>39.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>67.9W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>68.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>50</systemIntensityMph>
@@ -38,33 +38,33 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>STATIONARY</systemDirectionOfMotion>
-<systemSpeedMph>0</systemSpeedMph>
-<systemSpeedKph>0</systemSpeedKph>
-<systemSpeedKts>0</systemSpeedKts>
+<systemDirectionOfMotion>W OF 270 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>2</systemSpeedMph>
+<systemSpeedKph>4</systemSpeedKph>
+<systemSpeedKts>2</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 155 MI...250 KM SE OF NANTUCKET MASSACHUSETTS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 150 MI...240 KM SE OF NANTUCKET MASSACHUSETTS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Jose Advisory Number  66
+Tropical Storm Jose Intermediate Advisory Number 66A
 NWS National Hurricane Center Miami FL       AL122017
-500 PM AST Thu Sep 21 2017
+800 PM AST Thu Sep 21 2017
 
-...JOSE MOVING LITTLE...
+...JOSE MEANDERING OFFSHORE OF THE COAST OF SOUTHERN NEW ENGLAND...
 ...TROPICAL STORM CONDITIONS CONTINUE OVER EXTREME SOUTHEASTERN NEW
 ENGLAND...
 
 
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...39.6N 67.9W
-ABOUT 155 MI...250 KM SE OF NANTUCKET MASSACHUSETTS
+LOCATION...39.6N 68.1W
+ABOUT 150 MI...240 KM SE OF NANTUCKET MASSACHUSETTS
 MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
-PRESENT MOVEMENT...STATIONARY
+PRESENT MOVEMENT...W OF 270 DEGREES AT 2 MPH...4 KM/H
 MINIMUM CENTRAL PRESSURE...987 MB...29.15 INCHES
 
 
@@ -82,9 +82,6 @@ A Tropical Storm Warning is in effect for...
 * Martha's Vineyard
 * Nantucket
 
-A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area.
-
 For storm information specific to your area, including possible
 inland watches and warnings, please monitor products issued by your
 local National Weather Service forecast office.
@@ -92,22 +89,23 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM AST (2100 UTC), the center of Tropical Storm Jose was
-located near latitude 39.6 North, longitude 67.9 West.  Jose is
-currently stationary, and the system is expected to meander well
-offshore of the coast of southeastern New England during the next
-few days.
+At 800 PM AST (0000 UTC), the center of Tropical Storm Jose was
+located near latitude 39.6 North, longitude 68.1 West.  Jose is
+drifting westward near 2 mph (4 km/h).  The system is expected to
+meander well offshore of the coast of southeastern New England
+during the next few days.
 
-Maximum sustained winds have decreased to near 50 mph (85 km/h) with
-higher gusts.  Gradual weakening is forecast during the next couple
-of days, and Jose is expected to become post-tropical on Friday.
+Maximum sustained winds are near 50 mph (85 km/h) with higher
+gusts. Gradual weakening is forecast during the next couple of days,
+and Jose is expected to become post-tropical on Friday.
 
 Jose is a large system.  Tropical-storm-force winds extend outward
-up to 205 miles (335 km) from the center.  A sustained wind of 39
-mph (63 km/h) with a gust to 52 mph (83 km/h) was recently reported
-at the Nantucket airport.  An unofficial observing site in Vineyard
-Haven on Martha's Vineyard just reported a sustained wind of 42
-mph (69 km/h) with a gust to 52 mph (83 km/h).
+up to 205 miles (335 km) from the center.  A sustained wind of 40
+mph (65 km/h) with a gust to 59 mph (94 km/h) was reported at the
+Nantucket airport within the past few hours.  An unofficial
+observing site in Vineyard Haven on Martha's Vineyard has reported
+a sustained wind of 39 mph (63 km/h) with a gust to 47 mph
+(76 km/h) within the past hour.
 
 The estimated minimum central pressure is 987 mb (29.15 inches).
 
@@ -129,12 +127,12 @@ islands of Martha's Vineyard and Nantucket.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 PM AST.
 Next complete advisory at 1100 PM AST.
 
 $$
-Forecaster Cangialosi
+Forecaster Brown
 
 NNNN
+
 </message>
 </cycloneMessage>
