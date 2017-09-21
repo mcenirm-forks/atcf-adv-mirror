@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL152017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>20</advisoryNumber>
+<advisoryNumber>20A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170920 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170921 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709210300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Wed Sep 20</messageDateTimeLocalStr>
-<timeEpochSeconds>1505962800</timeEpochSeconds>
+<messageDateTimeLocal>20170921 02:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170921 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709210600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM AST Thu Sep 21</messageDateTimeLocalStr>
+<timeEpochSeconds>1505973600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>MARIA</systemName>
@@ -19,21 +19,21 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>19.2</centerLocLatitude>
-<centerLocLongitude>-67.9</centerLocLongitude>
+<centerLocLatitude>19.4</centerLocLatitude>
+<centerLocLongitude>-68.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>19.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>67.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>19.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>68.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>110</systemIntensityMph>
-<systemIntensityKph>175</systemIntensityKph>
-<systemIntensityKts>95</systemIntensityKts>
+<systemIntensityMph>115</systemIntensityMph>
+<systemIntensityKph>185</systemIntensityKph>
+<systemIntensityKts>100</systemIntensityKts>
 <systemMslpMb>959</systemMslpMb>
 <systemMslpInHg>28.32</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
+<systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
@@ -43,30 +43,29 @@
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 55 MI...85 KM NE OF PUNTA CANA DOMINICAN REPUBLIC</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 260 MI...420 KM SE OF GRAND TURK ISLAND</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 55 MI...90 KM N OF PUNTA CANA DOMINICAN REPUBLIC</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 235 MI...380 KM SE OF GRAND TURK ISLAND</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Maria Advisory Number  20
+Hurricane Maria Intermediate Advisory Number 20A
 NWS National Hurricane Center Miami FL       AL152017
-1100 PM AST Wed Sep 20 2017
+200 AM AST Thu Sep 21 2017
 
-...HURRICANE MARIA MOVING AWAY FROM PUERTO RICO BUT TORRENTIAL
-RAINS CONTINUE...
-...WEATHER CONDITIONS DETERIORATING OVER EASTERN DOMINICAN REPUBLIC
-AND WILL SOON IN THE TURK AND CAICOS ISLANDS...
+...MARIA REGAINS MAJOR HURRICANE STATUS NEAR THE EASTERN DOMINICAN
+REPUBLIC...
+...TORRENTIAL RAINS CONTINUE OVER PUERTO RICO...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...19.2N 67.9W
-ABOUT 55 MI...85 KM NE OF PUNTA CANA DOMINICAN REPUBLIC
-ABOUT 260 MI...420 KM SE OF GRAND TURK ISLAND
-MAXIMUM SUSTAINED WINDS...110 MPH...175 KM/H
+SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...19.4N 68.2W
+ABOUT 55 MI...90 KM N OF PUNTA CANA DOMINICAN REPUBLIC
+ABOUT 235 MI...380 KM SE OF GRAND TURK ISLAND
+MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
 PRESENT MOVEMENT...NW OR 310 DEGREES AT 9 MPH...15 KM/H
 MINIMUM CENTRAL PRESSURE...959 MB...28.32 INCHES
 
@@ -75,8 +74,7 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Hurricane Warning for Puerto Rico, Culebra, and Vieques has
-been discontinued.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -105,53 +103,53 @@ within the watch area, in this case within the next 12 hours.
 Interests elsewhere in Hispaniola and the Bahamas should monitor the
 progress of Maria.
 
-For storm information specific to your area in the United States,
-including possible inland watches and warnings, please monitor
-products issued by your local National Weather Service forecast
-office.  For storm information specific to your area outside
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area outside
 the United States, please monitor products issued by your national
 meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the large eye of Hurricane Maria
-was located near latitude 19.2 North, longitude 67.9 West.  Maria is
+At 200 AM AST (0600 UTC), the large eye of Hurricane Maria was
+located near latitude 19.4 North, longitude 68.2 West.  Maria is
 moving toward the northwest near 9 mph (15 km/h), and this general
-motion with a decrease in forward speed is expected through Thursday
-night.  A turn toward the north-northwest is forecast on Friday.  On
-the forecast track, the core of Hurricane Maria will continue to
+motion with a decrease in forward speed is expected through
+tonight.  A turn toward the north-northwest is forecast on Friday.
+On the forecast track, the core of Hurricane Maria will continue to
 move away from Puerto Rico during the next several hours, and then
 pass offshore of the northeastern coast of the Dominican Republic
-early Thursday.  Maria should then move near the Turks and Caicos
-Islands and the southeastern Bahamas Thursday night and Friday.
+early today.  Maria should then move near the Turks and Caicos
+Islands and the southeastern Bahamas tonight and Friday.
 
-Maximum sustained winds remain near 110 mph (175 km/h) with higher
-gusts.  Some strengthening is forecast during the next day or two,
-and Maria could regain major hurricane status by Thursday.
+Maximum sustained winds have increased to near 115 mph (185 km/h)
+with higher gusts.  Maria is a category 3 hurricane on the
+Saffir-Simpson Hurricane Wind Scale.  Some additional strengthening
+is possible over the next day or so.
 
-Hurricane-force winds extend outward up to 60 miles (95 km) from the
-center and tropical-storm-force winds extend outward up to 150 miles
-(240 km).  Punta Cana in the Dominican Republic recently reported a
-wind gust to 66 mph (106 km/h).
+Hurricane-force winds extend outward up to 60 miles (95 km) from
+the center and tropical-storm-force winds extend outward up to 150
+miles (240 km).  Punta Cana in the Dominican Republic recently
+reported a wind gust to 58 mph (93 km/h).
 
-The minimum central pressure estimated from reconnaissance aircraft
-data is 959 mb (28.32 inches).
+The minimum central pressure estimated from Air Force Hurricane
+Hunter observations is 959 mb (28.32 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 WIND:  Strong gusty winds are still occurring over portions of
 Puerto Rico, but should continue to gradually subside.  Tropical
-storm conditions are already spreading across the warning areas in
-the Dominican Republic, and hurricane conditions should start in the
-Hurricane Warning area soon.  Tropical storm conditions are expected
-to begin in the Turks and Caicos Islands and the southeastern
-Bahamas on Thursday, with hurricane conditions starting Thursday
-night.
+storm or hurricane conditions are spreading across portions of the
+warning areas in the Dominican Republic.  Hurricane conditions are
+expected to begin in portions of the Turks and Caicos Islands and
+the southeastern Bahamas tonight, with tropical storm conditions
+beginning in these areas later today.
 
-STORM SURGE:  Water levels in Puerto Rico should begin to recede
-in the next few hours.
+STORM SURGE:  Water levels in Puerto Rico should continue receding
+during the next few hours.
 
 A dangerous storm surge accompanied by large and destructive waves
 will raise water levels by as much as 4 to 6 feet above normal tide
@@ -187,11 +185,10 @@ products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 AM AST.
 Next complete advisory at 500 AM AST.
 
 $$
-Forecaster Avila
+Forecaster Pasch
 
 NNNN
 </message>
