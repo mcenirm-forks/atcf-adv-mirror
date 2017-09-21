@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>63A</advisoryNumber>
+<advisoryNumber>64</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170921 02:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170921 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709210600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM AST Thu Sep 21</messageDateTimeLocalStr>
-<timeEpochSeconds>1505973600</timeEpochSeconds>
+<messageDateTimeLocal>20170921 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170921 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709210900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Thu Sep 21</messageDateTimeLocalStr>
+<timeEpochSeconds>1505984400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>JOSE</systemName>
@@ -38,32 +38,33 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>ENE OR 60 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>6</systemSpeedMph>
-<systemSpeedKph>9</systemSpeedKph>
-<systemSpeedKts>5</systemSpeedKts>
+<systemDirectionOfMotion>E OR 90 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>2</systemSpeedMph>
+<systemSpeedKph>4</systemSpeedKph>
+<systemSpeedKts>2</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 150 MI...245 KM SE OF NANTUCKET MASSACHUSETTS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 150 MI...240 KM SE OF NANTUCKET MASSACHUSETTS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Jose Intermediate Advisory Number 63A
+Tropical Storm Jose Advisory Number  64
 NWS National Hurricane Center Miami FL       AL122017
-200 AM AST Thu Sep 21 2017
+500 AM AST Thu Sep 21 2017
 
-...OUTER BANDS OF JOSE BRINGING RAIN AND GUSTY CONDITIONS TO THE
-COAST OF SOUTHEASTERN NEW ENGLAND...
+...GUSTY AND RAINY CONDITIONS ALONG PARTS OF THE SOUTHEAST NEW
+ENGLAND COAST WILL CONTINUE TODAY...
+...HIGH SURF AND RIP CURRENTS LIKELY TO CONTINUE ON US EAST COAST...
 
 
-SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
 ----------------------------------------------
 LOCATION...39.8N 67.8W
-ABOUT 150 MI...245 KM SE OF NANTUCKET MASSACHUSETTS
+ABOUT 150 MI...240 KM SE OF NANTUCKET MASSACHUSETTS
 MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
-PRESENT MOVEMENT...ENE OR 60 DEGREES AT 6 MPH...9 KM/H
+PRESENT MOVEMENT...E OR 90 DEGREES AT 2 MPH...4 KM/H
 MINIMUM CENTRAL PRESSURE...982 MB...29.00 INCHES
 
 
@@ -91,24 +92,23 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM AST (0600 UTC), the center of Tropical Storm Jose was
+At 500 AM AST (0900 UTC), the center of Tropical Storm Jose was
 located near latitude 39.8 North, longitude 67.8 West.  Jose is
-moving toward the east-northeast near 6 mph (9 km/h), and this
-general motion with a decrease in forward speed is expected through
-this afternoon.  A slow westward motion should begin tonight.  On
-the forecast track, the center of Jose is expected to meander off
-the coast of southern New England during the next few days.
-
-Maximum sustained winds are near 60 mph (95 km/h) with higher gusts.
-Additional gradual weakening is forecast during the next couple of
+moving toward the east near 2 mph (4 km/h).  Jose is expected to
+meander off the coast of southeast New England for the next several
 days.
 
+Maximum sustained winds are near 60 mph (95 km/h) with higher gusts.
+Gradual weakening is forecast during the next 48 h.  Jose is
+forecast to become post-tropical by Friday.
+
 Tropical-storm-force winds extend outward up to 230 miles (370 km)
-from the center.  The Nantucket Airport recently reported a gust to
-47 mph (76 km/h).
+from the center.  A gust to 48 mph (78 km/h) was recently reported
+at the Nantucket Airport.  An unofficial observing site in Vineyard
+Haven recently reported a sustained wind of 38 mph (61 km/h) and a
+gust to 49 mph (80 km/h).
 
 The estimated minimum central pressure is 982 mb (29.00 inches).
-
 
 HAZARDS AFFECTING LAND
 ----------------------
@@ -129,12 +129,12 @@ Nantucket...additional 2 to 4 inches.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next intermediate advisory at 800 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
 Forecaster Zelinsky
 
 NNNN
-
 </message>
 </cycloneMessage>
