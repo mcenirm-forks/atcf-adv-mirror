@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>62</advisoryNumber>
+<advisoryNumber>62A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170920 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170920 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709202100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Wed Sep 20</messageDateTimeLocalStr>
-<timeEpochSeconds>1505941200</timeEpochSeconds>
+<messageDateTimeLocal>20170920 08:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170921 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709210000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM AST Wed Sep 20</messageDateTimeLocalStr>
+<timeEpochSeconds>1505952000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>JOSE</systemName>
@@ -19,26 +19,26 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>39.2</centerLocLatitude>
-<centerLocLongitude>-69.1</centerLocLongitude>
+<centerLocLatitude>39.4</centerLocLatitude>
+<centerLocLongitude>-68.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>39.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>69.1W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>39.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>68.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>70</systemIntensityMph>
-<systemIntensityKph>110</systemIntensityKph>
-<systemIntensityKts>60</systemIntensityKts>
-<systemMslpMb>976</systemMslpMb>
-<systemMslpInHg>28.82</systemMslpInHg>
+<systemIntensityMph>65</systemIntensityMph>
+<systemIntensityKph>100</systemIntensityKph>
+<systemIntensityKts>55</systemIntensityKts>
+<systemMslpMb>979</systemMslpMb>
+<systemMslpInHg>28.91</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NE OR 45 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>NE OR 55 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>8</systemSpeedMph>
 <systemSpeedKph>13</systemSpeedKph>
 <systemSpeedKts>7</systemSpeedKts>
@@ -50,9 +50,9 @@ ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Jose Advisory Number  62
+Tropical Storm Jose Intermediate Advisory Number 62A
 NWS National Hurricane Center Miami FL       AL122017
-500 PM AST Wed Sep 20 2017
+800 PM AST Wed Sep 20 2017
 
 ...TROPICAL STORM CONDITIONS EXPECTED TO OCCUR IN PORTIONS OF
 SOUTHERN NEW ENGLAND TONIGHT...
@@ -60,13 +60,13 @@ SOUTHERN NEW ENGLAND TONIGHT...
 MORE DAYS ALONG MUCH OF THE EAST COAST OF THE UNITED STATES...
 
 
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...39.2N 69.1W
+LOCATION...39.4N 68.6W
 ABOUT 145 MI...235 KM SSE OF NANTUCKET MASSACHUSETTS
-MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
-PRESENT MOVEMENT...NE OR 45 DEGREES AT 8 MPH...13 KM/H
-MINIMUM CENTRAL PRESSURE...976 MB...28.82 INCHES
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...NE OR 55 DEGREES AT 8 MPH...13 KM/H
+MINIMUM CENTRAL PRESSURE...979 MB...28.91 INCHES
 
 
 WATCHES AND WARNINGS
@@ -84,8 +84,7 @@ A Tropical Storm Warning is in effect for...
 * Nantucket
 
 A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area, in this case within the
-next 12 hours.
+expected somewhere within the warning area.
 
 For storm information specific to your area, including possible
 inland watches and warnings, please monitor products issued by your
@@ -94,24 +93,27 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM AST (2100 UTC), the center of Tropical Storm Jose was
-located near latitude 39.2 North, longitude 69.1 West.  Jose is
+At 800 PM AST (0000 UTC), the center of Tropical Storm Jose was
+located near latitude 39.4 North, longitude 68.6 West.  Jose is
 moving toward the northeast near 8 mph (13 km/h), and this general
 motion with a decrease in forward speed is expected through tonight.
 A slow westward motion should begin by Thursday night.  On the
 forecast track, the center of Jose is expected to meander off the
 coast of southern New England during the next few days.
 
-Maximum sustained winds are near 70 mph (110 km/h) with higher
-gusts.  Gradual weakening is forecast during the next couple of
-days.
+Reports from an Air Force Reserve reconnaissance aircraft indicate
+that the maximum sustained winds have decreased to near 65 mph
+(110 km/h) with higher gusts.  Gradual weakening is forecast during
+the next couple of days.
 
-Jose is a large tropical cyclone.  Tropical-storm-force winds extend
-outward up to 230 miles (370 km) from the center.  NOAA buoy 44008,
-located about 65 miles southeast of Nantucket, recently reported a
-sustained wind of 40 mph (65 km/h) and a gust to 52 mph (83 km/h).
+Jose is a large tropical cyclone.  Tropical-storm-force winds
+extend outward up to 230 miles (370 km) from the center.  NOAA buoy
+44008, located about 65 miles southeast of Nantucket, recently
+reported a sustained wind of 40 mph (65 km/h) and a gust to 49 mph
+(80 km/h).
 
-The estimated minimum central pressure is 976 mb (28.82 inches).
+The latest minimum central pressure measure by reconnaissance
+aircraft is 979 mb (28.91 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -135,12 +137,12 @@ These rainfall totals could cause isolated flash flooding.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 PM AST.
 Next complete advisory at 1100 PM AST.
 
 $$
-Forecaster Cangialosi
+Forecaster Brown
 
 NNNN
+
 </message>
 </cycloneMessage>
