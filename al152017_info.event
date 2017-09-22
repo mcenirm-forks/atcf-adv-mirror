@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "25",
+  "advisoryNumber": "25A",
   "atcfID": "AL152017",
-  "centerLocLatitude": "21.6",
-  "centerLocLatitudeExpanded": "21.6N",
-  "centerLocLongitude": "-70.6",
-  "centerLocLongitudeExpanded": "70.6W",
+  "centerLocLatitude": "21.9",
+  "centerLocLatitudeExpanded": "21.9N",
+  "centerLocLongitude": "-70.9",
+  "centerLocLongitudeExpanded": "70.9W",
   "event_title": "HURRICANE MARIA",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -46,21 +46,21 @@
   ],
   "location": {
     "coordinates": [
-      -70.6,
-      21.6
+      -70.9,
+      21.9
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Maria Advisory Number  25\nNWS National Hurricane Center Miami FL       AL152017\n500 AM EDT Fri Sep 22 2017\n\n...EYE OF MARIA NOW NEAR THE TURKS AND CAICOS ISLANDS...\n...TORRENTIAL RAINS AND DANGEROUS HIGH WAVES STARTING TO SUBSIDE\nALONG THE NORTH COAST OF HISPANIOLA...\n\n\nSUMMARY OF 500 AM EDT...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...21.6N 70.6W\nABOUT 35 MI...55 KM ENE OF GRAND TURK ISLAND\nABOUT 490 MI...790 KM ESE OF NASSAU\nMAXIMUM SUSTAINED WINDS...125 MPH...205 KM/H\nPRESENT MOVEMENT...NW OR 315 DEGREES AT 7 MPH...11 KM/H\nMINIMUM CENTRAL PRESSURE...959 MB...28.32 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Hurricane Warning is in effect for...\n* Dominican Republic from Cabo Engano to Puerto Plata\n* Turks and Caicos Islands and the Southeastern Bahamas\n\nA Tropical Storm Warning is in effect for...\n* Dominican Republic west of Puerto Plata to the northern border of\nthe Dominican Republic and Haiti\n\nA Tropical Storm Watch is in effect for...\n* Central Bahamas\n\nA Hurricane Warning means that hurricane conditions are expected\nsomewhere within the warning area.  Preparations to protect life and\nproperty should be rushed to completion.\n\nA Tropical Storm Warning means that tropical storm conditions are\nexpected somewhere within the warning area.\n\nA Tropical Storm Watch means that tropical storm conditions are\npossible within the watch area, generally within 48 hours.\n\nInterests elsewhere in the Bahamas should monitor the progress of\nMaria.\n\nFor storm information specific to your area, please monitor\nproducts issued by your national meteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 AM EDT (0900 UTC), the eye of Hurricane Maria was located\nnear latitude 21.6 North, longitude 70.6 West. Maria is moving\ntoward the northwest near 7 mph (11 km/h), and a motion toward the\nnorth-northwest is expected later today and Saturday.  On the\nforecast track, Maria's eye will move near or just east of the Turks\nand Caicos Islands and southeastern Bahamas today.\n\nMaximum sustained winds are near 125 mph (205 km/h) with higher\ngusts.  Maria is a category 3 hurricane on the Saffir-Simpson\nHurricane Wind Scale.  A gradual weakening is forecast during the\nnext 48 hours.\n\nHurricane-force winds extend outward up to 70 miles (110 km) from\nthe center and tropical-storm-force winds extend outward up to 160\nmiles (260 km).\n\nThe estimated minimum central pressure is 959 mb (28.32 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nWIND:  Tropical storm conditions across portions of the Dominican\nRepublic should subside during the next several hours.  Hurricane\nconditions are spreading into the Turks and Caicos Islands and the\nsoutheastern Bahamas and will continue through today.  Tropical\nstorm conditions are possible in the central Bahamas beginning late\ntoday.\n\nSTORM SURGE:  A dangerous storm surge accompanied by large and\ndestructive waves will raise water levels by as much as 4 to 6 feet\nabove normal tide levels in the hurricane warning area in the\nDominican Republic, and 1 to 3 ft elsewhere along the northern\ncoasts of the Dominican Republic and Haiti.\n\nA dangerous storm surge accompanied by large and destructive waves\nwill raise water levels by as much as 9 to 12 feet above normal\ntide levels within the hurricane warning area of the southeastern\nBahamas and the Turks and Caicos Islands.\n\nRAINFALL: Maria is expected to produce the following rainfall\naccumulations through Saturday:\n\nTurks and Caicos...8 to 16 inches, isolated 20 inches\nPuerto Rico...additional 3 to 6 inches, isolated maximum storm\ntotal amounts 40 inches\nEastern Dominican Republic...additional 4 to 8 inches, isolated\nstorm total amounts 20 inches\nWestern Dominican Republic and northern Haiti...additional 3 to 6\ninches\nMayaguana, southeast Bahamas...4 to 8 inches\nInagua Islands and Crooked Island, Bahamas...2 to 6 inches\nRest of eastern Bahamas...1 to 3 inches\n\nRainfall on these islands will continue to cause life-threatening\nflash floods and mudslides.\n\nSURF:  Swells generated by Maria are affecting Puerto Rico, the\nVirgin Islands, the northern coast of Hispaniola, the Turks and\nCaicos Islands, and the southeastern Bahamas.  These swells will\nreach the remainder of the Bahamas soon and should reach portions\nof the United States southeastern coast today.  These swells are\nlikely to cause life-threatening surf and rip current conditions.\nPlease consult products from your local weather office.\n\n\nNEXT ADVISORY\n-------------\nNext intermediate advisory at 800 AM EDT.\nNext complete advisory at 1100 AM EDT.\n\n$$\nForecaster Beven\n\nNNNN",
+  "message": "ZCZC MIATCPAT5 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Maria Intermediate Advisory Number 25A\nNWS National Hurricane Center Miami FL       AL152017\n800 AM EDT Fri Sep 22 2017\n\n...HURRICANE CONDITIONS OCCURRING ON THE TURKS AND CAICOS ISLANDS...\n\n\nSUMMARY OF 800 AM EDT...1200 UTC...INFORMATION\n----------------------------------------------\nLOCATION...21.9N 70.9W\nABOUT 30 MI...50 KM NNE OF GRAND TURK ISLAND\nABOUT 465 MI...745 KM ESE OF NASSAU\nMAXIMUM SUSTAINED WINDS...125 MPH...205 KM/H\nPRESENT MOVEMENT...NW OR 315 DEGREES AT 7 MPH...11 KM/H\nMINIMUM CENTRAL PRESSURE...959 MB...28.32 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nThe government of the Bahamas has changed the Tropical Storm Watch\nfor the central Bahamas to a Tropical Storm Warning.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Hurricane Warning is in effect for...\n* Dominican Republic from Cabo Engano to Puerto Plata\n* Turks and Caicos Islands and the Southeastern Bahamas\n\nA Tropical Storm Warning is in effect for...\n* Dominican Republic west of Puerto Plata to the northern border of\nthe Dominican Republic and Haiti\n* Central Bahamas\n\nA Hurricane Warning means that hurricane conditions are expected\nsomewhere within the warning area.  Preparations to protect life and\nproperty should be rushed to completion.\n\nA Tropical Storm Warning means that tropical storm conditions are\nexpected somewhere within the warning area.\n\nInterests elsewhere in the Bahamas should monitor the progress of\nMaria.\n\nFor storm information specific to your area, please monitor products\nissued by your national meteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 800 AM EDT (1200 UTC), the center of Hurricane Maria was located\nnear latitude 21.9 North, longitude 70.9 West.  Maria is moving\ntoward the northwest near 7 mph (11 km/h), and a motion toward the\nnorth-northwest is expected later today and Saturday.  On the\nforecast track, Maria's eye will move near or just east of the Turks\nand Caicos Islands and southeastern Bahamas today.\n\nMaximum sustained winds are near 125 mph (205 km/h) with higher\ngusts.  Maria is a category 3 hurricane on the Saffir-Simpson\nHurricane Wind Scale.  A gradual weakening is forecast during the\nnext 48 hours.\n\nHurricane-force winds extend outward up to 70 miles (110 km) from\nthe center, and tropical-storm-force winds extend outward up to 160\nmiles (260 km).\n\nThe minimum central pressure based on data from an Air Force\nReserve Hurricane Hunter aircraft is 959 mb (28.32 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nWIND:  Tropical storm conditions across portions of the Dominican\nRepublic should subside during the next several hours.  Hurricane\nconditions are spreading into the Turks and Caicos Islands and the\nsoutheastern Bahamas and will continue through today.  Tropical\nstorm conditions are expected in the central Bahamas beginning\ntonight.\n\nSTORM SURGE:  A dangerous storm surge accompanied by large and\ndestructive waves will raise water levels by as much as 9 to 12 feet\nabove normal tide levels within the hurricane warning area of the\nsoutheastern Bahamas and the Turks and Caicos Islands.\n\nRAINFALL:  Maria is expected to produce the following rainfall\naccumulations through Saturday:\n\nTurks and Caicos...8 to 16 inches, isolated 20 inches\nPuerto Rico...additional 3 to 6 inches, isolated maximum storm\ntotal amounts 40 inches\nEastern Dominican Republic...additional 4 to 8 inches, isolated\nstorm total amounts 20 inches\nWestern Dominican Republic and northern Haiti...additional 3 to 6\ninches\nMayaguana, southeast Bahamas...4 to 8 inches\nInagua Islands and Crooked Island, Bahamas...2 to 6 inches\nRest of eastern Bahamas...1 to 3 inches\n\nRainfall on these islands will continue to cause life-threatening\nflash floods and mudslides.\n\nSURF:  Swells generated by Maria are affecting Puerto Rico, the\nVirgin Islands, the northern coast of Hispaniola, the Turks and\nCaicos Islands, and the southeastern Bahamas.  These swells will\nreach the remainder of the Bahamas soon and should reach portions\nof the United States southeastern coast today.  These swells are\nlikely to cause life-threatening surf and rip current conditions.\nPlease consult products from your local weather office.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 AM EDT.\n\n$$\nForecaster Berg\n\nNNNN",
   "messageBinNumber": "5",
-  "messageDateTimeLocal": "20170922 05:00:00 AM EDT",
-  "messageDateTimeLocalStr": "0500 AM EDT Fri Sep 22",
-  "messageDateTimeUTC": "20170922 09:00:00 AM UTC",
-  "messageDateTimeUTC24": "201709220900",
-  "messageType": "ROUTINE ADVISORY",
+  "messageDateTimeLocal": "20170922 08:00:00 AM EDT",
+  "messageDateTimeLocalStr": "0800 AM EDT Fri Sep 22",
+  "messageDateTimeUTC": "20170922 12:00:00 PM UTC",
+  "messageDateTimeUTC24": "201709221200",
+  "messageType": "INTERMEDIATE ADVISORY",
   "systemDirectionOfMotion": "NW OR 315 DEGREES",
-  "systemGeoRefPt1": "ABOUT 35 MI...55 KM ENE OF GRAND TURK ISLAND",
-  "systemGeoRefPt2": "ABOUT 490 MI...790 KM ESE OF NASSAU",
+  "systemGeoRefPt1": "ABOUT 30 MI...50 KM NNE OF GRAND TURK ISLAND",
+  "systemGeoRefPt2": "ABOUT 465 MI...745 KM ESE OF NASSAU",
   "systemIntensityKph": "205",
   "systemIntensityKts": "110",
   "systemIntensityMph": "125",
@@ -72,6 +72,6 @@
   "systemSpeedKts": "6",
   "systemSpeedMph": "7",
   "systemType": "HURRICANE",
-  "time": "2017-09-22 09:00:00",
-  "timeEpochSeconds": "1506070800"
+  "time": "2017-09-22 12:00:00",
+  "timeEpochSeconds": "1506081600"
 }
