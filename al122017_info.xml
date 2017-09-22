@@ -3,29 +3,29 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>66A</advisoryNumber>
+<advisoryNumber>67</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170921 08:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170922 12:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709220000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 PM AST Thu Sep 21</messageDateTimeLocalStr>
-<timeEpochSeconds>1506038400</timeEpochSeconds>
+<messageDateTimeLocal>20170921 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170922 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709220300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Thu Sep 21</messageDateTimeLocalStr>
+<timeEpochSeconds>1506049200</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL STORM</systemType>
+<systemType>POST-TROPICAL CYCLONE</systemType>
 <systemName>JOSE</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>39.6</centerLocLatitude>
-<centerLocLongitude>-68.1</centerLocLongitude>
+<centerLocLatitude>39.5</centerLocLatitude>
+<centerLocLongitude>-68.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>39.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>68.1W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>39.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>68.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>50</systemIntensityMph>
@@ -38,33 +38,33 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OF 270 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>2</systemSpeedMph>
 <systemSpeedKph>4</systemSpeedKph>
 <systemSpeedKts>2</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 150 MI...240 KM SE OF NANTUCKET MASSACHUSETTS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 145 MI...230 KM SE OF NANTUCKET MASSACHUSETTS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Jose Intermediate Advisory Number 66A
+Post-Tropical Cyclone Jose Advisory Number  67
 NWS National Hurricane Center Miami FL       AL122017
-800 PM AST Thu Sep 21 2017
+1100 PM AST Thu Sep 21 2017
 
-...JOSE MEANDERING OFFSHORE OF THE COAST OF SOUTHERN NEW ENGLAND...
-...TROPICAL STORM CONDITIONS CONTINUE OVER EXTREME SOUTHEASTERN NEW
+...JOSE BECOMES POST TROPICAL...
+...TROPICAL STORM CONDITIONS CONTINUE IN EXTREME SOUTHEASTERN NEW
 ENGLAND...
 
 
-SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
-----------------------------------------------
-LOCATION...39.6N 68.1W
-ABOUT 150 MI...240 KM SE OF NANTUCKET MASSACHUSETTS
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...39.5N 68.4W
+ABOUT 145 MI...230 KM SE OF NANTUCKET MASSACHUSETTS
 MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
-PRESENT MOVEMENT...W OF 270 DEGREES AT 2 MPH...4 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 2 MPH...4 KM/H
 MINIMUM CENTRAL PRESSURE...987 MB...29.15 INCHES
 
 
@@ -89,23 +89,22 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 PM AST (0000 UTC), the center of Tropical Storm Jose was
-located near latitude 39.6 North, longitude 68.1 West.  Jose is
-drifting westward near 2 mph (4 km/h).  The system is expected to
-meander well offshore of the coast of southeastern New England
-during the next few days.
+At 1100 PM AST (0300 UTC), the center of Post-Tropical Cyclone Jose
+was located near latitude 39.5 North, longitude 68.4 West. Jose is
+slowly moving toward the west near 2 mph (4 km/h).  Little motion is
+expected for the next 48 hours, and Jose is forecast to meander well
+offshore of the coast of southeastern New England during the next
+few days.
 
-Maximum sustained winds are near 50 mph (85 km/h) with higher
-gusts. Gradual weakening is forecast during the next couple of days,
-and Jose is expected to become post-tropical on Friday.
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+Gradual weakening is forecast for the next two days.
 
 Jose is a large system.  Tropical-storm-force winds extend outward
-up to 205 miles (335 km) from the center.  A sustained wind of 40
-mph (65 km/h) with a gust to 59 mph (94 km/h) was reported at the
-Nantucket airport within the past few hours.  An unofficial
-observing site in Vineyard Haven on Martha's Vineyard has reported
-a sustained wind of 39 mph (63 km/h) with a gust to 47 mph
-(76 km/h) within the past hour.
+up to 205 miles (335 km) from the center.  A sustained wind of 39
+mph (63 km/h) with a gust to 54 mph (87 km/h) was recently reported
+at the Nantucket airport.  An unofficial observing site in Vineyard
+Haven on Martha's Vineyard has reported a sustained wind of 41 mph
+(63 km/h) with a gust to 52 mph (84 km/h) within the past hour.
 
 The estimated minimum central pressure is 987 mb (29.15 inches).
 
@@ -120,19 +119,20 @@ the U.S. east coast and will likely cause dangerous surf and rip
 current conditions during the next couple of days.  For more
 information, please consult products from your local weather office.
 
-RAINFALL:  Jose is expected to produce additional rainfall
-accumulations of 1 to 2 inches across Cape Cod and the offshore
-islands of Martha's Vineyard and Nantucket.
+RAINFALL:  Jose is expected to produce additional rainfall totals of
+1 to 2 inches across Cape Cod and the offshore islands of Martha's
+Vineyard and Nantucket bringing storm total accumulations towards 5
+inches.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM AST.
+Next intermediate advisory at 200 AM AST.
+Next complete advisory at 500 AM AST.
 
 $$
-Forecaster Brown
+Forecaster Zelinsky
 
 NNNN
-
 </message>
 </cycloneMessage>
