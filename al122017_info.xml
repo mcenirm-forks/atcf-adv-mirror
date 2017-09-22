@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL122017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>67A</advisoryNumber>
+<advisoryNumber>68</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170922 02:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170922 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709220600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM AST Fri Sep 22</messageDateTimeLocalStr>
-<timeEpochSeconds>1506060000</timeEpochSeconds>
+<messageDateTimeLocal>20170922 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170922 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709220900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Fri Sep 22</messageDateTimeLocalStr>
+<timeEpochSeconds>1506070800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>POST-TROPICAL CYCLONE</systemType>
 <systemName>JOSE</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>39.6</centerLocLatitude>
-<centerLocLongitude>-68.5</centerLocLongitude>
+<centerLocLatitude>39.7</centerLocLatitude>
+<centerLocLongitude>-68.7</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>39.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>68.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>39.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>68.7W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>50</systemIntensityMph>
 <systemIntensityKph>85</systemIntensityKph>
 <systemIntensityKts>45</systemIntensityKts>
-<systemMslpMb>987</systemMslpMb>
-<systemMslpInHg>29.15</systemMslpInHg>
+<systemMslpMb>990</systemMslpMb>
+<systemMslpInHg>29.24</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,28 +43,28 @@
 <systemSpeedKph>4</systemSpeedKph>
 <systemSpeedKts>2</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 135 MI...220 KM SE OF NANTUCKET MASSACHUSETTS</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 125 MI...200 KM SE OF NANTUCKET MASSACHUSETTS</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Post-Tropical Cyclone Jose Intermediate Advisory Number 67A
+Post-Tropical Cyclone Jose Advisory Number  68
 NWS National Hurricane Center Miami FL       AL122017
-200 AM AST Fri Sep 22 2017
+500 AM AST Fri Sep 22 2017
 
-...GUSTY WINDS AND RAIN CONTINUE ALONG THE FAR SOUTHEAST COAST OF
-NEW ENGLAND...
+...JOSE CONTINUES TO BRING TROPICAL STORM CONDITIONS TO CAPE COD
+AND NEARBY ISLANDS...
 
 
-SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...39.6N 68.5W
-ABOUT 135 MI...220 KM SE OF NANTUCKET MASSACHUSETTS
+LOCATION...39.7N 68.7W
+ABOUT 125 MI...200 KM SE OF NANTUCKET MASSACHUSETTS
 MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
 PRESENT MOVEMENT...W OR 270 DEGREES AT 2 MPH...4 KM/H
-MINIMUM CENTRAL PRESSURE...987 MB...29.15 INCHES
+MINIMUM CENTRAL PRESSURE...990 MB...29.24 INCHES
 
 
 WATCHES AND WARNINGS
@@ -88,22 +88,21 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM AST (0600 UTC), the center of Post-Tropical Cyclone Jose
-was located near latitude 39.6 North, longitude 68.5 West. Jose is
-moving slowly toward the west near 2 mph (4 km/h).  Little motion is
-expected for the next 48 hours, and Jose is forecast to meander well
-offshore of the coast of southeastern New England during the next
-few days.
+At 500 AM AST (0900 UTC), the center of Post-Tropical Cyclone Jose
+was located near latitude 39.7 North, longitude 68.7 West.  The
+post-tropical cyclone is moving slowly toward the west near 2 mph
+(4 km/h).  Jose is expected to meander well off the coast of New
+England for the next several days.
 
-Maximum sustained winds are near 50 mph (85 km/h) with higher
-gusts. Gradual weakening is forecast for the next two days.
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+Gradual weakening is forecast for the next 48 hours.
 
 Jose is a large system.  Tropical-storm-force winds extend outward
-up to 205 miles (335 km) from the center.  A sustained wind of 41
-mph (67 km/h) with a gust to 52 mph (83 km/h) was recently reported
+up to 220 miles (350 km) from the center.  A sustained wind of 43
+mph (69 km/h) with a gust to 53 mph (85 km/h) was recently reported
 at an unofficial observing site on Block Island.
 
-The estimated minimum central pressure is 987 mb (29.15 inches).
+The estimated minimum central pressure is 990 mb (29.24 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -116,20 +115,21 @@ the U.S. east coast and will likely cause dangerous surf and rip
 current conditions during the next couple of days.  For more
 information, please consult products from your local weather office.
 
-RAINFALL:  Jose is expected to produce additional rainfall totals of
-1 to 2 inches across Cape Cod and the offshore islands of Martha's
-Vineyard and Nantucket bringing storm total accumulations towards 5
-inches.
+Rainfall: Jose is expected to produce additional rainfall
+accumulations of up to one inch across Cape Cod and the offshore
+Islands of Martha's Vineyard and Nantucket through early Saturday.
+When including rain that has already fallen, storm total
+accumulations could reach 6 inches on Nantucket.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next intermediate advisory at 800 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
 Forecaster Zelinsky
 
 NNNN
-
 </message>
 </cycloneMessage>

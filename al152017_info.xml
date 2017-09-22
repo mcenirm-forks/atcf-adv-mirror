@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL152017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>24A</advisoryNumber>
+<advisoryNumber>25</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170922 02:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170922 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709220600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM EDT Fri Sep 22</messageDateTimeLocalStr>
-<timeEpochSeconds>1506060000</timeEpochSeconds>
+<messageDateTimeLocal>20170922 05:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170922 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709220900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM EDT Fri Sep 22</messageDateTimeLocalStr>
+<timeEpochSeconds>1506070800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>MARIA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>21.2</centerLocLatitude>
-<centerLocLongitude>-70.5</centerLocLongitude>
+<centerLocLatitude>21.6</centerLocLatitude>
+<centerLocLongitude>-70.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>21.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>70.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>21.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>70.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>125</systemIntensityMph>
@@ -38,35 +38,35 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NW OR 320 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>NW OR 315 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>7</systemSpeedMph>
 <systemSpeedKph>11</systemSpeedKph>
 <systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 45 MI...70 KM ESE OF GRAND TURK ISLAND</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 100 MI...160 KM N OF PUERTO PLATA DOMINICAN REPUBLIC</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 35 MI...55 KM ENE OF GRAND TURK ISLAND</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 490 MI...790 KM ESE OF NASSAU</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Maria Intermediate Advisory Number 24A
+Hurricane Maria Advisory Number  25
 NWS National Hurricane Center Miami FL       AL152017
-200 AM EDT Fri Sep 22 2017
+500 AM EDT Fri Sep 22 2017
 
-...EYE OF MARIA GETTING CLOSER TO THE TURKS AND CAICOS ISLANDS...
-...TORRENTIAL RAINS AND DANGEROUS HIGH WAVES CONTINUE ALONG THE
-NORTH COAST OF HISPANIOLA...
+...EYE OF MARIA NOW NEAR THE TURKS AND CAICOS ISLANDS...
+...TORRENTIAL RAINS AND DANGEROUS HIGH WAVES STARTING TO SUBSIDE
+ALONG THE NORTH COAST OF HISPANIOLA...
 
 
-SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...21.2N 70.5W
-ABOUT 45 MI...70 KM ESE OF GRAND TURK ISLAND
-ABOUT 100 MI...160 KM N OF PUERTO PLATA DOMINICAN REPUBLIC
+LOCATION...21.6N 70.6W
+ABOUT 35 MI...55 KM ENE OF GRAND TURK ISLAND
+ABOUT 490 MI...790 KM ESE OF NASSAU
 MAXIMUM SUSTAINED WINDS...125 MPH...205 KM/H
-PRESENT MOVEMENT...NW OR 320 DEGREES AT 7 MPH...11 KM/H
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 7 MPH...11 KM/H
 MINIMUM CENTRAL PRESSURE...959 MB...28.32 INCHES
 
 
@@ -99,7 +99,8 @@ expected somewhere within the warning area.
 A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, generally within 48 hours.
 
-Interests in the Bahamas should monitor the progress of Maria.
+Interests elsewhere in the Bahamas should monitor the progress of
+Maria.
 
 For storm information specific to your area, please monitor
 products issued by your national meteorological service.
@@ -107,34 +108,33 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM EDT (0600 UTC), the eye of Hurricane Maria was located
-near latitude 21.2 North, longitude 70.5 West. Maria is moving
-toward the northwest near 7 mph (12 km/h), but a motion toward the
-north-northwest is anticipated later today and Saturday. On the
-forecast track, Maria's eye will gradually move near or just east of
-the Turks and Caicos Islands and southeastern Bahamas today.
+At 500 AM EDT (0900 UTC), the eye of Hurricane Maria was located
+near latitude 21.6 North, longitude 70.6 West. Maria is moving
+toward the northwest near 7 mph (11 km/h), and a motion toward the
+north-northwest is expected later today and Saturday.  On the
+forecast track, Maria's eye will move near or just east of the Turks
+and Caicos Islands and southeastern Bahamas today.
 
 Maximum sustained winds are near 125 mph (205 km/h) with higher
 gusts.  Maria is a category 3 hurricane on the Saffir-Simpson
-Hurricane Wind Scale.  Some fluctuations in intensity are likely
-today and Saturday.
+Hurricane Wind Scale.  A gradual weakening is forecast during the
+next 48 hours.
 
 Hurricane-force winds extend outward up to 70 miles (110 km) from
 the center and tropical-storm-force winds extend outward up to 160
 miles (260 km).
 
-The latest minimum central pressure reported by an Air Force
-Reserve Hurricane Hunter aircraft is 959 mb (28.32 inches).
+The estimated minimum central pressure is 959 mb (28.32 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-WIND:  Tropical storm conditions continue across portions of the
-Dominican Republic, but should begin to subside during the next
-several hours.  Hurricane conditions are spreading into the Turks
-and Caicos Islands and the southeastern Bahamas and will continue
-through today.  Tropical storm conditions are possible in the
-central Bahamas beginning late today.
+WIND:  Tropical storm conditions across portions of the Dominican
+Republic should subside during the next several hours.  Hurricane
+conditions are spreading into the Turks and Caicos Islands and the
+southeastern Bahamas and will continue through today.  Tropical
+storm conditions are possible in the central Bahamas beginning late
+today.
 
 STORM SURGE:  A dangerous storm surge accompanied by large and
 destructive waves will raise water levels by as much as 4 to 6 feet
@@ -147,16 +147,19 @@ will raise water levels by as much as 9 to 12 feet above normal
 tide levels within the hurricane warning area of the southeastern
 Bahamas and the Turks and Caicos Islands.
 
-RAINFALL:  Maria is expected to produce the following rainfall
+RAINFALL: Maria is expected to produce the following rainfall
 accumulations through Saturday:
 
-Puerto Rico...additional 4 to 8 inches, isolated maximum storm total
-amounts 40 inches
-Northern and eastern Dominican Republic, Turks and Caicos, and
-Mayaguana in southeast Bahamas...8 to 16 inches, isolated 20 inches
-Inagua Islands, Crooked Island, and rest of southeast Bahamas...4 to
-8 inches
-Northern Haiti...4 to 8 inches
+Turks and Caicos...8 to 16 inches, isolated 20 inches
+Puerto Rico...additional 3 to 6 inches, isolated maximum storm
+total amounts 40 inches
+Eastern Dominican Republic...additional 4 to 8 inches, isolated
+storm total amounts 20 inches
+Western Dominican Republic and northern Haiti...additional 3 to 6
+inches
+Mayaguana, southeast Bahamas...4 to 8 inches
+Inagua Islands and Crooked Island, Bahamas...2 to 6 inches
+Rest of eastern Bahamas...1 to 3 inches
 
 Rainfall on these islands will continue to cause life-threatening
 flash floods and mudslides.
@@ -172,12 +175,12 @@ Please consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM EDT.
+Next intermediate advisory at 800 AM EDT.
+Next complete advisory at 1100 AM EDT.
 
 $$
 Forecaster Beven
 
 NNNN
-
 </message>
 </cycloneMessage>
