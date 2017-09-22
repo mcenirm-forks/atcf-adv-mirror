@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL152017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>23</advisoryNumber>
+<advisoryNumber>23A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170921 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170921 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709212100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Thu Sep 21</messageDateTimeLocalStr>
-<timeEpochSeconds>1506027600</timeEpochSeconds>
+<messageDateTimeLocal>20170921 08:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170922 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709220000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM AST Thu Sep 21</messageDateTimeLocalStr>
+<timeEpochSeconds>1506038400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>MARIA</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>20.8</centerLocLatitude>
-<centerLocLongitude>-69.8</centerLocLongitude>
+<centerLocLatitude>20.9</centerLocLatitude>
+<centerLocLongitude>-70</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>20.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>69.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>20.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>70.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>120</systemIntensityMph>
-<systemIntensityKph>195</systemIntensityKph>
-<systemIntensityKts>105</systemIntensityKts>
-<systemMslpMb>960</systemMslpMb>
-<systemMslpInHg>28.35</systemMslpInHg>
+<systemIntensityMph>125</systemIntensityMph>
+<systemIntensityKph>205</systemIntensityKph>
+<systemIntensityKts>110</systemIntensityKts>
+<systemMslpMb>955</systemMslpMb>
+<systemMslpInHg>28.20</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,39 +43,37 @@
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 90 MI...145 KM NE OF PUERTO PLATA DOMINICAN REPUBLIC</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 95 MI...155 KM ESE OF GRAND TURK ISLAND</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 85 MI...135 KM NNE OF PUERTO PLATA DOMINICAN REPUBLIC</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 80 MI...130 KM ESE OF GRAND TURK ISLAND</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Maria Advisory Number  23
+Hurricane Maria Intermediate Advisory Number 23A
 NWS National Hurricane Center Miami FL       AL152017
-500 PM AST Thu Sep 21 2017
+800 PM AST Thu Sep 21 2017
 
-...TROPICAL STORM CONDITIONS BEGINNING TO SPREAD OVER THE TURKS AND
+...LARGE EYE OF HURRICANE MARIA GRADUALLY APPROACHING THE TURKS AND
 CAICOS ISLANDS...
 
 
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...20.8N 69.8W
-ABOUT 90 MI...145 KM NE OF PUERTO PLATA DOMINICAN REPUBLIC
-ABOUT 95 MI...155 KM ESE OF GRAND TURK ISLAND
-MAXIMUM SUSTAINED WINDS...120 MPH...195 KM/H
+LOCATION...20.9N 70.0W
+ABOUT 85 MI...135 KM NNE OF PUERTO PLATA DOMINICAN REPUBLIC
+ABOUT 80 MI...130 KM ESE OF GRAND TURK ISLAND
+MAXIMUM SUSTAINED WINDS...125 MPH...205 KM/H
 PRESENT MOVEMENT...NW OR 315 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...960 MB...28.35 INCHES
+MINIMUM CENTRAL PRESSURE...955 MB...28.20 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of the Dominican Republic has discontinued the
-Tropical Storm Warning along the southern coast of the Dominican
-Republic west of Cabo Engano.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -100,36 +98,37 @@ expected somewhere within the warning area.
 A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, generally within 48 hours.
 
-Interests elsewhere in Hispaniola and the Bahamas should monitor the
-progress of Maria.
+Interests in the Bahamas should monitor the progress of Maria.
 
-For storm information specific to your area, please monitor
-products issued by your national meteorological service.
+For storm information specific to your area, please monitor products
+issued by your national meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM AST (2100 UTC), the large eye of Hurricane Maria was
-located near latitude 20.8 North, longitude 69.8 West.  Maria is
+At 800 PM AST (0000 UTC), the large eye of Hurricane Maria was
+located near latitude 20.9 North, longitude 70.0 West.  Maria is
 moving toward the northwest near 9 mph (15 km/h), and this general
 motion is expected to continue through tonight.  A turn toward the
 north-northwest is forecast early Friday, with that motion
-continuing through Saturday.  On the forecast track, Maria's
-eye will continue to pass offshore of the northern coast of the
+continuing through Saturday.  On the forecast track, Maria's eye
+will continue to pass offshore of the northern coast of the
 Dominican Republic this evening, and then move near or just east of
-the Turks and Caicos Islands and southeastern Bahamas tonight and on
-Friday.
+the Turks and Caicos Islands and southeastern Bahamas later
+tonight and on Friday.
 
-Maximum sustained winds are near 120 mph (195 km/h) with higher
-gusts.  Maria is a category 3 hurricane on the Saffir-Simpson
-Hurricane Wind Scale.  Little change in strength is expected during
-the next couple of days.
+Preliminary reports from an Air Force reconnaissance plane indicate
+that the maximum sustained winds have increased to around 125 mph
+(205 km/h) with higher gusts.  Maria is a category 3 hurricane on
+the Saffir-Simpson Hurricane Wind Scale.  Little change in strength
+is expected during the next couple of days.
 
 Hurricane-force winds extend outward up to 70 miles (110 km) from
 the center, and tropical-storm-force winds extend outward up to 160
 miles (260 km).
 
-The estimated minimum central pressure is 960 mb (28.35 inches).
+The estimated minimum central pressure from the reconnaissance
+plane was 955 mb (28.20 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -177,12 +176,12 @@ Please consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 PM AST.
 Next complete advisory at 1100 PM AST.
 
 $$
-Forecaster Berg
+Forecaster Avila
 
 NNNN
+
 </message>
 </cycloneMessage>
