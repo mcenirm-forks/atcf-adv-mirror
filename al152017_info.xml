@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>30</advisoryNumber>
+<advisoryNumber>31</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170923 11:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170923 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709231500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM EDT Sat Sep 23</messageDateTimeLocalStr>
-<timeEpochSeconds>1506178800</timeEpochSeconds>
+<messageDateTimeLocal>20170923 05:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170923 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709232100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM EDT Sat Sep 23</messageDateTimeLocalStr>
+<timeEpochSeconds>1506200400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>MARIA</systemName>
@@ -19,56 +19,55 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>25.4</centerLocLatitude>
-<centerLocLongitude>-72.3</centerLocLongitude>
+<centerLocLatitude>26.3</centerLocLatitude>
+<centerLocLongitude>-72.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>25.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>72.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>26.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>72.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>115</systemIntensityMph>
 <systemIntensityKph>185</systemIntensityKph>
 <systemIntensityKts>100</systemIntensityKts>
-<systemMslpMb>952</systemMslpMb>
-<systemMslpInHg>28.12</systemMslpInHg>
+<systemMslpMb>950</systemMslpMb>
+<systemMslpInHg>28.06</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNW OR 340 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>8</systemSpeedMph>
-<systemSpeedKph>13</systemSpeedKph>
-<systemSpeedKts>7</systemSpeedKts>
+<systemDirectionOfMotion>NNW OR 345 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>9</systemSpeedMph>
+<systemSpeedKph>15</systemSpeedKph>
+<systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 245 MI...395 KM E OF ELEUTHERA ISLAND</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 320 MI...515 KM E OF NASSAU</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 285 MI...460 KM E OF GREAT ABACO ISLAND</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 640 MI...1030 KM SSE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
-TTAA00 KNHC DDHHMM CCA
+TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Maria Advisory Number  30...Corrected
+Hurricane Maria Advisory Number  31
 NWS National Hurricane Center Miami FL       AL152017
-1100 AM EDT Sat Sep 23 2017
+500 PM EDT Sat Sep 23 2017
 
-Corrected to indicate the next advisory will be at 500 PM EDT
+...MARIA CONTINUES NORTH-NORTHWESTWARD...
+...INTERESTS ALONG THE CAROLINA AND MID-ATLANTIC COASTS SHOULD
+MONITOR THE PROGRESS OF MARIA...
 
-...DANGEROUS SURF AND RIP CURRENTS EXPECTED AT SOUTHEASTERN UNITED
-STATES BEACHES FOR THE NEXT SEVERAL DAYS...
 
-
-SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...25.4N 72.3W
-ABOUT 245 MI...395 KM E OF ELEUTHERA ISLAND
-ABOUT 320 MI...515 KM E OF NASSAU
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...26.3N 72.5W
+ABOUT 285 MI...460 KM E OF GREAT ABACO ISLAND
+ABOUT 640 MI...1030 KM SSE OF CAPE HATTERAS NORTH CAROLINA
 MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
-PRESENT MOVEMENT...NNW OR 340 DEGREES AT 8 MPH...13 KM/H
-MINIMUM CENTRAL PRESSURE...952 MB...28.12 INCHES
+PRESENT MOVEMENT...NNW OR 345 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...950 MB...28.06 INCHES
 
 
 WATCHES AND WARNINGS
@@ -81,32 +80,33 @@ SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 There are no coastal watches or warnings in effect.
 
-Interests in the Bahamas and along the Carolina and Mid-Atlantic
-coasts should monitor the progress of Maria.
+Interests along the Carolina and Mid-Atlantic coasts should monitor
+the progress of Maria.  Tropical storm or hurricane watches may be
+needed for a portion of the coast on Sunday.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM EDT (1500 UTC), the eye of Hurricane Maria was located
-near latitude 25.4 North, longitude 72.3 West.  Maria is moving
-toward the north-northwest near 8 mph (13 km/h), but a turn toward
-the north is expected by this evening.  A northward motion with a
+At 500 PM EDT (2100 UTC), the eye of Hurricane Maria was located
+near latitude 26.3 North, longitude 72.5 West.  Maria is moving
+toward the north-northwest near 9 mph (15 km/h), but a turn toward
+the north is expected by tonight.   A northward motion with a
 decrease in forward speed is forecast to then continue through
 Monday.  On the forecast track, Maria will move away from the
-Bahamas into the open waters of the western Atlantic today.
+Bahamas and offshore of the southeastern coast of the United
+States.
 
-Data from an Air Force Reserve reconnaissance aircraft indicate that
-maximum sustained winds have decreased to near 115 mph (185 km/h)
-with higher  gusts.  Maria is a category 3 hurricane on the
-Saffir-Simpson Hurricane Wind Scale.  Little change in strength is
-forecast during the next 48 hours.
+Maximum sustained winds are near 115 mph (185 km/h) with higher
+gusts.  Maria is a category 3 hurricane on the Saffir-Simpson
+Hurricane Wind Scale.  A gradual weakening trend is expected to
+begin late Sunday or Monday.
 
 Hurricane-force winds extend outward up to 60 miles (95 km) from the
-center, and tropical-storm-force winds extend outward up to 195
-miles (315 km).
+center, and tropical-storm-force winds extend outward up to 240
+miles (390 km).
 
-The minimum central pressure based on aircraft data is 952 mb (28.12
-inches).
+The minimum central pressure from a NOAA Hurricane Hunter plane is
+950 mb (28.06 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -123,7 +123,7 @@ local weather office for more information.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM EDT.
+Next complete advisory at 1100 PM EDT.
 
 $$
 Forecaster Berg
