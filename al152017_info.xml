@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL152017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>27</advisoryNumber>
+<advisoryNumber>27A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170922 05:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170922 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709222100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM EDT Fri Sep 22</messageDateTimeLocalStr>
-<timeEpochSeconds>1506114000</timeEpochSeconds>
+<messageDateTimeLocal>20170922 08:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170923 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709230000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM EDT Fri Sep 22</messageDateTimeLocalStr>
+<timeEpochSeconds>1506124800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>MARIA</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>23.3</centerLocLatitude>
-<centerLocLongitude>-71.4</centerLocLongitude>
+<centerLocLatitude>23.8</centerLocLatitude>
+<centerLocLongitude>-71.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>23.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>71.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>23.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>71.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>125</systemIntensityMph>
 <systemIntensityKph>205</systemIntensityKph>
 <systemIntensityKts>110</systemIntensityKts>
-<systemMslpMb>959</systemMslpMb>
-<systemMslpInHg>28.32</systemMslpInHg>
+<systemMslpMb>953</systemMslpMb>
+<systemMslpInHg>28.14</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,38 +43,37 @@
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 115 MI...185 KM ENE OF THE SOUTHEASTERN BAHAMAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 395 MI...635 KM ESE OF NASSAU</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 295 MI...480 KM E OF THE CENTRAL BAHAMAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 375 MI...600 KM ESE OF NASSAU</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Maria Advisory Number  27
+Hurricane Maria Intermediate Advisory Number 27A
 NWS National Hurricane Center Miami FL       AL152017
-500 PM EDT Fri Sep 22 2017
+800 PM EDT Fri Sep 22 2017
 
-...MARIA PASSING TO THE EAST OF THE SOUTHEASTERN BAHAMAS...
+...CORE OF MARIA GRADUALLY MOVING AWAY FROM THE BAHAMAS...
+...A COYOTE UNMANNED AERIAL VEHICLE LAUNCHED FROM A NOAA
+HURRICANE HUNTER PLANE SUCCESSFULLY SAMPLED THE EYEWALL OF MARIA...
 
-
-SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...23.3N 71.4W
-ABOUT 115 MI...185 KM ENE OF THE SOUTHEASTERN BAHAMAS
-ABOUT 395 MI...635 KM ESE OF NASSAU
+LOCATION...23.8N 71.6W
+ABOUT 295 MI...480 KM E OF THE CENTRAL BAHAMAS
+ABOUT 375 MI...600 KM ESE OF NASSAU
 MAXIMUM SUSTAINED WINDS...125 MPH...205 KM/H
 PRESENT MOVEMENT...NNW OR 335 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...959 MB...28.32 INCHES
+MINIMUM CENTRAL PRESSURE...953 MB...28.14 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of the Bahamas has changed the Hurricane Warning for
-the Turks and Caicos Islands and the southeastern Bahamas to a
-Tropical Storm Warning.
+None
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -95,23 +94,27 @@ issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM EDT (2100 UTC), the eye of Hurricane Maria was located
-near latitude 23.3 North, longitude 71.4 West.  Maria is moving
+At 800 PM EDT (0000 UTC), the eye of Hurricane Maria was located
+near latitude 23.8 North, longitude 71.6 West.  Maria is moving
 toward the north-northwest near 9 mph (15 km/h), and this general
 motion is expected to continue through Saturday.  A turn toward the
 north is forecast by Saturday night.
 
-Maximum sustained winds are near 125 mph (205 km/h) with higher
+We are fortunate tonight to have an Air Force and a NOAA Hurricane
+Hunter aircraft sampling Maria. In fact, a Coyote unmanned aerial
+vehicle launched from the NOAA P3 aircraft successfully measured
+winds in the eyewall. Data from these platforms indicate that the
+maximum sustained winds remain near 125 mph (205 km/h) with higher
 gusts.  Maria is a category 3 hurricane on the Saffir-Simpson
-Hurricane Wind Scale.  A gradual weakening is forecast during the
+Hurricane Wind Scale.  Gradual weakening is forecast during the
 next 48 hours.
 
-Hurricane-force winds extend outward up to 60 miles (95 km) from the
-center, and tropical-storm-force winds extend outward up to 160
+Hurricane-force winds extend outward up to 60 miles (95 km) from
+the center, and tropical-storm-force winds extend outward up to 160
 miles (260 km).
 
-The minimum central pressure based on data from a NOAA Hurricane
-Hunter aircraft is 959 mb (28.32 inches).
+The minimum central pressure based on data from both reconnaissance
+planes is 953 mb (28.14 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -138,22 +141,23 @@ Rest of eastern Bahamas...1 to 3 inches
 Rainfall on these islands will continue to cause life-threatening
 flash floods and mudslides.
 
-SURF:  Swells generated by Maria are affecting Puerto Rico, the
-Virgin Islands, the northern coast of Hispaniola, the Turks and
-Caicos Islands, the Bahamas, portions of the southeastern United
-States coast, and Bermuda.  These swells are likely to cause
-life-threatening surf and rip current conditions.  Please consult
-products from your local weather office.
+SURF:  Swells generated by Maria are still affecting Puerto Rico,
+the Virgin Islands, the northern coast of Hispaniola, the Turks and
+Caicos Islands, and the Bahamas.  These swells will begin to
+increase along portions of the southeastern United States coast and
+Bermuda tonight.  These swells are likely to cause life-threatening
+surf and rip current conditions.  Please consult products from your
+local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 PM EDT.
 Next complete advisory at 1100 PM EDT.
 
 $$
-Forecaster Berg
+Forecaster Avila
 
 NNNN
+
 </message>
 </cycloneMessage>
