@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "2",
+  "advisoryNumber": "2A",
   "atcfID": "EP182017",
-  "centerLocLatitude": "18.7",
-  "centerLocLatitudeExpanded": "18.7N",
-  "centerLocLongitude": "-105.3",
-  "centerLocLongitudeExpanded": "105.3W",
+  "centerLocLatitude": "19.0",
+  "centerLocLatitudeExpanded": "19.0N",
+  "centerLocLongitude": "-105.4",
+  "centerLocLongitudeExpanded": "105.4W",
   "event_title": "TROPICAL STORM PILAR",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -46,21 +46,21 @@
   ],
   "location": {
     "coordinates": [
-      -105.3,
-      18.7
+      -105.4,
+      19.0
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPEP3 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Pilar Advisory Number   2\nNWS National Hurricane Center Miami FL       EP182017\n1000 PM CDT Sat Sep 23 2017\n\n...DEPRESSION BECOMES TROPICAL STORM PILAR...\n...HEAVY RAIN EXPECTED OVER SOUTHWEST MEXICO THROUGH MONDAY...\n\n\nSUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...18.7N 105.3W\nABOUT 70 MI...110 KM WSW OF MANZANILLO MEXICO\nABOUT 120 MI...195 KM SSE OF CABO CORRIENTES MEXICO\nMAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H\nPRESENT MOVEMENT...N OR 350 DEGREES AT 5 MPH...7 KM/H\nMINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Tropical Storm Warning is in effect for...\n* The southwestern coast of Mexico from Manzanillo northward to El\nRoblito, including the Islas Marias\n\nA Tropical Storm Warning means that tropical storm conditions are\nexpected somewhere within the warning area, in this case within the\nnext 24 to 36 hours.\n\nFor storm information specific to your area, please monitor\nproducts issued by your national meteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1000 PM CDT (0300 UTC), the center of Tropical Storm Pilar was\nlocated near latitude 18.7 North, longitude 105.3 West. Pilar is\nmoving toward the north near 5 mph (7 km/h), and a north to\nnorth-northwest track is expected to continue through the weekend.\nOn the forecast track, Pilar will move over or very near the\ncoast of Jalisco on Sunday.\n\nMaximum sustained winds have increased to near 40 mph (65 km/h)\nwith higher gusts.  Some additional strengthening is likely tonight\nand on Sunday before Pilar nears the coast.\n\nTropical-storm-force winds extend outward up to 80 miles (130 km)\nfrom the center.\n\nThe estimated minimum central pressure is 1003 mb (29.62 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nRAINFALL: Pilar is expected to produce total rain accumulations of 3\nto 6 inches with possible isolated maximum of 15 inches over the\nwestern portions of the Mexican states of Michoacan, Colima, western\nJalisco and Nayarit through Monday.   This rainfall may cause\nlife-threatening flash floods and mudslides\n\nWIND: Tropical Storm conditions are expected to begin within the\nsouthern portion of the warning area tonight or early Sunday,\nand gradually spread northward along the Mexican coast on Sunday and\nMonday.\n\n\nNEXT ADVISORY\n-------------\nNext intermediate advisory at 100 AM CDT.\nNext complete advisory at 400 AM CDT.\n\n$$\nForecaster Zelinsky\n\nNNNN",
+  "message": "ZCZC MIATCPEP3 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Pilar Intermediate Advisory Number 2A\nNWS National Hurricane Center Miami FL       EP182017\n100 AM CDT Sun Sep 24 2017\n\n...PILAR MOVING SLOWLY NORTHWARD OFF THE COAST OF MEXICO...\n...HEAVY RAIN EXPECTED OVER SOUTHWEST MEXICO THROUGH MONDAY...\n\n\nSUMMARY OF 100 AM CDT...0600 UTC...INFORMATION\n----------------------------------------------\nLOCATION...19.0N 105.4W\nABOUT 70 MI...110 KM W OF MANZANILLO MEXICO\nABOUT 100 MI...160 KM SSE OF CABO CORRIENTES MEXICO\nMAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H\nPRESENT MOVEMENT...N OR 350 DEGREES AT 5 MPH...7 KM/H\nMINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Tropical Storm Warning is in effect for...\n* The southwestern coast of Mexico from Manzanillo northward to El\nRoblito, including the Islas Marias\n\nA Tropical Storm Warning means that tropical storm conditions are\nexpected somewhere within the warning area, in this case within the\nnext 24 to 36 hours.\n\nFor storm information specific to your area, please monitor\nproducts issued by your national meteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 100 AM CDT (0600 UTC), the center of Tropical Storm Pilar was\nlocated near latitude 19.0 North, longitude 105.4 West. Pilar is\nmoving toward the north near 5 mph (7 km/h), and a north to\nnorth-northwest track is expected to continue through Monday. On the\nforecast track, Pilar will move over or very near the coast of\nJalisco later today or tonight.\n\nMaximum sustained winds are near 40 mph (65 km/h) with higher gusts.\nSome strengthening is likely today before Pilar approaches the\ncoast.\n\nTropical-storm-force winds extend outward up to 80 miles (130 km)\nfrom the center.\n\nThe estimated minimum central pressure is 1003 mb (29.62 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nRAINFALL: Pilar is expected to produce total rain accumulations of 3\nto 6 inches with possible isolated maximum of 15 inches over the\nwestern portions of the Mexican states of Michoacan, Colima, western\nJalisco and Nayarit through Monday.   This rainfall may cause\nlife-threatening flash floods and mudslides\n\nWIND: Tropical Storm conditions are expected to begin within the\nsouthern portion of the warning area this morning, and gradually\nspread northward along the Mexican coast through Monday.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 400 AM CDT.\n\n$$\nForecaster Zelinsky\n\nNNNN",
   "messageBinNumber": "3",
-  "messageDateTimeLocal": "20170923 10:00:00 PM CDT",
-  "messageDateTimeLocalStr": "1000 PM CDT Sat Sep 23",
-  "messageDateTimeUTC": "20170924 03:00:00 AM UTC",
-  "messageDateTimeUTC24": "201709240300",
-  "messageType": "ROUTINE ADVISORY",
+  "messageDateTimeLocal": "20170924 01:00:00 AM CDT",
+  "messageDateTimeLocalStr": "0100 AM CDT Sun Sep 24",
+  "messageDateTimeUTC": "20170924 06:00:00 AM UTC",
+  "messageDateTimeUTC24": "201709240600",
+  "messageType": "INTERMEDIATE ADVISORY",
   "systemDirectionOfMotion": "N OR 350 DEGREES",
-  "systemGeoRefPt1": "ABOUT 70 MI...110 KM WSW OF MANZANILLO MEXICO",
-  "systemGeoRefPt2": "ABOUT 120 MI...195 KM SSE OF CABO CORRIENTES MEXICO",
+  "systemGeoRefPt1": "ABOUT 70 MI...110 KM W OF MANZANILLO MEXICO",
+  "systemGeoRefPt2": "ABOUT 100 MI...160 KM SSE OF CABO CORRIENTES MEXICO",
   "systemIntensityKph": "65",
   "systemIntensityKts": "35",
   "systemIntensityMph": "40",
@@ -72,6 +72,6 @@
   "systemSpeedKts": "4",
   "systemSpeedMph": "5",
   "systemType": "TROPICAL STORM",
-  "time": "2017-09-24 03:00:00",
-  "timeEpochSeconds": "1506222000"
+  "time": "2017-09-24 06:00:00",
+  "timeEpochSeconds": "1506232800"
 }
