@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "29",
+  "advisoryNumber": "30",
   "atcfID": "AL142017",
-  "centerLocLatitude": "31.1",
-  "centerLocLatitudeExpanded": "31.1N",
-  "centerLocLongitude": "-49.4",
-  "centerLocLongitudeExpanded": "49.4W",
+  "centerLocLatitude": "30.8",
+  "centerLocLatitudeExpanded": "30.8N",
+  "centerLocLongitude": "-49.9",
+  "centerLocLongitudeExpanded": "49.9W",
   "event_title": "HURRICANE LEE",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -46,21 +46,21 @@
   ],
   "location": {
     "coordinates": [
-      -49.4,
-      31.1
+      -49.9,
+      30.8
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Lee Advisory Number  29\nNWS National Hurricane Center Miami FL       AL142017\n500 AM AST Mon Sep 25 2017\n\n...LEE STATIONARY OVER THE CENTRAL ATLANTIC...\n\n\nSUMMARY OF 500 AM AST...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...31.1N 49.4W\nABOUT 910 MI...1460 KM E OF BERMUDA\nABOUT 1355 MI...2180 KM WSW OF THE AZORES\nMAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H\nPRESENT MOVEMENT...STATIONARY\nMINIMUM CENTRAL PRESSURE...980 MB...28.94 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 AM AST (0900 UTC), the center of Hurricane Lee was located\nnear latitude 31.1 North, longitude 49.4 West.  Lee is stationary,\nbut a slow west-southwest to west motion is expected later today.\n\nMaximum sustained winds remain near 90 mph (150 km/h) with higher\ngusts.  Little change in strength is forecast during the next 48\nhours.\n\nLee is a tiny hurricane.  Hurricane-force winds extend outward up to\n10 miles (20 km) from the center and tropical-storm-force winds\nextend outward up to 35 miles (55 km).\n\nThe estimated minimum central pressure is 980 mb (28.94 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 AM AST.\n\n$$\nForecaster Cangialosi\n\nNNNN",
+  "message": "ZCZC MIATCPAT4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Lee Advisory Number  30\nNWS National Hurricane Center Miami FL       AL142017\n1100 AM AST Mon Sep 25 2017\n\n...LEE BEGINNING TO MOVE TOWARD THE SOUTH-SOUTHWEST OVER THE OPEN\nATLANTIC...\n\n\nSUMMARY OF 1100 AM AST...1500 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...30.8N 49.9W\nABOUT 880 MI...1420 KM E OF BERMUDA\nABOUT 1390 MI...2240 KM WSW OF THE AZORES\nMAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H\nPRESENT MOVEMENT...SSW OR 200 DEGREES AT 2 MPH...4 KM/H\nMINIMUM CENTRAL PRESSURE...980 MB...28.94 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 AM AST (1500 UTC), the center of Hurricane Lee was located\nnear latitude 30.8 North, longitude 49.9 West. Lee is moving toward\nthe south-southwest near 2 mph (4 km/h).  The hurricane is expected\nto turn toward the west by Tuesday and toward the west-northwest by\nWednesday at a slightly faster forward speed.\n\nMaximum sustained winds are near 90 mph (150 km/h) with higher\ngusts.  Little change in strength is forecast during the next 48\nhours.\n\nLee is a tiny hurricane.  Hurricane-force winds extend outward up to\n10 miles (20 km) from the center and tropical-storm-force winds\nextend outward up to 35 miles (55 km).\n\nThe estimated minimum central pressure is 980 mb (28.94 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 PM AST.\n\n$$\nForecaster Landsea\n\nNNNN",
   "messageBinNumber": "4",
-  "messageDateTimeLocal": "20170925 05:00:00 AM AST",
-  "messageDateTimeLocalStr": "0500 AM AST Mon Sep 25",
-  "messageDateTimeUTC": "20170925 09:00:00 AM UTC",
-  "messageDateTimeUTC24": "201709250900",
+  "messageDateTimeLocal": "20170925 11:00:00 AM AST",
+  "messageDateTimeLocalStr": "1100 AM AST Mon Sep 25",
+  "messageDateTimeUTC": "20170925 03:00:00 PM UTC",
+  "messageDateTimeUTC24": "201709251500",
   "messageType": "ROUTINE ADVISORY",
-  "systemDirectionOfMotion": "STATIONARY",
-  "systemGeoRefPt1": "ABOUT 910 MI...1460 KM E OF BERMUDA",
-  "systemGeoRefPt2": "ABOUT 1355 MI...2180 KM WSW OF THE AZORES",
+  "systemDirectionOfMotion": "SSW OR 200 DEGREES",
+  "systemGeoRefPt1": "ABOUT 880 MI...1420 KM E OF BERMUDA",
+  "systemGeoRefPt2": "ABOUT 1390 MI...2240 KM WSW OF THE AZORES",
   "systemIntensityKph": "150",
   "systemIntensityKts": "80",
   "systemIntensityMph": "90",
@@ -68,10 +68,10 @@
   "systemMslpMb": "980",
   "systemName": "LEE",
   "systemSaffirSimpsonCategory": "CATEGORY 1",
-  "systemSpeedKph": "0",
-  "systemSpeedKts": "0",
-  "systemSpeedMph": "0",
+  "systemSpeedKph": "4",
+  "systemSpeedKts": "2",
+  "systemSpeedMph": "2",
   "systemType": "HURRICANE",
-  "time": "2017-09-25 09:00:00",
-  "timeEpochSeconds": "1506330000"
+  "time": "2017-09-25 15:00:00",
+  "timeEpochSeconds": "1506351600"
 }
