@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP182017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>6A</advisoryNumber>
+<advisoryNumber>7</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170925 12:00:00 AM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170925 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709250600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1200 AM MDT Mon Sep 25</messageDateTimeLocalStr>
-<timeEpochSeconds>1506319200</timeEpochSeconds>
+<messageDateTimeLocal>20170925 03:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170925 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709250900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0300 AM MDT Mon Sep 25</messageDateTimeLocalStr>
+<timeEpochSeconds>1506330000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>PILAR</systemName>
@@ -19,54 +19,54 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>21.9</centerLocLatitude>
-<centerLocLongitude>-106.5</centerLocLongitude>
+<centerLocLatitude>22.2</centerLocLatitude>
+<centerLocLongitude>-106.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>21.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>106.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>22.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>106.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
 <systemIntensityKph>65</systemIntensityKph>
 <systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1003</systemMslpMb>
-<systemMslpInHg>29.62</systemMslpInHg>
+<systemMslpMb>1004</systemMslpMb>
+<systemMslpInHg>29.65</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>N OR 350 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>NNW OR 340 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>9</systemSpeedMph>
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 30 MI...45 KM NNW OF LAS ISLAS MARIAS MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 90 MI...145 KM S OF MAZATLAN MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 50 MI...80 KM NNW OF LAS ISLAS MARIAS MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 70 MI...115 KM S OF MAZATLAN MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Pilar Intermediate Advisory Number 6A
+Tropical Storm Pilar Advisory Number   7
 NWS National Hurricane Center Miami FL       EP182017
-1200 AM MDT Mon Sep 25 2017
+300 AM MDT Mon Sep 25 2017
 
-...PILAR PRODUCING HEAVY RAINS AND GUSTY WINDS NEAR THE WEST COAST
-OF MEXICO...
+...PILAR IS POORLY ORGANIZED BUT STILL PRODUCING HEAVY RAINS AND
+GUSTY WINDS NEAR THE WEST COAST OF MEXICO...
 
 
-SUMMARY OF 1200 AM MDT...0600 UTC...INFORMATION
------------------------------------------------
-LOCATION...21.9N 106.5W
-ABOUT 30 MI...45 KM NNW OF LAS ISLAS MARIAS MEXICO
-ABOUT 90 MI...145 KM S OF MAZATLAN MEXICO
+SUMMARY OF 300 AM MDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...22.2N 106.6W
+ABOUT 50 MI...80 KM NNW OF LAS ISLAS MARIAS MEXICO
+ABOUT 70 MI...115 KM S OF MAZATLAN MEXICO
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...N OR 350 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
+PRESENT MOVEMENT...NNW OR 340 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
 
 
 WATCHES AND WARNINGS
@@ -90,45 +90,45 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1200 AM MDT (0600 UTC), the center of Tropical Storm Pilar was
-located near latitude 21.9 North, longitude 106.5 West.  Pilar is
-moving toward the north near 9 mph (15 km/h).  A slower northward or
-north-northwestward motion is expected during the next day or two.
-On the forecast track, the center of Pilar is forecast to move along
-or just west of the coast of the Mexican states of Nayarit and
-Sinaloa during the next 48 hours.
+At 300 AM MDT (0900 UTC), the center of Tropical Storm Pilar was
+located near latitude 22.2 North, longitude 106.6 West.  Pilar is
+moving toward the north-northwest near 9 mph (15 km/h).  A slower
+northward or north-northwestward motion is expected during the next
+day or so.  On the forecast track, the center of Pilar is forecast
+to move along or just west of the coast of the Mexican states of
+Nayarit and Sinaloa until it dissipates in a day or so.
 
-Maximum sustained winds are near 40 mph (65 km/h) with higher
-gusts. Gradual weakening is forecast, and Pilar is expected to
-become a tropical depression on Monday and dissipate on Tuesday.
+Maximum sustained winds remain near 40 mph (65 km/h) with higher
+gusts.  Gradual weakening is forecast, and Pilar is expected to
+become a tropical depression later today and dissipate by Tuesday.
 
 Tropical-storm-force winds extend outward up to 60 miles (95 km)
 north of the center.
 
-The estimated minimum central pressure is 1003 mb (29.62 inches).
+The estimated minimum central pressure is 1004 mb (29.65 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 RAINFALL: Pilar is expected to produce total rain accumulations of 3
 to 7 inches with possible isolated maximum amounts of 10 inches over
-the western portions of the Mexican states of Nayarit and southern
-Sinaloa through Monday night.  This rainfall could cause
-life-threatening flash floods and mudslides.
+the western portions of the Mexican states of Nayarit, southern
+Sinaloa, and southwestern Durango through Tuesday.  This rainfall
+could cause life-threatening flash floods and mudslides.
 
 WIND: Tropical storm conditions are occurring in a portion of the
-warning area.  These conditions will gradually spread northward
-along the Mexican coast on Monday.
+warning area.  These conditions are expected to diminish later
+today.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 300 AM MDT.
+Next intermediate advisory at 600 AM MDT.
+Next complete advisory at 900 AM MDT.
 
 $$
 Forecaster Cangialosi
 
 NNNN
-
 </message>
 </cycloneMessage>
