@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "6",
+  "advisoryNumber": "6A",
   "atcfID": "EP182017",
-  "centerLocLatitude": "21.8",
-  "centerLocLatitudeExpanded": "21.8N",
-  "centerLocLongitude": "-106.3",
-  "centerLocLongitudeExpanded": "106.3W",
+  "centerLocLatitude": "21.9",
+  "centerLocLatitudeExpanded": "21.9N",
+  "centerLocLongitude": "-106.5",
+  "centerLocLongitudeExpanded": "106.5W",
   "event_title": "TROPICAL STORM PILAR",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -46,21 +46,21 @@
   ],
   "location": {
     "coordinates": [
-      -106.3,
-      21.8
+      -106.5,
+      21.9
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPEP3 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Pilar Advisory Number   6\nNWS National Hurricane Center Miami FL       EP182017\n900 PM MDT Sun Sep 24 2017\n\n...PILAR JUST OFF THE COAST OF WESTERN MEXICO...\n...PRODUCING HEAVY RAINS AND GUSTY WINDS...\n\n\nSUMMARY OF 900 PM MDT...0300 UTC...INFORMATION\n----------------------------------------------\nLOCATION...21.8N 106.3W\nABOUT 95 MI...155 KM S OF MAZATLAN MEXICO\nABOUT 20 MI...35 KM NNE OF LAS ISLAS MARIAS MEXICO\nMAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H\nPRESENT MOVEMENT...N OR 350 DEGREES AT 9 MPH...15 KM/H\nMINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nThe government of Mexico has extended the tropical storm warning\nnorthward from El Roblito to Bahia Tempehuaya, and discontinued the\ntropical storm warning south of Cabo Corrientes.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Tropical Storm Warning is in effect for...\n* The coast of Mexico from Cabo Corrientes northward to Bahia\nTempehuaya, including Las Islas Marias\n\nA Tropical Storm Warning means that tropical storm conditions are\nexpected somewhere within the warning area.\n\nFor storm information specific to your area, please monitor\nproducts issued by your national meteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 900 PM MDT (0300 UTC), the center of Tropical Storm Pilar was\nlocated near latitude 21.8 North, longitude 106.3 West.  Pilar is\nmoving toward the north near 9 mph (15 km/h).  A slower northward or\nnorth-northwestward motion is expected during the next day or two.\nOn the forecast track, the center of Pilar is forecast to move along\nor just west of the coast of the Mexican states of Nayarit and\nSinaloa during the next 48 hours.\n\nMaximum sustained winds are near 40 mph (65 km/h) with higher gusts.\nGradual weakening is forecast, and Pilar is expected to become\na tropical depression on Monday and dissipate on Tuesday.\n\nTropical-storm-force winds extend outward up to 60 miles (95 km)\nfrom the center.\n\nThe estimated minimum central pressure is 1003 mb (29.62 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nRAINFALL: Pilar is expected to produce total rain accumulations of 3\nto 7 inches with possible isolated maximum amounts of 10 inches over\nthe western portions of the Mexican states of Nayarit and southern\nSinaloa through Monday night.  This rainfall could cause\nlife-threatening flash floods and mudslides.\n\nWIND: Tropical storm conditions are occurring in a portion of the\nwarning area.  These conditions will gradually spread northward\nalong the Mexican coast overnight and on Monday.\n\n\nNEXT ADVISORY\n-------------\nNext intermediate advisory at 1200 AM MDT.\nNext complete advisory at 300 AM MDT.\n\n$$\nForecaster Cangialosi\n\nNNNN",
+  "message": "ZCZC MIATCPEP3 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Pilar Intermediate Advisory Number 6A\nNWS National Hurricane Center Miami FL       EP182017\n1200 AM MDT Mon Sep 25 2017\n\n...PILAR PRODUCING HEAVY RAINS AND GUSTY WINDS NEAR THE WEST COAST\nOF MEXICO...\n\n\nSUMMARY OF 1200 AM MDT...0600 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...21.9N 106.5W\nABOUT 30 MI...45 KM NNW OF LAS ISLAS MARIAS MEXICO\nABOUT 90 MI...145 KM S OF MAZATLAN MEXICO\nMAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H\nPRESENT MOVEMENT...N OR 350 DEGREES AT 9 MPH...15 KM/H\nMINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Tropical Storm Warning is in effect for...\n* The coast of Mexico from Cabo Corrientes northward to Bahia\nTempehuaya, including Las Islas Marias\n\nA Tropical Storm Warning means that tropical storm conditions are\nexpected somewhere within the warning area.\n\nFor storm information specific to your area, please monitor\nproducts issued by your national meteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1200 AM MDT (0600 UTC), the center of Tropical Storm Pilar was\nlocated near latitude 21.9 North, longitude 106.5 West.  Pilar is\nmoving toward the north near 9 mph (15 km/h).  A slower northward or\nnorth-northwestward motion is expected during the next day or two.\nOn the forecast track, the center of Pilar is forecast to move along\nor just west of the coast of the Mexican states of Nayarit and\nSinaloa during the next 48 hours.\n\nMaximum sustained winds are near 40 mph (65 km/h) with higher\ngusts. Gradual weakening is forecast, and Pilar is expected to\nbecome a tropical depression on Monday and dissipate on Tuesday.\n\nTropical-storm-force winds extend outward up to 60 miles (95 km)\nnorth of the center.\n\nThe estimated minimum central pressure is 1003 mb (29.62 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nRAINFALL: Pilar is expected to produce total rain accumulations of 3\nto 7 inches with possible isolated maximum amounts of 10 inches over\nthe western portions of the Mexican states of Nayarit and southern\nSinaloa through Monday night.  This rainfall could cause\nlife-threatening flash floods and mudslides.\n\nWIND: Tropical storm conditions are occurring in a portion of the\nwarning area.  These conditions will gradually spread northward\nalong the Mexican coast on Monday.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 300 AM MDT.\n\n$$\nForecaster Cangialosi\n\nNNNN",
   "messageBinNumber": "3",
-  "messageDateTimeLocal": "20170924 09:00:00 PM MDT",
-  "messageDateTimeLocalStr": "0900 PM MDT Sun Sep 24",
-  "messageDateTimeUTC": "20170925 03:00:00 AM UTC",
-  "messageDateTimeUTC24": "201709250300",
-  "messageType": "ROUTINE ADVISORY",
+  "messageDateTimeLocal": "20170925 12:00:00 AM MDT",
+  "messageDateTimeLocalStr": "1200 AM MDT Mon Sep 25",
+  "messageDateTimeUTC": "20170925 06:00:00 AM UTC",
+  "messageDateTimeUTC24": "201709250600",
+  "messageType": "INTERMEDIATE ADVISORY",
   "systemDirectionOfMotion": "N OR 350 DEGREES",
-  "systemGeoRefPt1": "ABOUT 95 MI...155 KM S OF MAZATLAN MEXICO",
-  "systemGeoRefPt2": "ABOUT 20 MI...35 KM NNE OF LAS ISLAS MARIAS MEXICO",
+  "systemGeoRefPt1": "ABOUT 30 MI...45 KM NNW OF LAS ISLAS MARIAS MEXICO",
+  "systemGeoRefPt2": "ABOUT 90 MI...145 KM S OF MAZATLAN MEXICO",
   "systemIntensityKph": "65",
   "systemIntensityKts": "35",
   "systemIntensityMph": "40",
@@ -72,6 +72,6 @@
   "systemSpeedKts": "8",
   "systemSpeedMph": "9",
   "systemType": "TROPICAL STORM",
-  "time": "2017-09-25 03:00:00",
-  "timeEpochSeconds": "1506308400"
+  "time": "2017-09-25 06:00:00",
+  "timeEpochSeconds": "1506319200"
 }
