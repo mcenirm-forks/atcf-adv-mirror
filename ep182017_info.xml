@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP182017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>7</advisoryNumber>
+<advisoryNumber>7A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170925 03:00:00 AM MDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170925 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709250900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0300 AM MDT Mon Sep 25</messageDateTimeLocalStr>
-<timeEpochSeconds>1506330000</timeEpochSeconds>
+<messageDateTimeLocal>20170925 06:00:00 AM MDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170925 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709251200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0600 AM MDT Mon Sep 25</messageDateTimeLocalStr>
+<timeEpochSeconds>1506340800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>PILAR</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>22.2</centerLocLatitude>
-<centerLocLongitude>-106.6</centerLocLongitude>
+<centerLocLatitude>22.6</centerLocLatitude>
+<centerLocLongitude>-106.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>22.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>106.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>22.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>106.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
@@ -39,33 +39,33 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>NNW OR 340 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>9</systemSpeedMph>
-<systemSpeedKph>15</systemSpeedKph>
-<systemSpeedKts>8</systemSpeedKts>
+<systemSpeedMph>8</systemSpeedMph>
+<systemSpeedKph>13</systemSpeedKph>
+<systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 50 MI...80 KM NNW OF LAS ISLAS MARIAS MEXICO</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 70 MI...115 KM S OF MAZATLAN MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 50 MI...85 KM SW OF MAZATLAN MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 75 MI...115 KM NNW OF LAS ISLAS MARIAS MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Pilar Advisory Number   7
+Tropical Storm Pilar Intermediate Advisory Number 7A
 NWS National Hurricane Center Miami FL       EP182017
-300 AM MDT Mon Sep 25 2017
+600 AM MDT Mon Sep 25 2017
 
-...PILAR IS POORLY ORGANIZED BUT STILL PRODUCING HEAVY RAINS AND
-GUSTY WINDS NEAR THE WEST COAST OF MEXICO...
+...POORLY ORGANIZED PILAR STILL PRODUCING HEAVY RAINS AND GUSTY
+WINDS NEAR THE WEST COAST OF MEXICO...
 
 
-SUMMARY OF 300 AM MDT...0900 UTC...INFORMATION
+SUMMARY OF 600 AM MDT...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...22.2N 106.6W
-ABOUT 50 MI...80 KM NNW OF LAS ISLAS MARIAS MEXICO
-ABOUT 70 MI...115 KM S OF MAZATLAN MEXICO
+LOCATION...22.6N 106.9W
+ABOUT 50 MI...85 KM SW OF MAZATLAN MEXICO
+ABOUT 75 MI...115 KM NNW OF LAS ISLAS MARIAS MEXICO
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...NNW OR 340 DEGREES AT 9 MPH...15 KM/H
+PRESENT MOVEMENT...NNW OR 340 DEGREES AT 8 MPH...13 KM/H
 MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
 
 
@@ -90,9 +90,9 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 300 AM MDT (0900 UTC), the center of Tropical Storm Pilar was
-located near latitude 22.2 North, longitude 106.6 West.  Pilar is
-moving toward the north-northwest near 9 mph (15 km/h).  A slower
+At 600 AM MDT (1200 UTC), the center of Tropical Storm Pilar was
+located near latitude 22.6 North, longitude 106.9 West.  Pilar is
+moving toward the north-northwest near 8 mph (13 km/h).  A slower
 northward or north-northwestward motion is expected during the next
 day or so.  On the forecast track, the center of Pilar is forecast
 to move along or just west of the coast of the Mexican states of
@@ -102,33 +102,32 @@ Maximum sustained winds remain near 40 mph (65 km/h) with higher
 gusts.  Gradual weakening is forecast, and Pilar is expected to
 become a tropical depression later today and dissipate by Tuesday.
 
-Tropical-storm-force winds extend outward up to 60 miles (95 km)
-north of the center.
+Tropical-storm-force winds extend outward up to 60 miles (95 km),
+mainly to the north of the center.
 
 The estimated minimum central pressure is 1004 mb (29.65 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-RAINFALL: Pilar is expected to produce total rain accumulations of 3
-to 7 inches with possible isolated maximum amounts of 10 inches over
-the western portions of the Mexican states of Nayarit, southern
+RAINFALL: Pilar is expected to produce total rain accumulations of
+3 to 7 inches with possible isolated maximum amounts of 10 inches
+over the western portions of the Mexican states of Nayarit, southern
 Sinaloa, and southwestern Durango through Tuesday.  This rainfall
 could cause life-threatening flash floods and mudslides.
 
 WIND: Tropical storm conditions are occurring in a portion of the
-warning area.  These conditions are expected to diminish later
-today.
+warning area.  These conditions will diminish later today.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 600 AM MDT.
 Next complete advisory at 900 AM MDT.
 
 $$
-Forecaster Cangialosi
+Forecaster Stewart
 
 NNNN
+
 </message>
 </cycloneMessage>
