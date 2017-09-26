@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL152017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>40</advisoryNumber>
+<advisoryNumber>40A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170925 11:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170926 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709260300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM EDT Mon Sep 25</messageDateTimeLocalStr>
-<timeEpochSeconds>1506394800</timeEpochSeconds>
+<messageDateTimeLocal>20170926 02:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170926 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709260600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM EDT Tue Sep 26</messageDateTimeLocalStr>
+<timeEpochSeconds>1506405600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>MARIA</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>32.3</centerLocLatitude>
-<centerLocLongitude>-73.1</centerLocLongitude>
+<centerLocLatitude>32.6</centerLocLatitude>
+<centerLocLongitude>-73.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>32.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>73.1W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>32.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>73.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>80</systemIntensityMph>
 <systemIntensityKph>130</systemIntensityKph>
 <systemIntensityKts>70</systemIntensityKts>
-<systemMslpMb>969</systemMslpMb>
-<systemMslpInHg>28.62</systemMslpInHg>
+<systemMslpMb>970</systemMslpMb>
+<systemMslpInHg>28.64</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,28 +43,28 @@
 <systemSpeedKph>11</systemSpeedKph>
 <systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 245 MI...390 KM SE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 225 MI...360 KM SE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Maria Advisory Number  40
+Hurricane Maria Intermediate Advisory Number 40A
 NWS National Hurricane Center Miami FL       AL152017
-1100 PM EDT Mon Sep 25 2017
+200 AM EDT Tue Sep 26 2017
 
-...LARGE HURRICANE MARIA CONTINUES MOVING SLOWLY NORTHWARD OFF THE
-SOUTHEAST UNITED STATES COAST...
+...MARIA CONTINUES TO MOVE NORTHWARD OFF THE SOUTHEAST UNITED STATES
+COAST...
 
 
-SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...32.3N 73.1W
-ABOUT 245 MI...390 KM SE OF CAPE HATTERAS NORTH CAROLINA
+SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...32.6N 73.2W
+ABOUT 225 MI...360 KM SE OF CAPE HATTERAS NORTH CAROLINA
 MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
 PRESENT MOVEMENT...N OR 360 DEGREES AT 7 MPH...11 KM/H
-MINIMUM CENTRAL PRESSURE...969 MB...28.62 INCHES
+MINIMUM CENTRAL PRESSURE...970 MB...28.64 INCHES
 
 
 WATCHES AND WARNINGS
@@ -99,31 +99,31 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM EDT (0300 UTC), the center of Hurricane Maria was located
-near latitude 32.3 North, longitude 73.1 West. Maria is moving
+At 200 AM EDT (0600 UTC), the center of Hurricane Maria was located
+near latitude 32.6 North, longitude 73.2 West. Maria is moving
 toward the north near 7 mph (11 km/h), and this general motion with
-some decrease in forward speed is expected through Tuesday night. A
-turn toward the north-northeast is expected on Wednesday.  On the
+some decrease in forward speed is expected through tonight.  A turn
+toward the north-northeast is expected on Wednesday.  On the
 forecast track, the center of Maria will pass east of the coast of
 North Carolina during the next couple of days.
 
 Maximum sustained winds are near 80 mph (130 km/h) with higher
 gusts.  Gradual weakening is forecast during the next couple of
-days, and Maria is forecast to become a tropical storm Tuesday night
+days, and Maria is forecast to become a tropical storm tonight
 or Wednesday.
 
-Maria is a large hurricane.  Hurricane-force winds extend outward up
-to 105 miles (165 km) from the center and tropical-storm-force winds
-extend outward up to 205 miles (335 km).
+Maria is a large hurricane.  Hurricane-force winds extend outward
+up to 105 miles (165 km) from the center and tropical-storm-force
+winds extend outward up to 205 miles (335 km).
 
-The minimum central pressure estimated from Hurricane Hunter
-aircraft observations is 969 mb (28.62 inches).
+The minimum central pressure reported by an Air Force Reserve
+Hurricane Hunter aircraft is 970 mb (28.64 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 WIND:  Tropical storm conditions are expected within the warning
-area beginning Tuesday.
+area beginning later today.
 
 STORM SURGE:  The combination of a dangerous storm surge and the
 tide will cause normally dry areas near the coast to be flooded by
@@ -154,12 +154,12 @@ weather office for more information.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 AM EDT.
 Next complete advisory at 500 AM EDT.
 
 $$
-Forecaster Pasch
+Forecaster Beven
 
 NNNN
+
 </message>
 </cycloneMessage>
