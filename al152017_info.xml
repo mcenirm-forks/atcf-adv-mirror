@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL152017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>43A</advisoryNumber>
+<advisoryNumber>44</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170926 08:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170927 12:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709270000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 PM EDT Tue Sep 26</messageDateTimeLocalStr>
-<timeEpochSeconds>1506470400</timeEpochSeconds>
+<messageDateTimeLocal>20170926 11:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170927 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709270300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM EDT Tue Sep 26</messageDateTimeLocalStr>
+<timeEpochSeconds>1506481200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>MARIA</systemName>
@@ -19,12 +19,12 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>34.6</centerLocLatitude>
+<centerLocLatitude>34.9</centerLocLatitude>
 <centerLocLongitude>-72.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>34.6N</centerLocLatitudeExpanded>
+<centerLocLatitudeExpanded>34.9N</centerLocLatitudeExpanded>
 <centerLocLongitudeExpanded>72.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
@@ -32,39 +32,39 @@
 <systemIntensityKph>110</systemIntensityKph>
 <systemIntensityKts>60</systemIntensityKts>
 <systemMslpMb>975</systemMslpMb>
-<systemMslpInHg>28.79</systemMslpInHg>
+<systemMslpInHg>28.80</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>N OR 360 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>N OR 5 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>7</systemSpeedMph>
 <systemSpeedKph>11</systemSpeedKph>
 <systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 155 MI...245 KM ESE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 150 MI...240 KM E OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Maria Intermediate Advisory Number 43A
+Tropical Storm Maria Advisory Number  44
 NWS National Hurricane Center Miami FL       AL152017
-800 PM EDT Tue Sep 26 2017
+1100 PM EDT Tue Sep 26 2017
 
-...MARIA PRODUCING GUSTY WINDS OVER THE OUTER BANKS OF NORTH
+...GUSTY WINDS CONTINUING OVER THE OUTER BANKS OF NORTH
 CAROLINA...
 
 
-SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION
-----------------------------------------------
-LOCATION...34.6N 72.9W
-ABOUT 155 MI...245 KM ESE OF CAPE HATTERAS NORTH CAROLINA
+SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...34.9N 72.9W
+ABOUT 150 MI...240 KM E OF CAPE HATTERAS NORTH CAROLINA
 MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
-PRESENT MOVEMENT...N OR 360 DEGREES AT 7 MPH...11 KM/H
-MINIMUM CENTRAL PRESSURE...975 MB...28.79 INCHES
+PRESENT MOVEMENT...N OR 5 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...975 MB...28.80 INCHES
 
 
 WATCHES AND WARNINGS
@@ -112,26 +112,26 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 PM EDT (0000 UTC), the center of Tropical Storm Maria was
-located near latitude 34.6 North, longitude 72.9 West.  Maria is
+At 1100 PM EDT (0300 UTC), the center of Tropical Storm Maria was
+located near latitude 34.9 North, longitude 72.9 West.  Maria is
 moving toward the north near 7 mph (11 km/h), and this general
-motion with some decrease in forward speed is expected through
-tonight.  A turn toward the north-northeast is expected on
-Wednesday, and a turn toward the east-northeast is anticipated on
-Thursday.  On the forecast track, the center of Maria will pass east
-of the coast of North Carolina during the next day or so.
+motion with some decrease in forward speed is expected overnight.
+A turn toward the north-northeast is expected on Wednesday, and a
+turn toward the east-northeast is anticipated on Thursday.  On the
+forecast track, the center of Maria will pass east of the coast of
+North Carolina during the next day or so.
 
 Maximum sustained winds are near 70 mph (110 km/h) with higher
 gusts.  Some slight weakening is forecast during the next day or
 two.
 
-Maria is a large tropical storm. Tropical-storm-force winds extend
-outward up to 230 miles (370 km) from the center.  Okracoke Island
-recently reported a sustained wind of 37 mph (59 km/h) with a gust
-to 43 mph (69 km/h).
+Maria is a large tropical storm.  Tropical-storm-force winds extend
+outward up to 230 miles (370 km) from the center.  Hatteras
+Landing, on the North Carolina Outer Banks, recently reported a
+sustained wind of 37 mph (59 km/h) with a gust to 46 mph (70 km/h).
 
-The latest minimum central pressure reported by an Air Force
-Hurricane Hunter aircraft is 975 mb (28.79 inches).
+The minimum central pressure estimated from Air Force Hurricane
+Hunter aircraft observations is 975 mb (28.80 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -167,12 +167,12 @@ for more information.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM EDT.
+Next intermediate advisory at 200 AM EDT.
+Next complete advisory at 500 AM EDT.
 
 $$
 Forecaster Pasch
 
 NNNN
-
 </message>
 </cycloneMessage>
