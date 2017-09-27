@@ -3,66 +3,66 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL152017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>45A</advisoryNumber>
+<advisoryNumber>46</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170927 08:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170927 12:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709271200</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 AM EDT Wed Sep 27</messageDateTimeLocalStr>
-<timeEpochSeconds>1506513600</timeEpochSeconds>
+<messageDateTimeLocal>20170927 11:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170927 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709271500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM EDT Wed Sep 27</messageDateTimeLocalStr>
+<timeEpochSeconds>1506524400</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL STORM</systemType>
+<systemType>HURRICANE</systemType>
 <systemName>MARIA</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>35.4</centerLocLatitude>
-<centerLocLongitude>-72.8</centerLocLongitude>
+<centerLocLatitude>35.6</centerLocLatitude>
+<centerLocLongitude>-72.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>35.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>72.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>35.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>72.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>70</systemIntensityMph>
-<systemIntensityKph>110</systemIntensityKph>
-<systemIntensityKts>60</systemIntensityKts>
+<systemIntensityMph>75</systemIntensityMph>
+<systemIntensityKph>120</systemIntensityKph>
+<systemIntensityKts>65</systemIntensityKts>
 <systemMslpMb>978</systemMslpMb>
 <systemMslpInHg>28.88</systemMslpInHg>
-<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>N OR 5 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>5</systemSpeedMph>
-<systemSpeedKph>7</systemSpeedKph>
-<systemSpeedKts>4</systemSpeedKts>
+<systemDirectionOfMotion>NNE OR 15 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>6</systemSpeedMph>
+<systemSpeedKph>9</systemSpeedKph>
+<systemSpeedKts>5</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 155 MI...245 KM E OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 165 MI...265 KM E OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Maria Intermediate Advisory Number 45A
+Hurricane Maria Advisory Number  46
 NWS National Hurricane Center Miami FL       AL152017
-800 AM EDT Wed Sep 27 2017
+1100 AM EDT Wed Sep 27 2017
 
-...MARIA CRAWLING NORTHWARD OFF THE NORTH CAROLINA OUTER BANKS...
+...MARIA TURNS NORTH-NORTHEASTWARD...
 
 
-SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION
-----------------------------------------------
-LOCATION...35.4N 72.8W
-ABOUT 155 MI...245 KM E OF CAPE HATTERAS NORTH CAROLINA
-MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
-PRESENT MOVEMENT...N OR 5 DEGREES AT 5 MPH...7 KM/H
+SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...35.6N 72.6W
+ABOUT 165 MI...265 KM E OF CAPE HATTERAS NORTH CAROLINA
+MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
+PRESENT MOVEMENT...NNE OR 15 DEGREES AT 6 MPH...9 KM/H
 MINIMUM CENTRAL PRESSURE...978 MB...28.88 INCHES
 
 
@@ -70,7 +70,10 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+The Tropical Storm Warning has been discontinued west of Ocracoke
+Inlet.
+
+The Storm Surge Watch has been discontinued west of Ocracoke Inlet.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -78,11 +81,10 @@ A Storm Surge Warning is in effect for...
 * Ocracoke Inlet to Cape Hatteras
 
 A Tropical Storm Warning is in effect for...
-* Bogue Inlet to the North Carolina/Virginia border
+* Ocracoke Inlet to the North Carolina/Virginia border
 * Albemarle and Pamlico Sounds
 
 A Storm Surge Watch is in effect for...
-* Cape Lookout to west of Ocracoke Inlet
 * North of Cape Hatteras to Duck
 
 A Storm Surge Warning means there is a danger of life-threatening
@@ -111,24 +113,26 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 AM EDT (1200 UTC), the center of Tropical Storm Maria was
-located near latitude 35.4 North, longitude 72.8 West.  Maria is
-moving toward the north near 5 mph (7 km/h).  A turn toward the
-north-northeast is expected later today, followed by an acceleration
-toward the east-northeast on Thursday.  On the forecast track,
-Maria's center will begin to move slowly away from the coast of
-North Carolina later today and tonight.
+At 1100 AM EDT (1500 UTC), the center of Hurricane Maria was located
+near latitude 35.6 North, longitude 72.6 West. Maria is moving
+toward the north-northeast near 6 mph (9 km/h), and this motion is
+expected to continue today. Maria is forecast to accelerate
+east-northeastward on Thursday and Thursday night. On the forecast
+track, Maria will begin to move away from the coast of North
+Carolina later today and tonight.
 
-Maximum sustained winds are near 70 mph (110 km/h) with higher
-gusts.  Some gradual weakening is forecast during the next couple
-of days.
+Reports from an Air Force Reserve reconnaissance aircraft indicate
+that the maximum sustained winds are near 75 mph (120 km/h) with
+higher gusts.  Some weakening is forecast during the next 48 hours.
 
-Tropical-storm-force winds extend outward up to 230 miles (370 km)
-from the center.  An unoffical weather observing site near Oregon
-Inlet, North Carolina, recently reported a sustained wind of 43 mph
-(69 km/h) with a gust to 49 mph (80 km/h).
+Hurricane-force winds extend outward up to 105 miles (165 km)
+primary to the northeast of the center, and tropical-storm-force
+winds extend outward up to 230 miles (370 km). An observing site at
+Jennette's Pier in Nags Head, North Carolina, recently reported a
+sustained wind of 43 mph (69 km/h) and a gust of 51 mph (81 km/h).
 
-The estimated minimum central pressure is 978 mb (28.88 inches).
+The estimated minimum central pressure based on reconnaissance
+aircraft data is 978 mb (28.88 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -142,17 +146,13 @@ rising waters moving inland from the shoreline.  The water is
 expected to reach the following heights above ground if the peak
 surge occurs at the time of high tide...
 
-Cape Lookout to Duck including the sound side of the Outer
+Ocracoke Inlet to Duck including the sound side of the Outer
 Banks...2 to 4 ft
 
 Surge-related flooding depends on the relative timing of the surge
 and the tidal cycle, and can vary greatly over short distances.  For
 information specific to your area, please see products issued by
 your local National Weather Service forecast office.
-
-RAINFALL:  Maria is expected to produce additional rain
-accumulations of less than 1 inch over the Outer Banks of North
-Carolina and far southeast Virginia through Wednesday night.
 
 SURF:  Large swells generated by Maria are affecting much of the
 east coast of the United States, Atlantic Canada, Bermuda, the
@@ -164,12 +164,12 @@ information.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM EDT.
+Next intermediate advisory at 200 PM EDT.
+Next complete advisory at 500 PM EDT.
 
 $$
 Forecaster Brown
 
 NNNN
-
 </message>
 </cycloneMessage>
