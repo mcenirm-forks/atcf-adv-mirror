@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL152017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>46A</advisoryNumber>
+<advisoryNumber>47</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170927 02:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170927 06:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709271800</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 PM EDT Wed Sep 27</messageDateTimeLocalStr>
-<timeEpochSeconds>1506535200</timeEpochSeconds>
+<messageDateTimeLocal>20170927 05:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170927 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709272100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM EDT Wed Sep 27</messageDateTimeLocalStr>
+<timeEpochSeconds>1506546000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>MARIA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>35.9</centerLocLatitude>
-<centerLocLongitude>-72.4</centerLocLongitude>
+<centerLocLatitude>36.2</centerLocLatitude>
+<centerLocLongitude>-72.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>35.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>72.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>36.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>72.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>75</systemIntensityMph>
@@ -39,30 +39,30 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>NNE OR 30 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>6</systemSpeedMph>
-<systemSpeedKph>9</systemSpeedKph>
-<systemSpeedKts>5</systemSpeedKts>
+<systemSpeedMph>7</systemSpeedMph>
+<systemSpeedKph>11</systemSpeedKph>
+<systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 180 MI...290 KM ENE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 205 MI...325 KM ENE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Maria Intermediate Advisory Number 46A
+Hurricane Maria Advisory Number  47
 NWS National Hurricane Center Miami FL       AL152017
-200 PM EDT Wed Sep 27 2017
+500 PM EDT Wed Sep 27 2017
 
-...MARIA BEGINNING TO MOVE AWAY FROM THE COAST OF NORTH CAROLINA...
+...MARIA SLOWLY MOVING AWAY FROM THE COAST OF NORTH CAROLINA...
 
 
-SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...35.9N 72.4W
-ABOUT 180 MI...290 KM ENE OF CAPE HATTERAS NORTH CAROLINA
+LOCATION...36.2N 72.1W
+ABOUT 205 MI...325 KM ENE OF CAPE HATTERAS NORTH CAROLINA
 MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
-PRESENT MOVEMENT...NNE OR 30 DEGREES AT 6 MPH...9 KM/H
+PRESENT MOVEMENT...NNE OR 30 DEGREES AT 7 MPH...11 KM/H
 MINIMUM CENTRAL PRESSURE...979 MB...28.91 INCHES
 
 
@@ -70,38 +70,18 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None
+The Tropical Storm Warning has been discontinued south of Cape
+Hatteras.
+
+All Storm Surge Watches and Warnings have been discontinued.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
-A Storm Surge Warning is in effect for...
-* Ocracoke Inlet to Cape Hatteras
-
 A Tropical Storm Warning is in effect for...
-* Ocracoke Inlet to the North Carolina/Virginia border
+* Cape Hatteras to the North Carolina/Virginia border
 * Albemarle and Pamlico Sounds
 
-A Storm Surge Watch is in effect for...
-* North of Cape Hatteras to Duck
-
-A Storm Surge Warning means there is a danger of life-threatening
-inundation, from rising water moving inland from the coastline in
-the indicated locations. For a depiction of areas at risk, please
-see the National Weather Service Storm Surge Watch/Warning Graphic,
-available at hurricanes.gov.  This is a life-threatening situation.
-Persons located within these areas should take all necessary actions
-to protect life and property from rising water and the potential for
-other dangerous conditions.  Promptly follow evacuation and other
-instructions from local officials.
-
-A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area.
-
-A Storm Surge Watch means there is a possibility of life-
-threatening inundation, from rising water moving inland from the
-coastline in the indicated locations. For a depiction of areas at
-risk, please see the National Weather Service Storm Surge
-Watch/Warning Graphic, available at hurricanes.gov.
+These warnings will likely be discontinued this evening.
 
 For storm information specific to your area, including possible
 inland watches and warnings, please monitor products issued by your
@@ -110,47 +90,34 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 PM EDT (1800 UTC), the center of Hurricane Maria was located
-near latitude 35.9 North, longitude 72.4 West. Maria is moving
-toward the north-northeast near 6 mph (9 km/h), and this motion is
-expected to continue today. Maria is forecast to accelerate
-east-northeastward on Thursday and Thursday night. On the forecast
+At 500 PM EDT (2100 UTC), the center of Hurricane Maria was located
+near latitude 36.2 North, longitude 72.1 West.  Maria is moving
+toward the north-northeast near 7 mph (11 km/h), and this motion is
+expected to continue tonight.  Maria is forecast to accelerate
+east-northeastward on Thursday through Friday.  On the forecast
 track, Maria will move away from the coast of North Carolina
 through Thursday.
 
 Maximum sustained winds are near 75 mph (120 km/h) with higher
-gusts. Some weakening is forecast during the next 48 hours.
+gusts.  Some gradual weakening is forecast during the next 48 hours.
 
 Hurricane-force winds extend outward up to 105 miles (165 km)
-primary to the northeast of the center, and tropical-storm-force
-winds extend outward up to 230 miles (370 km). An observing site at
-Jennette's Pier in Nags Head, North Carolina, recently reported a
-sustained wind of 44 mph (70 km/h) and a gust of 54 mph (87 km/h).
+primarily to the northeast of the center, and tropical-storm-force
+winds extend outward up to 230 miles (370 km).
 
-The latest minimum central pressure reported by reconnaissance
-aircraft data is 979 mb (28.91 inches).
+The estimated minimum central pressure is 979 mb (28.91 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 WIND:  Tropical storm conditions are expected within the warning
-area through today.
+area through the next few hours.  These winds should diminish later
+this evening.
 
-STORM SURGE:  The combination of a dangerous storm surge and the
-tide will cause normally dry areas near the coast to be flooded by
-rising waters moving inland from the shoreline.  The water is
-expected to reach the following heights above ground if the peak
-surge occurs at the time of high tide...
+STORM SURGE:  Water levels along the North Carolina Outer Banks
+will gradually subside tonight.
 
-Ocracoke Inlet to Duck including the sound side of the Outer
-Banks...2 to 4 ft
-
-Surge-related flooding depends on the relative timing of the surge
-and the tidal cycle, and can vary greatly over short distances.  For
-information specific to your area, please see products issued by
-your local National Weather Service forecast office.
-
-SURF:  Large swells generated by Maria are affecting much of the
+SURF:  Swells generated by Maria are affecting much of the
 east coast of the United States, Atlantic Canada, Bermuda, the
 Bahamas, and the Turks and Caicos Islands.  These swells are likely
 to cause life-threatening surf and rip current conditions.  Please
@@ -160,12 +127,12 @@ information.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM EDT.
+Next intermediate advisory at 800 PM EDT.
+Next complete advisory at 1100 PM EDT.
 
 $$
 Forecaster Brown
 
 NNNN
-
 </message>
 </cycloneMessage>
