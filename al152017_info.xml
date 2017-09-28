@@ -5,65 +5,67 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>48</advisoryNumber>
+<advisoryNumber>49</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170927 11:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170928 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709280300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM EDT Wed Sep 27</messageDateTimeLocalStr>
-<timeEpochSeconds>1506567600</timeEpochSeconds>
+<messageDateTimeLocal>20170928 05:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170928 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709280900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM EDT Thu Sep 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1506589200</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>HURRICANE</systemType>
+<systemType>TROPICAL STORM</systemType>
 <systemName>MARIA</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitude>36.8</centerLocLatitude>
-<centerLocLongitude>-71.5</centerLocLongitude>
+<centerLocLongitude>-71</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
 <centerLocLatitudeExpanded>36.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>71.5W</centerLocLongitudeExpanded>
+<centerLocLongitudeExpanded>71.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>75</systemIntensityMph>
-<systemIntensityKph>120</systemIntensityKph>
-<systemIntensityKts>65</systemIntensityKts>
-<systemMslpMb>979</systemMslpMb>
-<systemMslpInHg>28.91</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<systemIntensityMph>70</systemIntensityMph>
+<systemIntensityKph>110</systemIntensityKph>
+<systemIntensityKts>60</systemIntensityKts>
+<systemMslpMb>982</systemMslpMb>
+<systemMslpInHg>29.00</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NE OR 40 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>7</systemSpeedMph>
-<systemSpeedKph>11</systemSpeedKph>
-<systemSpeedKts>6</systemSpeedKts>
+<systemDirectionOfMotion>ENE OR 60 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>8</systemSpeedMph>
+<systemSpeedKph>13</systemSpeedKph>
+<systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 250 MI...400 KM ENE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 275 MI...440 KM ENE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 470 MI...755 KM NW OF BERMUDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Maria Advisory Number  48
+Tropical Storm Maria Advisory Number  49
 NWS National Hurricane Center Miami FL       AL152017
-1100 PM EDT Wed Sep 27 2017
+500 AM EDT Thu Sep 28 2017
 
-...MARIA HEADED OUT TO SEA...
+...MARIA WEAKENS TO A TROPICAL STORM...
 
 
-SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...36.8N 71.5W
-ABOUT 250 MI...400 KM ENE OF CAPE HATTERAS NORTH CAROLINA
-MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
-PRESENT MOVEMENT...NE OR 40 DEGREES AT 7 MPH...11 KM/H
-MINIMUM CENTRAL PRESSURE...979 MB...28.91 INCHES
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...36.8N 71.0W
+ABOUT 275 MI...440 KM ENE OF CAPE HATTERAS NORTH CAROLINA
+ABOUT 470 MI...755 KM NW OF BERMUDA
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...ENE OR 60 DEGREES AT 8 MPH...13 KM/H
+MINIMUM CENTRAL PRESSURE...982 MB...29.00 INCHES
 
 
 WATCHES AND WARNINGS
@@ -73,41 +75,40 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM EDT (0300 UTC), the center of Hurricane Maria was located
-near latitude 36.8 North, longitude 71.5 West.  Maria is moving
-toward the northeast near 7 mph (11 km/h), and this motion is
-expected to continue overnight.  Maria is forecast to accelerate
-east-northeastward to eastward on Thursday through Friday.  On the
-forecast track, Maria will move away from the U.S. east coast
-through Thursday.
+At 500 AM EDT (0900 UTC), the center of Tropical Storm Maria was
+located near latitude 36.8 North, longitude 71.0 West.  Maria is
+moving toward the east-northeast near 8 mph (13 km/h), and the
+storm is expected to accelerate eastward through tonight.  A turn
+back toward the east-northeast with an additional increase in
+forward speed is expected on Friday.  On the forecast track, Maria
+will move away from the U.S. east coast and pass well to the south
+of Atlantic Canada during the next couple of days.
 
-Maximum sustained winds remain near 75 mph (120 km/h) with higher
-gusts.  Some gradual weakening is forecast during the next 48
-hours.
+Maximum sustained winds have decreased to near 70 mph (110 km/h)
+with higher gusts.  Little change in strength is forecast during the
+next 48 hours.
 
-Hurricane-force winds extend outward up to 105 miles (165 km) from
-the center and tropical-storm-force winds extend outward up to 230
-miles (370 km).
+Tropical-storm-force winds extend outward up to 240 miles (390 km)
+from the center.
 
-The estimated minimum central pressure is 979 mb (28.91 inches).
+The estimated minimum central pressure is 982 mb (29.00 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-SURF:  Swells generated by Maria are affecting much of the
-east coast of the United States, Atlantic Canada, Bermuda, the
-Bahamas, and the Turks and Caicos Islands.  These swells are likely
-to cause life-threatening surf and rip current conditions.  Please
-consult products from your local weather office for more
-information.
+SURF:  Swells generated by Maria are affecting much of the east
+coast of the United States, Atlantic Canada, and Bermuda.  These
+swells are likely to cause life-threatening surf and rip current
+conditions.  Please consult products from your local weather office
+for more information.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM EDT.
+Next complete advisory at 1100 AM EDT.
 
 $$
-Forecaster Pasch
+Forecaster Berg
 
 NNNN
 </message>

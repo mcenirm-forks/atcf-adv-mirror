@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>40</advisoryNumber>
+<advisoryNumber>41</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170927 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170928 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709280300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Wed Sep 27</messageDateTimeLocalStr>
-<timeEpochSeconds>1506567600</timeEpochSeconds>
+<messageDateTimeLocal>20170928 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170928 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709280900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Thu Sep 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1506589200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>LEE</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>31.7</centerLocLatitude>
-<centerLocLongitude>-57.3</centerLocLongitude>
+<centerLocLatitude>32.5</centerLocLatitude>
+<centerLocLongitude>-57.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>31.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>57.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>32.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>57.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>110</systemIntensityMph>
@@ -38,34 +38,34 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNW OR 345 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>7</systemSpeedMph>
-<systemSpeedKph>11</systemSpeedKph>
-<systemSpeedKts>6</systemSpeedKts>
+<systemDirectionOfMotion>N OR 360 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>9</systemSpeedMph>
+<systemSpeedKph>15</systemSpeedKph>
+<systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 440 MI...710 KM E OF BERMUDA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 1765 MI...2835 KM W OF THE AZORES</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 445 MI...715 KM E OF BERMUDA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 1735 MI...2795 KM W OF THE AZORES</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Lee Advisory Number  40
+Hurricane Lee Advisory Number  41
 NWS National Hurricane Center Miami FL       AL142017
-1100 PM AST Wed Sep 27 2017
+500 AM AST Thu Sep 28 2017
 
-...LEE WEAKENS A LITTLE BUT EXPECTED TO REMAIN A POWERFUL
-HURRICANE FOR ANOTHER DAY OR SO...
+...LEE EXPECTED TO ACCELERATE NORTHEASTWARD OVER THE CENTRAL
+ATLANTIC...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...31.7N 57.3W
-ABOUT 440 MI...710 KM E OF BERMUDA
-ABOUT 1765 MI...2835 KM W OF THE AZORES
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...32.5N 57.2W
+ABOUT 445 MI...715 KM E OF BERMUDA
+ABOUT 1735 MI...2795 KM W OF THE AZORES
 MAXIMUM SUSTAINED WINDS...110 MPH...175 KM/H
-PRESENT MOVEMENT...NNW OR 345 DEGREES AT 7 MPH...11 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 9 MPH...15 KM/H
 MINIMUM CENTRAL PRESSURE...966 MB...28.53 INCHES
 
 
@@ -76,17 +76,16 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the center of Hurricane Lee was located
-near latitude 31.7 North, longitude 57.3 West.  Lee is moving toward
-the north-northwest near 7 mph (11 km/h).  The hurricane is forecast
-to turn northward overnight, and accelerate to the northeast by
-Thursday night.
+At 500 AM AST (0900 UTC), the center of Hurricane Lee was located
+near latitude 32.5 North, longitude 57.2 West.  Lee is moving toward
+the north near 9 mph (15 km/h).  A faster motion toward the
+north-northeast or northeast is expected to begin later today.
 
-Maximum sustained winds are near 110 mph (175 km/h) with higher
+Maximum sustained winds remain near 110 mph (175 km/h) with higher
 gusts.  Gradual weakening is forecast during the next 48 hours.
 
 Hurricane-force winds extend outward up to 35 miles (55 km) from the
-center and tropical-storm-force winds extend outward up to 90 miles
+center, and tropical-storm-force winds extend outward up to 90 miles
 (150 km).
 
 The estimated minimum central pressure is 966 mb (28.53 inches).
@@ -99,7 +98,7 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
 Forecaster Cangialosi
