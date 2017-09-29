@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>51</advisoryNumber>
+<advisoryNumber>52</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170928 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170928 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709282100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Thu Sep 28</messageDateTimeLocalStr>
-<timeEpochSeconds>1506632400</timeEpochSeconds>
+<messageDateTimeLocal>20170928 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170929 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709290300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Thu Sep 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1506654000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>MARIA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>36.8</centerLocLatitude>
-<centerLocLongitude>-67.8</centerLocLongitude>
+<centerLocLatitude>37.1</centerLocLatitude>
+<centerLocLongitude>-65.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>36.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>67.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>37.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>65.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>65</systemIntensityMph>
@@ -38,33 +38,31 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>E OR 90 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>13</systemSpeedMph>
-<systemSpeedKph>20</systemSpeedKph>
-<systemSpeedKts>11</systemSpeedKts>
+<systemDirectionOfMotion>E OR 80 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>17</systemSpeedMph>
+<systemSpeedKph>28</systemSpeedKph>
+<systemSpeedKts>15</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 445 MI...715 KM ENE OF CAPE HATTERAS NORTH CAROLINA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 355 MI...570 KM NNW OF BERMUDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 335 MI...535 KM N OF BERMUDA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Maria Advisory Number  51
+Tropical Storm Maria Advisory Number  52
 NWS National Hurricane Center Miami FL       AL152017
-500 PM AST Thu Sep 28 2017
+1100 PM AST Thu Sep 28 2017
 
-...MARIA CONTINUES TO MOVE EASTWARD AWAY FROM THE UNITED STATES...
+...MARIA ACCELERATING EASTWARD...
 
 
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
-----------------------------------------------
-LOCATION...36.8N 67.8W
-ABOUT 445 MI...715 KM ENE OF CAPE HATTERAS NORTH CAROLINA
-ABOUT 355 MI...570 KM NNW OF BERMUDA
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...37.1N 65.5W
+ABOUT 335 MI...535 KM N OF BERMUDA
 MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
-PRESENT MOVEMENT...E OR 90 DEGREES AT 13 MPH...20 KM/H
+PRESENT MOVEMENT...E OR 80 DEGREES AT 17 MPH...28 KM/H
 MINIMUM CENTRAL PRESSURE...985 MB...29.09 INCHES
 
 
@@ -75,20 +73,18 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM AST (2100 UTC), the center of Tropical Storm Maria was
-located near latitude 36.8 North, longitude 67.8 West. Maria is
-moving toward the east near 13 mph (20 km/h) and the storm is
+At 1100 PM AST (0300 UTC), the center of Tropical Storm Maria was
+located near latitude 37.1 North, longitude 65.5 West. Maria is
+moving toward the east near 17 mph (28 km/h), and the storm is
 expected to accelerate eastward through tonight. A turn back toward
 the east-northeast with an additional increase in forward speed is
-expected on Friday. On the forecast track, Maria will continue to
-move away from the U.S. east coast and pass well to the south of
-Atlantic Canada during the next couple of days.
+expected on Friday and Friday night.
 
 Maximum sustained winds are near 65 mph (100 km/h) with higher
 gusts.  Little change in strength is forecast during the next 48
 hours.
 
-Tropical-storm-force winds extend outward up to 240 miles (390 km)
+Tropical-storm-force winds extend outward up to 230 miles (370 km)
 from the center.
 
 The estimated minimum central pressure is 985 mb (29.09 inches).
@@ -105,10 +101,10 @@ for more information.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM AST.
+Next complete advisory at 500 AM AST.
 
 $$
-Forecaster Stewart
+Forecaster Brown
 
 NNNN
 </message>
