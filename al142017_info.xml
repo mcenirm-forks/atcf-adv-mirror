@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>46</advisoryNumber>
+<advisoryNumber>47</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170929 11:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170929 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709291500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM AST Fri Sep 29</messageDateTimeLocalStr>
-<timeEpochSeconds>1506697200</timeEpochSeconds>
+<messageDateTimeLocal>20170929 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170929 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709292100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Fri Sep 29</messageDateTimeLocalStr>
+<timeEpochSeconds>1506718800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>LEE</systemName>
@@ -19,53 +19,52 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>40.1</centerLocLatitude>
-<centerLocLongitude>-49.5</centerLocLongitude>
+<centerLocLatitude>42.2</centerLocLatitude>
+<centerLocLongitude>-46</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>40.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>49.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>42.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>46.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>70</systemIntensityMph>
-<systemIntensityKph>110</systemIntensityKph>
-<systemIntensityKts>60</systemIntensityKts>
-<systemMslpMb>992</systemMslpMb>
-<systemMslpInHg>29.30</systemMslpInHg>
+<systemIntensityMph>65</systemIntensityMph>
+<systemIntensityKph>100</systemIntensityKph>
+<systemIntensityKts>55</systemIntensityKts>
+<systemMslpMb>996</systemMslpMb>
+<systemMslpInHg>29.42</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>NE OR 45 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>31</systemSpeedMph>
-<systemSpeedKph>50</systemSpeedKph>
-<systemSpeedKts>27</systemSpeedKts>
+<systemSpeedMph>36</systemSpeedMph>
+<systemSpeedKph>57</systemSpeedKph>
+<systemSpeedKts>31</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1005 MI...1620 KM NE OF BERMUDA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 1210 MI...1950 KM WNW OF THE AZORES</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 1040 MI...1675 KM WNW OF THE AZORES</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Lee Advisory Number  46
+Tropical Storm Lee Advisory Number  47
 NWS National Hurricane Center Miami FL       AL142017
-1100 AM AST Fri Sep 29 2017
+500 PM AST Fri Sep 29 2017
 
-...LEE WEAKENS TO TROPICAL STORM STRENGTH...
+...LEE RAPIDLY HEADING NORTHEASTWARD OVER THE OPEN ATLANTIC...
+...EXPECTED TO DISSIPATE ON SATURDAY...
 
 
-SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...40.1N 49.5W
-ABOUT 1005 MI...1620 KM NE OF BERMUDA
-ABOUT 1210 MI...1950 KM WNW OF THE AZORES
-MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
-PRESENT MOVEMENT...NE OR 45 DEGREES AT 31 MPH...50 KM/H
-MINIMUM CENTRAL PRESSURE...992 MB...29.30 INCHES
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...42.2N 46.0W
+ABOUT 1040 MI...1675 KM WNW OF THE AZORES
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...NE OR 45 DEGREES AT 36 MPH...57 KM/H
+MINIMUM CENTRAL PRESSURE...996 MB...29.42 INCHES
 
 
 WATCHES AND WARNINGS
@@ -75,19 +74,20 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM AST (1500 UTC), the center of Tropical Storm Lee was
-located near latitude 40.1 North, longitude 49.5 West. Lee is moving
-toward the northeast near 31 mph (50 km/h).  Lee is forecast to
-continue accelerating toward the northeast today and tomorrow.
+At 500 PM AST (2100 UTC), the center of Tropical Storm Lee was
+located near latitude 42.2 North, longitude 46.0 West. Lee is moving
+toward the northeast near 36 mph (57 km/h).  Lee is forecast to
+remain on this heading with an increase in forward speed later
+today and Saturday.
 
-Maximum sustained winds have decreased to near 70 mph (110 km/h)
-with higher gusts.  Some weakening is forecast for the next 24
-hours, and Lee is expected to dissipate on Saturday.
+Maximum sustained winds are near 65 mph (100 km/h) with higher
+gusts.  Some weakening is expected during the next 12 to 24 hours,
+and Lee will likely dissipate on Saturday.
 
 Tropical-storm-force winds extend outward up to 140 miles (220 km)
 from the center.
 
-The estimated minimum central pressure is 992 mb (29.30 inches).
+The estimated minimum central pressure is 996 mb (29.42 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -97,7 +97,7 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM AST.
+Next complete advisory at 1100 PM AST.
 
 $$
 Forecaster Zelinsky
