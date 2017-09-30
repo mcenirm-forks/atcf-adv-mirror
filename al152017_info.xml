@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>55</advisoryNumber>
+<advisoryNumber>56</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170929 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170929 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201709292100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Fri Sep 29</messageDateTimeLocalStr>
-<timeEpochSeconds>1506718800</timeEpochSeconds>
+<messageDateTimeLocal>20170929 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170930 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201709300300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Fri Sep 29</messageDateTimeLocalStr>
+<timeEpochSeconds>1506740400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>MARIA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>37.8</centerLocLatitude>
-<centerLocLongitude>-57.4</centerLocLongitude>
+<centerLocLatitude>38.6</centerLocLatitude>
+<centerLocLongitude>-53.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>37.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>57.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>38.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>53.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>60</systemIntensityMph>
@@ -43,25 +43,26 @@
 <systemSpeedKph>50</systemSpeedKph>
 <systemSpeedKts>27</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 570 MI...915 KM SE OF HALIFAX NOVA SCOTIA</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 560 MI...900 KM S OF CAPE RACE NEWFOUNDLAND</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Maria Advisory Number  55
+Tropical Storm Maria Advisory Number  56
 NWS National Hurricane Center Miami FL       AL152017
-500 PM AST Fri Sep 29 2017
+1100 PM AST Fri Sep 29 2017
 
-...MARIA CONTINUES RACING EAST-NORTHEASTWARD ACROSS THE NORTH
+...MARIA MOVING QUICKLY EAST-NORTHEASTWARD ACROSS THE NORTH
 ATLANTIC...
-...FORECAST TO BECOME EXTRATROPICAL THIS WEEKEND...
+...FORECAST TO BECOME EXTRATROPICAL BY SATURDAY NIGHT...
 
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
-----------------------------------------------
-LOCATION...37.8N 57.4W
-ABOUT 570 MI...915 KM SE OF HALIFAX NOVA SCOTIA
+
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...38.6N 53.9W
+ABOUT 560 MI...900 KM S OF CAPE RACE NEWFOUNDLAND
 MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
 PRESENT MOVEMENT...ENE OR 70 DEGREES AT 31 MPH...50 KM/H
 MINIMUM CENTRAL PRESSURE...988 MB...29.18 INCHES
@@ -74,15 +75,16 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM AST (2100 UTC), the center of Tropical Storm Maria was
-located near latitude 37.8 North, longitude 57.4 West. Maria is
+At 1100 PM AST (0300 UTC), the center of Tropical Storm Maria was
+located near latitude 38.6 North, longitude 53.9 West. Maria is
 moving toward the east-northeast near 31 mph (50 km/h), and this
-heading with an increase in forward speed is forecast during the
-next day or two.
+motion is expected to continue with an increase in forward speed
+during the next day or two.
 
 Maximum sustained winds are near 60 mph (95 km/h) with higher gusts.
-Maria is forecast to become extratropical between 24 and 36
-hours.
+While little change in strength is forecast during the next couple
+of days, Maria is expected to become an extratropical low by
+Saturday night.
 
 Tropical-storm-force winds extend outward up to 255 miles (405 km)
 from the center.
@@ -97,10 +99,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM AST.
+Next complete advisory at 500 AM AST.
 
 $$
-Forecaster Avila
+Forecaster Beven
 
 NNNN
 </message>
