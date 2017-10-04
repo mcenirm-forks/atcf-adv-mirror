@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP192017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>3</advisoryNumber>
+<advisoryNumber>3A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171004 04:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171004 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710042100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0400 PM CDT Wed Oct 04</messageDateTimeLocalStr>
-<timeEpochSeconds>1507150800</timeEpochSeconds>
+<messageDateTimeLocal>20171004 07:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171005 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710050000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0700 PM CDT Wed Oct 04</messageDateTimeLocalStr>
+<timeEpochSeconds>1507161600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>RAMON</systemName>
@@ -19,18 +19,18 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>15.2</centerLocLatitude>
-<centerLocLongitude>-97.7</centerLocLongitude>
+<centerLocLatitude>0</centerLocLatitude>
+<centerLocLongitude>0</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>15.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>97.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded></centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded></centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>45</systemIntensityMph>
-<systemIntensityKph>75</systemIntensityKph>
-<systemIntensityKts>40</systemIntensityKts>
+<systemIntensityMph>40</systemIntensityMph>
+<systemIntensityKph>65</systemIntensityKph>
+<systemIntensityKts>35</systemIntensityKts>
 <systemMslpMb>1002</systemMslpMb>
 <systemMslpInHg>29.59</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
@@ -38,32 +38,31 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>9</systemSpeedMph>
-<systemSpeedKph>15</systemSpeedKph>
-<systemSpeedKts>8</systemSpeedKts>
+<systemDirectionOfMotion>W OR 275 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 95 MI...155 KM SE OF PUNTO MALDONADO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 90 MI...140 KM SSW OF PUNTA MALDONADO MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Ramon Advisory Number   3
+Tropical Storm Ramon Intermediate Advisory Number 3A
 NWS National Hurricane Center Miami FL       EP192017
-400 PM CDT Wed Oct 04 2017
+700 PM CDT Wed Oct 04 2017
 
-...RAMON BECOMING LESS ORGANIZED...
-...NOW EXPECTED TO DISSIPATE IN A COUPLE OF DAYS OR SOONER...
+...RAMON BRINGING HEAVY RAIN TO THE COAST OF SOUTHERN MEXICO...
 
 
-SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...15.2N 97.7W
-ABOUT 95 MI...155 KM SE OF PUNTO MALDONADO MEXICO
-MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
-PRESENT MOVEMENT...WNW OR 285 DEGREES AT 9 MPH...15 KM/H
+LOCATION...15.1 N 99.0W
+ABOUT 90 MI...140 KM SSW OF PUNTA MALDONADO MEXICO
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...W OR 275 DEGREES AT 12 MPH...19 KM/H
 MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
 
 
@@ -77,7 +76,7 @@ None.
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Tropical Storm Watch is in effect for...
-* Puerto Angel to Acapulco.
+* Puerto Angel to Acapulco
 
 A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, in this case within the next 12 to
@@ -86,18 +85,17 @@ possible within the watch area, in this case within the next 12 to
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 400 PM CDT (2100 UTC), the center of Tropical Storm Ramon was
-located near latitude 15.2 North, longitude 97.7 West.  Ramon is
-moving toward the west-northwest near 9 mph (15 km/h), and a
-general westward motion with some increase in forward speed is
-expected over the next couple of days.  On the forecast track, the
-center of Ramon is expected to move parallel to, but remain offshore
-of, the coast of southern Mexico.
+At 700 PM CDT (0000 UTC), the center of Tropical Storm Ramon was
+located near latitude 15.1 North, longitude 99.0 West.  Ramon is
+moving toward the west near 12 mph (19 km/h), and a general westward
+motion is expected over the next couple of days.  On the forecast
+track, the center of Ramon is expected to move parallel to, but
+remain offshore of, the coast of southern Mexico.
 
-Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
-Ramon is losing organization, and weakening is forecast during
-the next day or two.  The cyclone is expected to dissipate by Friday
-or sooner.
+Maximum sustained winds have decreased to near 40 mph (75 km/h) with
+higher gusts. Ramon is losing organization, and weakening is
+forecast to continue during the next day or two.  The cyclone is
+expected to dissipate by Friday or sooner.
 
 Tropical-storm-force winds extend outward up to 35 miles (55 km)
 from the center.
@@ -119,12 +117,12 @@ through this evening.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 700 PM CDT.
 Next complete advisory at 1000 PM CDT.
 
 $$
-Forecaster Pasch
+Forecaster Zelinsky
 
 NNNN
+
 </message>
 </cycloneMessage>
