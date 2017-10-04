@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "2",
+  "advisoryNumber": "2A",
   "atcfID": "EP192017",
-  "centerLocLatitude": "14.9",
-  "centerLocLatitudeExpanded": "14.9N",
-  "centerLocLongitude": "-96.5",
-  "centerLocLongitudeExpanded": "96.5W",
+  "centerLocLatitude": "15.0",
+  "centerLocLatitudeExpanded": "15.0N",
+  "centerLocLongitude": "-97",
+  "centerLocLongitudeExpanded": "97.0W",
   "event_title": "TROPICAL STORM RAMON",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -96.5,
-      14.9
+      -97.0,
+      15.0
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPEP4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Ramon Advisory Number   2\nNWS National Hurricane Center Miami FL       EP192017\n1000 AM CDT Wed Oct 04 2017\n\n...TROPICAL STORM WATCH ISSUED FOR A PORTION OF THE SOUTHERN COAST\nOF MEXICO...\n\n\nSUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...14.9N 96.5W\nABOUT 55 MI...90 KM S OF PUERTO ANGEL MEXICO\nMAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H\nPRESENT MOVEMENT...WNW OR 285 DEGREES AT 7 MPH...11 KM/H\nMINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\n\nCHANGES WITH THIS ADVISORY:\n\nThe government of Mexico has issued a Tropical Storm Watch from\nPuerto Angel to Acapulco.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Tropical Storm Watch is in effect for...\n* Puerto Angel to Acapulco.\n\nA Tropical Storm Watch means that tropical storm conditions are\npossible within the watch area, in this case within the next 12 to\n24 hours.\n\nFor storm information specific to your area, please monitor\nproducts issued by your national meteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1000 AM CDT (1500 UTC), the center of Tropical Storm Ramon was\nlocated near latitude 14.9 North, longitude 96.5 West.  Ramon is\nmoving toward the west-northwest near 7 mph (11 km/h) and a\ngenerally westward motion with some increase in forward speed is\nexpected over the next couple of days.  On the forecast track, the\ncenter of Ramon is expected to move parallel to, but remain offshore\nof, the coast of southern Mexico.\n\nMaximum sustained winds are near 45 mph (75 km/h) with higher gusts.\nOnly slight strengthening is forecast during the next 48 hours.\n\nRamon is a small tropical storm.  Tropical-storm-force winds extend\noutward up to 35 miles (55 km) from the center.\n\nThe estimated minimum central pressure is 1002 mb (29.59 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nRAINFALL:  Ramon is expected to produce rainfall amounts of 2 to 4\ninches with isolated maximum amounts of 6 inches over the Mexican\nstates of Oaxaca and coastal Guerrero through Thursday. This\nrainfall could cause life-threatening flash floods and mudslides.\n\nWIND:  Tropical storm conditions are possible within the watch area\nduring the next day or so.\n\n\nNEXT ADVISORY\n-------------\nNext intermediate advisory at 100 PM CDT.\nNext complete advisory at 400 PM CDT.\n\n$$\nForecaster Pasch\n\nNNNN",
+  "message": "ZCZC MIATCPEP4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Ramon Intermediate Advisory Number 2A\nNWS National Hurricane Center Miami FL       EP192017\n100 PM CDT Wed Oct 04 2017\n\n...HEAVY RAINS AFFECTING PORTIONS OF THE SOUTHERN COAST OF MEXICO...\n\n\nSUMMARY OF 100 PM CDT...1800 UTC...INFORMATION\n----------------------------------------------\nLOCATION...15.0N 97.0W\nABOUT 60 MI...95 KM SW OF PUERTO ANGEL MEXICO\nMAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H\nPRESENT MOVEMENT...WNW OR 285 DEGREES AT 7 MPH...11 KM/H\nMINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\n\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Tropical Storm Watch is in effect for...\n* Puerto Angel to Acapulco.\n\nA Tropical Storm Watch means that tropical storm conditions are\npossible within the watch area, in this case within the next 12 to\n24 hours.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 100 PM CDT (1800 UTC), the center of Tropical Storm Ramon was\nlocated near latitude 15.0 North, longitude 97.0 West.  Ramon is\nmoving toward the west-northwest near 7 mph (11 km/h), and a\ngeneral westward motion with some increase in forward speed is\nexpected over the next couple of days.  On the forecast track, the\ncenter of Ramon is expected to move parallel to, but remain offshore\nof, the coast of southern Mexico.\n\nMaximum sustained winds are near 45 mph (75 km/h) with higher\ngusts.  Little change in strength is likely during the next 48\nhours.\n\nRamon is a small tropical storm.  Tropical-storm-force winds extend\noutward up to 35 miles (55 km) from the center.\n\nThe estimated minimum central pressure is 1002 mb (29.59 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nRAINFALL:  Ramon is expected to produce rainfall amounts of 2 to 4\ninches with isolated maximum amounts of 6 inches over the Mexican\nstates of Oaxaca and coastal Guerrero through Thursday.  This\nrainfall could cause life-threatening flash floods and mudslides.\n\nWIND:  Tropical storm conditions are possible within the watch area\nduring the next day or so.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 400 PM CDT.\n\n$$\nForecaster Pasch\n\nNNNN",
   "messageBinNumber": "4",
-  "messageDateTimeLocal": "20171004 10:00:00 AM CDT",
-  "messageDateTimeLocalStr": "1000 AM CDT Wed Oct 04",
-  "messageDateTimeUTC": "20171004 03:00:00 PM UTC",
-  "messageDateTimeUTC24": "201710041500",
-  "messageType": "ROUTINE ADVISORY",
+  "messageDateTimeLocal": "20171004 01:00:00 PM CDT",
+  "messageDateTimeLocalStr": "0100 PM CDT Wed Oct 04",
+  "messageDateTimeUTC": "20171004 06:00:00 PM UTC",
+  "messageDateTimeUTC24": "201710041800",
+  "messageType": "INTERMEDIATE ADVISORY",
   "systemDirectionOfMotion": "WNW OR 285 DEGREES",
-  "systemGeoRefPt1": "ABOUT 55 MI...90 KM S OF PUERTO ANGEL MEXICO",
+  "systemGeoRefPt1": "ABOUT 60 MI...95 KM SW OF PUERTO ANGEL MEXICO",
   "systemIntensityKph": "75",
   "systemIntensityKts": "40",
   "systemIntensityMph": "45",
@@ -70,6 +70,6 @@
   "systemSpeedKts": "6",
   "systemSpeedMph": "7",
   "systemType": "TROPICAL STORM",
-  "time": "2017-10-04 15:00:00",
-  "timeEpochSeconds": "1507129200"
+  "time": "2017-10-04 18:00:00",
+  "timeEpochSeconds": "1507140000"
 }

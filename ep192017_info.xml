@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP192017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>2</advisoryNumber>
+<advisoryNumber>2A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171004 10:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171004 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710041500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 AM CDT Wed Oct 04</messageDateTimeLocalStr>
-<timeEpochSeconds>1507129200</timeEpochSeconds>
+<messageDateTimeLocal>20171004 01:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171004 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710041800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0100 PM CDT Wed Oct 04</messageDateTimeLocalStr>
+<timeEpochSeconds>1507140000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>RAMON</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>14.9</centerLocLatitude>
-<centerLocLongitude>-96.5</centerLocLongitude>
+<centerLocLatitude>15.0</centerLocLatitude>
+<centerLocLongitude>-97</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>14.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>96.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>15.0N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>97.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>45</systemIntensityMph>
@@ -43,25 +43,24 @@
 <systemSpeedKph>11</systemSpeedKph>
 <systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 55 MI...90 KM S OF PUERTO ANGEL MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 60 MI...95 KM SW OF PUERTO ANGEL MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Ramon Advisory Number   2
+Tropical Storm Ramon Intermediate Advisory Number 2A
 NWS National Hurricane Center Miami FL       EP192017
-1000 AM CDT Wed Oct 04 2017
+100 PM CDT Wed Oct 04 2017
 
-...TROPICAL STORM WATCH ISSUED FOR A PORTION OF THE SOUTHERN COAST
-OF MEXICO...
+...HEAVY RAINS AFFECTING PORTIONS OF THE SOUTHERN COAST OF MEXICO...
 
 
-SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...14.9N 96.5W
-ABOUT 55 MI...90 KM S OF PUERTO ANGEL MEXICO
+SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...15.0N 97.0W
+ABOUT 60 MI...95 KM SW OF PUERTO ANGEL MEXICO
 MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
 PRESENT MOVEMENT...WNW OR 285 DEGREES AT 7 MPH...11 KM/H
 MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
@@ -72,8 +71,7 @@ WATCHES AND WARNINGS
 
 CHANGES WITH THIS ADVISORY:
 
-The government of Mexico has issued a Tropical Storm Watch from
-Puerto Angel to Acapulco.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -84,22 +82,20 @@ A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, in this case within the next 12 to
 24 hours.
 
-For storm information specific to your area, please monitor
-products issued by your national meteorological service.
-
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 AM CDT (1500 UTC), the center of Tropical Storm Ramon was
-located near latitude 14.9 North, longitude 96.5 West.  Ramon is
-moving toward the west-northwest near 7 mph (11 km/h) and a
-generally westward motion with some increase in forward speed is
+At 100 PM CDT (1800 UTC), the center of Tropical Storm Ramon was
+located near latitude 15.0 North, longitude 97.0 West.  Ramon is
+moving toward the west-northwest near 7 mph (11 km/h), and a
+general westward motion with some increase in forward speed is
 expected over the next couple of days.  On the forecast track, the
 center of Ramon is expected to move parallel to, but remain offshore
 of, the coast of southern Mexico.
 
-Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
-Only slight strengthening is forecast during the next 48 hours.
+Maximum sustained winds are near 45 mph (75 km/h) with higher
+gusts.  Little change in strength is likely during the next 48
+hours.
 
 Ramon is a small tropical storm.  Tropical-storm-force winds extend
 outward up to 35 miles (55 km) from the center.
@@ -111,7 +107,7 @@ HAZARDS AFFECTING LAND
 ----------------------
 RAINFALL:  Ramon is expected to produce rainfall amounts of 2 to 4
 inches with isolated maximum amounts of 6 inches over the Mexican
-states of Oaxaca and coastal Guerrero through Thursday. This
+states of Oaxaca and coastal Guerrero through Thursday.  This
 rainfall could cause life-threatening flash floods and mudslides.
 
 WIND:  Tropical storm conditions are possible within the watch area
@@ -120,7 +116,6 @@ during the next day or so.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 100 PM CDT.
 Next complete advisory at 400 PM CDT.
 
 $$
