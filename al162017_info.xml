@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL162017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>1</advisoryNumber>
+<advisoryNumber>1A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171004 11:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171004 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710041500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM EDT Wed Oct 04</messageDateTimeLocalStr>
-<timeEpochSeconds>1507129200</timeEpochSeconds>
+<messageDateTimeLocal>20171004 02:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171004 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710041800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM EDT Wed Oct 04</messageDateTimeLocalStr>
+<timeEpochSeconds>1507140000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>SIXTEEN</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>12.2</centerLocLatitude>
-<centerLocLongitude>-81.9</centerLocLongitude>
+<centerLocLatitude>12.3</centerLocLatitude>
+<centerLocLongitude>-82.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>12.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>81.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>12.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>82.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -43,27 +43,27 @@
 <systemSpeedKph>11</systemSpeedKph>
 <systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 25 MI...40 KM SSW OF SAN ANDRES ISLAND</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 210 MI...340 KM SSE OF CABO GRACIAS A DIOS ON NIC/HON BORDER</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 45 MI...70 KM WSW OF SAN ANDRES ISLAND</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 195 MI...315 KM SSE OF CABO GRACIAS A DIOS ON NIC/HON BORDER</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Sixteen Advisory Number   1
+Tropical Depression Sixteen Intermediate Advisory Number 1A
 NWS National Hurricane Center Miami FL       AL162017
-1100 AM EDT Wed Oct 04 2017
+200 PM EDT Wed Oct 04 2017
 
-...NEW DEPRESSION FORMS IN THE SOUTHWESTERN CARIBBEAN SEA...
-...TROPICAL STORM WARNING ISSUED FOR PARTS OF CENTRAL AMERICA...
+...TORRENTIAL RAINS EXPECTED OVER PORTIONS OF CENTRAL AMERICA FROM
+THE DEPRESSION...
 
 
-SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...12.2N 81.9W
-ABOUT 25 MI...40 KM SSW OF SAN ANDRES ISLAND
-ABOUT 210 MI...340 KM SSE OF CABO GRACIAS A DIOS ON NIC/HON BORDER
+SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...12.3N 82.3W
+ABOUT 45 MI...70 KM WSW OF SAN ANDRES ISLAND
+ABOUT 195 MI...315 KM SSE OF CABO GRACIAS A DIOS ON NIC/HON BORDER
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
 PRESENT MOVEMENT...NW OR 305 DEGREES AT 7 MPH...11 KM/H
 MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
@@ -73,13 +73,7 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The government of Nicaragua has issued a Tropical Storm Warning for
-the coast of Nicaragua from Sandy Bay Sirpi northward to the
-Honduras border.
-
-The government of Honduras has issued a Tropical Storm Warning for
-the coast of Honduras from Punta Castilla eastward to the
-border with Nicaragua.
+None
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -99,18 +93,18 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM EDT (1500 UTC), the center of Tropical Depression Sixteen
-was located near latitude 12.2 North, longitude 81.9 West.  The
-depression is moving toward the northwest near 7 mph (11 km/h) and
-this motion is expected to continue today.  On the forecast track,
-the depression should be nearing the coast of Nicaragua early
-Thursday, move across northeastern Nicaragua and eastern Honduras
-late Thursday, and emerge into the northwestern Caribbean Sea on
-Friday.
+At 200 PM EDT (1800 UTC), the center of Tropical Depression Sixteen
+was located by aircraft reconnaissance near latitude 12.3 North,
+longitude 82.3 West.  The depression is moving toward the northwest
+near 7 mph (11 km/h), and this motion is expected to continue
+today.  On the forecast track, the depression should be nearing the
+coast of Nicaragua early Thursday, move across northeastern
+Nicaragua and eastern Honduras late Thursday, and emerge into the
+northwestern Caribbean Sea on Friday.
 
-Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-The depression is expected to become a tropical storm later today
-or tonight.
+Maximum sustained winds are near 35 mph (55 km/h) with higher
+gusts.  The depression is expected to become a tropical storm later
+today or tonight.
 
 The estimated minimum central pressure is 1005 mb (29.68 inches).
 
@@ -132,7 +126,6 @@ Honduras late Thursday.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 PM EDT.
 Next complete advisory at 500 PM EDT.
 
 $$
