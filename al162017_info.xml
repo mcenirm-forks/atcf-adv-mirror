@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL162017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>6</advisoryNumber>
+<advisoryNumber>6A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171005 05:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171005 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710052100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM EDT Thu Oct 05</messageDateTimeLocalStr>
-<timeEpochSeconds>1507237200</timeEpochSeconds>
+<messageDateTimeLocal>20171005 08:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171006 12:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710060000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM EDT Thu Oct 05</messageDateTimeLocalStr>
+<timeEpochSeconds>1507248000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>NATE</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>14.9</centerLocLatitude>
-<centerLocLongitude>-84.3</centerLocLongitude>
+<centerLocLatitude>15.3</centerLocLatitude>
+<centerLocLongitude>-84.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>14.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>84.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>15.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>84.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
@@ -43,27 +43,27 @@
 <systemSpeedKph>17</systemSpeedKph>
 <systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 40 MI...65 KM WSW OF PUERTO LEMPIRA HONDURAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 425 MI...680 KM SSE OF COZUMEL MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 45 MI...75 KM W OF PUERTO LEMPIRA HONDURAS</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 390 MI...630 KM SSE OF COZUMEL MEXICO</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Nate Advisory Number   6
+Tropical Storm Nate Intermediate Advisory Number 6A
 NWS National Hurricane Center Miami FL       AL162017
-500 PM EDT Thu Oct 05 2017
+800 PM EDT Thu Oct 05 2017
 
-...CENTER OF NATE MOVING INTO EASTERN HONDURAS...
-...FLOODING RAINS EXPECTED OVER PORTIONS OF CENTRAL AMERICA...
+...NATE'S CENTER STILL OVER EASTERN HONDURAS...
+...EXPECTED TO MOVE OVER THE NORTHWESTERN CARIBBEAN SEA TONIGHT...
 
 
-SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...14.9N 84.3W
-ABOUT 40 MI...65 KM WSW OF PUERTO LEMPIRA HONDURAS
-ABOUT 425 MI...680 KM SSE OF COZUMEL MEXICO
+LOCATION...15.3N 84.5W
+ABOUT 45 MI...75 KM W OF PUERTO LEMPIRA HONDURAS
+ABOUT 390 MI...630 KM SSE OF COZUMEL MEXICO
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
 PRESENT MOVEMENT...NNW OR 330 DEGREES AT 10 MPH...17 KM/H
 MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
@@ -102,16 +102,17 @@ issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM EDT (2100 UTC), the center of Tropical Storm Nate was
-located near latitude 14.9 North, longitude 84.3 West.  Nate is
-moving toward the north-northwest near 10 mph (17 km/h) and this
-motion is expected to continue during the next couple of days with a
-significant increase in forward speed.  On the forecast track, the
-center of Nate should move across eastern Honduras this evening and
-over the northwestern Caribbean Sea tonight and Friday.  The center
-is then expected to move near or over the northeastern part of the
-Yucatan Peninsula and the adjacent islands late Friday or Friday
-night, and move into the Gulf of Mexico on Saturday.
+At 800 PM EDT (0000 UTC), the center of Tropical Storm Nate was
+located inland over eastern Honduras near latitude 15.3 North,
+longitude 84.5 West.  Nate is moving toward the north-northwest near
+10 mph (17 km/h), and this motion is expected to continue during the
+next couple of days with a significant increase in forward speed.
+On the forecast track, the center of Nate will continue to move over
+eastern Honduras this evening and over the northwestern Caribbean
+Sea tonight and Friday.  The center is then expected to move near or
+over the northeastern part of the Yucatan Peninsula and the adjacent
+islands late Friday or Friday night, and move into the Gulf of
+Mexico on Saturday.
 
 Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
 Strengthening is likely once the center moves over the northwestern
@@ -150,10 +151,10 @@ Friday night, with tropical storm conditions expected by late
 Friday.
 
 STORM SURGE:  A storm surge will raise water levels by as much as 1
-to 3 feet above normal tide levels along the immediate coast near
-and to the north of where the center of Nate makes landfall on the
-Yucatan Peninsula and the adjacent islands.  Near the coast, the
-surge will be accompanied by large and destructive waves.
+to 3 feet above normal tide levels along the immediate coast in
+areas of onshore winds on the Yucatan Peninsula and the adjacent
+islands.  Near the coast, the surge will be accompanied by large and
+destructive waves.
 
 SURF:  Swells generated by Nate are affecting portions of the coast
 of Nicaragua, and will begin to affect other land areas around the
@@ -164,12 +165,12 @@ Please consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 PM EDT.
 Next complete advisory at 1100 PM EDT.
 
 $$
-Forecaster Beven
+Forecaster Berg
 
 NNNN
+
 </message>
 </cycloneMessage>
