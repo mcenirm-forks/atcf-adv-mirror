@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL162017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>5</advisoryNumber>
+<advisoryNumber>5A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171005 11:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171005 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710051500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM EDT Thu Oct 05</messageDateTimeLocalStr>
-<timeEpochSeconds>1507215600</timeEpochSeconds>
+<messageDateTimeLocal>20171005 02:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171005 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710051800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM EDT Thu Oct 05</messageDateTimeLocalStr>
+<timeEpochSeconds>1507226400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>NATE</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>14.3</centerLocLatitude>
-<centerLocLongitude>-83.7</centerLocLongitude>
+<centerLocLatitude>14.5</centerLocLatitude>
+<centerLocLongitude>-84</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>14.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>83.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>14.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>84.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
 <systemIntensityKph>65</systemIntensityKph>
 <systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>999</systemMslpMb>
-<systemMslpInHg>29.50</systemMslpInHg>
+<systemMslpMb>1001</systemMslpMb>
+<systemMslpInHg>29.56</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,39 +43,37 @@
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 30 MI...45 KM NW OF PUERTO CABEZAS NICARAGUA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 65 MI...105 KM S OF PUERTO LEMPIRA HONDURAS</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 50 MI...80 KM NW OF PUERTO CABEZAS NICARAGUA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 50 MI...80 KM SSW OF PUERTO LEMPIRA HONDURAS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Nate Advisory Number   5
+Tropical Storm Nate Intermediate Advisory Number 5A
 NWS National Hurricane Center Miami FL       AL162017
-1100 AM EDT Thu Oct 05 2017
+200 PM EDT Thu Oct 05 2017
 
-...CENTER OF NATE NOW MOVING ACROSS NORTHEASTERN NICARAGUA...
+...CENTER OF NATE CONTINUES MOVING ACROSS NORTHEASTERN NICARAGUA...
 ...FLOODING RAINS EXPECTED OVER PORTIONS OF CENTRAL AMERICA...
 
 
-SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...14.3N 83.7W
-ABOUT 30 MI...45 KM NW OF PUERTO CABEZAS NICARAGUA
-ABOUT 65 MI...105 KM S OF PUERTO LEMPIRA HONDURAS
+SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...14.5N 84.0W
+ABOUT 50 MI...80 KM NW OF PUERTO CABEZAS NICARAGUA
+ABOUT 50 MI...80 KM SSW OF PUERTO LEMPIRA HONDURAS
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
 PRESENT MOVEMENT...NW OR 325 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
+MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Government of Mexico has issued a Tropical Storm Warning for
-the coast of the Yucatan Peninsula and the adjacent islands from
-Punta Herrero to Rio Lagartos.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -90,41 +88,38 @@ A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area.
 
 A Hurricane Watch means that hurricane conditions are possible
-within the watch area.  A watch is typically issued 48 hours
-before the anticipated first occurrence of tropical-storm-force
-winds, conditions that make outside preparations difficult or
-dangerous.
+within the watch area.
 
 Interests elsewhere in Honduras, the Bay Islands, western Cuba, the
 Yucatan Peninsula, and the northern coast of the Gulf of Mexico
 should monitor the progress of Nate.
 
-For storm information specific to your area, please monitor products
-issued by your national meteorological service.
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM EDT (1500 UTC), the center of Tropical Storm Nate was
-located inland over northeastern Nicaragua near latitude 14.3 North,
-longitude 83.7 West.  Nate is moving toward the northwest near 9 mph
+At 200 PM EDT (1800 UTC), the center of Tropical Storm Nate was
+located inland over northeastern Nicaragua near latitude 14.5 North,
+longitude 84.0 West.  Nate is moving toward the northwest near 9 mph
 (15 km/h).  A turn toward the north-northwest at a faster forward
-speed is expected later today, with that motion continuing through
-Friday night.  On the forecast track, the center of Nate should move
-across northeastern Nicaragua and eastern Honduras today and then
-over the northwestern Caribbean Sea tonight and Friday.  The center
-is expected to approach the coast of the Yucatan Peninsula late
-Friday.
+speed is expected this afternoon or tonight, with that motion
+continuing through Friday night.  On the forecast track, the center
+of Nate should move across northeastern Nicaragua and eastern
+Honduras this afternoon and then over the northwestern Caribbean Sea
+tonight and Friday.  The center is expected to approach the coast of
+the Yucatan Peninsula late Friday.
 
-Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
-Little change in strength is expected today while the center is
-over land.  Strengthening is likely once the center moves over the
-northwestern Caribbean Sea tonight and Friday.
+Maximum sustained winds are near 40 mph (65 km/h) with higher
+gusts. Little change in strength is expected today while the center
+is over land.  Strengthening is likely once the center moves over
+the northwestern Caribbean Sea tonight and Friday.
 
-Tropical-storm-force winds extend outward up to 70 miles (110 km)
+Tropical-storm-force winds extend outward up to 50 miles (80 km)
 mainly over water to the east of the center.
 
-The estimated minimum central pressure is 999 mb (29.50 inches).
+The estimated minimum central pressure is 1001 mb (29.56 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -158,12 +153,12 @@ Please consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 PM EDT.
 Next complete advisory at 500 PM EDT.
 
 $$
 Forecaster Beven
 
 NNNN
+
 </message>
 </cycloneMessage>
