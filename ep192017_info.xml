@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>0</centerLocLatitude>
-<centerLocLongitude>0</centerLocLongitude>
+<centerLocLatitude>15.1</centerLocLatitude>
+<centerLocLongitude>-99</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded></centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded></centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>15.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>99.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
@@ -47,19 +47,21 @@
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
-TTAA00 KNHC DDHHMM
+TTAA00 KNHC DDHHMM CCA
 
 BULLETIN
-Tropical Storm Ramon Intermediate Advisory Number 3A
+Tropical Storm Ramon Intermediate Advisory Number 3A...Corrected
 NWS National Hurricane Center Miami FL       EP192017
 700 PM CDT Wed Oct 04 2017
+
+Corrected summary block formatting
 
 ...RAMON BRINGING HEAVY RAIN TO THE COAST OF SOUTHERN MEXICO...
 
 
 SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...15.1 N 99.0W
+LOCATION...15.1N 99.0W
 ABOUT 90 MI...140 KM SSW OF PUNTA MALDONADO MEXICO
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
 PRESENT MOVEMENT...W OR 275 DEGREES AT 12 MPH...19 KM/H
@@ -92,8 +94,8 @@ motion is expected over the next couple of days.  On the forecast
 track, the center of Ramon is expected to move parallel to, but
 remain offshore of, the coast of southern Mexico.
 
-Maximum sustained winds have decreased to near 40 mph (75 km/h) with
-higher gusts. Ramon is losing organization, and weakening is
+Maximum sustained winds have decreased to near 40 mph (75 km/h)
+with higher gusts. Ramon is losing organization, and weakening is
 forecast to continue during the next day or two.  The cyclone is
 expected to dissipate by Friday or sooner.
 
