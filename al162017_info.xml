@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL162017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>3A</advisoryNumber>
+<advisoryNumber>4</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171005 02:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171005 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710050600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 AM EDT Thu Oct 05</messageDateTimeLocalStr>
-<timeEpochSeconds>1507183200</timeEpochSeconds>
+<messageDateTimeLocal>20171005 05:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171005 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710050900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM EDT Thu Oct 05</messageDateTimeLocalStr>
+<timeEpochSeconds>1507194000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>SIXTEEN</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>13.0</centerLocLatitude>
-<centerLocLongitude>-83</centerLocLongitude>
+<centerLocLatitude>13.3</centerLocLatitude>
+<centerLocLongitude>-83.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>13.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>83.0W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>13.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>83.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -38,34 +38,32 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NW OR 310 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>6</systemSpeedMph>
-<systemSpeedKph>9</systemSpeedKph>
-<systemSpeedKts>5</systemSpeedKts>
+<systemDirectionOfMotion>NW OR 315 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>7</systemSpeedMph>
+<systemSpeedKph>11</systemSpeedKph>
+<systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 75 MI...120 KM SSE OF PUERTO CABEZAS NICARAGUA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 95 MI...150 KM WNW OF SAN ANDRES ISLAND</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 50 MI...80 KM S OF PUERTO CABEZAS NICARAGUA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Sixteen Intermediate Advisory Number 3A
+Tropical Depression Sixteen Advisory Number   4
 NWS National Hurricane Center Miami FL       AL162017
-200 AM EDT Thu Oct 05 2017
+500 AM EDT Thu Oct 05 2017
 
-...DEPRESSION FORECAST TO BECOME A TROPICAL STORM LATER TODAY...
+...TROPICAL DEPRESSION APPROACHING THE COAST OF NICARAGUA...
 ...FLOODING RAINS EXPECTED OVER PORTIONS OF CENTRAL AMERICA...
 
 
-SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...13.0N 83.0W
-ABOUT 75 MI...120 KM SSE OF PUERTO CABEZAS NICARAGUA
-ABOUT 95 MI...150 KM WNW OF SAN ANDRES ISLAND
+LOCATION...13.3N 83.3W
+ABOUT 50 MI...80 KM S OF PUERTO CABEZAS NICARAGUA
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...NW OR 310 DEGREES AT 6 MPH...9 KM/H
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 7 MPH...11 KM/H
 MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
 
 
@@ -73,7 +71,8 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None
+The government of Mexico has extended the Hurricane Watch westward
+along the northern coast of the Yucatan peninsula to Rio Lagartos.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -81,11 +80,10 @@ A Tropical Storm Warning is in effect for...
 * Sandy Bay Sirpi Nicaragua to Punta Castilla Honduras
 
 A Hurricane Watch is in effect for...
-* Punta Herrero to Cabo Catoche Mexico
+* Punta Herrero to Rio Lagartos Mexico
 
 A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area, in this case within
-12-24 hours.
+expected somewhere within the warning area.
 
 A Hurricane Watch means that hurricane conditions are possible
 within the watch area.  A watch is typically issued 48 hours
@@ -102,22 +100,23 @@ issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 200 AM EDT (0600 UTC), the center of Tropical Depression Sixteen
-was located near latitude 13.0 North, longitude 83.0 West.  The
-depression is moving toward the northwest near 6 mph (9 km/h), and
+At 500 AM EDT (0900 UTC), the center of Tropical Depression Sixteen
+was located near latitude 13.3 North, longitude 83.3 West. The
+depression is moving toward the northwest near 7 mph (11 km/h), and
 this motion is expected to continue this morning.  A north-
 northwestward motion at a faster forward speed is forecast to begin
-later today and continue through late Friday.  On the forecast
+later today and continue through Friday night.  On the forecast
 track, the center of the depression should move across northeastern
 Nicaragua and eastern Honduras later today and then over the
 northwestern Caribbean Sea Thursday night and Friday.  The center is
-expected to approach the coast of the Yucatan peninsula late Friday.
+expected to approach the coast of the Yucatan peninsula late
+Friday.
 
 Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-The depression is forecast to strengthen to a tropical storm before
-it moves inland over northeastern Nicaragua.  Additional
-strengthening is likely over the northwestern Caribbean Sea Thursday
-night and Friday.
+The depression could strengthen to a tropical storm before
+it moves inland over northeastern Nicaragua today.  Strengthening
+is likely over the northwestern Caribbean Sea Thursday night and
+Friday.
 
 The estimated minimum central pressure is 1004 mb (29.65 inches).
 
@@ -129,17 +128,19 @@ accumulations through Friday night:
 
 Nicaragua...15 to 20 inches, isolated 30 inches
 Costa Rica and Panama...5 to 10 inches, isolated 20 inches
-Honduras...2 to 5 inches, isolated 8 inches
+Honduras and Belize...2 to 5 inches, isolated 8 inches
+Eastern portions of the Yucatan peninsula...4 to 8 inches, isolated
+12 inches
 
 Heavy rainfall will occur over a wide area, including locations well
 away from the center along the Pacific coast of Central America.
 This rainfall could cause life-threatening flash floods and
 mudslides.
 
-WIND:  Tropical storm conditions are expected to start in the
-warning area in Nicaragua later this morning, and spread into
-Honduras late today.  Tropical storm and hurricane conditions are
-possible within the watch area in Mexico beginning late Friday.
+WIND:  Tropical storm conditions are expected within portions of the
+warning area in Nicaragua and Honduras late today and tonight.
+Tropical storm and hurricane conditions are possible within the
+watch area in Mexico beginning late Friday.
 
 SURF:  Swells generated by the cyclone are affecting portions of
 the coast of Nicaragua, and will begin to affect other land areas
@@ -150,12 +151,12 @@ Please consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM EDT.
+Next intermediate advisory at 800 AM EDT.
+Next complete advisory at 1100 AM EDT.
 
 $$
 Forecaster Brown
 
 NNNN
-
 </message>
 </cycloneMessage>

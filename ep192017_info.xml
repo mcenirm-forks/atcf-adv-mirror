@@ -5,65 +5,66 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>4</advisoryNumber>
+<advisoryNumber>5</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171004 10:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171005 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710050300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 PM CDT Wed Oct 04</messageDateTimeLocalStr>
-<timeEpochSeconds>1507172400</timeEpochSeconds>
+<messageDateTimeLocal>20171005 04:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171005 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710050900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 AM CDT Thu Oct 05</messageDateTimeLocalStr>
+<timeEpochSeconds>1507194000</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL DEPRESSION</systemType>
+<systemType>REMNANTS OF</systemType>
 <systemName>RAMON</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>14.8</centerLocLatitude>
-<centerLocLongitude>-101.9</centerLocLongitude>
+<centerLocLatitude>15.0</centerLocLatitude>
+<centerLocLongitude>-102.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>14.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>101.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>15.0N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>102.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>35</systemIntensityMph>
-<systemIntensityKph>55</systemIntensityKph>
-<systemIntensityKts>30</systemIntensityKts>
-<systemMslpMb>1004</systemMslpMb>
-<systemMslpInHg>29.65</systemMslpInHg>
+<systemIntensityMph>25</systemIntensityMph>
+<systemIntensityKph>35</systemIntensityKph>
+<systemIntensityKts>20</systemIntensityKts>
+<systemMslpMb>1008</systemMslpMb>
+<systemMslpInHg>29.77</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>WNW OR 295 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>12</systemSpeedMph>
 <systemSpeedKph>19</systemSpeedKph>
 <systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 195 MI...315 KM SW OF ACAPULCO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 215 MI...350 KM SW OF ACAPULCO MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Ramon Advisory Number   4
+Remnants Of Ramon Advisory Number   5
 NWS National Hurricane Center Miami FL       EP192017
-1000 PM CDT Wed Oct 04 2017
+400 AM CDT Thu Oct 05 2017
 
-...POORLY ORGANIZED RAMON WEAKENS TO A TROPICAL DEPRESSION...
+...RAMON DEGENERATES INTO A TROUGH OF LOW PRESSURE...
+...THIS IS THE LAST ADVISORY...
 
 
-SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...14.8N 101.9W
-ABOUT 195 MI...315 KM SW OF ACAPULCO MEXICO
-MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...W OR 270 DEGREES AT 12 MPH...19 KM/H
-MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...15.0N 102.5W
+ABOUT 215 MI...350 KM SW OF ACAPULCO MEXICO
+MAXIMUM SUSTAINED WINDS...25 MPH...35 KM/H
+PRESENT MOVEMENT...WNW OR 295 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
 
 
 WATCHES AND WARNINGS
@@ -71,8 +72,7 @@ WATCHES AND WARNINGS
 
 CHANGES WITH THIS ADVISORY:
 
-The government of Mexico has discontinued the Tropical Storm Watch
-from Puerto Angel to Acapulco.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -81,36 +81,27 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 PM CDT (0300 UTC), the center of Tropical Depression Ramon
-was located near latitude 14.8 North, longitude 101.9 West.  The
-depression is moving toward the west near 12 mph (19 km/h).  A
-continued westward motion with an increase in forward speed is
-expected for the next day or two.  On the forecast track, Ramon will
-continue moving away from the southern coast of Mexico tonight and
-on Thursday.
+At 400 AM CDT (0900 UTC), the remnants of Ramon were located near
+latitude 15.0 North, longitude 102.5 West. The remnants of Ramon are
+moving toward the west-northwest near 12 mph (19 km/h).
 
-Maximum sustained winds have decreased to near 35 mph (55 km/h)
-with higher gusts.  The depression is expected to dissipate within
-the next 24 hours.
+Maximum sustained winds are near 25 mph (35 km/h) with higher
+gusts. Continued weakening is expected this morning.
 
-The estimated minimum central pressure is 1004 mb (29.65 inches).
+The estimated minimum central pressure is 1008 mb (29.77 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-RAINFALL: Ramon is expected to produce rainfall amounts of 1 to 3
-inches with isolated maximum amounts of 5 inches over the Mexican
-states of Oaxaca, Guerrero, and southern Michoacan through Thursday,
-with heaviest amounts occurring near the coast.  This rainfall
-could cause life-threatening flash floods and mudslides.
-
+None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 AM CDT.
+This is the last public advisory issued by the National Hurricane
+Center on this system.
 
 $$
-Forecaster Zelinsky
+Forecaster Avila
 
 NNNN
 </message>
