@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL162017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>8A</advisoryNumber>
+<advisoryNumber>9</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171006 07:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171006 12:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710061200</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0700 AM CDT Fri Oct 06</messageDateTimeLocalStr>
-<timeEpochSeconds>1507291200</timeEpochSeconds>
+<messageDateTimeLocal>20171006 10:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171006 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710061500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1000 AM CDT Fri Oct 06</messageDateTimeLocalStr>
+<timeEpochSeconds>1507302000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>NATE</systemName>
@@ -19,81 +19,126 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>17.8</centerLocLatitude>
-<centerLocLongitude>-84.8</centerLocLongitude>
+<centerLocLatitude>18.7</centerLocLatitude>
+<centerLocLongitude>-85</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>17.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>84.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>85.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>45</systemIntensityMph>
-<systemIntensityKph>75</systemIntensityKph>
-<systemIntensityKts>40</systemIntensityKts>
+<systemIntensityMph>50</systemIntensityMph>
+<systemIntensityKph>85</systemIntensityKph>
+<systemIntensityKts>45</systemIntensityKts>
 <systemMslpMb>996</systemMslpMb>
-<systemMslpInHg>29.41</systemMslpInHg>
+<systemMslpInHg>29.42</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>NNW OR 340 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>14</systemSpeedMph>
-<systemSpeedKph>22</systemSpeedKph>
-<systemSpeedKts>12</systemSpeedKts>
+<systemSpeedMph>21</systemSpeedMph>
+<systemSpeedKph>33</systemSpeedKph>
+<systemSpeedKts>18</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 115 MI...185 KM NE OF ISLA GUANAJA HONDURAS</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 230 MI...370 KM SSE OF COZUMEL MEXICO</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 175 MI...280 KM SE OF COZUMEL MEXICO</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 165 MI...260 KM NNE OF ISLA GUANAJA HONDURAS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Nate Intermediate Advisory Number 8A
+Tropical Storm Nate Advisory Number   9
 NWS National Hurricane Center Miami FL       AL162017
-700 AM CDT Fri Oct 06 2017
+1000 AM CDT Fri Oct 06 2017
 
-...AIR FORCE RESERVE AND NOAA HURRICANE HUNTER AIRCRAFT CURRENTLY
-INVESTIGATING NATE OVER THE NORTHWESTERN CARIBBEAN SEA...
+...NATE STRENGTHENING OVER THE NORTHWESTERN CARIBBEAN SEA...
+...HURRICANE AND STORM SURGE WARNINGS ISSUED FOR THE NORTHERN GULF
+COAST...
 
 
-SUMMARY OF 700 AM CDT...1200 UTC...INFORMATION
-----------------------------------------------
-LOCATION...17.8N 84.8W
-ABOUT 115 MI...185 KM NE OF ISLA GUANAJA HONDURAS
-ABOUT 230 MI...370 KM SSE OF COZUMEL MEXICO
-MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
-PRESENT MOVEMENT...NNW OR 340 DEGREES AT 14 MPH...22 KM/H
-MINIMUM CENTRAL PRESSURE...996 MB...29.41 INCHES
+SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...18.7N 85.0W
+ABOUT 175 MI...280 KM SE OF COZUMEL MEXICO
+ABOUT 165 MI...260 KM NNE OF ISLA GUANAJA HONDURAS
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...NNW OR 340 DEGREES AT 21 MPH...33 KM/H
+MINIMUM CENTRAL PRESSURE...996 MB...29.42 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-None.
+A Hurricane Warning is now in effect from Grand Isle Louisiana
+to the Alabama/Florida border.
+
+A Storm Surge Warning is now in effect from Morgan City Louisiana to
+the Alabama/Florida border, and for the northern and western shores
+of Lake Pontchartrain.
+
+A Tropical Storm Warning is now in effect for metropolitan New
+Orleans, Lake Pontchartrain and Lake Maurepas, and from west of
+Grand Isle to Morgan City Louisiana.
+
+A Hurricane Watch is now in effect east of the Alabama/Florida
+border to the Okaloosa/Walton County Line.
+
+A Storm Surge Watch is now in effect east of the Alabama/Florida
+border to Indian Pass, Florida.
+
+A Tropical Storm Watch is now in effect east of the Okaloosa/Walton
+County Line to Indian Pass, Florida.
+
+The Government of Cuba has issued a Tropical Storm Warning for the
+Provence of Pinar del Rio and a Tropical Storm Watch for the
+Provence of the Isle of Youth.
+
+The Meteorological Service of Honduras has discontinued the
+Tropical Storm Warning for the coast of Honduras.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
-A Tropical Storm Warning is in effect for...
-* Punta Castilla Honduras to the Honduras/Nicaragua border
-* Punta Herrero to Rio Lagartos Mexico
+A Hurricane Warning is in effect for...
+* Grand Isle Louisiana to the Alabama/Florida border
 
-A Storm Surge Watch is in effect for...
+A Storm Surge Warning is in effect for...
 * Morgan City Louisiana to the Alabama/Florida border
 * Northern and western shores of Lake Pontchartrain
 
-A Hurricane Watch is in effect for...
-* Morgan City Louisiana to the Mississippi/Alabama border
+A Tropical Storm Warning is in effect for...
+* Punta Herrero to Rio Lagartos Mexico
+* Pinar del Rio
 * Metropolitan New Orleans
 * Lake Pontchartrain and Lake Maurepas
+* West of Grand Isle to Morgan City Louisiana
+
+A Hurricane Watch is in effect for...
 * Punta Herrero to Rio Lagartos Mexico
+* Metropolitan New Orleans
+* Lake Pontchartrain and Lake Maurepas
+* East of the Alabama/Florida border to the Okaloosa/Walton County
+Line
+* West of Grand Isle to Morgan City Louisiana
+
+A Storm Surge Watch is in effect for...
+* East of the Alabama/Florida border to Indian Pass Florida
 
 A Tropical Storm Watch is in effect for...
-* Mississippi/Alabama border to the Okaloosa/Walton County Line
+* East of the Okaloosa/Walton County Line to Indian Pass Florida
 * West of Morgan City to Intracoastal City Louisiana
+* Isle of Youth
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of
+tropical-storm-force winds, conditions that make outside
+preparations difficult or dangerous.  Preparations to protect life
+and property should be rushed to completion.
 
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area.
@@ -111,37 +156,43 @@ within the watch area.
 A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, generally within 48 hours.
 
-Interests elsewhere in Honduras, the Bay Islands, western Cuba, the
-Yucatan Peninsula, and the northern coast of the Gulf of Mexico
-should monitor the progress of Nate.
+Interests elsewhere in western Cuba, the Yucatan Peninsula, and the
+northern coast of the Gulf of Mexico should monitor the progress of
+Nate.
 
-For storm information specific to your area, please monitor
-products issued by your national meteorological service.
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area outside
+the United States, please monitor products issued by your national
+meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 700 AM CDT (1200 UTC), the center of Tropical Storm Nate was
-located by Air Force Reserve and NOAA Hurricane Hunter aircraft near
-latitude 17.8 North, longitude 84.8 West. Nate is moving toward the
-north-northwest near 14 mph (22 km/h), and this general track with a
-marked increase in forward speed is expected during the next day or
-two. On the forecast track, the center of Nate will move across the
-northwestern Caribbean Sea today, and reach the eastern coast of the
-Yucatan peninsula early this evening.  Nate will then move into the
-southern Gulf of Mexico tonight and approach the northern Gulf coast
-Saturday evening.
+At 1000 AM CDT (1500 UTC), the center of Tropical Storm Nate was
+located near latitude 18.7 North, longitude 85.0 West. Nate is
+moving toward the north-northwest near 21 mph (33 km/h) and this
+motion is expected to continue through Saturday, with a turn toward
+the north and northeast expected Saturday night and Sunday.  On the
+forecast track, the center of Nate will move across the
+northwestern Caribbean Sea today, and move near or over the
+northeastern coast of the Yucatan peninsula this evening.  Nate will
+then move into the southern Gulf of Mexico tonight, approach the
+northern Gulf coast Saturday, and then move near or over the
+northern Gulf coast Saturday night or Sunday.
 
-Maximum sustained winds are near 45 mph (75 km/h) with higher
-gusts. Strengthening is forecast during the next couple of days, and
-Nate is expected to become a hurricane by the time it reaches the
-northern Gulf of Mexico.
+Reports from Air Force Reserve and NOAA Hurricane Hunter aircraft
+indicate that maximum sustained winds are now near 50 mph (85 km/h)
+with higher gusts.  Additional strengthening is forecast during the
+next couple of days, and Nate is expected to become a hurricane by
+the time it reaches the northern Gulf of Mexico.
 
-Tropical-storm-force winds extend outward up to 90 miles (150 km)
+Tropical-storm-force winds extend outward up to 115 miles (185 km)
 mainly to the east of the center.
 
 The minimum central pressure estimated from the Hurricane Hunter
-data is 996 mb (29.41 inches).
+data is 996 mb (29.42 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -155,43 +206,65 @@ max 8 inches
 Eastern Yucatan and western Cuba: 2 to 4 inches, max 8 inches
 Eastern Belize and the Cayman Islands: 1 to 3 inches
 
-U.S. Central Gulf Coast states: 3 to 6 inches, max 12 inches
+U.S. Central Gulf Coast states, eastern Tennessee Valley and
+southern Appalachians: 3 to 6 inches, max 12 inches
 
 Heavy rainfall will occur over a wide area, including locations well
 away from the center along the Pacific coast of Central America.
 Rainfall across all of these areas may produce life-threatening
 flash floods and mudslides.
 
-WIND:  Tropical storm conditions are expected to continue within
-portions of the warning area in Honduras during the next few
-hours, but gradually subside.  Hurricane conditions are possible
-within the hurricane watch area in Mexico by tonight, with tropical
-storm conditions expected by late this evening.
+WIND:  Hurricane conditions are possible within the hurricane watch
+area in Mexico by tonight, with tropical storm conditions expected
+by this evening.  Tropical storm conditions are expected in the
+warning area in Cuba by tonight, and are possible in the watch area
+in Cuba tonight.
 
-Tropical storm conditions are possible within the watch areas along
-the U.S. Gulf coast beginning Saturday evening, with hurricane
-conditions possible in the hurricane watch area Saturday night.
+Along the northern Gulf Coast, hurricane conditions are expected in
+the hurricane warning area Saturday night, with tropical storm
+conditions expected by late Saturday. Tropical storm conditions are
+expected in the tropical storm warning area by Saturday night.
+Hurricane conditions are possible in the hurricane watch area
+Saturday night, and tropical storm conditions are possible in the
+tropical storm watch area Saturday night and Sunday.
 
-STORM SURGE:  A storm surge will raise water levels by as much as 1
+STORM SURGE: In the United States, The combination of a dangerous
+storm surge and the tide will cause normally dry areas near the
+coast to be flooded by rising waters moving inland from the
+shoreline.  The water is expected to reach the following heights
+above ground if the peak surge occurs at the time of high tide...
+
+Morgan City, Louisiana to the Alabama/Florida border...4 to 7 ft
+Alabama/Florida border to Indian Pass, Florida...2 to 4 ft
+
+The deepest water will occur along the immediate coast near and to
+the east of the landfall location, where the surge will be
+accompanied by large and destructive waves.  Surge-related
+flooding depends on the relative timing of the surge and the tidal
+cycle, and can vary greatly over short distances.  For information
+specific to your area, please see products issued by your local
+National Weather Service forecast office.
+
+In Mexico, a storm surge will raise water levels by as much as 1
 to 3 feet above normal tide levels along the immediate coast in
 areas of onshore winds on the Yucatan Peninsula and the adjacent
 islands.  Near the coast, the surge will be accompanied by large and
 destructive waves.
 
 SURF:  Swells generated by Nate will affect land areas around the
-northwestern Caribbean during the next day or two.  These swells are
+northwestern Caribbean during the next day or so.  These swells are
 likely to cause life-threatening surf and rip current conditions.
 Please consult products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1000 AM CDT.
+Next intermediate advisory at 100 PM CDT.
+Next complete advisory at 400 PM CDT.
 
 $$
 Forecaster Beven
 
 NNNN
-
 </message>
 </cycloneMessage>
