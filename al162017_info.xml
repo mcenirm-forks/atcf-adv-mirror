@@ -3,98 +3,93 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL162017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>15A</advisoryNumber>
+<advisoryNumber>16</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171008 01:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171008 06:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710080600</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0100 AM CDT Sun Oct 08</messageDateTimeLocalStr>
-<timeEpochSeconds>1507442400</timeEpochSeconds>
+<messageDateTimeLocal>20171008 04:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171008 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710080900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 AM CDT Sun Oct 08</messageDateTimeLocalStr>
+<timeEpochSeconds>1507453200</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>HURRICANE</systemType>
+<systemType>TROPICAL STORM</systemType>
 <systemName>NATE</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>30.5</centerLocLatitude>
-<centerLocLongitude>-88.9</centerLocLongitude>
+<centerLocLatitude>31.5</centerLocLatitude>
+<centerLocLongitude>-88.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>30.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>88.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>31.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>88.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>85</systemIntensityMph>
-<systemIntensityKph>140</systemIntensityKph>
-<systemIntensityKts>75</systemIntensityKts>
-<systemMslpMb>984</systemMslpMb>
-<systemMslpInHg>29.06</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<systemIntensityMph>70</systemIntensityMph>
+<systemIntensityKph>110</systemIntensityKph>
+<systemIntensityKts>60</systemIntensityKts>
+<systemMslpMb>986</systemMslpMb>
+<systemMslpInHg>29.12</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>N OR 360 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>20</systemSpeedMph>
-<systemSpeedKph>31</systemSpeedKph>
-<systemSpeedKts>17</systemSpeedKts>
+<systemDirectionOfMotion>NNE OR 25 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>23</systemSpeedMph>
+<systemSpeedKph>37</systemSpeedKph>
+<systemSpeedKts>20</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 5 MI...10 KM N OF BILOXI MISSISSIPPI</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 70 MI...115 KM ENE OF NEW ORLEANS LOUISIANA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 80 MI...130 KM NNE OF BILOXI MISSISSIPPI</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 135 MI...215 KM WSW OF MONTGOMERY ALABAMA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
-TTAA00 KNHC DDHHMM
+TTAA00 KNHC DDHHMM CCA
 
 BULLETIN
-Hurricane Nate Intermediate Advisory Number 15A
+Tropical Storm Nate Advisory Number  16...Corrected
 NWS National Hurricane Center Miami FL       AL162017
-100 AM CDT Sun Oct 08 2017
+400 AM CDT Sun Oct 08 2017
 
-...EYE OF HURRICANE NATE MOVED OVER KEESLER AIR FORCE BASE WHERE
-HURRICANE HUNTER PLANES RESIDE...
+Corrected Storm Surge breakpoint in Hazards section
+
+...NATE MOVING FARTHER INLAND OVER MISSISSIPPI AND ALABAMA...
+...RAPID WEAKENING ANTICIPATED...
 
 
-SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...30.5N 88.9W
-ABOUT 5 MI...10 KM N OF BILOXI MISSISSIPPI
-ABOUT 70 MI...115 KM ENE OF NEW ORLEANS LOUISIANA
-MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
-PRESENT MOVEMENT...N OR 360 DEGREES AT 20 MPH...31 KM/H
-MINIMUM CENTRAL PRESSURE...984 MB...29.06 INCHES
+LOCATION...31.5N 88.4W
+ABOUT 80 MI...130 KM NNE OF BILOXI MISSISSIPPI
+ABOUT 135 MI...215 KM WSW OF MONTGOMERY ALABAMA
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...NNE OR 25 DEGREES AT 23 MPH...37 KM/H
+MINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Storm Surge Warning has been discontinued from the Mouth of the
-Mississippi River to Pointe a la Hache.
+The Hurricane Warning for Mouth of the Pearl River to the
+Alabama/Florida border has been discontinued.
 
+The Tropical Storm Warning west of the Mouth of the Pearl River,
+including Metropolitan New Orleans, and Lakes Pontchartrain and
+Maurepas has been discontinued.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
-
-A Hurricane Warning is in effect for...
-* Mouth of the Pearl River to the Alabama/Florida border
 
 A Storm Surge Warning is in effect for...
 * North of Pointe a la Hache to the Okaloosa/Walton County Line
 Florida
 
 A Tropical Storm Warning is in effect for...
-* Metropolitan New Orleans and Lake Pontchartrain
-* Lake Maurepas
-* Grand Isle Louisiana to the Mouth of the Pearl River
-* East of the Alabama/Florida border to Indian Pass Florida
-
-A Hurricane Warning means that hurricane conditions are expected
-somewhere within the warning area. Preparations to protect life
-and property should be complete.
+* Mouth of Pearl River eastward to Indian Pass Florida
 
 A Storm Surge Warning means there is a danger of life-threatening
 inundation, from rising water moving inland from the coastline in
@@ -103,11 +98,7 @@ see the National Weather Service Storm Surge Watch/Warning Graphic,
 available at hurricanes.gov.  This is a life-threatening situation.
 Persons located within these areas should take all necessary actions
 to protect life and property from rising water and the potential for
-other dangerous conditions.  Promptly follow evacuation and other
-instructions from local officials.
-
-A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area.
+other dangerous conditions.
 
 For storm information specific to your area, including possible
 inland watches and warnings, please monitor products issued by your
@@ -116,40 +107,30 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 100 AM CDT (0600 UTC), the eye of Hurricane Nate was located
-by surface observations and NOAA Doppler radar over Biloxi
-Mississippi near latitude 30.5 North, longitude 88.9 West. Nate is
-moving toward the north near 20 mph (31 km/h).  A turn toward the
-north-northeast and northeast with an increase in forward speed is
-expected during the next couple of days.  On the forecast track,
-Nate's center will continue to move inland over Mississippi and
-across the Deep South, Tennessee Valley, and central Appalachian
-Mountains through Monday.
+At 400 AM CDT (0900 UTC), the center of Tropical Storm Nate was
+located near latitude 31.5 North, longitude 88.4 West. Nate is
+moving toward the north-northeast near 23 mph (37 km/h). A turn
+toward the northeast with an increase in forward speed is expected
+during the next couple of days.  On the forecast track, Nate's
+center will continue to move inland across the Deep South, Tennessee
+Valley, and central Appalachian Mountains through Monday.
 
-Maximum sustained winds are near 85 mph (140 km/h) with higher
-gusts.  Nate is expected to weaken quickly as it moves farther
-inland, and it is likely to become a tropical storm later
-today. It should degenerate into a remnant low late Monday.
+Maximum sustained winds are near 70 mph (110 km/h) with higher
+gusts.  Nate is expected to continue to quickly weaken as it moves
+farther inland. It should degenerate into a remnant low late
+Monday.
 
-Hurricane-force winds extend outward up to 35 miles (55 km) from
-the center, and tropical-storm-force winds extend outward up to 125
-miles (205 km).
+Tropical-storm-force winds extend outward up to 90 miles (150 km)
+from the center. Mobile airport recently reported a wind gust of
+54 mph (87 km/h).
 
-The minimum central pressure based on surface observations is 984 mb
-(29.06 inches).
-
-A water level of 4.8 ft Mean Higher High Water (MHHW) was recently
-reported by a National Ocean Service gauge at Shell Beach,
-Louisiana.  The gauge at Bay Waveland Yacht Club, Mississippi,
-recently reported a water level of 5.5 ft MHHW.
+The estimated minimum central pressure is 986 mb (29.12 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-WIND:  Hurricane and tropical storm conditions are expected to
-continue in the hurricane warning area for the next several hours.
-Tropical storm conditions are expected in the tropical storm warning
-area through this morning.
+WIND:  Tropical storm conditions are expected to continue in the
+tropical storm warning area for the next several hours.
 
 STORM SURGE: The combination of a dangerous storm surge and the tide
 will cause normally dry areas near the coast to be flooded by rising
@@ -157,13 +138,11 @@ waters moving inland from the shoreline.  The water is expected to
 reach the following heights above ground if the peak surge occurs at
 the time of high tide...
 
-Mouth of the Pearl River to the Mississippi/Alabama border...7 to 11
-ft
-Mississippi/Alabama border to the Alabama/Florida border, including
-Mobile Bay...6 to 9 ft
-North of Pointe a la Hache to the mouth of the Pearl River...4
-to 6 ft
-Alabama/Florida border to the Okaloosa/Walton County Line...4 to 6
+Mouth of the Pearl River to the Alabama/Florida border, including
+Mobile Bay...5 to 8 ft
+North of Pointe a la Hache to the mouth of the Pearl River...4 to 6
+ft.
+Alabama/Florida border to the Okaloosa/Walton County Line...3 to 5
 ft
 Morgan City, Louisiana to Pointe a la Hache...1 to 3 ft
 Okaloosa/Walton County Line to Indian Pass, Florida...2 to 3 ft
@@ -180,8 +159,6 @@ National Weather Service forecast office.
 RAINFALL:  Nate is expected to produce the following rain
 accumulations through Monday:
 
-Western Cuba: additional 1 to 2 inches.
-
 East of the Mississippi River from the central Gulf Coast into the
 Deep South, eastern Tennessee Valley, and southern Appalachians:
 3 to 6 inches, max 10 inches.
@@ -189,24 +166,24 @@ Deep South, eastern Tennessee Valley, and southern Appalachians:
 Across the Ohio Valley into the central Appalachians:
 2 to 5 inches, max 7 inches.
 
-TORNADOES:  A few tornadoes are possible across parts of Alabama,
-the western Florida Panhandle, western Georgia, and southern
-Mississippi today.
+TORNADOES:  Isolated tornadoes are possible today, mainly from the
+Florida Panhandle and eastern Alabama across western and northern
+Georgia.
 
 SURF:  Swells generated by Nate will affect land areas around the
-Gulf of Mexico during the next day or so.  These swells are likely
+Gulf of Mexico through this evening.  These swells are likely
 to cause life-threatening surf and rip current conditions. Please
 consult products from your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 AM CDT.
+Next intermediate advisory at 700 AM CDT.
+Next complete advisory at 1000 AM CDT.
 
 $$
 Forecaster Avila
 
 NNNN
-
 </message>
 </cycloneMessage>
