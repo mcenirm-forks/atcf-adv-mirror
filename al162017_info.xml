@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL162017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>16</advisoryNumber>
+<advisoryNumber>16A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171008 04:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171008 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710080900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0400 AM CDT Sun Oct 08</messageDateTimeLocalStr>
-<timeEpochSeconds>1507453200</timeEpochSeconds>
+<messageDateTimeLocal>20171008 07:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171008 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710081200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0700 AM CDT Sun Oct 08</messageDateTimeLocalStr>
+<timeEpochSeconds>1507464000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>NATE</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>31.5</centerLocLatitude>
-<centerLocLongitude>-88.4</centerLocLongitude>
+<centerLocLatitude>32.0</centerLocLatitude>
+<centerLocLongitude>-88</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>31.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>88.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>32.0N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>88.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>70</systemIntensityMph>
-<systemIntensityKph>110</systemIntensityKph>
-<systemIntensityKts>60</systemIntensityKts>
-<systemMslpMb>986</systemMslpMb>
-<systemMslpInHg>29.12</systemMslpInHg>
+<systemIntensityMph>45</systemIntensityMph>
+<systemIntensityKph>75</systemIntensityKph>
+<systemIntensityKts>40</systemIntensityKts>
+<systemMslpMb>994</systemMslpMb>
+<systemMslpInHg>29.35</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
@@ -43,53 +43,50 @@
 <systemSpeedKph>37</systemSpeedKph>
 <systemSpeedKts>20</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 80 MI...130 KM NNE OF BILOXI MISSISSIPPI</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 135 MI...215 KM WSW OF MONTGOMERY ALABAMA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 50 MI...80 KM ESE OF MERIDIAN MISSISSIPPI</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 95 MI...155 KM WSW OF MONTGOMERY ALABAMA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT1 ALL
-TTAA00 KNHC DDHHMM CCA
+TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Nate Advisory Number  16...Corrected
+Tropical Storm Nate Intermediate Advisory Number 16A
 NWS National Hurricane Center Miami FL       AL162017
-400 AM CDT Sun Oct 08 2017
+700 AM CDT Sun Oct 08 2017
 
-Corrected Storm Surge breakpoint in Hazards section
-
-...NATE MOVING FARTHER INLAND OVER MISSISSIPPI AND ALABAMA...
-...RAPID WEAKENING ANTICIPATED...
+...NATE RAPIDLY WEAKENING BUT STORM SURGE FLOODING CONTINUES...
+...HEAVY RAINFALL SPREADING OVER THE SOUTHEASTERN UNITED STATES...
 
 
-SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+SUMMARY OF 700 AM CDT...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...31.5N 88.4W
-ABOUT 80 MI...130 KM NNE OF BILOXI MISSISSIPPI
-ABOUT 135 MI...215 KM WSW OF MONTGOMERY ALABAMA
-MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+LOCATION...32.0N 88.0W
+ABOUT 50 MI...80 KM ESE OF MERIDIAN MISSISSIPPI
+ABOUT 95 MI...155 KM WSW OF MONTGOMERY ALABAMA
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
 PRESENT MOVEMENT...NNE OR 25 DEGREES AT 23 MPH...37 KM/H
-MINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES
+MINIMUM CENTRAL PRESSURE...994 MB...29.35 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Hurricane Warning for Mouth of the Pearl River to the
-Alabama/Florida border has been discontinued.
+The Storm Surge Warning has been discontinued west of the
+Mississippi/Alabama border.
 
-The Tropical Storm Warning west of the Mouth of the Pearl River,
-including Metropolitan New Orleans, and Lakes Pontchartrain and
-Maurepas has been discontinued.
+The Tropical Storm Warning has been discontinued west of the
+Alabama/Florida border.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Storm Surge Warning is in effect for...
-* North of Pointe a la Hache to the Okaloosa/Walton County Line
+* Mississippi/Alabama border to the Okaloosa/Walton County Line
 Florida
 
 A Tropical Storm Warning is in effect for...
-* Mouth of Pearl River eastward to Indian Pass Florida
+* Alabama/Florida border eastward to Indian Pass Florida
 
 A Storm Surge Warning means there is a danger of life-threatening
 inundation, from rising water moving inland from the coastline in
@@ -107,30 +104,36 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 400 AM CDT (0900 UTC), the center of Tropical Storm Nate was
-located near latitude 31.5 North, longitude 88.4 West. Nate is
-moving toward the north-northeast near 23 mph (37 km/h). A turn
-toward the northeast with an increase in forward speed is expected
-during the next couple of days.  On the forecast track, Nate's
-center will continue to move inland across the Deep South, Tennessee
-Valley, and central Appalachian Mountains through Monday.
+At 700 AM CDT (1200 UTC), the center of Tropical Storm Nate was
+located by NOAA Doppler weather radars and surface observations near
+latitude 32.0 North, longitude 88.0 West.  Nate is moving toward the
+north-northeast near 23 mph (37 km/h). A turn toward the northeast
+with an increase in forward speed is expected during the next couple
+of days.  On the forecast track, Nate's center will continue to move
+inland across the Deep South, Tennessee Valley, and central
+Appalachian Mountains through Monday.
 
-Maximum sustained winds are near 70 mph (110 km/h) with higher
-gusts.  Nate is expected to continue to quickly weaken as it moves
-farther inland. It should degenerate into a remnant low late
-Monday.
+Maximum sustained winds have decreased to near 45 mph (75 km/h)
+with higher gusts.  Nate is expected to continue to quickly weaken
+as it moves farther inland. It should degenerate into a remnant low
+late Monday.
 
-Tropical-storm-force winds extend outward up to 90 miles (150 km)
-from the center. Mobile airport recently reported a wind gust of
-54 mph (87 km/h).
+Tropical-storm-force winds extend outward up to 150 miles (150 km)
+primarily southeast of the center over water. A wind gust to 58 mph
+(93 km/h) was reported at Destin, Florida within the past couple of
+hours.
 
-The estimated minimum central pressure is 986 mb (29.12 inches).
+The estimated minimum central pressure is 994 mb (29.35 inches).
+
+Water levels of around 3.0 to 3.5 ft above Mean Higher High Water
+(MHHW) have recently been reported by National Ocean Service gauges
+at Pensacola, Florida, and Mobile Bay, Alabama.
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 WIND:  Tropical storm conditions are expected to continue in the
-tropical storm warning area for the next several hours.
+tropical storm warning area for the next couple of hours.
 
 STORM SURGE: The combination of a dangerous storm surge and the tide
 will cause normally dry areas near the coast to be flooded by rising
@@ -138,13 +141,11 @@ waters moving inland from the shoreline.  The water is expected to
 reach the following heights above ground if the peak surge occurs at
 the time of high tide...
 
-Mouth of the Pearl River to the Alabama/Florida border, including
+Mississippi/Alabama border to the Alabama/Florida border, including
 Mobile Bay...5 to 8 ft
-North of Pointe a la Hache to the mouth of the Pearl River...4 to 6
-ft.
 Alabama/Florida border to the Okaloosa/Walton County Line...3 to 5
 ft
-Morgan City, Louisiana to Pointe a la Hache...1 to 3 ft
+Morgan City, Louisiana to the Mississippi/Alabama border...1 to 3 ft
 Okaloosa/Walton County Line to Indian Pass, Florida...2 to 3 ft
 Indian Pass to Crystal River, Florida...1 to 3 ft
 
@@ -178,12 +179,12 @@ consult products from your local weather office.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 700 AM CDT.
 Next complete advisory at 1000 AM CDT.
 
 $$
-Forecaster Avila
+Forecaster Brown
 
 NNNN
+
 </message>
 </cycloneMessage>
