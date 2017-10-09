@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>2</advisoryNumber>
+<advisoryNumber>3</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171009 11:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20171009 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710091500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM AST Mon Oct 09</messageDateTimeLocalStr>
-<timeEpochSeconds>1507561200</timeEpochSeconds>
+<messageDateTimeLocal>20171009 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20171009 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710092100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Mon Oct 09</messageDateTimeLocalStr>
+<timeEpochSeconds>1507582800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>OPHELIA</systemName>
@@ -19,52 +19,52 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>31.4</centerLocLatitude>
-<centerLocLongitude>-39.9</centerLocLongitude>
+<centerLocLatitude>31.5</centerLocLatitude>
+<centerLocLongitude>-39.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>31.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>39.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>31.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>39.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>40</systemIntensityMph>
-<systemIntensityKph>65</systemIntensityKph>
-<systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1008</systemMslpMb>
-<systemMslpInHg>29.77</systemMslpInHg>
+<systemIntensityMph>45</systemIntensityMph>
+<systemIntensityKph>75</systemIntensityKph>
+<systemIntensityKts>40</systemIntensityKts>
+<systemMslpMb>1005</systemMslpMb>
+<systemMslpInHg>29.68</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNE OR 30 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>5</systemSpeedMph>
-<systemSpeedKph>7</systemSpeedKph>
-<systemSpeedKts>4</systemSpeedKts>
+<systemDirectionOfMotion>NE OR 55 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>3</systemSpeedMph>
+<systemSpeedKph>6</systemSpeedKph>
+<systemSpeedKts>3</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 860 MI...1385 KM WSW OF THE AZORES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 845 MI...1355 KM WSW OF THE AZORES</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Ophelia Advisory Number   2
+Tropical Storm Ophelia Advisory Number   3
 NWS National Hurricane Center Miami FL       AL172017
-1100 AM AST Mon Oct 09 2017
+500 PM AST Mon Oct 09 2017
 
-...DEPRESSION STRENGTHENS INTO TROPICAL STORM OPHELIA OVER THE OPEN
-ATLANTIC...
+...OPHELIA STRENGTHENS A LITTLE MORE...
+...NO THREAT TO ANY LAND AREAS...
 
 
-SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...31.4N 39.9W
-ABOUT 860 MI...1385 KM WSW OF THE AZORES
-MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...NNE OR 30 DEGREES AT 5 MPH...7 KM/H
-MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...31.5N 39.6W
+ABOUT 845 MI...1355 KM WSW OF THE AZORES
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...NE OR 55 DEGREES AT 3 MPH...6 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
 WATCHES AND WARNINGS
@@ -74,21 +74,20 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM AST (1500 UTC), the center of Tropical Storm Ophelia was
-located near latitude 31.4 North, longitude 39.9 West. Ophelia is
-moving toward the north-northeast near 5 mph (7 km/h), and a turn
-toward the northeast is expected later today.  A motion toward
-the east-northeast and east is forecast to occur later tonight,
-followed by a turn toward the east-southeast on Tuesday.
+At 500 PM AST (2100 UTC), the center of Tropical Storm Ophelia was
+located near latitude 31.5 North, longitude 39.6 West. Ophelia is
+moving toward the northeast near 3 mph (6 km/h). A slow motion
+toward the east-northeast and east is forecast to occur later
+tonight, followed by a turn toward the southeast on Tuesday.
 
-Maximum sustained winds have increased to near 40 mph (65 km/h) with
-higher gusts.  Some strengthening is forecast during the next 48
-hours.
+Maximum sustained winds have increased to near 45 mph (75 km/h) with
+higher gusts.  Additional strengthening is forecast during the next
+48 hours.
 
 Tropical-storm-force winds extend outward up to 70 miles (110 km)
 from the center.
 
-The estimated minimum central pressure is 1008 mb (29.77 inches).
+The estimated minimum central pressure is 1005 mb (29.68 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -98,7 +97,7 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM AST.
+Next complete advisory at 1100 PM AST.
 
 $$
 Forecaster Stewart
