@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "4",
+  "advisoryNumber": "5",
   "atcfID": "AL172017",
-  "centerLocLatitude": "32.3",
-  "centerLocLatitudeExpanded": "32.3N",
-  "centerLocLongitude": "-39",
-  "centerLocLongitudeExpanded": "39.0W",
+  "centerLocLatitude": "31.9",
+  "centerLocLatitudeExpanded": "31.9N",
+  "centerLocLongitude": "-38.8",
+  "centerLocLongitudeExpanded": "38.8W",
   "event_title": "TROPICAL STORM OPHELIA",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -39.0,
-      32.3
+      -38.8,
+      31.9
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Ophelia Advisory Number   4\nNWS National Hurricane Center Miami FL       AL172017\n1100 PM AST Mon Oct 09 2017\n\n...OPHELIA REMAINS FAR OUT TO SEA AS A TROPICAL STORM...\n\n\nSUMMARY OF 1100 PM AST...0300 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...32.3N 39.0W\nABOUT 785 MI...1260 KM WSW OF THE AZORES\nMAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H\nPRESENT MOVEMENT...NE OR 40 DEGREES AT 7 MPH...11 KM/H\nMINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 PM AST (0300 UTC), the center of Tropical Storm Ophelia was\nlocated near latitude 32.3 North, longitude 39.0 West. Ophelia is\nmoving toward the northeast near 7 mph (11 km/h).  The tropical\nstorm is expected to turn toward the southeast and then south at\nabout the same rate of forward speed during the next couple of\ndays.\n\nMaximum sustained winds are near 50 mph (85 km/h) with higher gusts.\nSome strengthening is forecast during the next 48 hours and Ophelia\nis expected to become a hurricane by Wednesday.\n\nTropical-storm-force winds extend outward up to 105 miles (165 km)\nfrom the center.\n\nThe estimated minimum central pressure is 1002 mb (29.59 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 AM AST.\n\n$$\nForecaster Landsea\n\nNNNN",
+  "message": "ZCZC MIATCPAT2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Storm Ophelia Advisory Number   5\nNWS National Hurricane Center Miami FL       AL172017\n500 AM AST Tue Oct 10 2017\n\n...OPHELIA EXPECTED TO BECOME A HURRICANE IN A DAY OR SO...\n\n\nSUMMARY OF 500 AM AST...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...31.9N 38.8W\nABOUT 790 MI...1270 KM WSW OF THE AZORES\nMAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H\nPRESENT MOVEMENT...SE OR 125 DEGREES AT 3 MPH...6 KM/H\nMINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 AM AST (0900 UTC), the center of Tropical Storm Ophelia was\nlocated near latitude 31.9 North, longitude 38.8 West.  Ophelia is\nmoving toward the southeast near 3 mph (6 km/h), and this general\nmotion is expected to continue during the next day or two.\n\nMaximum sustained winds are near 50 mph (85 km/h) with higher gusts.\nGradual strengthening is forecast, and Ophelia is expected to become\na hurricane by Wednesday.\n\nTropical-storm-force winds extend outward up to 105 miles (165 km)\nfrom the center.\n\nThe estimated minimum central pressure is 1002 mb (29.59 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 AM AST.\n\n$$\nForecaster Cangialosi\n\nNNNN",
   "messageBinNumber": "2",
-  "messageDateTimeLocal": "20171009 11:00:00 PM AST",
-  "messageDateTimeLocalStr": "1100 PM AST Mon Oct 09",
-  "messageDateTimeUTC": "20171010 03:00:00 AM UTC",
-  "messageDateTimeUTC24": "201710100300",
+  "messageDateTimeLocal": "20171010 05:00:00 AM AST",
+  "messageDateTimeLocalStr": "0500 AM AST Tue Oct 10",
+  "messageDateTimeUTC": "20171010 09:00:00 AM UTC",
+  "messageDateTimeUTC24": "201710100900",
   "messageType": "ROUTINE ADVISORY",
-  "systemDirectionOfMotion": "NE OR 40 DEGREES",
-  "systemGeoRefPt1": "ABOUT 785 MI...1260 KM WSW OF THE AZORES",
+  "systemDirectionOfMotion": "SE OR 125 DEGREES",
+  "systemGeoRefPt1": "ABOUT 790 MI...1270 KM WSW OF THE AZORES",
   "systemIntensityKph": "85",
   "systemIntensityKts": "45",
   "systemIntensityMph": "50",
@@ -66,10 +66,10 @@
   "systemMslpMb": "1002",
   "systemName": "OPHELIA",
   "systemSaffirSimpsonCategory": "N/A",
-  "systemSpeedKph": "11",
-  "systemSpeedKts": "6",
-  "systemSpeedMph": "7",
+  "systemSpeedKph": "6",
+  "systemSpeedKts": "3",
+  "systemSpeedMph": "3",
   "systemType": "TROPICAL STORM",
-  "time": "2017-10-10 03:00:00",
-  "timeEpochSeconds": "1507604400"
+  "time": "2017-10-10 09:00:00",
+  "timeEpochSeconds": "1507626000"
 }
