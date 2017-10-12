@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "12",
+  "advisoryNumber": "13",
   "atcfID": "AL172017",
-  "centerLocLatitude": "30.0",
-  "centerLocLatitudeExpanded": "30.0N",
-  "centerLocLongitude": "-35.7",
-  "centerLocLongitudeExpanded": "35.7W",
+  "centerLocLatitude": "30.3",
+  "centerLocLatitudeExpanded": "30.3N",
+  "centerLocLongitude": "-35.6",
+  "centerLocLongitudeExpanded": "35.6W",
   "event_title": "HURRICANE OPHELIA",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -45,20 +45,20 @@
   ],
   "location": {
     "coordinates": [
-      -35.7,
-      30.0
+      -35.6,
+      30.3
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Ophelia Advisory Number  12\nNWS National Hurricane Center Miami FL       AL172017\n1100 PM AST Wed Oct 11 2017\n\n...OPHELIA STRENGTHENING OVER THE EASTERN ATLANTIC OCEAN...\n\n\nSUMMARY OF 1100 PM AST...0300 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...30.0N 35.7W\nABOUT 745 MI...1195 KM SW OF THE AZORES\nMAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H\nPRESENT MOVEMENT...NE OR 40 DEGREES AT 3 MPH...6 KM/H\nMINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\nInterests in the eastern Azores should monitor the progress of\nOphelia.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 PM AST (0300 UTC), the center of Hurricane Ophelia was\nlocated near latitude 30.0 North, longitude 35.7 West. Ophelia is\nmoving toward the northeast near 3 mph (6 km/h).  This general\nmotion is expected on Thursday, followed by faster motion toward\nthe east-northeast or northeast on Friday.\n\nMaximum sustained winds have increased to near 85 mph (140 km/h)\nwith higher gusts.  Some slight strengthening is possible over the\nnext day or two.\n\nHurricane-force winds extend outward up to 25 miles (35 km) from the\ncenter and tropical-storm-force winds extend outward up to 70 miles\n(110 km).\n\nThe estimated minimum central pressure is 986 mb (29.12 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 AM AST.\n\n$$\nForecaster Blake\n\nNNNN",
+  "message": "ZCZC MIATCPAT2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Ophelia Advisory Number  13\nNWS National Hurricane Center Miami FL       AL172017\n500 AM AST Thu Oct 12 2017\n\n...OPHELIA MOVING SLOWLY NORTHEASTWARD OVER THE NORTHEASTERN\nATLANTIC...\n\n\nSUMMARY OF 500 AM AST...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...30.3N 35.6W\nABOUT 725 MI...1165 KM SW OF THE AZORES\nMAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H\nPRESENT MOVEMENT...NE OR 40 DEGREES AT 3 MPH...6 KM/H\nMINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\nInterests in the eastern Azores should monitor the progress of\nOphelia.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 AM AST (0900 UTC), the center of Hurricane Ophelia was\nlocated near latitude 30.3 North, longitude 35.6 West.  Ophelia is\nmoving toward the northeast near 3 mph (6 km/h).  This general\nmotion is expected today, followed a by faster motion toward the\neast-northeast or northeast on Friday.\n\nMaximum sustained winds are near 85 mph (140 km/h) with higher\ngusts.  Some slight strengthening is possible over the next day or\ntwo.\n\nHurricane-force winds extend outward up to 25 miles (35 km) from the\ncenter and tropical-storm-force winds extend outward up to 70 miles\n(110 km).\n\nThe estimated minimum central pressure is 986 mb (29.12 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 AM AST.\n\n$$\nForecaster Beven\n\nNNNN",
   "messageBinNumber": "2",
-  "messageDateTimeLocal": "20171011 11:00:00 PM AST",
-  "messageDateTimeLocalStr": "1100 PM AST Wed Oct 11",
-  "messageDateTimeUTC": "20171012 03:00:00 AM UTC",
-  "messageDateTimeUTC24": "201710120300",
+  "messageDateTimeLocal": "20171012 05:00:00 AM AST",
+  "messageDateTimeLocalStr": "0500 AM AST Thu Oct 12",
+  "messageDateTimeUTC": "20171012 09:00:00 AM UTC",
+  "messageDateTimeUTC24": "201710120900",
   "messageType": "ROUTINE ADVISORY",
   "systemDirectionOfMotion": "NE OR 40 DEGREES",
-  "systemGeoRefPt1": "ABOUT 745 MI...1195 KM SW OF THE AZORES",
+  "systemGeoRefPt1": "ABOUT 725 MI...1165 KM SW OF THE AZORES",
   "systemIntensityKph": "140",
   "systemIntensityKts": "75",
   "systemIntensityMph": "85",
@@ -70,6 +70,6 @@
   "systemSpeedKts": "3",
   "systemSpeedMph": "3",
   "systemType": "HURRICANE",
-  "time": "2017-10-12 03:00:00",
-  "timeEpochSeconds": "1507777200"
+  "time": "2017-10-12 09:00:00",
+  "timeEpochSeconds": "1507798800"
 }

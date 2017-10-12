@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>12</advisoryNumber>
+<advisoryNumber>13</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171011 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20171012 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710120300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Wed Oct 11</messageDateTimeLocalStr>
-<timeEpochSeconds>1507777200</timeEpochSeconds>
+<messageDateTimeLocal>20171012 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20171012 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710120900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Thu Oct 12</messageDateTimeLocalStr>
+<timeEpochSeconds>1507798800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>OPHELIA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>30.0</centerLocLatitude>
-<centerLocLongitude>-35.7</centerLocLongitude>
+<centerLocLatitude>30.3</centerLocLatitude>
+<centerLocLongitude>-35.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>30.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>35.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>30.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>35.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>85</systemIntensityMph>
@@ -43,24 +43,25 @@
 <systemSpeedKph>6</systemSpeedKph>
 <systemSpeedKts>3</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 745 MI...1195 KM SW OF THE AZORES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 725 MI...1165 KM SW OF THE AZORES</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Ophelia Advisory Number  12
+Hurricane Ophelia Advisory Number  13
 NWS National Hurricane Center Miami FL       AL172017
-1100 PM AST Wed Oct 11 2017
+500 AM AST Thu Oct 12 2017
 
-...OPHELIA STRENGTHENING OVER THE EASTERN ATLANTIC OCEAN...
+...OPHELIA MOVING SLOWLY NORTHEASTWARD OVER THE NORTHEASTERN
+ATLANTIC...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...30.0N 35.7W
-ABOUT 745 MI...1195 KM SW OF THE AZORES
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...30.3N 35.6W
+ABOUT 725 MI...1165 KM SW OF THE AZORES
 MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
 PRESENT MOVEMENT...NE OR 40 DEGREES AT 3 MPH...6 KM/H
 MINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES
@@ -76,15 +77,15 @@ Ophelia.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the center of Hurricane Ophelia was
-located near latitude 30.0 North, longitude 35.7 West. Ophelia is
+At 500 AM AST (0900 UTC), the center of Hurricane Ophelia was
+located near latitude 30.3 North, longitude 35.6 West.  Ophelia is
 moving toward the northeast near 3 mph (6 km/h).  This general
-motion is expected on Thursday, followed by faster motion toward
-the east-northeast or northeast on Friday.
+motion is expected today, followed a by faster motion toward the
+east-northeast or northeast on Friday.
 
-Maximum sustained winds have increased to near 85 mph (140 km/h)
-with higher gusts.  Some slight strengthening is possible over the
-next day or two.
+Maximum sustained winds are near 85 mph (140 km/h) with higher
+gusts.  Some slight strengthening is possible over the next day or
+two.
 
 Hurricane-force winds extend outward up to 25 miles (35 km) from the
 center and tropical-storm-force winds extend outward up to 70 miles
@@ -100,10 +101,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
-Forecaster Blake
+Forecaster Beven
 
 NNNN
 </message>
