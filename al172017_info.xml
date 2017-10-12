@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>14</advisoryNumber>
+<advisoryNumber>15</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171012 11:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20171012 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710121500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM AST Thu Oct 12</messageDateTimeLocalStr>
-<timeEpochSeconds>1507820400</timeEpochSeconds>
+<messageDateTimeLocal>20171012 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20171012 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710122100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Thu Oct 12</messageDateTimeLocalStr>
+<timeEpochSeconds>1507842000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>OPHELIA</systemName>
@@ -19,92 +19,101 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>30.5</centerLocLatitude>
-<centerLocLongitude>-35.6</centerLocLongitude>
+<centerLocLatitude>30.4</centerLocLatitude>
+<centerLocLongitude>-35.5</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>30.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>35.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>30.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>35.5W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>90</systemIntensityMph>
-<systemIntensityKph>150</systemIntensityKph>
-<systemIntensityKts>80</systemIntensityKts>
-<systemMslpMb>978</systemMslpMb>
-<systemMslpInHg>28.88</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<systemIntensityMph>100</systemIntensityMph>
+<systemIntensityKph>155</systemIntensityKph>
+<systemIntensityKts>85</systemIntensityKts>
+<systemMslpMb>973</systemMslpMb>
+<systemMslpInHg>28.74</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNE OR 20 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>2</systemSpeedMph>
-<systemSpeedKph>4</systemSpeedKph>
-<systemSpeedKts>2</systemSpeedKts>
+<systemDirectionOfMotion>STATIONARY</systemDirectionOfMotion>
+<systemSpeedMph>0</systemSpeedMph>
+<systemSpeedKph>0</systemSpeedKph>
+<systemSpeedKts>0</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 715 MI...1145 KM SW OF THE AZORES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 715 MI...1150 KM SW OF THE AZORES</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Ophelia Advisory Number  14
+Hurricane Ophelia Advisory Number  15
 NWS National Hurricane Center Miami FL       AL172017
-1100 AM AST Thu Oct 12 2017
+500 PM AST Thu Oct 12 2017
 
-...OPHELIA MEANDERING SOUTHWEST OF THE AZORES...
-...EXPECTED TO BEGIN MOVING NORTHEASTWARD LATER TODAY...
+...OPHELIA BARELY MOVING BUT CONTINUES TO STRENGTHEN...
 
 
-SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...30.5N 35.6W
-ABOUT 715 MI...1145 KM SW OF THE AZORES
-MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
-PRESENT MOVEMENT...NNE OR 20 DEGREES AT 2 MPH...4 KM/H
-MINIMUM CENTRAL PRESSURE...978 MB...28.88 INCHES
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...30.4N 35.5W
+ABOUT 715 MI...1150 KM SW OF THE AZORES
+MAXIMUM SUSTAINED WINDS...100 MPH...155 KM/H
+PRESENT MOVEMENT...STATIONARY
+MINIMUM CENTRAL PRESSURE...973 MB...28.74 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 There are no coastal watches or warnings in effect.
 
-Interests in the eastern Azores should monitor the progress of
-Ophelia.
+Interests in the Azores should refer to products issued by the
+Azores Weather Forecast and Watch Center.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM AST (1500 UTC), the eye of Hurricane Ophelia was located
-near latitude 30.5 North, longitude 35.6 West. Ophelia is drifting
-north-northeastward around 2 mph (4 km/h). A slow northeastward
-motion is expected to begin later today, followed by a faster
-east-northeastward motion on Friday and Saturday.
+At 500 PM AST (2100 UTC), the eye of Hurricane Ophelia was located
+near latitude 30.4 North, longitude 35.5 West. Ophelia is currently
+meandering, but a east-northeast motion is expected to begin
+tonight.  A east-northeast motion is forecast to continue after that
+with a substantial increase in forward speed by this weekend.  On
+the forecast track, the center of Ophelia will remain south of the
+Azores through Saturday.
 
-Maximum sustained winds are near 90 mph (150 km/h) with higher
-gusts.  Little change in strength is forecast during the next 48
-hours.
+Maximum sustained winds have increased to near 100 mph (155 km/h)
+with higher gusts.  Some weakening is forecast during the next 48
+hours, but Ophelia is expected to remain a hurricane for the next
+couple of days.
 
 Hurricane-force winds extend outward up to 25 miles (35 km) from the
-center and tropical-storm-force winds extend outward up to 70 miles
-(110 km).
+center and tropical-storm-force winds extend outward up to 80 miles
+(130 km).
 
-The estimated minimum central pressure is 978 mb (28.88 inches).
+The estimated minimum central pressure is 973 mb (28.74 inches).
+
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-None.
+RAINFALL:  Ophelia is expected to produce total rain accumulations
+of 2 to 4 inches over Santa Maria Island of the Azores Saturday and
+Saturday night.  During the same time, a cold front and moisture
+associated with Ophelia is expected to produce total rain
+accumulations of 1 to 3 inches over the other islands of the Azores.
+This rainfall could produce flooding, especially over Santa Maria
+Island.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM AST.
+Next complete advisory at 1100 PM AST.
 
 $$
-Forecaster Brennan
+Forecaster Zelinsky
 
 NNNN
 </message>
