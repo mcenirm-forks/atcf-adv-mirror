@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>16</advisoryNumber>
+<advisoryNumber>17</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171012 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20171013 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710130300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Thu Oct 12</messageDateTimeLocalStr>
-<timeEpochSeconds>1507863600</timeEpochSeconds>
+<messageDateTimeLocal>20171013 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20171013 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710130900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Fri Oct 13</messageDateTimeLocalStr>
+<timeEpochSeconds>1507885200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>OPHELIA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>30.7</centerLocLatitude>
-<centerLocLongitude>-34.7</centerLocLongitude>
+<centerLocLatitude>31.1</centerLocLatitude>
+<centerLocLongitude>-33.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>30.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>34.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>31.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>33.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>105</systemIntensityMph>
@@ -38,32 +38,31 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>ENE OR 60 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>7</systemSpeedMph>
-<systemSpeedKph>11</systemSpeedKph>
-<systemSpeedKts>6</systemSpeedKts>
+<systemDirectionOfMotion>ENE OR 70 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>8</systemSpeedMph>
+<systemSpeedKph>13</systemSpeedKph>
+<systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 670 MI...1075 KM SW OF THE AZORES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 615 MI...995 KM SW OF THE AZORES</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Ophelia Advisory Number  16
+Hurricane Ophelia Advisory Number  17
 NWS National Hurricane Center Miami FL       AL172017
-1100 PM AST Thu Oct 12 2017
+500 AM AST Fri Oct 13 2017
 
-...SMALL BUT POWERFUL OPHELIA WITH 105-MPH WINDS OVER THE EASTERN
-ATLANTIC...
+...OPHELIA MOVING FASTER TOWARD THE EAST-NORTHEAST...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...30.7N 34.7W
-ABOUT 670 MI...1075 KM SW OF THE AZORES
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...31.1N 33.9W
+ABOUT 615 MI...995 KM SW OF THE AZORES
 MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
-PRESENT MOVEMENT...ENE OR 60 DEGREES AT 7 MPH...11 KM/H
+PRESENT MOVEMENT...ENE OR 70 DEGREES AT 8 MPH...13 KM/H
 MINIMUM CENTRAL PRESSURE...970 MB...28.65 INCHES
 
 
@@ -72,24 +71,27 @@ WATCHES AND WARNINGS
 There are no coastal watches or warnings in effect.
 
 Interests in the Azores should refer to products issued by the
-Azores Weather Forecast and Watch Center.
+Azores Weather Forecast and Watch Center.  Interests in Ireland
+should monitor products issued by Met Eireann, and interests in the
+United Kingdom should monitor products issued by the UK Met Office.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the eye of Hurricane Ophelia was located
-near latitude 30.7 North, longitude 34.7 West. Ophelia is moving
-toward the east-northeast near 7 mph (11 km/h), and this general
-motion is expected to continue for the next couple of days with a
-large increase in forward speed.
+At 500 AM AST (0900 UTC), the center of Hurricane Ophelia was
+located near latitude 31.1 North, longitude 33.9 West.  Ophelia is
+moving toward the east-northeast near 8 mph (13 km/h), and this
+motion with an increase in forward speed is expected through
+Saturday.  A turn toward the northeast with an additional increase
+in forward speed is expected Saturday night.  On the forecast
+track, the center of Ophelia will pass near or to the southeast of
+the southeastern Azores Saturday and Saturday night.
 
-Maximum sustained winds have increased to near 105 mph (165 km/h)
-with higher gusts.  Some slow weakening is forecast to begin Friday
-night but Ophelia should remain a hurricane for the next couple of
-days.
+Maximum sustained winds remain near 105 mph (165 km/h) with higher
+gusts.  Only slight weakening is forecast during the next 48 hours.
 
 Hurricane-force winds extend outward up to 25 miles (35 km) from the
-center and tropical-storm-force winds extend outward up to 90 miles
+center, and tropical-storm-force winds extend outward up to 90 miles
 (150 km).
 
 The estimated minimum central pressure is 970 mb (28.65 inches).
@@ -101,16 +103,16 @@ RAINFALL:  Ophelia is expected to produce total rain accumulations
 of 2 to 4 inches over the southeastern Azores Saturday and Saturday
 night.  During the same time, a cold front and moisture associated
 with Ophelia is expected to produce total rain accumulations of 1 to
-3 inches over the other islands of the Azores. This rainfall could
+3 inches over the other islands of the Azores.  This rainfall could
 produce flooding, especially over the southeastern Azores.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
-Forecaster Blake
+Forecaster Berg
 
 NNNN
 </message>
