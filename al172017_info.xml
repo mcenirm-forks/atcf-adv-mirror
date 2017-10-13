@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>18</advisoryNumber>
+<advisoryNumber>19</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171013 11:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20171013 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710131500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM AST Fri Oct 13</messageDateTimeLocalStr>
-<timeEpochSeconds>1507906800</timeEpochSeconds>
+<messageDateTimeLocal>20171013 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20171013 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710132100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Fri Oct 13</messageDateTimeLocalStr>
+<timeEpochSeconds>1507928400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>OPHELIA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>31.8</centerLocLatitude>
-<centerLocLongitude>-32.9</centerLocLongitude>
+<centerLocLatitude>32.3</centerLocLatitude>
+<centerLocLongitude>-31.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>31.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>32.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>32.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>31.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>100</systemIntensityMph>
@@ -39,31 +39,31 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>ENE OR 60 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>12</systemSpeedMph>
-<systemSpeedKph>19</systemSpeedKph>
-<systemSpeedKts>10</systemSpeedKts>
+<systemSpeedMph>13</systemSpeedMph>
+<systemSpeedKph>20</systemSpeedKph>
+<systemSpeedKts>11</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 545 MI...875 KM SW OF THE AZORES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 480 MI...770 KM SW OF THE AZORES</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Ophelia Advisory Number  18
+Hurricane Ophelia Advisory Number  19
 NWS National Hurricane Center Miami FL       AL172017
-1100 AM AST Fri Oct 13 2017
+500 PM AST Fri Oct 13 2017
 
-...OPHELIA EXPECTED TO REMAIN A POWERFUL CYCLONE FOR THE NEXT FEW
-DAYS AS IT MOVES ACROSS THE NORTHEASTERN ATLANTIC OCEAN...
+...OPHELIA MAINTAINING STRENGTH WHILE ACCELERATING TOWARD THE
+EAST-NORTHEAST...
 
 
-SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...31.8N 32.9W
-ABOUT 545 MI...875 KM SW OF THE AZORES
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...32.3N 31.8W
+ABOUT 480 MI...770 KM SW OF THE AZORES
 MAXIMUM SUSTAINED WINDS...100 MPH...155 KM/H
-PRESENT MOVEMENT...ENE OR 60 DEGREES AT 12 MPH...19 KM/H
+PRESENT MOVEMENT...ENE OR 60 DEGREES AT 13 MPH...20 KM/H
 MINIMUM CENTRAL PRESSURE...971 MB...28.68 INCHES
 
 
@@ -81,18 +81,18 @@ by the UK Met Office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM AST (1500 UTC), the eye of Hurricane Ophelia was located
-near latitude 31.8 North, longitude 32.9 West.  Ophelia is moving
-toward the east-northeast near 12 mph (19 km/h), and this motion is
-expected to continue through Saturday with an increase in forward
-speed.  A faster northeastward motion is forecast to begin Saturday
-night and continue through Sunday.  On the forecast track, the
-center of Ophelia will pass near or southeast of the southeastern
-Azores late Saturday and Saturday night.
+At 500 PM AST (2100 UTC), the eye of Hurricane Ophelia was located
+near latitude 32.3 North, longitude 31.8 West. Ophelia is moving
+toward the east-northeast near 13 mph (20 km/h).  A continued
+east-northeast motion with an increase in forward speed is forecast
+through Saturday evening.  A turn toward the northeast is expected
+on Sunday.  On the forecast track, the center of Ophelia will pass
+near or southeast of the southeastern Azores by early Sunday.
 
 Maximum sustained winds are near 100 mph (155 km/h) with higher
 gusts.  Little change in strength is forecast during the next 48
-hours.
+hours and Ophelia is expected to remain a powerful cyclone for the
+next couple of days.
 
 Hurricane-force winds extend outward up to 25 miles (35 km) from the
 center and tropical-storm-force winds extend outward up to 90 miles
@@ -117,12 +117,11 @@ produce flooding, especially over the southeastern Azores.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM AST.
+Next complete advisory at 1100 PM AST.
 
 $$
-Forecaster Brennan
+Forecaster Zelinsky
 
 NNNN
-
 </message>
 </cycloneMessage>
