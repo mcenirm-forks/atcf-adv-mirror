@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>21</advisoryNumber>
+<advisoryNumber>22</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171014 05:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20171014 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710140900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM AST Sat Oct 14</messageDateTimeLocalStr>
-<timeEpochSeconds>1507971600</timeEpochSeconds>
+<messageDateTimeLocal>20171014 11:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20171014 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710141500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM AST Sat Oct 14</messageDateTimeLocalStr>
+<timeEpochSeconds>1507993200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>OPHELIA</systemName>
@@ -19,52 +19,53 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>33.9</centerLocLatitude>
-<centerLocLongitude>-28.6</centerLocLongitude>
+<centerLocLatitude>34.8</centerLocLatitude>
+<centerLocLongitude>-26.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>33.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>28.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>34.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>26.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>100</systemIntensityMph>
-<systemIntensityKph>155</systemIntensityKph>
-<systemIntensityKts>85</systemIntensityKts>
-<systemMslpMb>971</systemMslpMb>
-<systemMslpInHg>28.68</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
+<systemIntensityMph>115</systemIntensityMph>
+<systemIntensityKph>185</systemIntensityKph>
+<systemIntensityKts>100</systemIntensityKts>
+<systemMslpMb>960</systemMslpMb>
+<systemMslpInHg>28.35</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>ENE OR 60 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>24</systemSpeedMph>
-<systemSpeedKph>39</systemSpeedKph>
-<systemSpeedKts>21</systemSpeedKts>
+<systemDirectionOfMotion>NE OR 55 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>25</systemSpeedMph>
+<systemSpeedKph>41</systemSpeedKph>
+<systemSpeedKts>22</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 295 MI...480 KM SSW OF THE AZORES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 220 MI...355 KM S OF THE AZORES</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Ophelia Advisory Number  21
+Hurricane Ophelia Advisory Number  22
 NWS National Hurricane Center Miami FL       AL172017
-500 AM AST Sat Oct 14 2017
+1100 AM AST Sat Oct 14 2017
 
-...CENTER OF CATEGORY 2 HURRICANE OPHELIA EXPECTED TO PASS TO THE
-SOUTHEAST OF THE AZORES THIS EVENING...
+...OPHELIA BECOMES A RARE CATEGORY 3 HURRICANE SOUTH OF THE
+AZORES...
+...THIS IS THE SIXTH MAJOR HURRICANE OF THE 2017 SEASON...
 
 
-SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
-----------------------------------------------
-LOCATION...33.9N 28.6W
-ABOUT 295 MI...480 KM SSW OF THE AZORES
-MAXIMUM SUSTAINED WINDS...100 MPH...155 KM/H
-PRESENT MOVEMENT...ENE OR 60 DEGREES AT 24 MPH...39 KM/H
-MINIMUM CENTRAL PRESSURE...971 MB...28.68 INCHES
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...34.8N 26.6W
+ABOUT 220 MI...355 KM S OF THE AZORES
+MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
+PRESENT MOVEMENT...NE OR 55 DEGREES AT 25 MPH...41 KM/H
+MINIMUM CENTRAL PRESSURE...960 MB...28.35 INCHES
 
 
 WATCHES AND WARNINGS
@@ -81,27 +82,27 @@ by the UK Met Office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM AST (0900 UTC), the center of Hurricane Ophelia was
-located near latitude 33.9 North, longitude 28.6 West. Ophelia is
-moving toward the east-northeast near 24 mph (39 km/h), and a
-continued east-northeast motion with an increase in forward speed
-is forecast through this evening.  A turn toward the northeast is
-expected on Sunday.  On the forecast track, the core of Ophelia
-will pass to  the south and southeast of the southeastern Azores
-by tonight or early Sunday.
+At 1100 AM AST (1500 UTC), the distinct eye of Hurricane Ophelia was
+located near latitude 34.8 North, longitude 26.6 West.  Ophelia is
+moving toward the northeast near 25 mph (41 km/h), and this motion
+is expected continue through Sunday with a turn toward the
+north-northeast thereafter.  On the forecast track, the core of
+Ophelia will pass to the south and southeast of the southeastern
+Azores by tonight.
 
-Maximum sustained winds remain near 100 mph (155 km/h) with higher
-gusts.  Ophelia is a category 2 hurricane on the Saffir-Simpson
-Hurricane Wind Scale.  Little change in strength is expected today,
-followed by slow weakening on Monday and Tuesday. However Ophelia
-is still expected to remain a powerful cyclone for the next couple
-of days as it approaches Ireland.
+Satellite data indicate that the maximum sustained winds have
+increased near 115 mph (185 km/h) with higher gusts.  Ophelia is a
+category 3 hurricane on the Saffir-Simpson Hurricane Wind Scale.
+No significant change in strength is expected today, but gradual
+weakening should begin tonight or Sunday.  However, Ophelia is still
+expected to remain a powerful cyclone with hurricane force winds for
+the next couple of days as it approaches Ireland.
 
-Hurricane-force winds extend outward up to 25 miles (35 km) from the
-center and tropical-storm-force winds extend outward up to 90 miles
-(150 km).
+Hurricane-force winds extend outward up to 45 miles (75 km) from the
+center and tropical-storm-force winds extend outward up to 125 miles
+(205 km).
 
-The estimated minimum central pressure is 971 mb (28.68 inches).
+The estimated minimum central pressure is 960 mb (28.35 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -111,19 +112,16 @@ beginning this afternoon or tonight, primarily due to an approaching
 cold front.
 
 RAINFALL:  Ophelia is expected to produce total rain accumulations
-of 2 to 4 inches over the southeastern Azores through Saturday
-night.  During the same time, a cold front and moisture associated
-with Ophelia is expected to produce total rain accumulations of 1 to
-3 inches over the other islands of the Azores.  This rainfall could
-produce flooding, especially over the southeastern Azores.
+of 1 to 3 inches over the central and southeastern Azores through
+Saturday night.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM AST.
+Next complete advisory at 500 PM AST.
 
 $$
-Forecaster Stewart
+Forecaster Avila
 
 NNNN
 </message>
