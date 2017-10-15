@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>24</advisoryNumber>
+<advisoryNumber>25</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171014 11:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20171015 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710150300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM AST Sat Oct 14</messageDateTimeLocalStr>
-<timeEpochSeconds>1508036400</timeEpochSeconds>
+<messageDateTimeLocal>20171015 05:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20171015 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710150900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM AST Sun Oct 15</messageDateTimeLocalStr>
+<timeEpochSeconds>1508058000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>OPHELIA</systemName>
@@ -19,60 +19,59 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>37.3</centerLocLatitude>
-<centerLocLongitude>-21.5</centerLocLongitude>
+<centerLocLatitude>39.0</centerLocLatitude>
+<centerLocLongitude>-18.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>37.3N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>21.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>39.0N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>18.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>115</systemIntensityMph>
-<systemIntensityKph>185</systemIntensityKph>
-<systemIntensityKts>100</systemIntensityKts>
-<systemMslpMb>960</systemMslpMb>
-<systemMslpInHg>28.35</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
+<systemIntensityMph>105</systemIntensityMph>
+<systemIntensityKph>165</systemIntensityKph>
+<systemIntensityKts>90</systemIntensityKts>
+<systemMslpMb>964</systemMslpMb>
+<systemMslpInHg>28.47</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 2</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NE OR 55 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>28</systemSpeedMph>
-<systemSpeedKph>44</systemSpeedKph>
-<systemSpeedKts>24</systemSpeedKts>
+<systemDirectionOfMotion>NE OR 45 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>35</systemSpeedMph>
+<systemSpeedKph>56</systemSpeedKph>
+<systemSpeedKts>30</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 305 MI...490 KM E OF THE AZORES</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 475 MI...765 KM E OF THE AZORES</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 965 MI...1550 KM SSW OF MIZEN HEAD IRELAND</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Ophelia Advisory Number  24
+Hurricane Ophelia Advisory Number  25
 NWS National Hurricane Center Miami FL       AL172017
-1100 PM AST Sat Oct 14 2017
+500 AM AST Sun Oct 15 2017
 
-...LARGE EYE OF HURRICANE OPHELIA PASSING EAST OF THE AZORES...
-...EXPECTED TO BECOME POST-TROPICAL BY SUNDAY NIGHT...
+...OPHELIA NOW TAKING AIM ON IRELAND...
+...EXPECTED TO BECOME A POWERFUL POST-TROPICAL CYCLONE BY TONIGHT...
 
 
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...37.3N 21.5W
-ABOUT 305 MI...490 KM E OF THE AZORES
-MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
-PRESENT MOVEMENT...NE OR 55 DEGREES AT 28 MPH...44 KM/H
-MINIMUM CENTRAL PRESSURE...960 MB...28.35 INCHES
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...39.0N 18.3W
+ABOUT 475 MI...765 KM E OF THE AZORES
+ABOUT 965 MI...1550 KM SSW OF MIZEN HEAD IRELAND
+MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
+PRESENT MOVEMENT...NE OR 45 DEGREES AT 35 MPH...56 KM/H
+MINIMUM CENTRAL PRESSURE...964 MB...28.47 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 There are no coastal tropical cyclone watches or warnings in effect.
-
-Interests in the Azores should refer to products issued by the
-Azores Weather Forecast and Watch Center.
 
 Interests in Ireland should monitor products issued by Met Eireann,
 and interests in the United Kingdom should monitor products issued
@@ -81,42 +80,62 @@ by the UK Met Office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM AST (0300 UTC), the center of Hurricane Ophelia was
-located near latitude 37.3 North, longitude 21.5 West. Ophelia is
-moving toward the northeast near 28 mph (44 km/h).  A continued
-northeast motion with an increase in forward speed is expected
-tonight and Sunday, followed by a turn toward the north-northeast
-Sunday night.  On the forecast track, the center of Ophelia will
-continue to pass east of the Azores tonight, and approach Ireland
-on Monday.
-
-Maximum sustained winds are near 115 mph (185 km/h) with higher
-gusts.  Ophelia is a category 3 hurricane on the Saffir-Simpson
-Hurricane Wind Scale.  Gradual weakening is forecast to begin
-later tonight, but Ophelia is forecast to become a post-tropical
-cyclone with hurricane-force winds as it approaches Ireland on
+At 500 AM AST (0900 UTC), the center of Hurricane Ophelia was
+located near latitude 39.0 North, longitude 18.3 West. Ophelia is
+moving toward the northeast near 35 mph (56 km/h).  A continued
+northeastward motion with an increase in forward speed is expected
+today, followed by a turn toward the north-northeast tonight. On the
+forecast track, the center of Ophelia will approach Ireland on
 Monday.
+
+Maximum sustained winds have decreased to near 105 mph (165 km/h)
+with higher gusts.  Some additional weakening is expected today and
+on Monday, but Ophelia is forecast to become a powerful
+post-tropical cyclone with hurricane-force winds as it approaches
+Ireland on Monday.
 
 Hurricane-force winds extend outward up to 45 miles (75 km) from the
 center and tropical-storm-force winds extend outward up to 150 miles
 (240 km).
 
-The estimated minimum central pressure is 960 mb (28.35 inches).
+The estimated minimum central pressure is 964 mb (28.47 inches).
+Ophelia's eye recently passed near a drifting buoy that measured a
+pressure of 970.9 mb (28.67 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-WIND:  Tropical-storm-force winds are possible throughout the Azores
-through tonight, primarily due to a cold front that has passed
-through the islands.
+WIND:  Gale-force winds are expected to begin across southern
+Ireland by early Monday morning and gradually spread northward
+across the country during the day.  Hurricane-force winds are
+expected to reach the southern portions of Ireland by Monday
+afternoon and spread inland across the country into Monday night.
+Preparations to protect lives and property should be rushed to
+completion by this afternoon.
+
+Wind speeds atop and on the windward sides of hills and mountains
+are often up to 30 percent stronger than the near-surface winds
+indicated in this advisory, and in some elevated locations could be
+even greater.
+
+RAINFALL:  Ophelia is expected to produce rainfall amounts of 2 to
+3 inches (50 mm to 75 mm) with isolated totals near 4 inches (100
+mm) through Tuesday across western Ireland and Scotland. Across
+eastern Ireland, rainfall amounts will average around 1 inch (25 mm)
+or less.
+
+STORM SURGE:  A dangerous storm surge is expected to produce
+significant coastal flooding near and to the east of where the
+center makes landfall.  Near the coast, the surge will be
+accompanied by large and destructive waves.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 AM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
-Forecaster Brown
+Forecaster Stewart
 
 NNNN
 </message>
