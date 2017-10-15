@@ -1,23 +1,23 @@
 {
   "cycloneMessage": {
-    "advisoryNumber": "23",
+    "advisoryNumber": "24",
     "atcfID": "AL172017",
-    "centerLocLatitude": "35.9",
-    "centerLocLatitudeExpanded": "35.9N",
-    "centerLocLongitude": "-23.7",
-    "centerLocLongitudeExpanded": "23.7W",
+    "centerLocLatitude": "37.3",
+    "centerLocLatitudeExpanded": "37.3N",
+    "centerLocLongitude": "-21.5",
+    "centerLocLongitudeExpanded": "21.5W",
     "formationChancePct48h": "N/A",
     "formationChancePct5d": "N/A",
     "issuingUnit": "NWS NATIONAL HURRICANE CENTER MIAMI FL",
-    "message": "ZCZC MIATCPAT2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Ophelia Advisory Number  23\nNWS National Hurricane Center Miami FL       AL172017\n500 PM AST Sat Oct 14 2017\n\n...EYE OF HURRICANE OPHELIA PASSING SOUTH OF THE AZORES...\n...EXPECTED TO BECOME POST-TROPICAL LATE SUNDAY OR EARLY MONDAY...\n\n\nSUMMARY OF 500 PM AST...2100 UTC...INFORMATION\n----------------------------------------------\nLOCATION...35.9N 23.7W\nABOUT 235 MI...375 KM SE OF THE AZORES\nMAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H\nPRESENT MOVEMENT...NE OR 55 DEGREES AT 28 MPH...44 KM/H\nMINIMUM CENTRAL PRESSURE...960 MB...28.35 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal tropical cyclone watches or warnings in effect.\n\nInterests in the Azores should refer to products issued by the\nAzores Weather Forecast and Watch Center.\n\nInterests in Ireland should monitor products issued by Met Eireann,\nand interests in the United Kingdom should monitor products issued\nby the UK Met Office.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 PM AST (2100 UTC), the clear eye of Hurricane Ophelia was\nlocated near latitude 35.9 North, longitude 23.7 West. Ophelia is\nmoving toward the northeast near 28 mph (44 km/h).  A continued\nnortheast motion with an increase in forward speed is expected\ntonight and Sunday, followed by a turn toward the north-northeast\nSunday night.  On the forecast track, the core of Ophelia will\ncontinue to pass south and east of the Azores tonight.\n\nSatellite data indicate that maximum sustained winds remain near 115\nmph (185 km/h) with higher gusts.  Ophelia is a category 3 hurricane\non the Saffir-Simpson Hurricane Wind Scale.  Little change in\nstrength is expected tonight, but the hurricane is likely to become\npost-tropical by early Monday morning, if not sooner.  Ophelia is\nforecast to remain a powerful cyclone with hurricane-force winds\nas it approaches Ireland.\n\nHurricane-force winds extend outward up to 45 miles (75 km) from the\ncenter and tropical-storm-force winds extend outward up to 125 miles\n(205 km).  The wind field of Ophelia is forecast to expand\nsubstantially and wind and rain effects in Ireland and the UK are\nexpected to reach the coast well before the arrival of the center.\n\nThe estimated minimum central pressure is 960 mb (28.35 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nWIND:  Tropical-storm-force winds are possible throughout the Azores\nthrough tonight, primarily due to a cold front currently passing\nthrough the islands.\n\nRAINFALL:  Ophelia is expected to produce total rain accumulations\nof 1 to 3 inches over the central and southeastern Azores through\nSaturday night.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 PM AST.\n\n$$\nForecaster Zelinsky\n\nNNNN",
+    "message": "ZCZC MIATCPAT2 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nHurricane Ophelia Advisory Number  24\nNWS National Hurricane Center Miami FL       AL172017\n1100 PM AST Sat Oct 14 2017\n\n...LARGE EYE OF HURRICANE OPHELIA PASSING EAST OF THE AZORES...\n...EXPECTED TO BECOME POST-TROPICAL BY SUNDAY NIGHT...\n\n\nSUMMARY OF 1100 PM AST...0300 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...37.3N 21.5W\nABOUT 305 MI...490 KM E OF THE AZORES\nMAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H\nPRESENT MOVEMENT...NE OR 55 DEGREES AT 28 MPH...44 KM/H\nMINIMUM CENTRAL PRESSURE...960 MB...28.35 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal tropical cyclone watches or warnings in effect.\n\nInterests in the Azores should refer to products issued by the\nAzores Weather Forecast and Watch Center.\n\nInterests in Ireland should monitor products issued by Met Eireann,\nand interests in the United Kingdom should monitor products issued\nby the UK Met Office.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 PM AST (0300 UTC), the center of Hurricane Ophelia was\nlocated near latitude 37.3 North, longitude 21.5 West. Ophelia is\nmoving toward the northeast near 28 mph (44 km/h).  A continued\nnortheast motion with an increase in forward speed is expected\ntonight and Sunday, followed by a turn toward the north-northeast\nSunday night.  On the forecast track, the center of Ophelia will\ncontinue to pass east of the Azores tonight, and approach Ireland\non Monday.\n\nMaximum sustained winds are near 115 mph (185 km/h) with higher\ngusts.  Ophelia is a category 3 hurricane on the Saffir-Simpson\nHurricane Wind Scale.  Gradual weakening is forecast to begin\nlater tonight, but Ophelia is forecast to become a post-tropical\ncyclone with hurricane-force winds as it approaches Ireland on\nMonday.\n\nHurricane-force winds extend outward up to 45 miles (75 km) from the\ncenter and tropical-storm-force winds extend outward up to 150 miles\n(240 km).\n\nThe estimated minimum central pressure is 960 mb (28.35 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nWIND:  Tropical-storm-force winds are possible throughout the Azores\nthrough tonight, primarily due to a cold front that has passed\nthrough the islands.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 AM AST.\n\n$$\nForecaster Brown\n\nNNNN",
     "messageBinNumber": "2",
-    "messageDateTimeLocal": "20171014 05:00:00 PM AST",
-    "messageDateTimeLocalStr": "0500 PM AST Sat Oct 14",
-    "messageDateTimeUTC": "20171014 09:00:00 PM UTC",
-    "messageDateTimeUTC24": "201710142100",
+    "messageDateTimeLocal": "20171014 11:00:00 PM AST",
+    "messageDateTimeLocalStr": "1100 PM AST Sat Oct 14",
+    "messageDateTimeUTC": "20171015 03:00:00 AM UTC",
+    "messageDateTimeUTC24": "201710150300",
     "messageType": "ROUTINE ADVISORY",
     "systemDirectionOfMotion": "NE OR 55 DEGREES",
-    "systemGeoRefPt1": "ABOUT 235 MI...375 KM SE OF THE AZORES",
+    "systemGeoRefPt1": "ABOUT 305 MI...490 KM E OF THE AZORES",
     "systemIntensityKph": "185",
     "systemIntensityKts": "100",
     "systemIntensityMph": "115",
@@ -29,6 +29,6 @@
     "systemSpeedKts": "24",
     "systemSpeedMph": "28",
     "systemType": "HURRICANE",
-    "timeEpochSeconds": "1508014800"
+    "timeEpochSeconds": "1508036400"
   }
 }
