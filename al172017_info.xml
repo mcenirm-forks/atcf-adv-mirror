@@ -5,68 +5,67 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>27</advisoryNumber>
+<advisoryNumber>28</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171015 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20171015 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710152100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Sun Oct 15</messageDateTimeLocalStr>
-<timeEpochSeconds>1508101200</timeEpochSeconds>
+<messageDateTimeLocal>20171015 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20171016 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710160300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Sun Oct 15</messageDateTimeLocalStr>
+<timeEpochSeconds>1508122800</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>HURRICANE</systemType>
+<systemType>POST-TROPICAL CYCLONE</systemType>
 <systemName>OPHELIA</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>44.6</centerLocLatitude>
+<centerLocLatitude>49.2</centerLocLatitude>
 <centerLocLongitude>-13.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>44.6N</centerLocLatitudeExpanded>
+<centerLocLatitudeExpanded>49.2N</centerLocLatitudeExpanded>
 <centerLocLongitudeExpanded>13.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>85</systemIntensityMph>
 <systemIntensityKph>140</systemIntensityKph>
 <systemIntensityKts>75</systemIntensityKts>
-<systemMslpMb>971</systemMslpMb>
-<systemMslpInHg>28.68</systemMslpInHg>
-<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<systemMslpMb>969</systemMslpMb>
+<systemMslpInHg>28.62</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NNE OR 25 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>38</systemSpeedMph>
-<systemSpeedKph>61</systemSpeedKph>
-<systemSpeedKts>33</systemSpeedKts>
+<systemDirectionOfMotion>N OR 10 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>44</systemSpeedMph>
+<systemSpeedKph>70</systemSpeedKph>
+<systemSpeedKts>38</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 840 MI...1355 KM NE OF THE AZORES</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 505 MI...810 KM SSW OF MIZEN HEAD IRELAND</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 220 MI...355 KM SW OF MIZEN HEAD IRELAND</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Hurricane Ophelia Advisory Number  27
+Post-Tropical Cyclone Ophelia Advisory Number  28
 NWS National Hurricane Center Miami FL       AL172017
-500 PM AST Sun Oct 15 2017
+1100 PM AST Sun Oct 15 2017
 
-...OPHELIA STILL A HURRICANE BUT EXPECTED TO BECOME A POWERFUL
-POST-TROPICAL CYCLONE TONIGHT...
+...OPHELIA NOW POST-TROPICAL BUT STILL EXPECTED TO BRING STRONG
+WINDS TO IRELAND AND THE UNITED KINGDOM ON MONDAY...
+...THIS IS THE LAST ADVISORY FROM NHC...
 
 
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
-----------------------------------------------
-LOCATION...44.6N 13.3W
-ABOUT 840 MI...1355 KM NE OF THE AZORES
-ABOUT 505 MI...810 KM SSW OF MIZEN HEAD IRELAND
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...49.2N 13.3W
+ABOUT 220 MI...355 KM SW OF MIZEN HEAD IRELAND
 MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
-PRESENT MOVEMENT...NNE OR 25 DEGREES AT 38 MPH...61 KM/H
-MINIMUM CENTRAL PRESSURE...971 MB...28.68 INCHES
+PRESENT MOVEMENT...N OR 10 DEGREES AT 44 MPH...70 KM/H
+MINIMUM CENTRAL PRESSURE...969 MB...28.62 INCHES
 
 
 WATCHES AND WARNINGS
@@ -80,34 +79,36 @@ by the UK Met Office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM AST (2100 UTC), the center of Hurricane Ophelia was
-located near latitude 44.6 North, longitude 13.3 West. Ophelia is
-moving toward the north-northeast near 38 mph (61 km/h), and this
-general motion is expected to continue through Monday.  On the
-forecast track, the center of Ophelia will cross over Ireland on
-Monday, however strong winds and rain will extend far from the
-center.
+At 1100 PM AST (0300 UTC), the center of Post-Tropical Cyclone
+Ophelia was located near latitude 49.2 North, longitude 13.3 West.
+The post-tropical cyclone is moving toward the north near 44 mph
+(70 km/h).  A turn toward the north-northeast with a decrease in
+forward speed is expected on Monday, with that heading continuing
+through Tuesday.  On the forecast track, the center of the
+post-tropical cyclone will move near western Ireland on Monday
+and then near northern Scotland Monday night.
 
 Maximum sustained winds are near 85 mph (140 km/h) with higher
-gusts.  Ophelia is expected to be a hurricane-force post-tropical
-cyclone when it nears the coast of Ireland on Monday.
+gusts.  Weakening is forecast during the next couple of days, and
+the post-tropical cyclone is expected to dissipate near western
+Norway by Tuesday night.
 
-Hurricane-force winds extend outward up to 60 miles (95 km) from the
-center and tropical-storm-force winds extend outward up to 255 miles
-(405 km).
+Hurricane-force winds extend outward up to 70 miles (110 km) from
+the center, and tropical-storm-force winds extend outward up to 275
+miles (445 km).
 
-The estimated minimum central pressure is 971 mb (28.68 inches).
+The estimated minimum central pressure is 969 mb (28.62 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 WIND:  Gale-force winds are expected to begin across southern
-Ireland by early Monday morning and gradually spread northward
-across the country during the day.  Hurricane-force winds are
-expected to reach the southern portions of Ireland by Monday
-afternoon.  Strong winds will then spread inland across the
-Ireland and parts of the UK into Monday night. Preparations to
-protect lives and property should be nearing completion.
+Ireland during the next few hours and gradually spread northward
+across the country during the day on Monday.  Hurricane-force winds
+are forecast to reach the southern portions of Ireland by Monday
+afternoon.  Strong winds will then spread across the remainder of
+Ireland and parts of the United Kingdom into Monday night.
+Preparations to protect lives and property should be complete.
 
 Wind speeds atop and on the windward sides of hills and mountains
 are often up to 30 percent stronger than the near-surface winds
@@ -128,10 +129,21 @@ the surge will be accompanied by large and destructive waves.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM AST.
+This is the last public advisory issued by the National Hurricane
+Center on this system.  Additional information on this system can be
+found in High Seas Forecasts issued by the UK Met Office under WMO
+header FQNT21 EGRR and on the web at
+http://www.metoffice.gov.uk/public/weather/marine-high-seas/.
+
+Local forecasts and warnings for Ireland can be found on the
+website of Met Eireann, the Irish Meteorological Service, at
+http://www.met.ie/.
+
+Local forecasts and warnings for the United Kingdom can be found on
+the website of the UK Met Office at http://www.metoffice.gov.uk/.
 
 $$
-Forecaster Zelinsky
+Forecaster Berg
 
 NNNN
 </message>
