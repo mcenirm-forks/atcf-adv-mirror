@@ -5,99 +5,86 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>6</advisoryNumber>
+<advisoryNumber>7</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171028 10:00:00 AM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171028 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710281500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1000 AM CDT Sat Oct 28</messageDateTimeLocalStr>
-<timeEpochSeconds>1509202800</timeEpochSeconds>
+<messageDateTimeLocal>20171028 04:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171028 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710282100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 PM CDT Sat Oct 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1509224400</timeEpochSeconds>
 <!-- System state defined -->
-<systemType>TROPICAL DEPRESSION</systemType>
+<systemType>POST-TROPICAL CYCLONE</systemType>
 <systemName>SELMA</systemName>
 <!-- Center Location of the System -->
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>13.7</centerLocLatitude>
-<centerLocLongitude>-88.5</centerLocLongitude>
+<centerLocLatitude>14.3</centerLocLatitude>
+<centerLocLongitude>-88.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>13.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>88.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>14.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>88.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>35</systemIntensityMph>
-<systemIntensityKph>55</systemIntensityKph>
-<systemIntensityKts>30</systemIntensityKts>
-<systemMslpMb>1006</systemMslpMb>
-<systemMslpInHg>29.71</systemMslpInHg>
+<systemIntensityMph>30</systemIntensityMph>
+<systemIntensityKph>45</systemIntensityKph>
+<systemIntensityKts>25</systemIntensityKts>
+<systemMslpMb>1007</systemMslpMb>
+<systemMslpInHg>29.74</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NE OR 55 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>8</systemSpeedMph>
-<systemSpeedKph>13</systemSpeedKph>
-<systemSpeedKts>7</systemSpeedKts>
+<systemDirectionOfMotion>NNE OR 30 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>5</systemSpeedMph>
+<systemSpeedKph>7</systemSpeedKph>
+<systemSpeedKts>4</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 45 MI...75 KM E OF SAN SALVADOR EL SALVADOR</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 50 MI...80 KM NNE OF SAN SALVADOR EL SALVADOR</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Selma Advisory Number   6
+Post-Tropical Cyclone Selma Advisory Number   7
 NWS National Hurricane Center Miami FL       EP202017
-1000 AM CDT Sat Oct 28 2017
+400 PM CDT Sat Oct 28 2017
 
-...SELMA EXPECTED TO PRODUCE TORRENTIAL RAINS AND FLASH FLOODS
+...SELMA DEGENERATES TO A REMNANT LOW PRESSURE AREA...
+...STILL EXPECTED TO PRODUCE TORRENTIAL RAINS AND FLASH FLOODS
 THROUGH SUNDAY...
-...TROPICAL STORM FORCE WIND GUSTS ARE STILL POSSIBLE TODAY...
 
 
-SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...13.7N 88.5W
-ABOUT 45 MI...75 KM E OF SAN SALVADOR EL SALVADOR
-MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...NE OR 55 DEGREES AT 8 MPH...13 KM/H
-MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...14.3N 88.8W
+ABOUT 50 MI...80 KM NNE OF SAN SALVADOR EL SALVADOR
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...NNE OR 30 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
-CHANGES WITH THIS ADVISORY:
-
-The government of El Salvador has discontinued the Tropical Storm
-Warning along the Pacific coast of El Salvador.
-
-The government of Guatemala has discontinued the Tropical Storm
-Watch along the Pacific coast of Guatemala.
-
-SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
-
-There are no coastal watches or warning in effect.
-
-Interests in western Honduras should monitor the progress of Selma.
+There are no coastal watches or warnings in effect.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1000 AM CDT (1500 UTC), the center of Tropical Depression Selma
-was located near latitude 13.7 North, longitude 88.5 West. The
-depression is moving toward the northeast near 8 mph (13 km/h). A
-turn toward the northeast is forecast today, and this motion should
-continue until dissipation tonight.
+At 400 PM CDT (2100 UTC), the center of Post-Tropical Cyclone Selma
+was located near latitude 14.3 North, longitude 88.8 West. The
+post-tropical cyclone is moving toward the north-northeast near 5
+mph (7 km/h), and this motion should continue until dissipation
+tonight.
 
-Maximum sustained winds have decreased to near 35 mph (55 km/h) with
-higher gusts. Weakening is expected through today with dissipation
-by tonight.
+Maximum sustained winds have decreased to near 30 mph (45 km/h) with
+higher gusts.  Dissipation is expected tonight.
 
-The estimated minimum central pressure is 1006 mb (29.71 inches).
+The estimated minimum central pressure is 1007 mb (29.74 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -107,19 +94,20 @@ RAINFALL:  Selma is expected to produce total rain accumulations of
 Honduras through Sunday.  This rainfall could cause isolated flash
 floods, especially in mountainous terrain.
 
-WIND:  Tropical storm force wind gusts are likely over El Salvador
+WIND:  Gusty winds are likely to continue over El Salvador
 today, but are expected to diminish by tonight.
 
-SURF:  Swells generated by Selma are affecting portions of the
-coasts of Nicaragua, Honduras, El Salvador, and Guatemala. These
-swells are likely to cause life-threatening surf and rip current
-conditions today.  Please consult products from your local weather
-office.
+SURF:  Swells generated by Selma will continue to affect portions of
+the coasts of Nicaragua, Honduras, El Salvador, and Guatemala
+through tonight. These swells are likely to cause life-threatening
+surf and rip current conditions today.  Please consult products from
+your local weather office.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 400 PM CDT.
+This is the last public advisory issued by the National Hurricane
+Center on this system.
 
 $$
 Forecaster Roberts
