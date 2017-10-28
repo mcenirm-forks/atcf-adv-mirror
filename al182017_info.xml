@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL182017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>3</advisoryNumber>
+<advisoryNumber>3A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171028 05:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171028 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710280900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM EDT Sat Oct 28</messageDateTimeLocalStr>
-<timeEpochSeconds>1509181200</timeEpochSeconds>
+<messageDateTimeLocal>20171028 08:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171028 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710281200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM EDT Sat Oct 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1509192000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>POTENTIAL TROPICAL CYCLONE</systemType>
 <systemName>EIGHTEEN</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>19.6</centerLocLatitude>
-<centerLocLongitude>-84.2</centerLocLongitude>
+<centerLocLatitude>19.7</centerLocLatitude>
+<centerLocLongitude>-84</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>19.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>84.2W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>19.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>84.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -34,38 +34,39 @@
 <systemMslpMb>1005</systemMslpMb>
 <systemMslpInHg>29.68</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
-<formationChancePct48h>80</formationChancePct48h>
-<formationChancePct5d>80</formationChancePct5d>
+<formationChancePct48h>90</formationChancePct48h>
+<formationChancePct5d>90</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>N OR 10 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>NNE OR 30 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>10</systemSpeedMph>
 <systemSpeedKph>17</systemSpeedKph>
 <systemSpeedKts>9</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 165 MI...265 KM SSW OF THE ISLE OF YOUTH</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 275 MI...440 KM SSW OF HAVANA CUBA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 155 MI...245 KM SSW OF THE ISLE OF YOUTH</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 250 MI...400 KM SSW OF HAVANA CUBA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Potential Tropical Cyclone Eighteen Advisory Number   3
+Potential Tropical Cyclone Eighteen Intermediate Advisory Number 3A
 NWS National Hurricane Center Miami FL       AL182017
-500 AM EDT Sat Oct 28 2017
+800 AM EDT Sat Oct 28 2017
 
-...HEAVY RAINS SPREADING NORTHWARD ACROSS CUBA TOWARD THE FLORIDA
-KEYS AND SOUTH FLORIDA...
+...HEAVY RAINS SPREADING NORTHWARD ACROSS CUBA AND THE CAYMAN
+ISLANDS TOWARD THE FLORIDA KEYS AND SOUTH FLORIDA...
+...AIR FORCE RESERVE RECONNAISSANCE AIRCRAFT EN ROUTE...
 
 
-SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...19.6N 84.2W
-ABOUT 165 MI...265 KM SSW OF THE ISLE OF YOUTH
-ABOUT 275 MI...440 KM SSW OF HAVANA CUBA
+LOCATION...19.7N 84.0W
+ABOUT 155 MI...245 KM SSW OF THE ISLE OF YOUTH
+ABOUT 250 MI...400 KM SSW OF HAVANA CUBA
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...N OR 10 DEGREES AT 10 MPH...17 KM/H
+PRESENT MOVEMENT...NNE OR 30 DEGREES AT 10 MPH...17 KM/H
 MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
@@ -101,19 +102,21 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM EDT (0900 UTC), the disturbance was centered near latitude
-19.6 North, longitude 84.2 West.  The system is moving faster toward
-the north near 10 mph (17 km/h).  An additional acceleration toward
-the north-northeast and northeast is expected through Sunday.  On
-the forecast track, the center will move across western Cuba this
-afternoon, across the Straits of Florida tonight, and across the
-northwestern Bahamas Sunday morning.
+At 800 AM EDT (1200 UTC), the disturbance was centered near latitude
+19.7 North, longitude 84.0 West.  The system is moving toward the
+north-northeast near 10 mph (17 km/h).  A motion toward the
+northeast with an increase in forward speed is expected later today
+and continue through Sunday.  On the forecast track, the center will
+move across western Cuba this afternoon, across the Straits of
+Florida tonight, and across the northwestern Bahamas Sunday morning.
 
-Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-Strengthening is forecast during the next 48 hours, and the
-disturbance is expected to become a tropical storm later today.
-* Formation chance through 48 hours...high...80 percent
-* Formation chance through 5 days...high...80 percent
+Maximum sustained winds are near 35 mph (55 km/h) with higher
+gusts. Strengthening is forecast during the next 48 hours, and the
+disturbance is expected to become a tropical storm later today.  An
+Air Force Reserve reconnaissance aircraft is currently en route to
+assess the strength of the disturbance.
+* Formation chance through 48 hours...high...90 percent
+* Formation chance through 5 days...high...90 percent
 
 The estimated minimum central pressure is 1005 mb (29.68 inches).
 
@@ -143,12 +146,12 @@ South Florida and the Florida Keys from midday through this evening.
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 AM EDT.
 Next complete advisory at 1100 AM EDT.
 
 $$
-Forecaster Berg
+Forecaster Stewart
 
 NNNN
+
 </message>
 </cycloneMessage>
