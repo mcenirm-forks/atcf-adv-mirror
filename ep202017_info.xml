@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP202017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>3A</advisoryNumber>
+<advisoryNumber>4</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171027 07:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171028 12:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710280000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0700 PM CDT Fri Oct 27</messageDateTimeLocalStr>
-<timeEpochSeconds>1509148800</timeEpochSeconds>
+<messageDateTimeLocal>20171027 10:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171028 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710280300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1000 PM CDT Fri Oct 27</messageDateTimeLocalStr>
+<timeEpochSeconds>1509159600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>SELMA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>12.0</centerLocLatitude>
-<centerLocLongitude>-89.3</centerLocLongitude>
+<centerLocLatitude>12.3</centerLocLatitude>
+<centerLocLongitude>-89</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>12.0N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>89.3W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>12.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>89.0W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
@@ -38,32 +38,32 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>N OR 350 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>N OR 10 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>7</systemSpeedMph>
 <systemSpeedKph>11</systemSpeedKph>
 <systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 120 MI...190 KM S OF SAN SALVADOR EL SALVADOR</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 100 MI...155 KM S OF SAN SALVADOR EL SALVADOR</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP5 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Selma Intermediate Advisory Number 3A
+Tropical Storm Selma Advisory Number   4
 NWS National Hurricane Center Miami FL       EP202017
-700 PM CDT Fri Oct 27 2017
+1000 PM CDT Fri Oct 27 2017
 
-...SELMA HOLDING STEADY IN STRENGTH WHILE MOVING CLOSER TO THE
-COAST OF EL SALVADOR...
+...SELMA MOVING NORTHWARD TOWARD THE COAST OF EL SALVADOR...
+...EXPECTED TO MAKE LANDFALL BY EARLY SATURDAY...
 
 
-SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
-----------------------------------------------
-LOCATION...12.0N 89.3W
-ABOUT 120 MI...190 KM S OF SAN SALVADOR EL SALVADOR
+SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...12.3N 89.0W
+ABOUT 100 MI...155 KM S OF SAN SALVADOR EL SALVADOR
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...N OR 350 DEGREES AT 7 MPH...11 KM/H
+PRESENT MOVEMENT...N OR 10 DEGREES AT 7 MPH...11 KM/H
 MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
@@ -97,18 +97,18 @@ products issued by your national meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 700 PM CDT (0000 UTC), the center of Tropical Storm Selma was
-located near latitude 12.0 North, longitude 89.3 West. Selma is
-moving toward the north near 7 mph (11 km/h), and that general
-motion is expected during the next day or so.  On the forecast
-track, the center of Selma is forecast to make landfall along the
-coast of El Salvador or Guatemala on Saturday.
+At 1000 PM CDT (0300 UTC), the center of Tropical Storm Selma was
+located near latitude 12.3 North, longitude 89.0 West. Selma is
+moving toward the north near 7 mph (11 km/h) and that general
+motion is expected during the next 12 to 24 hours.  On the forecast
+track, the center of Selma is expected to make landfall along the
+coast of El Salvador Saturday morning.
 
 Maximum sustained winds remain near 40 mph (65 km/h) with higher
 gusts.  Little change in strength is forecast before Selma reaches
-the coast of Central America.  Rapid weakening is forecast after
-landfall, and Selma is expected to dissipate over the mountains of
-Central America Saturday night or early Sunday.
+the coast.  Rapid weakening is forecast after landfall, and Selma is
+expected to dissipate over the mountains of Central America by
+Saturday night.
 
 Tropical-storm-force winds extend outward up to 45 miles (75 km)
 from the center.
@@ -120,18 +120,18 @@ HAZARDS AFFECTING LAND
 ----------------------
 RAINFALL:  Selma is expected to produce total rain accumulations of
 3 to 6 inches over El Salvador, southern Guatemala, southern
-Honduras and far western Nicaragua over the next couple of days.
-Isolated maximum amounts of 10 inches are possible in El Salvador
-and southern Guatemala.  This rainfall could cause life-threatening
-flash floods and mudslides.
+Honduras and far western Nicaragua through Sunday.  Isolated maximum
+amounts of 10 inches are possible in El Salvador and southern
+Guatemala.  This rainfall could cause life-threatening flash floods
+and mudslides.
 
 WIND:  Tropical storm conditions are expected to first reach the
-coast within the warning area by early Saturday, making outside
-preparations difficult or dangerous.  Tropical storm conditions
-are possible within the watch area by early Saturday.
+coast within the warning area overnight, making outside preparations
+difficult or dangerous.  Tropical storm conditions are possible
+within the watch area by early Saturday.
 
-SURF:  Swells generated by Selma are beginning to affect portions
-of the coasts of Nicaragua, Honduras, El Salvador and Guatemala.
+SURF:  Swells generated by Selma are affecting portions of the
+coasts of Nicaragua, Honduras, El Salvador and Guatemala.
 These swells are likely to cause life-threatening surf and rip
 current conditions.  Please consult products from your local
 weather office.
@@ -139,12 +139,12 @@ weather office.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1000 PM CDT.
+Next intermediate advisory at 100 AM CDT.
+Next complete advisory at 400 AM CDT.
 
 $$
 Forecaster Cangialosi
 
 NNNN
-
 </message>
 </cycloneMessage>
