@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL182017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>4</advisoryNumber>
+<advisoryNumber>4A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171028 11:00:00 AM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171028 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710281500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM EDT Sat Oct 28</messageDateTimeLocalStr>
-<timeEpochSeconds>1509202800</timeEpochSeconds>
+<messageDateTimeLocal>20171028 02:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171028 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710281800</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM EDT Sat Oct 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1509213600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>EIGHTEEN</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>20.8</centerLocLatitude>
-<centerLocLongitude>-82.9</centerLocLongitude>
+<centerLocLatitude>21.8</centerLocLatitude>
+<centerLocLongitude>-82.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>20.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>82.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>21.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>82.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -39,35 +39,33 @@
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>NNE OR 20 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>22</systemSpeedMph>
-<systemSpeedKph>35</systemSpeedKph>
-<systemSpeedKts>19</systemSpeedKts>
+<systemSpeedMph>25</systemSpeedMph>
+<systemSpeedKph>41</systemSpeedKph>
+<systemSpeedKts>22</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 55 MI...90 KM S OF THE ISLE OF YOUTH</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 170 MI...270 KM S OF HAVANA CUBA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 30 MI...45 KM ENE OF THE ISLE OF YOUTH</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 80 MI...130 KM S OF HAVANA CUBA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Eighteen Advisory Number   4
+Tropical Depression Eighteen Intermediate Advisory Number 4A
 NWS National Hurricane Center Miami FL       AL182017
-1100 AM EDT Sat Oct 28 2017
+200 PM EDT Sat Oct 28 2017
 
-...AIR FORCE RESERVE RECONNAISSANCE AIRCRAFT FINDS A TROPICAL
-DEPRESSION HAS FORMED OVER THE NORTHWESTERN CARIBBEAN SEA...
-...TROPICAL STORM WATCH ISSUED FOR THE UPPER FLORIDA KEYS AND
-SOUTHEAST FLORIDA...
+...TROPICAL DEPRESSION PRODUCING HEAVY RAINS ACROSS CENTRAL CUBA
+AND SPREADING NORTHWARD OVER THE FLORIDA KEYS AND SOUTH FLORIDA...
 
 
-SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...20.8N 82.9W
-ABOUT 55 MI...90 KM S OF THE ISLE OF YOUTH
-ABOUT 170 MI...270 KM S OF HAVANA CUBA
+SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.8N 82.4W
+ABOUT 30 MI...45 KM ENE OF THE ISLE OF YOUTH
+ABOUT 80 MI...130 KM S OF HAVANA CUBA
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...NNE OR 20 DEGREES AT 22 MPH...35 KM/H
+PRESENT MOVEMENT...NNE OR 20 DEGREES AT 25 MPH...41 KM/H
 MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
@@ -75,8 +73,7 @@ WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-A Tropical Storm Watch has been issued for portions of southeastern
-Florida and the upper Florida Keys from Craig Key to Golden Beach.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
@@ -99,33 +96,32 @@ possible within the watch area, in this case within 24 hours.
 Interests in the Cayman Islands should monitor the progress of this
 system.
 
-For storm information specific to your area in the United States,
-including possible inland watches and warnings, please monitor
-products issued by your local National Weather Service forecast
-office. For storm information specific to your area outside the
-United States, please monitor products issued by your national
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area outside
+the United States, please monitor products issued by your national
 meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 AM EDT (1500 UTC), the center of Tropical Depression
-Eighteen was located by reconnaissance aircraft and radars from
-Cuba and Grand Cayman near latitude 20.8 North, longitude 82.9
-West. The depression is moving toward the north-northeast near 22
-mph (35 km/h) and this motion is expected to continue today. A
-motion toward the northeast with an increase in forward speed is
-expected to begin tonight and continue through Sunday. On the
-forecast track, the center will move across west-central Cuba this
-afternoon, across the Straits of Florida tonight, and across the
+At 200 PM EDT (1800 UTC), the center of Tropical Depression Eighteen
+was located by weather radars from Cuba and Grand Cayman near
+latitude 21.8 North, longitude 82.4 West. The depression is moving
+toward the north-northeast near 25 mph (41 km/h) and this motion is
+expected to continue today. A motion toward the northeast with an
+increase in forward speed is expected to begin tonight and continue
+through Sunday. On the forecast track, the center will move across
+west-central Cuba this afternoon and evening, across the Straits of
+Florida and near the Florida Keys overnight, and across the
 northwestern Bahamas Sunday morning.
 
-Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-Strengthening is forecast during the next 48 hours, and
-the depression is expected to become a tropical storm by tonight.
+Maximum sustained winds are near 35 mph (55 km/h) with higher
+gusts. Strengthening is forecast during the next 48 hours, and the
+depression is expected to become a tropical storm overnight.
 
-The estimated minimum central pressure based on reconnaissance data
-is 1005 mb (29.68 inches).
+The estimated minimum central pressure is 1005 mb (29.68 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -133,32 +129,33 @@ HAZARDS AFFECTING LAND
 RAINFALL: The depression is expected to produce the following
 rainfall totals:
 
-The Cayman Islands, western and central Cuba, northern Bahamas: 4 to
-8 inches with isolated maximum totals of 10 inches through Sunday.
-These rainfall amounts may produce life threatening flash floods and
-mudslides.
+The Cayman Islands, western and central Cuba, northern Bahamas:
+4 to 8 inches with isolated maximum totals of 10 inches through
+Sunday. These rainfall amounts may produce life threatening flash
+floods and mudslides.
 
 South Florida, including the Keys: 2 to 4 inches with isolated
-maximum totals of 6 inches through Sunday. These rainfall totals may
-produce flash flooding, especially in urbanized areas.
+maximum totals of 6 inches through Sunday. These rainfall totals
+may produce flash flooding, especially in urbanized areas.
 
 WIND:  Tropical storm conditions are expected to first reach the
 warning area in Cuba later today and the northwestern Bahamas
-tonight.  Tropical storm conditions are possible in the central
-Bahamas tonight or early Sunday.
+tonight.  Tropical storm conditions are possible across the upper
+Florida Keys and southeast Florida overnight and in the central
+Bahamas by Sunday morning.
 
-TORNADOES:  A couple of brief tornadoes are possible across far
-South Florida and the Florida Keys this afternoon and evening.
+TORNADOES:  A couple of brief tornadoes are possible across extreme
+southern Florida and the Florida Keys this afternoon and evening.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 PM EDT.
 Next complete advisory at 500 PM EDT.
 
 $$
 Forecaster Stewart
 
 NNNN
+
 </message>
 </cycloneMessage>

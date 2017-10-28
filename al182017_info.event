@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "4",
+  "advisoryNumber": "4A",
   "atcfID": "AL182017",
-  "centerLocLatitude": "20.8",
-  "centerLocLatitudeExpanded": "20.8N",
-  "centerLocLongitude": "-82.9",
-  "centerLocLongitudeExpanded": "82.9W",
+  "centerLocLatitude": "21.8",
+  "centerLocLatitudeExpanded": "21.8N",
+  "centerLocLongitude": "-82.4",
+  "centerLocLongitudeExpanded": "82.4W",
   "event_title": "TROPICAL DEPRESSION EIGHTEEN",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -46,21 +46,21 @@
   ],
   "location": {
     "coordinates": [
-      -82.9,
-      20.8
+      -82.4,
+      21.8
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT3 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Eighteen Advisory Number   4\nNWS National Hurricane Center Miami FL       AL182017\n1100 AM EDT Sat Oct 28 2017\n\n...AIR FORCE RESERVE RECONNAISSANCE AIRCRAFT FINDS A TROPICAL\nDEPRESSION HAS FORMED OVER THE NORTHWESTERN CARIBBEAN SEA...\n...TROPICAL STORM WATCH ISSUED FOR THE UPPER FLORIDA KEYS AND\nSOUTHEAST FLORIDA...\n\n\nSUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...20.8N 82.9W\nABOUT 55 MI...90 KM S OF THE ISLE OF YOUTH\nABOUT 170 MI...270 KM S OF HAVANA CUBA\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...NNE OR 20 DEGREES AT 22 MPH...35 KM/H\nMINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nA Tropical Storm Watch has been issued for portions of southeastern\nFlorida and the upper Florida Keys from Craig Key to Golden Beach.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Tropical Storm Warning is in effect for...\n* Cuban provinces of Isla de la Juventud, La Habana, Ciudad de la\nHabana, Matanzas, Cienfuegos, and Villa Clara\n* Northwestern Bahamas\n\nA Tropical Storm Watch is in effect for...\n* Craig Key to Golden Beach\n* Central Bahamas\n\nA Tropical Storm Warning means that tropical storm conditions are\nexpected somewhere within the warning area, in this case within the\nnext 12-24 hours.\n\nA Tropical Storm Watch means that tropical storm conditions are\npossible within the watch area, in this case within 24 hours.\n\nInterests in the Cayman Islands should monitor the progress of this\nsystem.\n\nFor storm information specific to your area in the United States,\nincluding possible inland watches and warnings, please monitor\nproducts issued by your local National Weather Service forecast\noffice. For storm information specific to your area outside the\nUnited States, please monitor products issued by your national\nmeteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 AM EDT (1500 UTC), the center of Tropical Depression\nEighteen was located by reconnaissance aircraft and radars from\nCuba and Grand Cayman near latitude 20.8 North, longitude 82.9\nWest. The depression is moving toward the north-northeast near 22\nmph (35 km/h) and this motion is expected to continue today. A\nmotion toward the northeast with an increase in forward speed is\nexpected to begin tonight and continue through Sunday. On the\nforecast track, the center will move across west-central Cuba this\nafternoon, across the Straits of Florida tonight, and across the\nnorthwestern Bahamas Sunday morning.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nStrengthening is forecast during the next 48 hours, and\nthe depression is expected to become a tropical storm by tonight.\n\nThe estimated minimum central pressure based on reconnaissance data\nis 1005 mb (29.68 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nRAINFALL: The depression is expected to produce the following\nrainfall totals:\n\nThe Cayman Islands, western and central Cuba, northern Bahamas: 4 to\n8 inches with isolated maximum totals of 10 inches through Sunday.\nThese rainfall amounts may produce life threatening flash floods and\nmudslides.\n\nSouth Florida, including the Keys: 2 to 4 inches with isolated\nmaximum totals of 6 inches through Sunday. These rainfall totals may\nproduce flash flooding, especially in urbanized areas.\n\nWIND:  Tropical storm conditions are expected to first reach the\nwarning area in Cuba later today and the northwestern Bahamas\ntonight.  Tropical storm conditions are possible in the central\nBahamas tonight or early Sunday.\n\nTORNADOES:  A couple of brief tornadoes are possible across far\nSouth Florida and the Florida Keys this afternoon and evening.\n\n\nNEXT ADVISORY\n-------------\nNext intermediate advisory at 200 PM EDT.\nNext complete advisory at 500 PM EDT.\n\n$$\nForecaster Stewart\n\nNNNN",
+  "message": "ZCZC MIATCPAT3 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Eighteen Intermediate Advisory Number 4A\nNWS National Hurricane Center Miami FL       AL182017\n200 PM EDT Sat Oct 28 2017\n\n...TROPICAL DEPRESSION PRODUCING HEAVY RAINS ACROSS CENTRAL CUBA\nAND SPREADING NORTHWARD OVER THE FLORIDA KEYS AND SOUTH FLORIDA...\n\n\nSUMMARY OF 200 PM EDT...1800 UTC...INFORMATION\n----------------------------------------------\nLOCATION...21.8N 82.4W\nABOUT 30 MI...45 KM ENE OF THE ISLE OF YOUTH\nABOUT 80 MI...130 KM S OF HAVANA CUBA\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...NNE OR 20 DEGREES AT 25 MPH...41 KM/H\nMINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nCHANGES WITH THIS ADVISORY:\n\nNone.\n\nSUMMARY OF WATCHES AND WARNINGS IN EFFECT:\n\nA Tropical Storm Warning is in effect for...\n* Cuban provinces of Isla de la Juventud, La Habana, Ciudad de la\nHabana, Matanzas, Cienfuegos, and Villa Clara\n* Northwestern Bahamas\n\nA Tropical Storm Watch is in effect for...\n* Craig Key to Golden Beach\n* Central Bahamas\n\nA Tropical Storm Warning means that tropical storm conditions are\nexpected somewhere within the warning area, in this case within the\nnext 12-24 hours.\n\nA Tropical Storm Watch means that tropical storm conditions are\npossible within the watch area, in this case within 24 hours.\n\nInterests in the Cayman Islands should monitor the progress of this\nsystem.\n\nFor storm information specific to your area in the United\nStates, including possible inland watches and warnings, please\nmonitor products issued by your local National Weather Service\nforecast office. For storm information specific to your area outside\nthe United States, please monitor products issued by your national\nmeteorological service.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 200 PM EDT (1800 UTC), the center of Tropical Depression Eighteen\nwas located by weather radars from Cuba and Grand Cayman near\nlatitude 21.8 North, longitude 82.4 West. The depression is moving\ntoward the north-northeast near 25 mph (41 km/h) and this motion is\nexpected to continue today. A motion toward the northeast with an\nincrease in forward speed is expected to begin tonight and continue\nthrough Sunday. On the forecast track, the center will move across\nwest-central Cuba this afternoon and evening, across the Straits of\nFlorida and near the Florida Keys overnight, and across the\nnorthwestern Bahamas Sunday morning.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher\ngusts. Strengthening is forecast during the next 48 hours, and the\ndepression is expected to become a tropical storm overnight.\n\nThe estimated minimum central pressure is 1005 mb (29.68 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nRAINFALL: The depression is expected to produce the following\nrainfall totals:\n\nThe Cayman Islands, western and central Cuba, northern Bahamas:\n4 to 8 inches with isolated maximum totals of 10 inches through\nSunday. These rainfall amounts may produce life threatening flash\nfloods and mudslides.\n\nSouth Florida, including the Keys: 2 to 4 inches with isolated\nmaximum totals of 6 inches through Sunday. These rainfall totals\nmay produce flash flooding, especially in urbanized areas.\n\nWIND:  Tropical storm conditions are expected to first reach the\nwarning area in Cuba later today and the northwestern Bahamas\ntonight.  Tropical storm conditions are possible across the upper\nFlorida Keys and southeast Florida overnight and in the central\nBahamas by Sunday morning.\n\nTORNADOES:  A couple of brief tornadoes are possible across extreme\nsouthern Florida and the Florida Keys this afternoon and evening.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 PM EDT.\n\n$$\nForecaster Stewart\n\nNNNN",
   "messageBinNumber": "3",
-  "messageDateTimeLocal": "20171028 11:00:00 AM EDT",
-  "messageDateTimeLocalStr": "1100 AM EDT Sat Oct 28",
-  "messageDateTimeUTC": "20171028 03:00:00 PM UTC",
-  "messageDateTimeUTC24": "201710281500",
-  "messageType": "ROUTINE ADVISORY",
+  "messageDateTimeLocal": "20171028 02:00:00 PM EDT",
+  "messageDateTimeLocalStr": "0200 PM EDT Sat Oct 28",
+  "messageDateTimeUTC": "20171028 06:00:00 PM UTC",
+  "messageDateTimeUTC24": "201710281800",
+  "messageType": "INTERMEDIATE ADVISORY",
   "systemDirectionOfMotion": "NNE OR 20 DEGREES",
-  "systemGeoRefPt1": "ABOUT 55 MI...90 KM S OF THE ISLE OF YOUTH",
-  "systemGeoRefPt2": "ABOUT 170 MI...270 KM S OF HAVANA CUBA",
+  "systemGeoRefPt1": "ABOUT 30 MI...45 KM ENE OF THE ISLE OF YOUTH",
+  "systemGeoRefPt2": "ABOUT 80 MI...130 KM S OF HAVANA CUBA",
   "systemIntensityKph": "55",
   "systemIntensityKts": "30",
   "systemIntensityMph": "35",
@@ -68,10 +68,10 @@
   "systemMslpMb": "1005",
   "systemName": "EIGHTEEN",
   "systemSaffirSimpsonCategory": "N/A",
-  "systemSpeedKph": "35",
-  "systemSpeedKts": "19",
-  "systemSpeedMph": "22",
+  "systemSpeedKph": "41",
+  "systemSpeedKts": "22",
+  "systemSpeedMph": "25",
   "systemType": "TROPICAL DEPRESSION",
-  "time": "2017-10-28 15:00:00",
-  "timeEpochSeconds": "1509202800"
+  "time": "2017-10-28 18:00:00",
+  "timeEpochSeconds": "1509213600"
 }
