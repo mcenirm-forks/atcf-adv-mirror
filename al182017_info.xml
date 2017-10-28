@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL182017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>2</advisoryNumber>
+<advisoryNumber>2A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171027 11:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171028 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710280300</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 PM EDT Fri Oct 27</messageDateTimeLocalStr>
-<timeEpochSeconds>1509159600</timeEpochSeconds>
+<messageDateTimeLocal>20171028 02:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171028 06:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710280600</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM EDT Sat Oct 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1509170400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>POTENTIAL TROPICAL CYCLONE</systemType>
 <systemName>EIGHTEEN</systemName>
@@ -19,18 +19,18 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>18.2</centerLocLatitude>
-<centerLocLongitude>-84.4</centerLocLongitude>
+<centerLocLatitude>18.9</centerLocLatitude>
+<centerLocLongitude>-84.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>18.2N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>84.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>18.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>84.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>40</systemIntensityMph>
-<systemIntensityKph>65</systemIntensityKph>
-<systemIntensityKts>35</systemIntensityKts>
+<systemIntensityMph>35</systemIntensityMph>
+<systemIntensityKph>55</systemIntensityKph>
+<systemIntensityKts>30</systemIntensityKts>
 <systemMslpMb>1005</systemMslpMb>
 <systemMslpInHg>29.68</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
@@ -38,34 +38,34 @@
 <formationChancePct5d>80</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>N OR 5 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>N OR 360 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>7</systemSpeedMph>
 <systemSpeedKph>11</systemSpeedKph>
 <systemSpeedKts>6</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 255 MI...415 KM SSW OF THE ISLE OF YOUTH</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 370 MI...595 KM SSW OF HAVANA CUBA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 220 MI...355 KM SSW OF THE ISLE OF YOUTH</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 330 MI...530 KM SSW OF HAVANA CUBA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Potential Tropical Cyclone Eighteen Advisory Number   2
+Potential Tropical Cyclone Eighteen Intermediate Advisory Number 2A
 NWS National Hurricane Center Miami FL       AL182017
-1100 PM EDT Fri Oct 27 2017
+200 AM EDT Sat Oct 28 2017
 
-...DISTURBANCE OVER THE NORTHWESTERN CARIBBEAN SEA GRADUALLY
-BECOMING BETTER ORGANIZED...
+...SATELLITE-DERIVED WINDS SHOW THAT THE DISTURBANCE IS A LITTLE
+WEAKER...
 
 
-SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...18.2N 84.4W
-ABOUT 255 MI...415 KM SSW OF THE ISLE OF YOUTH
-ABOUT 370 MI...595 KM SSW OF HAVANA CUBA
-MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...N OR 5 DEGREES AT 7 MPH...11 KM/H
+SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...18.9N 84.6W
+ABOUT 220 MI...355 KM SSW OF THE ISLE OF YOUTH
+ABOUT 330 MI...530 KM SSW OF HAVANA CUBA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 7 MPH...11 KM/H
 MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
 
 
@@ -79,7 +79,7 @@ SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Tropical Storm Warning is in effect for...
 * Isla de la Juventud, La Habana, Ciudad de la Habana, Matanzas,
-Cienfuegos, and Villa Clara
+Cienfuegos, and Villa Clara Cuba
 * Northwestern Bahamas
 
 A Tropical Storm Watch is in effect for...
@@ -97,22 +97,19 @@ Keys should monitor the progress of this system.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 1100 PM EDT (0300 UTC), the disturbance was centered near
-latitude 18.2 North, longitude 84.4 West. The system is moving
-toward the north near 7 mph (11 km/h).  A faster northward motion is
-expected Saturday morning, followed by a faster motion toward the
-northeast later on Saturday and Sunday. On the forecast track, the
-system will move across western Cuba late Saturday and move through
-the northwestern Bahamas Saturday night and early Sunday.
+At 200 AM EDT (0600 UTC), the disturbance was centered near latitude
+18.9 North, longitude 84.6 West.  The system is moving toward the
+north near 7 mph (11 km/h).  An acceleration toward the northeast is
+expected to begin later today and continue through Sunday.  On the
+forecast track, the system will move across western Cuba later today
+and move through the northwestern Bahamas tonight and early Sunday.
 
-Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
-Strengthening is forecast during the next 48 hours, and the system
-is expected to become a tropical storm on Saturday.
+Satellite-derived wind data indicated that maximum sustained winds
+are near 35 mph (55 km/h) with higher gusts.  Strengthening is
+forecast during the next 48 hours, and the system is expected to
+become a tropical storm later today.
 * Formation chance through 48 hours...high...80 percent
 * Formation chance through 5 days...high...80 percent
-
-Tropical-storm-force winds extend outward up to 80 miles (130 km)
-mainly to the south of the center.
 
 The estimated minimum central pressure is 1005 mb (29.68 inches).
 
@@ -122,7 +119,7 @@ HAZARDS AFFECTING LAND
 RAINFALL: Potential Tropical Cyclone Eighteen is expected to produce
 the following rainfall totals:
 
-Northern Honduras: Additional 1 to 3 inches through Friday night.
+Northern Honduras: Additional 1 to 3 inches through this morning.
 
 The Cayman Islands, western and central Cuba, northern Bahamas: 4 to
 8 inches with isolated maximum totals of 10 inches through Sunday.
@@ -134,18 +131,18 @@ maximum totals of 6 inches through Sunday. These rainfall totals may
 produce flash flooding, especially in urbanized areas.
 
 WIND:  Tropical storm conditions are expected to first reach the
-warning area in Cuba Saturday and the northwestern Bahamas Saturday
-night.
+warning area in Cuba later today and the northwestern Bahamas
+tonight.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 200 AM EDT.
 Next complete advisory at 500 AM EDT.
 
 $$
-Forecaster Beven
+Forecaster Berg
 
 NNNN
+
 </message>
 </cycloneMessage>
