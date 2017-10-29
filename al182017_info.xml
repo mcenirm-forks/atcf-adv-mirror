@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL182017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>5A</advisoryNumber>
+<advisoryNumber>6</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171028 08:00:00 PM EDT</messageDateTimeLocal>
-<messageDateTimeUTC>20171029 12:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201710290000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 PM EDT Sat Oct 28</messageDateTimeLocalStr>
-<timeEpochSeconds>1509235200</timeEpochSeconds>
+<messageDateTimeLocal>20171028 11:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20171029 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201710290300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM EDT Sat Oct 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1509246000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>PHILIPPE</systemName>
@@ -19,55 +19,56 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>23.7</centerLocLatitude>
-<centerLocLongitude>-82.5</centerLocLongitude>
+<centerLocLatitude>24.8</centerLocLatitude>
+<centerLocLongitude>-82.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>23.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>82.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>24.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>82.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
 <systemIntensityKph>65</systemIntensityKph>
 <systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1002</systemMslpMb>
-<systemMslpInHg>29.59</systemMslpInHg>
+<systemMslpMb>1003</systemMslpMb>
+<systemMslpInHg>29.62</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>N OR 5 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>28</systemSpeedMph>
-<systemSpeedKph>45</systemSpeedKph>
-<systemSpeedKts>24</systemSpeedKts>
+<systemDirectionOfMotion>NNE OR 15 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>24</systemSpeedMph>
+<systemSpeedKph>39</systemSpeedKph>
+<systemSpeedKts>21</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 50 MI...80 KM N OF HAVANA CUBA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 75 MI...120 KM SW OF KEY WEST FLORIDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 25 MI...40 KM NW OF KEY WEST FLORIDA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
-TTAA00 KNHC DDHHMM
+TTAA00 KNHC DDHHMM CCA
 
 BULLETIN
-Tropical Storm Philippe Intermediate Advisory Number 5A
+Tropical Storm Philippe Advisory Number   6...Corrected
 NWS National Hurricane Center Miami FL       AL182017
-800 PM EDT Sat Oct 28 2017
+1100 PM EDT Sat Oct 28 2017
 
-...PHILIPPE MOVING OVER THE STRAITS OF FLORIDA...
-...HEAVY RAINS OCCURRING OVER CENTRAL CUBA AND SPREADING
-NORTHWARD ACROSS THE FLORIDA KEYS AND SOUTH FLORIDA...
+CORRECTED SECOND HEADLINE
+
+...CENTER OF POORLY ORGANIZED PHILIPPE APPROACHING THE FLORIDA
+KEYS...
+...HEAVY RAINS OCCURRING FROM CENTRAL CUBA ACROSS SOUTHERN FLORIDA
+TO THE NORTHWESTERN BAHAMAS...
 
 
-SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION
-----------------------------------------------
-LOCATION...23.7N 82.5W
-ABOUT 50 MI...80 KM N OF HAVANA CUBA
-ABOUT 75 MI...120 KM SW OF KEY WEST FLORIDA
+SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...24.8N 82.1W
+ABOUT 25 MI...40 KM NW OF KEY WEST FLORIDA
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...N OR 5 DEGREES AT 28 MPH...45 KM/H
-MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+PRESENT MOVEMENT...NNE OR 15 DEGREES AT 24 MPH...39 KM/H
+MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
 
 
 WATCHES AND WARNINGS
@@ -87,16 +88,12 @@ A Tropical Storm Watch is in effect for...
 * Craig Key to Golden Beach
 * Central Bahamas
 
-A Tropical Storm Warning mean
-s that tropical storm conditions are
+A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area, in this case within the
 next 12-18 hours.
 
 A Tropical Storm Watch means that tropical storm conditions are
 possible within the watch area, in this case within 24 hours.
-
-Interests in the Cayman Islands should monitor the progress of this
-system.
 
 For storm information specific to your area in the United States,
 including possible inland watches and warnings, please monitor
@@ -108,40 +105,35 @@ meteorological service.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 800 PM EDT (0000 UTC), the center of Tropical Storm Philippe was
-located by surface observations, radar data, and satellite images
-near latitude 23.7 North, longitude 82.5 West.  Philippe is moving
-toward the north near 28 mph (45 km/h).  A turn toward the northeast
-is expected during the next several hours, followed by a faster
-motion toward the northeast on Sunday and Monday.  On the forecast
-track, the center of Philippe will move through the Straits of
-Florida this evening, and move across the Florida Keys or the
-southern tip of the Florida peninsula overnight, and across the
-northwestern Bahamas Sunday morning.
+At 1100 PM EDT (0300 UTC), the center of Tropical Storm Philippe was
+located near latitude 24.8 North, longitude 82.1 West. Philippe is
+moving toward the north-northeast near 24 mph (39 km/h).  A turn
+toward the northeast is expected during the next few hours, and a
+rapid motion toward the northeast is expected Sunday through
+Monday. On the forecast track, the center of Philippe will move
+across the Florida Keys or the southern tip of the Florida peninsula
+overnight, and across the northwestern Bahamas Sunday morning.
 
 Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
-Strengthening is forecast during the next 48 hours.
+Some strengthening is forecast during the next 48 hours.  However,
+Philippe is expected to become a post-tropical cyclone on Monday.
 
 Tropical-storm-force winds extend outward up to 105 miles (165 km)
 mainly to the east and southeast of the center.
 
-The estimated minimum central pressure based on surface observations
-is 1002 mb (29.59 inches).
+The estimated minimum central pressure is 1003 mb (29.62 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-RAINFALL: Philippe is expected to produce the following rainfall
-totals:
+RAINFALL: Across the northern Bahamas and south Florida including
+the Keys rainfall amounts of 3 to 5 inches with isolated maximum
+totals of 8 inches are expected through Sunday.  These rainfall
+totals may produce flash flooding, especially in urbanized areas.
 
-The Cayman Islands, western and central Cuba, northern Bahamas:
-4 to 8 inches with isolated maximum totals of 10 inches through
-Sunday. These rainfall amounts may produce life threatening flash
-floods and mudslides.
-
-South Florida, including the Keys: 2 to 4 inches with isolated
-maximum totals of 6 inches through Sunday. These rainfall totals
-may produce flash flooding, especially in urbanized areas.
+Additional rainfall amounts of 1 to 2 inches are possible across
+portions of western and central Cuba, which may lead to life-
+threatening flash floods and mudslides in the higher terrain.
 
 WIND:  Tropical storm conditions are likely occurring in the
 warning area across Cuba. Tropical storm conditions are expected to
@@ -150,18 +142,18 @@ Bahamas.  Tropical storm conditions are possible across the upper
 Florida Keys and southeast Florida overnight, and in the central
 Bahamas by Sunday morning.
 
-TORNADOES:  A couple of brief tornadoes are possible across portions
-of South Florida and the Florida Keys this evening.
+TORNADOES:  An isolated tornado or two is possible across far South
+Florida and the Florida Keys tonight.
 
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM EDT.
+Next intermediate advisory at 200 AM EDT.
+Next complete advisory at 500 AM EDT.
 
 $$
 Forecaster Beven
 
 NNNN
-
 </message>
 </cycloneMessage>
