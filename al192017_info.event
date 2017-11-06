@@ -1,10 +1,10 @@
 {
-  "advisoryNumber": "1",
+  "advisoryNumber": "2",
   "atcfID": "AL192017",
-  "centerLocLatitude": "28.9",
-  "centerLocLatitudeExpanded": "28.9N",
-  "centerLocLongitude": "-50.2",
-  "centerLocLongitudeExpanded": "50.2W",
+  "centerLocLatitude": "29.5",
+  "centerLocLatitudeExpanded": "29.5N",
+  "centerLocLongitude": "-50.4",
+  "centerLocLongitudeExpanded": "50.4W",
   "event_title": "TROPICAL DEPRESSION NINETEEN",
   "event_type": "atcf_advisory",
   "formationChancePct48h": "N/A",
@@ -46,21 +46,21 @@
   ],
   "location": {
     "coordinates": [
-      -50.2,
-      28.9
+      -50.4,
+      29.5
     ],
     "type": "Point"
   },
-  "message": "ZCZC MIATCPAT4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Nineteen Advisory Number   1\nNWS National Hurricane Center Miami FL       AL192017\n500 AM AST Mon Nov 06 2017\n\n...NEW TROPICAL DEPRESSION FORMS OVER THE CENTRAL ATLANTIC...\n...NO THREAT TO ANY LAND AREAS...\n\n\nSUMMARY OF 500 AM AST...0900 UTC...INFORMATION\n----------------------------------------------\nLOCATION...28.9N 50.2W\nABOUT 900 MI...1445 KM E OF BERMUDA\nABOUT 1470 MI...2370 KM WSW OF THE AZORES\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...E OR 95 DEGREES AT 6 MPH...9 KM/H\nMINIMUM CENTRAL PRESSURE...1013 MB...29.92 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 500 AM AST (0900 UTC), the center of Tropical Depression Nineteen\nwas located near latitude 28.9 North, longitude 50.2 West.  The\ndepression is moving toward the east near 6 mph (9 km/h). However, a\nturn toward the north-northeast or north is expected later today,\nand this general motion is forecast to continue through Tuesday.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nSome strengthening is forecast during the next 48 hours, and the\ndepression is expected to become a tropical storm later today.\n\nThe estimated minimum central pressure is 1013 mb (29.92 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 1100 AM AST.\n\n$$\nForecaster Stewart\n\nNNNN",
+  "message": "ZCZC MIATCPAT4 ALL\nTTAA00 KNHC DDHHMM\n\nBULLETIN\nTropical Depression Nineteen Advisory Number   2\nNWS National Hurricane Center Miami FL       AL192017\n1100 AM AST Mon Nov 06 2017\n\n...TROPICAL DEPRESSION FORECAST TO STRENGTHEN OVER THE CENTRAL\nATLANTIC...\n...NO THREAT TO LAND...\n\n\nSUMMARY OF 1100 AM AST...1500 UTC...INFORMATION\n-----------------------------------------------\nLOCATION...29.5N 50.4W\nABOUT 875 MI...1405 KM E OF BERMUDA\nABOUT 1460 MI...2350 KM WSW OF THE AZORES\nMAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H\nPRESENT MOVEMENT...NNE OR 15 DEGREES AT 3 MPH...6 KM/H\nMINIMUM CENTRAL PRESSURE...1013 MB...29.92 INCHES\n\n\nWATCHES AND WARNINGS\n--------------------\nThere are no coastal watches or warnings in effect.\n\n\nDISCUSSION AND 48-HOUR OUTLOOK\n------------------------------\nAt 1100 AM AST (1500 UTC), the center of Tropical Depression\nNineteen was located near latitude 29.5 North, longitude 50.4 West.\nThe depression is moving toward the north-northeast near 3 mph\n(6 km/h).  A significantly faster north to north-northeast motion is\nexpected during the next couple of days.\n\nMaximum sustained winds are near 35 mph (55 km/h) with higher gusts.\nSlow strengthening is expected during the next 48 hours, and the\ndepression could become a tropical storm later today.\n\nThe estimated minimum central pressure is 1013 mb (29.92 inches).\n\n\nHAZARDS AFFECTING LAND\n----------------------\nNone.\n\n\nNEXT ADVISORY\n-------------\nNext complete advisory at 500 PM AST.\n\n$$\nForecaster Cangialosi\n\nNNNN",
   "messageBinNumber": "4",
-  "messageDateTimeLocal": "20171106 05:00:00 AM AST",
-  "messageDateTimeLocalStr": "0500 AM AST Mon Nov 06",
-  "messageDateTimeUTC": "20171106 09:00:00 AM UTC",
-  "messageDateTimeUTC24": "201711060900",
+  "messageDateTimeLocal": "20171106 11:00:00 AM AST",
+  "messageDateTimeLocalStr": "1100 AM AST Mon Nov 06",
+  "messageDateTimeUTC": "20171106 03:00:00 PM UTC",
+  "messageDateTimeUTC24": "201711061500",
   "messageType": "ROUTINE ADVISORY",
-  "systemDirectionOfMotion": "E OR 95 DEGREES",
-  "systemGeoRefPt1": "ABOUT 900 MI...1445 KM E OF BERMUDA",
-  "systemGeoRefPt2": "ABOUT 1470 MI...2370 KM WSW OF THE AZORES",
+  "systemDirectionOfMotion": "NNE OR 15 DEGREES",
+  "systemGeoRefPt1": "ABOUT 875 MI...1405 KM E OF BERMUDA",
+  "systemGeoRefPt2": "ABOUT 1460 MI...2350 KM WSW OF THE AZORES",
   "systemIntensityKph": "55",
   "systemIntensityKts": "30",
   "systemIntensityMph": "35",
@@ -68,10 +68,10 @@
   "systemMslpMb": "1013",
   "systemName": "NINETEEN",
   "systemSaffirSimpsonCategory": "N/A",
-  "systemSpeedKph": "9",
-  "systemSpeedKts": "5",
-  "systemSpeedMph": "6",
+  "systemSpeedKph": "6",
+  "systemSpeedKts": "3",
+  "systemSpeedMph": "3",
   "systemType": "TROPICAL DEPRESSION",
-  "time": "2017-11-06 09:00:00",
-  "timeEpochSeconds": "1509958800"
+  "time": "2017-11-06 15:00:00",
+  "timeEpochSeconds": "1509980400"
 }

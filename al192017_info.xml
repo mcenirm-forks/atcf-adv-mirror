@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>1</advisoryNumber>
+<advisoryNumber>2</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171106 05:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20171106 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201711060900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM AST Mon Nov 06</messageDateTimeLocalStr>
-<timeEpochSeconds>1509958800</timeEpochSeconds>
+<messageDateTimeLocal>20171106 11:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20171106 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201711061500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM AST Mon Nov 06</messageDateTimeLocalStr>
+<timeEpochSeconds>1509980400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>NINETEEN</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>28.9</centerLocLatitude>
-<centerLocLongitude>-50.2</centerLocLongitude>
+<centerLocLatitude>29.5</centerLocLatitude>
+<centerLocLongitude>-50.4</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>28.9N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>50.2W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>29.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>50.4W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -38,34 +38,35 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>E OR 95 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>6</systemSpeedMph>
-<systemSpeedKph>9</systemSpeedKph>
-<systemSpeedKts>5</systemSpeedKts>
+<systemDirectionOfMotion>NNE OR 15 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>3</systemSpeedMph>
+<systemSpeedKph>6</systemSpeedKph>
+<systemSpeedKts>3</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 900 MI...1445 KM E OF BERMUDA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 1470 MI...2370 KM WSW OF THE AZORES</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 875 MI...1405 KM E OF BERMUDA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 1460 MI...2350 KM WSW OF THE AZORES</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Depression Nineteen Advisory Number   1
+Tropical Depression Nineteen Advisory Number   2
 NWS National Hurricane Center Miami FL       AL192017
-500 AM AST Mon Nov 06 2017
+1100 AM AST Mon Nov 06 2017
 
-...NEW TROPICAL DEPRESSION FORMS OVER THE CENTRAL ATLANTIC...
-...NO THREAT TO ANY LAND AREAS...
+...TROPICAL DEPRESSION FORECAST TO STRENGTHEN OVER THE CENTRAL
+ATLANTIC...
+...NO THREAT TO LAND...
 
 
-SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
-----------------------------------------------
-LOCATION...28.9N 50.2W
-ABOUT 900 MI...1445 KM E OF BERMUDA
-ABOUT 1470 MI...2370 KM WSW OF THE AZORES
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...29.5N 50.4W
+ABOUT 875 MI...1405 KM E OF BERMUDA
+ABOUT 1460 MI...2350 KM WSW OF THE AZORES
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...E OR 95 DEGREES AT 6 MPH...9 KM/H
+PRESENT MOVEMENT...NNE OR 15 DEGREES AT 3 MPH...6 KM/H
 MINIMUM CENTRAL PRESSURE...1013 MB...29.92 INCHES
 
 
@@ -76,15 +77,15 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM AST (0900 UTC), the center of Tropical Depression Nineteen
-was located near latitude 28.9 North, longitude 50.2 West.  The
-depression is moving toward the east near 6 mph (9 km/h). However, a
-turn toward the north-northeast or north is expected later today,
-and this general motion is forecast to continue through Tuesday.
+At 1100 AM AST (1500 UTC), the center of Tropical Depression
+Nineteen was located near latitude 29.5 North, longitude 50.4 West.
+The depression is moving toward the north-northeast near 3 mph
+(6 km/h).  A significantly faster north to north-northeast motion is
+expected during the next couple of days.
 
 Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-Some strengthening is forecast during the next 48 hours, and the
-depression is expected to become a tropical storm later today.
+Slow strengthening is expected during the next 48 hours, and the
+depression could become a tropical storm later today.
 
 The estimated minimum central pressure is 1013 mb (29.92 inches).
 
@@ -96,10 +97,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM AST.
+Next complete advisory at 500 PM AST.
 
 $$
-Forecaster Stewart
+Forecaster Cangialosi
 
 NNNN
 </message>
