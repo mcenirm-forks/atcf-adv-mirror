@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>4</messageBinNumber>
-<advisoryNumber>9</advisoryNumber>
+<advisoryNumber>10</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20171108 05:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20171108 09:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201711080900</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM AST Wed Nov 08</messageDateTimeLocalStr>
-<timeEpochSeconds>1510131600</timeEpochSeconds>
+<messageDateTimeLocal>20171108 11:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20171108 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201711081500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM AST Wed Nov 08</messageDateTimeLocalStr>
+<timeEpochSeconds>1510153200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>RINA</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>37.1</centerLocLatitude>
-<centerLocLongitude>-48.4</centerLocLongitude>
+<centerLocLatitude>39.4</centerLocLatitude>
+<centerLocLongitude>-48.7</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>37.1N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>48.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>39.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>48.7W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>60</systemIntensityMph>
@@ -38,32 +38,31 @@
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>N OR 10 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>20</systemSpeedMph>
-<systemSpeedKph>31</systemSpeedKph>
-<systemSpeedKts>17</systemSpeedKts>
+<systemDirectionOfMotion>N OR 360 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>21</systemSpeedMph>
+<systemSpeedKph>33</systemSpeedKph>
+<systemSpeedKts>18</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 705 MI...1135 KM SSE OF CAPE RACE NEWFOUNDLAND</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 550 MI...885 KM SSE OF CAPE RACE NEWFOUNDLAND</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT4 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Rina Advisory Number   9
+Tropical Storm Rina Advisory Number  10
 NWS National Hurricane Center Miami FL       AL192017
-500 AM AST Wed Nov 08 2017
+1100 AM AST Wed Nov 08 2017
 
-...RINA STRENGTHENS SOME MORE WHILE IT MOVES QUICKLY TOWARD THE COLD
-NORTH ATLANTIC...
+...RINA MOVING QUICKLY NORTHWARD...
 
 
-SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
-----------------------------------------------
-LOCATION...37.1N 48.4W
-ABOUT 705 MI...1135 KM SSE OF CAPE RACE NEWFOUNDLAND
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...39.4N 48.7W
+ABOUT 550 MI...885 KM SSE OF CAPE RACE NEWFOUNDLAND
 MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
-PRESENT MOVEMENT...N OR 10 DEGREES AT 20 MPH...31 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 21 MPH...33 KM/H
 MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
 
 
@@ -74,16 +73,16 @@ There are no coastal watches or warnings in effect.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 AM AST (0900 UTC), the center of Tropical Storm Rina was
-located near latitude 37.1 North, longitude 48.4 West.  Rina is
-moving toward the north near 20 mph (31 km/h). A turn toward the
-north-northeast is expected by this afternoon, followed by a rapid
+At 1100 AM AST (1500 UTC), the center of Tropical Storm Rina was
+located near latitude 39.4 North, longitude 48.7 West. Rina is
+moving toward the north near 21 mph (33 km/h).  A turn toward the
+north-northeast is expected overnight, followed by a rapid
 northeastward motion on Thursday.
 
-Maximum sustained winds have increased near 60 mph (95 km/h) with
-higher gusts. Little change in strength is forecast through tonight
-before weakening begins on Thursday.  Rina is expected to become a
-post-tropical cyclone by tonight or early Thursday morning.
+Maximum sustained winds are near 60 mph (95 km/h) with higher gusts.
+Little change in strength is forecast through tonight before
+weakening begins on Thursday.  Rina is expected to become a
+post-tropical cyclone by early Thursday morning.
 
 Tropical-storm-force winds extend outward up to 160 miles (260 km)
 from the center.
@@ -98,10 +97,10 @@ None.
 
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM AST.
+Next complete advisory at 500 PM AST.
 
 $$
-Forecaster Stewart
+Forecaster Blake
 
 NNNN
 </message>
